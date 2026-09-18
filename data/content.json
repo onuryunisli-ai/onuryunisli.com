@@ -1,0 +1,243 @@
+{
+  "name": "Onur Yunisli",
+  "email": "onuryunisli@gmail.com",
+  "phone": "+994 70 319 00 69",
+  "phoneRaw": "+994703190069",
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "timezone": "Asia/Baku",
+  "portrait": "",
+  "social": {
+    "behance": "https://www.behance.net/onuryunisli",
+    "instagram": "https://www.instagram.com/onuryunisli/",
+    "linkedin": "https://www.linkedin.com/in/onur-yunisli-64674b232/",
+    "vimeo": "https://vimeo.com/onuryunisli"
+  },
+  "disciplines": [
+    {
+      "title": "BRANDING",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+    },
+    {
+      "title": "MOTION",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+    },
+    {
+      "title": "LOGO ANIMATIONs",
+      "video": "<iframe src=\"[https://player.vimeo.com/video/885533696?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0](https://player.vimeo.com/video/885533696?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0)\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+    },
+    {
+      "title": "3D",
+      "video": "<iframe src=\"https://player.vimeo.com/video/849965273?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+    },
+    {
+      "title": "PACKAGING",
+      "video": "<iframe src=\"[https://player.vimeo.com/video/885533696?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0](https://player.vimeo.com/video/885533696?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0)\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+    }
+  ],
+  "projectLayout": {
+    "blocks": [
+      {
+        "type": "pair",
+        "aspect": "square",
+        "assets": [
+          {
+            "src": ""
+          },
+          {
+            "src": ""
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "aspect": "wide",
+        "asset": {
+          "src": ""
+        }
+      }
+    ]
+  },
+  "projects": [
+    {
+      "slug": "example-copy-2-copy-copy-copy",
+      "client": "Example01",
+      "title": "qaranqus",
+      "initials": "EX",
+      "sector": "",
+      "year": "2026",
+      "services": [],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "assets/uploads/1789754413-8fe04f1983a4.jpg",
+      "shots": [],
+      "detail": {
+        "layout": "stream",
+        "background": "#744949",
+        "color": "#000000",
+        "spacing": 0,
+        "width": 1700,
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "ratio": 1.7777777777777777,
+            "autoplay": true,
+            "loop": true,
+            "muted": false,
+            "padding": 0,
+            "title": "alabala"
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "assets/uploads/1789752373-764328a3943a.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "asdfasdf",
+            "text": "fasdfasdfasdf dsafadsf <iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "align": "center",
+            "padding": 23
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "assets/uploads/1789752420-7c04599630b2.jpg",
+                "alt": ""
+              },
+              {
+                "src": "assets/uploads/1789752420-9829ec30511f.jpg",
+                "alt": ""
+              },
+              {
+                "src": "assets/uploads/1789752420-3e12e2f7bdc6.jpg",
+                "alt": ""
+              },
+              {
+                "src": "assets/uploads/1789752420-1db465741a62.jpg",
+                "alt": ""
+              },
+              {
+                "src": "assets/uploads/1789752426-1d1f6796c93f.jpg",
+                "alt": ""
+              },
+              {
+                "src": "assets/uploads/1789752426-dd0535d8ea14.jpg",
+                "alt": ""
+              }
+            ],
+            "columns": "2",
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789761425/onuryunisli/kfrzq64juoc2q4rvesof.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "coverImages": [
+        "assets/uploads/1789754413-8fe04f1983a4.jpg",
+        "assets/uploads/1789754662-747511127529.jpg",
+        "assets/uploads/1789754662-1e9fd728026c.jpg",
+        "assets/uploads/1789754662-025790bd1c5e.jpg",
+        "assets/uploads/1789754662-24fc6845c51a.jpg",
+        "assets/uploads/1789754662-83f07778bfcc.jpg",
+        "assets/uploads/1789754662-78e66281919d.jpg"
+      ]
+    },
+    {
+      "slug": "example-copy-copy-copy-copy",
+      "client": "example 2",
+      "title": "ala bula boz keçi",
+      "initials": "EX",
+      "sector": "",
+      "year": "2026",
+      "services": [],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/849965259?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "assets/uploads/1789754413-8fe04f1983a4.jpg",
+      "shots": [],
+      "detail": {
+        "layout": "stream",
+        "background": "#744949",
+        "color": "#000000",
+        "spacing": 0,
+        "width": 1700,
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/849969153?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "ratio": 1.7777777777777777,
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "padding": 0,
+            "embedCustom": false,
+            "controls": false,
+            "backgroundVideo": true
+          }
+        ]
+      },
+      "coverImages": [
+        "assets/uploads/1789754413-8fe04f1983a4.jpg",
+        "assets/uploads/1789754662-747511127529.jpg",
+        "assets/uploads/1789754662-1e9fd728026c.jpg",
+        "assets/uploads/1789754662-025790bd1c5e.jpg"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "Yeni xəbər",
+      "category": "STUDIO",
+      "date": "2026",
+      "url": "#",
+      "image": "",
+      "video": "",
+      "poster": ""
+    },
+    {
+      "category": "Process",
+      "date": "11 September 2026",
+      "url": "#",
+      "title": "One line, eighty years: animating Badamlı's anniversaryd",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160 \" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "",
+      "image": ""
+    },
+    {
+      "category": "Insights",
+      "date": "3 September 2026",
+      "url": "#",
+      "title": "We made a bank commercial without a camera",
+      "video": "",
+      "poster": "",
+      "image": ""
+    },
+    {
+      "category": "Work",
+      "date": "28 August 2026",
+      "url": "#",
+      "title": "A teardrop shelf for SİRAB",
+      "video": "",
+      "poster": "",
+      "image": ""
+    }
+  ]
+}

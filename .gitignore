@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# CMS — lokal alətlər, GitHub-a getmir
+_cms/
+.cms/
+
+# lokal media — hər şey Cloudinary-dən gəlir
+assets/uploads/
+*.mp4
+*.mov
+
+# köhnə arxiv
+onuryunisli-site.zip
+
+node_modules/
+__pycache__/
