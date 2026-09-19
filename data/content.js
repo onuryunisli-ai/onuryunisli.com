@@ -4770,7 +4770,7 @@ window.SITE = {
       ],
       "featured": true,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1099894462?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1099894402?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
       "shots": [],
       "coverImages": [
@@ -4882,7 +4882,13 @@ window.SITE = {
           {
             "type": "embed",
             "src": "<iframe src=\"https://player.vimeo.com/video/1099894402?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
+            "padding": 0,
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "controls": false,
+            "backgroundVideo": true,
+            "ratio": 1.7777777777777777
           },
           {
             "type": "embed",
