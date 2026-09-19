@@ -1,5 +1,6 @@
 :root{
   --night:#1B1E24; --dark:#1C1C1C; --white:#fff; --ink:#111214; --band:#E02927;
+  --accent:#E02927; --accent-lit:#FF4A3B; --accent-deep:#C41F1D;
   --grey:#6F7377; --hair:#E4E4E2; --hair-d:#33343A; --yellow:#F4F19B;
   --sans:"Archivo","Helvetica Neue",Arial,sans-serif;
   --mono:"DM Mono",ui-monospace,Menlo,monospace;
@@ -182,12 +183,12 @@ img,video{display:block;max-width:100%}
 .orb{--orbS:clamp(120px,13vw,200px);
   position:absolute;right:clamp(0px,6vw,90px);top:50%;margin-top:calc(var(--orbS) / -2);
   width:var(--orbS);height:var(--orbS);border-radius:50%;
-  background:#055BD8;
+  background:var(--accent);
   background-image:radial-gradient(circle 140px at var(--mx,50%) var(--my,34%),
-                   #1769FF 0%,rgba(23,105,255,0) 72%);
+                   var(--accent-lit) 0%,rgba(255,74,59,0) 72%);
   color:#fff;display:grid;place-items:center;font-size:15px;
   will-change:transform;transition:background .3s}
-.orb:hover{background:#0A61E6}
+.orb:hover{background:var(--accent-deep)}
 
 .cta-pills{display:flex;flex-wrap:wrap;gap:14px}
 .pill.outline{background:transparent;color:#fff;border:1px solid var(--hair-d);will-change:transform;
@@ -196,17 +197,17 @@ img,video{display:block;max-width:100%}
 /* blue ink floods out from wherever the cursor entered */
 .pill.ink{position:relative;overflow:hidden;will-change:transform}
 .pill.outline::before,.pill.ink::before{content:"";position:absolute;left:var(--ox,50%);top:var(--oy,50%);
-  width:0;height:0;border-radius:50%;background:#055BD8;transform:translate(-50%,-50%);
+  width:0;height:0;border-radius:50%;background:var(--accent);transform:translate(-50%,-50%);
   transition:width .3s cubic-bezier(.4,0,.2,1),height .3s cubic-bezier(.4,0,.2,1)}
 .pill.outline:hover::before,.pill.ink:hover::before{width:280%;height:700%;
   transition:width .95s cubic-bezier(.3,0,.35,1),height .95s cubic-bezier(.3,0,.35,1)}
 /* the light travels with the cursor */
 .pill.outline::after,.pill.ink::after{content:"";position:absolute;inset:0;opacity:0;pointer-events:none;
   background:radial-gradient(circle 150px at var(--mx,50%) var(--my,50%),
-             #1769FF 0%,rgba(23,105,255,0) 70%);
+             var(--accent-lit) 0%,rgba(255,74,59,0) 70%);
   transition:opacity .2s}
 .pill.outline:hover::after,.pill.ink:hover::after{opacity:1;transition:opacity .5s .3s}
-.pill.outline:hover{border-color:#1769FF}
+.pill.outline:hover{border-color:var(--accent-lit)}
 /* the label rolls over to its own copy */
 .lbl{position:relative;z-index:2;display:block}
 
@@ -283,7 +284,7 @@ img,video{display:block;max-width:100%}
   font-size:14.5px;letter-spacing:-.005em;color:var(--grey)}
 .case-credit a{color:var(--ink);text-decoration:underline;text-underline-offset:3px;
   text-decoration-thickness:1px;transition:color .2s}
-.case-credit a:hover{color:#055BD8}
+.case-credit a:hover{color:var(--accent)}
 .case-credit-note{margin-top:14px;max-width:640px}
 .case-credit-note p{border:0;padding:0;margin:0 0 .6em;font-size:13.5px;line-height:1.6}
 
@@ -307,7 +308,7 @@ img,video{display:block;max-width:100%}
 .abt-copy p:last-child{margin-bottom:0}
 .abt-copy a{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px;
   transition:color .2s}
-.abt-copy a:hover{color:#055BD8}
+.abt-copy a:hover{color:var(--accent)}
 
 .abt-block{padding-bottom:clamp(60px,8vw,120px)}
 .rows{border-top:1px solid var(--hair)}
@@ -335,7 +336,7 @@ img,video{display:block;max-width:100%}
 .abt-facts .mono{color:var(--grey)}
 .abt-facts p{margin:10px 0 0;font-size:14.5px;line-height:1.5}
 .abt-facts a{text-decoration:underline;text-underline-offset:3px}
-.abt-facts a:hover{color:#055BD8}
+.abt-facts a:hover{color:var(--accent)}
 
 @media (max-width:1000px){
   .abt-bio{grid-template-columns:1fr}
@@ -368,7 +369,7 @@ img,video{display:block;max-width:100%}
 .cnt-direct .mono{color:var(--grey)}
 .cnt-direct p{margin:9px 0 0;font-size:clamp(15px,1.5vw,19px);line-height:1.35;letter-spacing:-.01em}
 .cnt-direct a{transition:color .2s}
-.cnt-direct a:hover{color:#055BD8}
+.cnt-direct a:hover{color:var(--accent)}
 
 /* ═════════ CONTACT FORM ═════════ */
 .cnt-form{min-width:0}
@@ -382,7 +383,7 @@ img,video{display:block;max-width:100%}
   -webkit-appearance:none;transition:border-color .2s,box-shadow .2s}
 .f textarea{resize:vertical;min-height:158px}
 .f input::placeholder,.f textarea::placeholder{color:#A9ACAF}
-.f input:focus,.f textarea:focus{outline:none;border-color:#055BD8;box-shadow:0 0 0 3px rgba(5,91,216,.12)}
+.f input:focus,.f textarea:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px rgba(224,41,39,.14)}
 .f.bad input,.f.bad textarea{border-color:#D3382F}
 .f-err{display:none;font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
   font-style:normal;color:#D3382F;margin-top:8px}
