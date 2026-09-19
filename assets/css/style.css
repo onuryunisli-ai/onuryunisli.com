@@ -277,6 +277,20 @@ img,video{display:block;max-width:100%}
   .rv,.w,.card .thumb,.card h3,.roller{opacity:1!important;transform:none!important}
 }
 
+/* ═════════ PROJECT CREDITS ═════════ */
+.case-credit{padding-top:clamp(40px,5vw,68px);padding-bottom:clamp(50px,6vw,90px)}
+.case-credit h2{margin:0 0 clamp(18px,2.2vw,28px);color:var(--grey);font-weight:400}
+.case-credit-list{margin:0;border-top:1px solid var(--hair);max-width:760px}
+.case-credit-list > div{display:grid;grid-template-columns:120px 1fr;gap:clamp(14px,2vw,32px);
+  align-items:baseline;padding:clamp(13px,1.5vw,18px) 0;border-bottom:1px solid var(--hair)}
+.case-credit-list dt{color:var(--grey)}
+.case-credit-list dd{margin:0;font-size:clamp(15px,1.4vw,17.5px);line-height:1.4;letter-spacing:-.01em}
+.case-credit-note{margin-top:clamp(18px,2.2vw,28px);max-width:640px}
+.case-credit-note p{margin:0 0 .7em;font-size:14.5px;line-height:1.6;color:var(--grey)}
+@media (max-width:620px){
+  .case-credit-list > div{grid-template-columns:1fr;gap:6px}
+}
+
 /* ═════════ INNER PAGE HEAD ═════════ */
 .phead{padding:calc(76px + clamp(52px,7vw,110px)) var(--gut) clamp(40px,6vw,86px)}
 .phead h1{font-weight:500;text-transform:uppercase;margin:0;

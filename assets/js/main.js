@@ -150,6 +150,13 @@ function projectPage() {
   }
   /* same card as the homepage; media paths rebased for work/ */
   const moreCard = (q, i) => projectCard(q, index + i + 1);
+  /* film-style credits: what the project was, who made it, what my part was */
+  const creditRows = [
+    ['Client', p.client],
+    ['Year', p.year],
+    ['Studio', p.studio],
+    ['Role', p.role || services.join(', ')]
+  ].filter(([, value]) => String(value || '').trim());
   document.title = `${p.client} — ${S.name || 'Onur Yunisli'}`;
   const description = $('meta[name="description"]');
   if (description) description.setAttribute('content', detail.description || `${p.client}: ${p.title}. ${services.join(', ')}.`);
@@ -165,6 +172,12 @@ function projectPage() {
       ${detail.layout === "stream" ? "" : body}
       ${detail.layout !== "stream" && detail.credits ? `<section class="case-credits"><h2 class="mono">Credits</h2><div class="case-copy">${paragraphs(detail.credits)}</div></section>` : ''}
     </div>
+    ${creditRows.length ? `<section class="case-credit wrap rv-el">
+      <h2 class="mono">Credits</h2>
+      <dl class="case-credit-list">${creditRows.map(([label, value]) =>
+        `<div><dt class="mono">${escapeHTML(label)}</dt><dd>${escapeHTML(value)}</dd></div>`).join('')}</dl>
+      ${detail.layout === "stream" && detail.credits ? `<div class="case-credit-note">${paragraphs(detail.credits)}</div>` : ''}
+    </section>` : ''}
     ${more.length ? `<section class="case-more wrap">
       <div class="case-more-head rv-el"><h2>More work</h2></div>
       <div class="grid">${more.map((q, i) => moreCard(q, i)).join('')}</div>
