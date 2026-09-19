@@ -709,6 +709,38 @@ function clients() {
 }
 
 
+/* ══ JUSTIFIED ROWS ═════════════════════════════════════════════════ */
+/* Images in one gallery row share a height; their widths take the ratio
+   each image actually has, so the seam between them moves instead of
+   leaving a gap under the shorter one. */
+function justifyRows() {
+  const size = node => {
+    const w = node.naturalWidth || node.videoWidth || 0;
+    const h = node.naturalHeight || node.videoHeight || 0;
+    return w > 0 && h > 0 ? w / h : 0;
+  };
+  const lay = row => {
+    const cells = [...row.children];
+    if (cells.length < 2) return true;
+    const ratios = cells.map(cell => {
+      const node = cell.querySelector('img, video');
+      return node ? size(node) : 0;
+    });
+    if (ratios.some(r => !r)) return false;
+    cells.forEach((cell, i) => { cell.style.flexGrow = ratios[i].toFixed(4); });
+    return true;
+  };
+  $$('.pc-row').forEach(row => {
+    if (lay(row)) return;
+    $$('img, video', row).forEach(node => {
+      const again = () => lay(row);
+      node.addEventListener('load', again, {once:true});
+      node.addEventListener('loadedmetadata', again, {once:true});
+      node.addEventListener('error', again, {once:true});
+    });
+  });
+}
+
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
 function reveal() {
   const h = $('[data-split]');
@@ -1012,6 +1044,6 @@ function observeEmbeds() {
 /* ══ BOOT ═══════════════════════════════════════════════════════ */
 settings(); projectPage(); postPage(); hero();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
-scrub(); filters(); loadMore(); coverVideos(); observeEmbeds();
+scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
 reveal(); navDot(); navBar(); magnet(); ink(); elementLogo();
 })();

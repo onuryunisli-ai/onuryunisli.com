@@ -80,7 +80,22 @@
       const ratio = b.embedCustom ? b.ratio : parsed?.ratio;
       body = `<div class="pc-film" style="aspect-ratio:${number(ratio ?? 16/9,.1,10,16/9)}">${iframe(b.src,{...config,title:b.title})}</div>${b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : ''}`;
     }
-    else if (b.type === 'grid' || b.type === 'pair') body = `<div class="pc-grid" style="--columns:${number(b.columns || 2,1,4,2)};gap:${number(b.gap ?? 0,0,80,0)}px">${(b.assets || []).map(a=>figure(a,options)).join('') || '<div class="pc-empty">Qalereyaya şəkillər əlavə edin</div>'}</div>`;
+    else if (b.type === 'grid' || b.type === 'pair') {
+      /* a justified row: every image keeps its own ratio, the row shares one
+         height, and the split between them shifts left or right to match */
+      const cols = number(b.columns || 2, 1, 4, 2);
+      const gap = number(b.gap ?? 0, 0, 80, 0);
+      const assets = b.assets || [];
+      const rows = [];
+      for (let i = 0; i < assets.length; i += cols) rows.push(assets.slice(i, i + cols));
+      body = `<div class="pc-grid" style="--columns:${cols};gap:${gap}px">${
+        rows.map(row => {
+          const width = row.length < cols
+            ? `;width:calc((100% - ${(cols - 1) * gap}px) * ${row.length} / ${cols} + ${(row.length - 1) * gap}px)`
+            : '';
+          return `<div class="pc-row" style="gap:${gap}px${width}">${row.map(a=>figure(a,options)).join('')}</div>`;
+        }).join('') || '<div class="pc-empty">Qalereyaya şəkillər əlavə edin</div>'}</div>`;
+    }
     else if (b.type === 'media') body = figure(b.asset, options);
     return `<section class="pc-block" style="padding:${padding}px;background:${color(b.background, 'transparent')}">${body}</section>`;
   }
