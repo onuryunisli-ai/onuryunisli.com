@@ -332,6 +332,9 @@ img,video{display:block;max-width:100%}
   .clients{grid-template-columns:repeat(2,1fr)}
   .row{grid-template-columns:40px 1fr}
   .row p{grid-column:2}
+  .awards .row{grid-template-columns:1fr;gap:6px}
+  .awards .row .mono,.awards .row h3,.awards .row p{grid-column:1}
+  .awards .row p{margin-top:4px}
 }
 @media (max-width:640px){
   .clients{grid-template-columns:1fr}
