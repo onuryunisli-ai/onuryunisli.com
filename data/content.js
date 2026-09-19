@@ -259,8 +259,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/247281873/AzerGold-10th-Anniversary-Brand-Identity",
-      "studio": "Element",
-      "role": "Brand identity, Motion design, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "sirab-brand-identity-packaging",
@@ -675,8 +674,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/222636877/SIRAB-Brand-Identity-Packaging",
-      "studio": "Element",
-      "role": "Brand identity, Motion design, 3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "badamli-mineral-water-packaging-design",
@@ -988,8 +986,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/167317263/Badamli-Mineral-Water-Packaging-Design",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "turkish-petroleum-baku-2026-exhibition-stand",
@@ -1231,8 +1228,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/251377447/Turkish-Petroleum-Baku-2026-Exhibition-Stand",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI, Exhibition design"
+      "studio": "Element"
     },
     {
       "slug": "azvirt-rebranding",
@@ -1602,8 +1598,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/205164583/AZVIRT-Rebranding",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "baku-resort-spa-hotel-brand-identity",
@@ -1936,8 +1931,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/253708217/Baku-Resort-Spa-Hotel-Brand-Identity",
-      "studio": "Element",
-      "role": "Brand identity, Motion design"
+      "studio": "Element"
     },
     {
       "slug": "livgrt-hydro8-branding-packaging-design",
@@ -2223,8 +2217,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/240406245/LIVGRT-HYDRO8-Branding-Packaging-Design",
-      "studio": "",
-      "role": "Brand identity, Motion design, 3D & CGI, Packaging design"
+      "studio": ""
     },
     {
       "slug": "social-media-motion-badamli",
@@ -2306,8 +2299,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/168964795/Social-Media-Motion-Badamli",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "alive-packaging-design-product-rendering",
@@ -2726,8 +2718,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/210318207/ALIVE-Packaging-Design-Product-Rendering",
-      "studio": "",
-      "role": "3D & CGI, Packaging design"
+      "studio": ""
     },
     {
       "slug": "dinamit-energy-drink-package-design-brand-identity",
@@ -3183,8 +3174,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/163848123/Dinamit-Energy-Drink-Package-Design-Brand-Identity",
-      "studio": "Element",
-      "role": "Brand identity, Motion design, 3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "turkish-petroleum-exhibition-stand",
@@ -3465,8 +3455,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/228233515/Turkish-Petroleum-Exhibition-Stand",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI, Exhibition design"
+      "studio": "Element"
     },
     {
       "slug": "ankara-metropolitan-municipality-city-branding",
@@ -3775,8 +3764,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/206404161/Ankara-Metropolitan-Municipality-City-Branding",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "shusha-global-media-forum-branding",
@@ -3969,8 +3957,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/190370951/Shusha-Global-Media-Forum-Branding",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "brand-identity-istanbul-2027",
@@ -4242,8 +4229,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/236894015/Brand-Identity-Istanbul-2027",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "packaging-sirab-sport-water",
@@ -4384,8 +4370,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/206425751/Packaging-Sirab-Sport-Water",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "be-group-brand-identity",
@@ -4586,8 +4571,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/253425137/BE-GROUP-Brand-Identity",
-      "studio": "Element",
-      "role": "Brand identity, Motion design"
+      "studio": "Element"
     },
     {
       "slug": "packaging-sirab-soda",
@@ -4786,8 +4770,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda",
       "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789837437/onuryunisli/l2fpnm7ye1jwv10ng2id.png",
-      "studio": "Element",
-      "role": "3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "alive-coffee-packaging-3d-animation",
@@ -4937,8 +4920,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/229946545/Alive-Coffee-Packaging-3D-Animation",
-      "studio": "",
-      "role": "Brand identity, Motion design, 3D & CGI, Packaging design"
+      "studio": ""
     },
     {
       "slug": "badamli-mineral-water-vintage-packaging",
@@ -5196,8 +5178,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/232123155/Badamli-Mineral-Water-Vintage-Packaging",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "sirab-niy-seviln-su",
@@ -5363,8 +5344,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/229462795/Sirab-Niy-Seviln-Su",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "brand-identity-lamina-dekor",
@@ -5637,8 +5617,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/223113601/Brand-Identity-Lamina-Dekor",
-      "studio": "Element",
-      "role": "Brand identity, Motion design, Exhibition design"
+      "studio": "Element"
     },
     {
       "slug": "turkic-week-in-geneva",
@@ -5854,8 +5833,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/221090663/Turkic-Week-in-Geneva",
-      "studio": "Element",
-      "role": "Brand identity, Motion design, Exhibition design"
+      "studio": "Element"
     },
     {
       "slug": "rebranding-lezzet-qida-senaye",
@@ -6184,8 +6162,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/207577561/Rebranding-Lezzet-Qida-Senaye",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "alive-skin-beauty-3d-product-rendering-animation",
@@ -6278,8 +6255,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/212662139/Alive-Skin-Beauty-3D-Product-Rendering-Animation",
-      "studio": "",
-      "role": "Motion design, 3D & CGI, Packaging design"
+      "studio": ""
     },
     {
       "slug": "energy-drink-social-media-motions",
@@ -6344,8 +6320,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/207473567/Energy-Drink-Social-Media-Motions",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "baku-chess-set-gobustan-edition",
@@ -6473,8 +6448,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/200947255/Baku-Chess-Set-Gobustan-Edition",
-      "studio": "Element",
-      "role": "3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "social-media-motion-design",
@@ -6586,8 +6560,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/200078255/Social-Media-Motion-Design",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "baku-chess-set-azerbaijan-carpet-edition",
@@ -6764,8 +6737,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/199936025/Baku-Chess-Set-Azerbaijan-Carpet-Edition",
-      "studio": "Element",
-      "role": "3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "juiz-branding",
@@ -7055,8 +7027,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/195404683/JUIZ-Branding",
-      "studio": "Element",
-      "role": "Brand identity, Packaging design"
+      "studio": "Element"
     },
     {
       "slug": "goalaz-branding",
@@ -7283,8 +7254,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/185453323/Goalaz-Branding",
-      "studio": "Element",
-      "role": "Brand identity, Motion design, 3D & CGI, Exhibition design"
+      "studio": "Element"
     },
     {
       "slug": "logo-animation-v2",
@@ -7344,8 +7314,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/189420189/Logo-Animation-V2",
-      "studio": "",
-      "role": "Brand identity, Motion design"
+      "studio": ""
     },
     {
       "slug": "lezzet-group-branding",
@@ -7611,8 +7580,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/184918463/Lezzet-Group-Branding",
-      "studio": "Element",
-      "role": "Brand identity, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "tamstore-teaser-campaign",
@@ -7732,8 +7700,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/184575919/TAMStore-Teaser-Campaign",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "1001-home-branding",
@@ -8085,8 +8052,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/181137229/1001-Home-Branding",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "explainer-video-badamli",
@@ -8157,8 +8123,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/176530537/Explainer-Video-Badamli",
-      "studio": "Element",
-      "role": "Motion design"
+      "studio": "Element"
     },
     {
       "slug": "social-media-motion-buva",
@@ -8278,8 +8243,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/176103719/Social-Media-Motion-Buva",
-      "studio": "Element",
-      "role": "Motion design, 3D & CGI"
+      "studio": "Element"
     },
     {
       "slug": "bahar-kargo-branding",
@@ -8614,8 +8578,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/173592607/Bahar-kargo-Branding",
-      "studio": "Element",
-      "role": "Brand identity, Motion design"
+      "studio": "Element"
     },
     {
       "slug": "logo-animation-v1",
@@ -8690,8 +8653,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/172487011/Logo-Animation-V1",
-      "studio": "Element",
-      "role": "Brand identity, Motion design"
+      "studio": "Element"
     },
     {
       "slug": "100th-anniversary-of-heydar-aliyev",
@@ -8850,8 +8812,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/169911679/100th-anniversary-of-Heydar-Aliyev",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "araz-nakhchivan-football-team-rebranding",
@@ -9369,8 +9330,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/169142053/Araz-Nakhchivan-Football-Team-Rebranding",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "sizin-market-brand-identity",
@@ -9664,8 +9624,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/166943253/Sizin-Market-Brand-Identity",
-      "studio": "Element",
-      "role": "Brand identity"
+      "studio": "Element"
     },
     {
       "slug": "work-proces",
@@ -9706,8 +9665,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/94622713/Work-Proces",
-      "studio": "",
-      "role": "Motion design"
+      "studio": ""
     },
     {
       "slug": "pes-2013-first-screen-animation",
@@ -9735,8 +9693,7 @@ window.SITE = {
         "blocks": []
       },
       "behanceUrl": "https://www.behance.net/gallery/58038941/Pes-2013-first-screen-animation",
-      "studio": "",
-      "role": "Motion design"
+      "studio": ""
     },
     {
       "slug": "village",
@@ -9777,8 +9734,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/56431881/Village",
-      "studio": "",
-      "role": "Brand identity"
+      "studio": ""
     },
     {
       "slug": "ray-ban",
@@ -9841,8 +9797,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/56431781/Ray-Ban",
-      "studio": "",
-      "role": "3D & CGI"
+      "studio": ""
     },
     {
       "slug": "iron-man",
@@ -9959,8 +9914,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/56470651/Iron-Man",
-      "studio": "",
-      "role": "3D & CGI"
+      "studio": ""
     }
   ],
   "posts": [

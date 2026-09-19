@@ -278,18 +278,14 @@ img,video{display:block;max-width:100%}
 }
 
 /* ═════════ PROJECT CREDITS ═════════ */
-.case-credit{padding-top:clamp(40px,5vw,68px);padding-bottom:clamp(50px,6vw,90px)}
-.case-credit h2{margin:0 0 clamp(18px,2.2vw,28px);color:var(--grey);font-weight:400}
-.case-credit-list{margin:0;border-top:1px solid var(--hair);max-width:760px}
-.case-credit-list > div{display:grid;grid-template-columns:120px 1fr;gap:clamp(14px,2vw,32px);
-  align-items:baseline;padding:clamp(13px,1.5vw,18px) 0;border-bottom:1px solid var(--hair)}
-.case-credit-list dt{color:var(--grey)}
-.case-credit-list dd{margin:0;font-size:clamp(15px,1.4vw,17.5px);line-height:1.4;letter-spacing:-.01em}
-.case-credit-note{margin-top:clamp(18px,2.2vw,28px);max-width:640px}
-.case-credit-note p{margin:0 0 .7em;font-size:14.5px;line-height:1.6;color:var(--grey)}
-@media (max-width:620px){
-  .case-credit-list > div{grid-template-columns:1fr;gap:6px}
-}
+.case-credit{padding-top:clamp(30px,3.6vw,48px);padding-bottom:clamp(46px,5.5vw,80px)}
+.case-credit p{margin:0;padding-top:clamp(20px,2.4vw,30px);border-top:1px solid var(--hair);
+  font-size:14.5px;letter-spacing:-.005em;color:var(--grey)}
+.case-credit a{color:var(--ink);text-decoration:underline;text-underline-offset:3px;
+  text-decoration-thickness:1px;transition:color .2s}
+.case-credit a:hover{color:#055BD8}
+.case-credit-note{margin-top:14px;max-width:640px}
+.case-credit-note p{border:0;padding:0;margin:0 0 .6em;font-size:13.5px;line-height:1.6}
 
 /* ═════════ INNER PAGE HEAD ═════════ */
 .phead{padding:calc(76px + clamp(52px,7vw,110px)) var(--gut) clamp(40px,6vw,86px)}
