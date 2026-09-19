@@ -322,11 +322,14 @@ function projectCard(p, idx, opts = {}) {
   };
   const video = rb(p.video), poster = rb(p.poster);
   const shots = (Array.isArray(p.shots) ? p.shots.map(rb) : []).filter(src => safeURL(src));
-  const cover = window.ProjectContent?.embed(video)?.src || safeURL(video) || safeURL(poster);
+  /* embed: keep the pasted code, not the resolved URL — the size attributes
+     in it are what makes the cover crop to a square for any video ratio */
+  const embedRaw = window.ProjectContent?.embed(video) ? video : '';
+  const cover = embedRaw || safeURL(video) || safeURL(poster);
   // The cover is independent of the gallery: never discard the first shot.
   const coverImages = Array.isArray(p.coverImages)
     ? p.coverImages.map(rb).filter(src => safeURL(src)).slice(0,7) : null;
-  const coverVideo = window.ProjectContent?.embed(video)?.src || safeURL(video);
+  const coverVideo = embedRaw || safeURL(video);
   const sources = coverImages ? [...(coverVideo ? [coverVideo] : []), ...coverImages]
     : cover ? [cover, ...shots.filter(src => src !== cover)]
     : shots.length ? shots : [0,1,2,3,4,5,6];
