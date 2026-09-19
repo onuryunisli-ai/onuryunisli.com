@@ -82,7 +82,7 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 /* hidden while scrolling down */
 .nav.away{transform:translateY(-104%)}
 .mark{display:inline-flex;align-items:center;line-height:0}
-.mark-art{display:block;width:auto;height:clamp(15px,1.35vw,19px)}
+.mark-art{display:block;width:auto;height:clamp(30px,2.7vw,38px)}
 /* over the hero and over dark bands the white cut is used, elsewhere the black one */
 .mark-on-light{display:none}
 .nav.pinned .mark-on-dark{display:none}
