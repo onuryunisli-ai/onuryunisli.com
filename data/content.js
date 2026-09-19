@@ -280,12 +280,12 @@ window.SITE = {
       "shots": [],
       "coverImages": [
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/zosaeufgenzxz9hyg7ry.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/yymvknz2busdvetv9h1m.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/jfsxypzw2b7abwrqwqid.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/bshromrnhxfpiuh03u0z.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/hn5kgrydm1lyd5ds2agx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/xvymhphfkiesojcpjoqg.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832545/onuryunisli/lxztpmmwakclbxkq4j9d.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832506/onuryunisli/uf0hb19oyailigxm8w2w.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832511/onuryunisli/irludqbqwifzaan3gf5g.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/xvymhphfkiesojcpjoqg.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832517/onuryunisli/outvdviwjsl3yhx3walz.png"
       ],
       "detail": {
         "layout": "stream",
@@ -470,7 +470,13 @@ window.SITE = {
           {
             "type": "embed",
             "src": "<iframe src=\"https://player.vimeo.com/video/1198391048?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
+            "padding": 0,
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "controls": false,
+            "backgroundVideo": true,
+            "ratio": 1.7777777777777777
           },
           {
             "type": "media",
