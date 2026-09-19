@@ -2888,7 +2888,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "3",
             "gap": 0,
             "padding": 0
           },
@@ -2914,7 +2914,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "3",
             "gap": 0,
             "padding": 0
           },
@@ -3026,7 +3026,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "1",
             "gap": 0,
             "padding": 0
           },
@@ -3142,7 +3142,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "3",
             "gap": 0,
             "padding": 0
           },
