@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/style.css?v=a50d510a">
+<link rel="stylesheet" href="/assets/css/style.css?v=87dc753d">
 <link rel="stylesheet" href="/assets/css/content-blocks.css?v=acc20d62">
 <link rel="canonical" href="https://onuryunisli.com/contact">
 </head>
@@ -32,8 +32,8 @@
   <p class="rv-el">Tell me what the business needs and when it has to be live. That is enough to start.</p>
 </section>
 
-<!-- ══════════ DETAILS + BRIEF ══════════ -->
-<section class="wrap cnt-grid">
+<!-- ══════════ DETAILS + FORM ══════════ -->
+<section class="wrap cnt-grid" id="enquiry">
   <div class="cnt-direct rv-el">
     <div><span class="mono">Email</span><p><a href="mailto:onuryunisli@gmail.com" data-site-link="email" data-site-text="email">onuryunisli@gmail.com</a></p></div>
     <div><span class="mono">Phone &amp; WhatsApp</span><p><a href="tel:+994703190069" data-site-link="phoneRaw" data-site-text="phone">+994 70 319 00 69</a></p></div>
@@ -41,14 +41,44 @@
     <div><span class="mono">Where</span><p><span data-site-text="city">Baku</span>, <span data-site-text="country">Azerbaijan</span><br><span class="clock">— GMT+4</span></p></div>
   </div>
 
-  <div class="cnt-brief">
-    <div class="work-head"><h2>What to send</h2></div>
-    <div class="rows">
-      <div class="row"><span class="mono">01</span><h3>The business</h3><p>Who you are, what you sell, and who has to notice.</p></div>
-      <div class="row"><span class="mono">02</span><h3>The job</h3><p>Identity, motion, 3D, packaging, a stand — or all of it.</p></div>
-      <div class="row"><span class="mono">03</span><h3>The date</h3><p>When it has to be live. A real date, not "as soon as possible".</p></div>
-      <div class="row"><span class="mono">04</span><h3>The range</h3><p>A budget range is enough. It decides scope, not quality.</p></div>
-    </div>
+  <div class="cnt-form rv-el">
+    <div class="work-head"><h2>Send a message</h2></div>
+    <form id="cform" class="cform" novalidate>
+      <div class="f-row">
+        <label class="f"><span class="mono">Full name *</span>
+          <input name="name" type="text" autocomplete="name" required placeholder="Your name">
+          <em class="f-err"></em>
+        </label>
+        <label class="f"><span class="mono">Email *</span>
+          <input name="email" type="email" autocomplete="email" required placeholder="you@company.com">
+          <em class="f-err"></em>
+        </label>
+      </div>
+      <label class="f"><span class="mono">Phone &amp; WhatsApp</span>
+        <input name="phone" type="tel" autocomplete="tel" placeholder="Optional">
+        <em class="f-err"></em>
+      </label>
+      <label class="f"><span class="mono">Message *</span>
+        <textarea name="message" rows="7" required placeholder="The business, the job, the date it has to be live, and a budget range."></textarea>
+        <em class="f-err"></em>
+      </label>
+      <input class="f-honey" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="f-foot">
+        <button class="pill ink" type="submit" id="cform-send">Send message</button>
+        <p class="f-note" id="cform-status" role="status" aria-live="polite">I read every message myself and reply within one working day.</p>
+      </div>
+    </form>
+  </div>
+</section>
+
+<!-- ══════════ WHAT TO SEND ══════════ -->
+<section class="wrap cnt-brief-zone">
+  <div class="work-head"><h2>What to send</h2></div>
+  <div class="rows">
+    <div class="row"><span class="mono">01</span><h3>The business</h3><p>Who you are, what you sell, and who has to notice.</p></div>
+    <div class="row"><span class="mono">02</span><h3>The job</h3><p>Identity, motion, 3D, packaging, a stand — or all of it.</p></div>
+    <div class="row"><span class="mono">03</span><h3>The date</h3><p>When it has to be live. A real date, not "as soon as possible".</p></div>
+    <div class="row"><span class="mono">04</span><h3>The range</h3><p>A budget range is enough. It decides scope, not quality.</p></div>
   </div>
 </section>
 
@@ -63,7 +93,7 @@
     </div>
 
     <div class="cta-rule">
-      <a class="orb" href="mailto:onuryunisli@gmail.com" data-site-link="email">Get in touch</a>
+      <a class="orb" href="#enquiry">Get in touch</a>
     </div>
 
     <div class="cta-pills">
@@ -92,6 +122,6 @@
 
 <script src="/data/content.js?v=b8c1e37a"></script>
 <script src="/assets/js/project-content.js?v=f0ce3ad7"></script>
-<script src="/assets/js/main.js?v=c3536284"></script>
+<script src="/assets/js/main.js?v=2d6a7c89"></script>
 </body>
 </html>

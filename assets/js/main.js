@@ -570,6 +570,116 @@ function contact() {
 }
 
 
+/* ══ CONTACT FORM ═══════════════════════════════════════════════ */
+/* Posts to a form relay (no backend). Web3Forms when SITE.formKey is set,
+   otherwise FormSubmit addressed to SITE.email. */
+function contactForm() {
+  const form = $('#cform');
+  if (!form) return;
+  const note = $('#cform-status');
+  const button = $('#cform-send');
+  const rest = note ? note.textContent : '';
+  const EMAIL = /^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i;
+  const at = name => form.querySelector(`[name="${name}"]`);
+
+  const clear = el => {
+    const box = el && el.closest('.f');
+    if (!box) return;
+    box.classList.remove('bad');
+    const err = box.querySelector('.f-err');
+    if (err) err.textContent = '';
+  };
+  const fail = (el, message) => {
+    const box = el && el.closest('.f');
+    if (!box) return;
+    box.classList.add('bad');
+    const err = box.querySelector('.f-err');
+    if (err) err.textContent = message;
+  };
+  const say = (html, state) => {
+    if (!note) return;
+    note.innerHTML = html;
+    note.classList.remove('bad', 'ok');
+    if (state) note.classList.add(state);
+  };
+
+  ['name', 'email', 'phone', 'message'].forEach(n => {
+    const el = at(n);
+    if (el) el.addEventListener('input', () => clear(el));
+  });
+
+  form.addEventListener('submit', async event => {
+    event.preventDefault();
+    if (form.dataset.busy === '1') return;
+    if (at('_honey') && at('_honey').value) return;          /* bot */
+
+    const name = at('name').value.trim();
+    const email = at('email').value.trim();
+    const phone = at('phone').value.trim();
+    const message = at('message').value.trim();
+
+    [at('name'), at('email'), at('message')].forEach(clear);
+    let ok = true;
+    if (name.length < 2) { fail(at('name'), 'Write your name'); ok = false; }
+    if (!EMAIL.test(email)) { fail(at('email'), 'Write a valid email address'); ok = false; }
+    if (message.length < 10) { fail(at('message'), 'Add a few words about the job'); ok = false; }
+    if (!ok) {
+      say('Check the highlighted fields.', 'bad');
+      const first = form.querySelector('.f.bad input, .f.bad textarea');
+      if (first) first.focus();
+      return;
+    }
+
+    const inbox = (S.email || '').trim();
+    const key = (S.formKey || '').trim();
+    const endpoint = (S.formEndpoint || '').trim()
+      || (key ? 'https://api.web3forms.com/submit'
+              : 'https://formsubmit.co/ajax/' + encodeURIComponent(inbox));
+
+    const payload = {
+      name, email, message,
+      phone: phone || '—',
+      subject: `New enquiry from ${name} — onuryunisli.com`,
+      _subject: `New enquiry from ${name} — onuryunisli.com`,
+      _template: 'table',
+      _captcha: 'false',
+      from_name: 'onuryunisli.com',
+      replyto: email,
+      page: location.href
+    };
+    if (key) payload.access_key = key;
+
+    form.dataset.busy = '1';
+    if (button) { button.disabled = true; button.textContent = 'Sending…'; }
+    say('Sending…');
+
+    try {
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+      let data = {};
+      try { data = await res.json(); } catch {}
+      const sent = res.ok && data.success !== false && String(data.success ?? 'true') !== 'false';
+      if (!sent) throw new Error(data.message || 'relay refused');
+      form.innerHTML = `<div class="cform-done"><h3>Message sent</h3>`
+        + `<p>Thanks ${escapeHTML(name.split(/\s+/)[0])} — it is in my inbox. `
+        + `I reply within one working day, usually sooner.</p></div>`;
+    } catch {
+      form.dataset.busy = '';
+      if (button) { button.disabled = false; button.textContent = 'Send message'; }
+      const href = inbox ? 'mailto:' + encodeURIComponent(inbox).replace(/%40/g, '@') : '';
+      say(inbox
+        ? `Could not send just now. Write to <a href="${href}">${escapeHTML(inbox)}</a> instead.`
+        : 'Could not send just now. Please try again in a moment.', 'bad');
+    }
+  });
+
+  form.addEventListener('reset', () => say(escapeHTML(rest)));
+}
+
+
 /* ══ ABOUT ═════════════════════════════════════════════════════ */
 function portrait() {
   const box = $('#portrait');
@@ -892,7 +1002,7 @@ function observeEmbeds() {
 
 /* ══ BOOT ═══════════════════════════════════════════════════════ */
 settings(); projectPage(); postPage(); hero();
-grid(); latest(); postGrid(); postFilters(); contact(); portrait(); clients();
+grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds();
 reveal(); navDot(); navBar(); magnet(); ink(); elementLogo();
 })();
