@@ -61,6 +61,79 @@ window.SITE = {
   },
   "projects": [
     {
+      "slug": "azergolds",
+      "client": "AzerGolds",
+      "title": "branding motion",
+      "initials": "AZ",
+      "sector": "",
+      "year": "2026",
+      "services": [],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1181544643?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802500/onuryunisli/poo8nmbxksjyhkzuc0en.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802500/onuryunisli/poo8nmbxksjyhkzuc0en.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802503/onuryunisli/wgchasf6gybcef3ic2xj.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802505/onuryunisli/pgb9fgnbti8cwoybdggk.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802507/onuryunisli/huif4yffslnk2a5t0ecr.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "blocks": [
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802348/onuryunisli/jqkv6cw7xplvm27qhpec.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802333/onuryunisli/yiiq3a0fixtxaszm4cjj.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1181481142?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "ratio": 1.7777777777777777,
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "padding": 0,
+            "embedCustom": false,
+            "controls": false,
+            "backgroundVideo": true
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1181544643?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "ratio": 1.7777777777777777,
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "padding": 0,
+            "embedCustom": false,
+            "controls": false,
+            "backgroundVideo": true
+          }
+        ]
+      }
+    },
+    {
       "slug": "example-copy-2-copy-copy-copy",
       "client": "Example01",
       "title": "qaranqus",
