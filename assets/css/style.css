@@ -92,10 +92,13 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 .nav-links{display:flex;gap:clamp(14px,2.7vw,46px)}
 .nav-links a{font-size:13px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;
   color:rgba(255,255,255,.78);transition:color .2s;display:inline-block;will-change:transform;
-  position:relative;padding:0 9px 0 0}
-.nav-links a::after{content:"";position:absolute;left:calc(100% + 5px);top:calc(50% - 4px);width:4px;height:4px;border-radius:50%;background:currentColor;transform:scale(0);opacity:0;transition:transform .25s var(--ease),opacity .25s}
-.nav-links a:hover::after,.nav-links a.active::after{transform:scale(1);opacity:1}
-.nav-links a:active::after{transform:scale(1.35)}
+  position:relative;padding-bottom:9px}
+.nav-links a::after{content:"";position:absolute;left:50%;bottom:0;width:4px;height:4px;
+  border-radius:50%;background:currentColor;
+  transform:translate(-50%,4px) scale(0);opacity:0;
+  transition:transform .35s var(--ease),opacity .3s}
+.nav-links a:hover::after,.nav-links a.active::after{transform:translate(-50%,0) scale(1);opacity:1}
+.nav-links a:active::after{transform:translate(-50%,0) scale(1.35)}
 .mark{will-change:transform}
 .nav-links a:hover{color:#fff}
 
