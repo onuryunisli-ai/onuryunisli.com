@@ -2313,7 +2313,7 @@
       ],
       "featured": false,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1228402435?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1350\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1228402435?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1080\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/nk0hszlwqlyimaic4wvv.jpg",
       "shots": [],
       "coverImages": [
