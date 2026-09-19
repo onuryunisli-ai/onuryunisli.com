@@ -79,12 +79,12 @@ window.SITE = {
       "shots": [],
       "coverImages": [
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/b3gxxvck52zagrmwjqle.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820382/onuryunisli/work/dnc3ske9kt0rledfx47n.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/yulihcsgcvqtbjvmm8bt.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/nvvpx8jkkuctv0hiwljw.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/crqxmvuhvrsrmialwgpx.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820382/onuryunisli/work/prk69pmmzv65e7nhdobl.jpg"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789831887/onuryunisli/wu7boc4bhldhhvvolyfi.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832028/onuryunisli/czole4a3xueipfewqs0e.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832103/onuryunisli/jmcoka7zku58lvxheev9.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832106/onuryunisli/jv5hxjaconwsbwn3gnqy.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832161/onuryunisli/fopfgvhi0orrh5kb2v09.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832166/onuryunisli/tmdcwatpknv3bdaodytm.png"
       ],
       "detail": {
         "layout": "stream",
