@@ -71,7 +71,7 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "assets/uploads/1789754413-8fe04f1983a4.jpg",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802071/onuryunisli/ds21rnlre5dvmzxrnyl9.jpg",
       "shots": [],
       "detail": {
         "layout": "stream",
@@ -152,13 +152,13 @@ window.SITE = {
         ]
       },
       "coverImages": [
-        "assets/uploads/1789754413-8fe04f1983a4.jpg",
-        "assets/uploads/1789754662-747511127529.jpg",
-        "assets/uploads/1789754662-1e9fd728026c.jpg",
-        "assets/uploads/1789754662-025790bd1c5e.jpg",
-        "assets/uploads/1789754662-24fc6845c51a.jpg",
-        "assets/uploads/1789754662-83f07778bfcc.jpg",
-        "assets/uploads/1789754662-78e66281919d.jpg"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802071/onuryunisli/ds21rnlre5dvmzxrnyl9.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802073/onuryunisli/xyk3c6kqpigls8yxbiba.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802076/onuryunisli/wv58gxoimu7paph6ladc.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802078/onuryunisli/ume8qbowfpqrcexsop53.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802080/onuryunisli/b3lz9ywunngnkdnugaox.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802081/onuryunisli/v0oekwsr6dsmq0ae5om3.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802083/onuryunisli/iswlkkuwjlplfmjmfzhz.jpg"
       ]
     },
     {
