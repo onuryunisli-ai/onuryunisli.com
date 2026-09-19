@@ -7,7 +7,7 @@ window.SITE = {
   "city": "Baku",
   "country": "Azerbaijan",
   "timezone": "Asia/Baku",
-  "portrait": "",
+  "portrait": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789802987/onuryunisli/hdszlgma8jgvdgwzqx7k.png",
   "social": {
     "behance": "https://www.behance.net/onuryunisli",
     "instagram": "https://www.instagram.com/onuryunisli/",
