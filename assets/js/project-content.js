@@ -74,11 +74,43 @@
   function gifMarkup(src, alt) {
     const clip = gifVideo(src);
     if (!clip) return '';
-    return `<video autoplay muted loop playsinline preload="metadata" aria-label="${esc(alt || '')}">`
+    return `<video data-gif="1" autoplay muted loop playsinline preload="auto" aria-label="${esc(alt || '')}">`
       + `<source src="${esc(clip.webm)}" type="video/webm">`
       + `<source src="${esc(clip.mp4)}" type="video/mp4">`
       + `<img src="${esc(src)}" alt="${esc(alt || '')}" loading="lazy"></video>`;
   }
+  /* A <video> written through innerHTML often ignores its own autoplay
+     attribute: the browser checks the muted state before the markup is
+     live. Setting it from script and calling play() starts them for good,
+     both on the site and inside the CMS canvas. */
+  function startClips(scope) {
+    const root = scope && scope.querySelectorAll ? scope : (typeof document !== 'undefined' ? document : null);
+    if (!root) return;
+    root.querySelectorAll('video[data-gif]').forEach(clip => {
+      if (clip.dataset.rolling) return;
+      clip.dataset.rolling = '1';
+      clip.muted = true;
+      clip.loop = true;
+      clip.playsInline = true;
+      const go = () => { const p = clip.play(); if (p && p.catch) p.catch(() => {}); };
+      if (clip.readyState >= 2) go();
+      else clip.addEventListener('loadeddata', go, {once:true});
+      clip.addEventListener('pause', () => { if (!clip.ended && !document.hidden) go(); });
+    });
+  }
+  if (typeof document !== 'undefined' && typeof MutationObserver !== 'undefined') {
+    let queued = false;
+    const sweep = () => {
+      if (queued) return;
+      queued = true;
+      requestAnimationFrame(() => { queued = false; startClips(); });
+    };
+    document.addEventListener('DOMContentLoaded', sweep);
+    document.addEventListener('visibilitychange', sweep);
+    new MutationObserver(sweep).observe(document.documentElement, {childList:true, subtree:true});
+    sweep();
+  }
+
   function figure(asset = {}, options = {}) {
     const src = assetURL(asset.src, options.base), poster = assetURL(asset.poster, options.base);
     const video = asset.type === 'video' || /\.(mp4|webm|mov)(?:[?#]|$)/i.test(src);
@@ -117,5 +149,5 @@
   function render(detail, options = {}) {
     return `<div class="project-stream" style="--pc-gap:${number(detail.spacing ?? 0,0,120,0)}px;--pc-bg:${color(detail.background, '#ffffff')};--pc-ink:${color(detail.color, '#161616')};--pc-width:${number(detail.width ?? 1400,600,1920,1400)}px">${(detail.blocks || []).map(b=>block(b,options)).join('')}</div>`;
   }
-  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo};
+  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo, startClips};
 })(typeof window !== 'undefined' ? window : globalThis);
