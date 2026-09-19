@@ -59,7 +59,8 @@
     const parsed = embed(input, options);
     if (!parsed) return '<div class="pc-empty">Vimeo və ya YouTube linki əlavə edin</div>';
     const source = options.defer ? `data-embed-src="${esc(parsed.src)}"` : `src="${esc(parsed.src)}"`;
-    return `<iframe ${source} title="${esc(options.title || parsed.provider + ' video')}" loading="${parsed.autoplay?'eager':'lazy'}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+    const ar = parsed.ratio > 0 ? ` style="--ar:${(Math.round(parsed.ratio * 10000) / 10000)}"` : '';
+    return `<iframe ${source}${ar} title="${esc(options.title || parsed.provider + ' video')}" loading="${parsed.autoplay?'eager':'lazy'}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   }
   function figure(asset = {}, options = {}) {
     const src = assetURL(asset.src, options.base), poster = assetURL(asset.poster, options.base);

@@ -333,9 +333,12 @@ function projectCard(p, idx, opts = {}) {
   if (!sources.length) sources.push(0);
   /* kartdakı kvadrat: layihənin logosu, yoxdursa baş hərfləri */
   const logoSrc = safeURL(rb(p.logo));
+  const words = String(p.client || '').split(/[\s&]+/).filter(Boolean);
+  const initials = (words.length > 1 ? words.slice(0, 2).map(w => w[0]).join('')
+                                     : (words[0] || '').slice(0, 2)).toUpperCase();
   const logoMark = logoSrc
     ? `<img src="${escapeHTML(logoSrc)}" alt="${escapeHTML(p.client || '')}" loading="lazy">`
-    : escapeHTML(p.initials);
+    : escapeHTML(initials);
   const frames = sources.map((src, k) => {
     const videoCover = k === 0 && !!(window.ProjectContent?.embed(video) || safeURL(video));
     const inner = typeof src === 'string'
@@ -348,7 +351,7 @@ function projectCard(p, idx, opts = {}) {
     <div class="thumb">
       <div class="media">${frames}</div>
       <span class="dl">${dlIcon}</span>
-      <span class="chip"><span class="sq">${logoMark}</span><span><b>${escapeHTML(p.client)}</b><span>${escapeHTML(p.sector)}</span></span></span>
+      <span class="chip"><span class="sq${logoSrc ? ' logo' : ''}">${logoMark}</span><span><b>${escapeHTML(p.client)}</b><span>${escapeHTML(p.sector)}</span></span></span>
     </div>
     <h3>${escapeHTML(p.title)}</h3>
   </a>`;
