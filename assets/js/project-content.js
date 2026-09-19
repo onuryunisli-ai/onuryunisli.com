@@ -107,12 +107,9 @@
       const rows = [];
       for (let i = 0; i < assets.length; i += cols) rows.push(assets.slice(i, i + cols));
       body = `<div class="pc-grid" style="--columns:${cols};gap:${gap}px">${
-        rows.map(row => {
-          const width = row.length < cols
-            ? `;width:calc((100% - ${(cols - 1) * gap}px) * ${row.length} / ${cols} + ${(row.length - 1) * gap}px)`
-            : '';
-          return `<div class="pc-row" style="gap:${gap}px${width}">${row.map(a=>figure(a,options)).join('')}</div>`;
-        }).join('') || '<div class="pc-empty">Qalereyaya şəkillər əlavə edin</div>'}</div>`;
+        rows.map(row =>
+          `<div class="pc-row" style="gap:${gap}px">${row.map(a=>figure(a,options)).join('')}</div>`
+        ).join('') || '<div class="pc-empty">Qalereyaya şəkillər əlavə edin</div>'}</div>`;
     }
     else if (b.type === 'media') body = figure(b.asset, options);
     return `<section class="pc-block" style="padding:${padding}px;background:${color(b.background, 'transparent')}">${body}</section>`;
