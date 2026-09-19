@@ -636,18 +636,13 @@ function contactForm() {
       || (key ? 'https://api.web3forms.com/submit'
               : 'https://formsubmit.co/ajax/' + encodeURIComponent(inbox));
 
-    const payload = {
-      name, email, message,
-      phone: phone || '—',
-      subject: `New enquiry from ${name} — onuryunisli.com`,
-      _subject: `New enquiry from ${name} — onuryunisli.com`,
-      _template: 'table',
-      _captcha: 'false',
-      from_name: 'onuryunisli.com',
-      replyto: email,
-      page: location.href
-    };
-    if (key) payload.access_key = key;
+    const line = `New enquiry from ${name} — onuryunisli.com`;
+    const payload = key
+      ? { access_key: key, subject: line, from_name: 'onuryunisli.com',
+          name, email, phone: phone || '—', message, replyto: email, page: location.href }
+      : { name, email, phone: phone || '—', message,
+          _subject: line, _template: 'table', _captcha: 'false',
+          _replyto: email, page: location.href };
 
     form.dataset.busy = '1';
     if (button) { button.disabled = true; button.textContent = 'Sending…'; }
