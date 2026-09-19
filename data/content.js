@@ -4577,8 +4577,8 @@ window.SITE = {
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836737/onuryunisli/lw4pb0dqohzmhodqjah6.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836739/onuryunisli/t9vwosbs1perx1zpgajd.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836739/onuryunisli/t9vwosbs1perx1zpgajd.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png"
       ],
       "detail": {
         "layout": "stream",
