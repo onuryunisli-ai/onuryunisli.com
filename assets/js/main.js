@@ -37,10 +37,10 @@ const postSlug = (post, index = 0) => {
   return raw ? slugify(raw) : slugify(post?.title, `post-${index + 1}`);
 };
 /* xəbərin gedəcəyi ünvan: xarici link verilibsə ona, yoxsa öz səhifəsinə */
-const postHref = (post, index = 0, base = '') => {
+const postHref = (post, index = 0) => {
   const external = safeURL(post?.url);
   if (external && external !== '#' && /^https?:/i.test(external)) return external;
-  return `${base}posts/${postSlug(post, index)}.html`;
+  return `/posts/${postSlug(post, index)}`;
 };
 const videoVisibility = new Map();
 function syncVideos() {
@@ -96,7 +96,7 @@ function projectPage() {
   const projects = items(S.projects);
   const index = projects.findIndex(project => project.slug === root.dataset.project);
   if (index < 0) {
-    root.innerHTML = '<header class="case-header wrap"><a class="case-back mono" href="../work.html">← All work</a><h1 class="case-title">Project unavailable</h1></header>';
+    root.innerHTML = '<header class="case-header wrap"><a class="case-back mono" href="/work">← All work</a><h1 class="case-title">Project unavailable</h1></header>';
     return;
   }
   const p = projects[index], detail = p.detail || {};
@@ -149,18 +149,18 @@ function projectPage() {
     if (q && q.slug !== p.slug) more.push(q);
   }
   /* same card as the homepage; media paths rebased for work/ */
-  const moreCard = (q, i) => projectCard(q, index + i + 1, {base:'../', href:''});
+  const moreCard = (q, i) => projectCard(q, index + i + 1);
   document.title = `${p.client} — ${S.name || 'Onur Yunisli'}`;
   const description = $('meta[name="description"]');
   if (description) description.setAttribute('content', detail.description || `${p.client}: ${p.title}. ${services.join(', ')}.`);
   root.innerHTML = `
     <header class="case-header wrap">
-      <div class="case-eyebrow"><a class="case-back mono" href="../work.html">← All work</a><span class="mono">${String(index+1).padStart(2,'0')} / ${String(projects.length).padStart(2,'0')}</span></div>
+      <div class="case-eyebrow"><a class="case-back mono" href="/work">← All work</a><span class="mono">${String(index+1).padStart(2,'0')} / ${String(projects.length).padStart(2,'0')}</span></div>
       <h1 class="case-title">${escapeHTML(p.client)}</h1>
       <p class="case-lede">${escapeHTML(p.title)}</p>
     </header>
     <div class="${detail.layout === "stream" ? "case-stream-shell" : "case-gallery wrap"}">
-      ${detail.layout === "stream" && window.ProjectContent ? window.ProjectContent.render(detail, {base:"../"}) : `<section class="case-cover">${coverMarkup}</section>`}
+      ${detail.layout === "stream" && window.ProjectContent ? window.ProjectContent.render(detail, {base:"/"}) : `<section class="case-cover">${coverMarkup}</section>`}
       ${detail.layout !== "stream" && detail.intro ? `<section class="case-text case-intro"><h2>Overview</h2><div class="case-copy">${paragraphs(detail.intro)}</div></section>` : ''}
       ${detail.layout === "stream" ? "" : body}
       ${detail.layout !== "stream" && detail.credits ? `<section class="case-credits"><h2 class="mono">Credits</h2><div class="case-copy">${paragraphs(detail.credits)}</div></section>` : ''}
@@ -186,7 +186,7 @@ function postPage() {
   const body = $('#post-body');
   if (body && items(detail.blocks).length && window.ProjectContent) {
     body.className = 'case-stream-shell';
-    body.innerHTML = window.ProjectContent.render(detail, { base: '../' });
+    body.innerHTML = window.ProjectContent.render(detail, { base: '/' });
   }
   document.title = `${post.title} — ${S.name || 'Onur Yunisli'}`;
 }
@@ -316,10 +316,9 @@ function grid() {
    project page. opts.base rewrites relative media paths for pages that do
    not sit at the site root; opts.href prefixes the link.                */
 function projectCard(p, idx, opts = {}) {
-  const base = opts.base || '', hrefBase = opts.href == null ? 'work/' : opts.href;
   const rb = value => {                        /* embeds already carry absolute URLs */
-    if (!base || !value || window.ProjectContent?.embed(value)) return value;
-    return window.ProjectContent?.assetURL(value, base) || value;
+    if (!value || window.ProjectContent?.embed(value)) return value;
+    return window.ProjectContent?.assetURL(value, '/') || value;
   };
   const video = rb(p.video), poster = rb(p.poster);
   const shots = (Array.isArray(p.shots) ? p.shots.map(rb) : []).filter(src => safeURL(src));
@@ -340,7 +339,7 @@ function projectCard(p, idx, opts = {}) {
     return `<div class="fr${k ? '' : ' on'}">${inner}</div>`;
   }).join('');
   return `
-  <a class="card" href="${hrefBase}${escapeHTML(encodeURIComponent(String(p.slug ?? '')))}.html" data-svc="${escapeHTML((Array.isArray(p.services) ? p.services : []).join(' '))}">
+  <a class="card" href="/work/${escapeHTML(encodeURIComponent(String(p.slug ?? '')))}" data-svc="${escapeHTML((Array.isArray(p.services) ? p.services : []).join(' '))}">
     <div class="thumb">
       <div class="media">${frames}</div>
       <span class="dl">${dlIcon}</span>
