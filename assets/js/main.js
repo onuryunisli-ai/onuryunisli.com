@@ -750,6 +750,33 @@ function justifyRows() {
   });
 }
 
+/* ══ WORDMARK ══════════════════════════════════════════════════════ */
+/* The still sits in the nav; the animation loads on first hover and
+   runs while the pointer is on it. */
+function wordmark() {
+  const marks = $$('.mark-art[data-motion]');
+  if (!marks.length) return;
+  const holder = $('#mark') || marks[0].parentElement;
+  let warm = false;
+  const warmUp = () => {
+    if (warm) return;
+    warm = true;
+    marks.forEach(art => { const pre = new Image(); pre.src = art.dataset.motion; });
+  };
+  const roll = () => marks.forEach(art => {
+    if (!art.dataset.still) art.dataset.still = art.getAttribute('src');
+    art.setAttribute('src', art.dataset.motion + '#' + Date.now());
+  });
+  const rest = () => marks.forEach(art => {
+    if (art.dataset.still) art.setAttribute('src', art.dataset.still);
+  });
+  holder.addEventListener('pointerenter', () => { warmUp(); roll(); });
+  holder.addEventListener('pointerleave', rest);
+  holder.addEventListener('focus', () => { warmUp(); roll(); });
+  holder.addEventListener('blur', rest);
+  if (!REDUCED) addEventListener('pointermove', warmUp, {once:true, passive:true});
+}
+
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
 function reveal() {
   const h = $('[data-split]');
@@ -1054,5 +1081,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark();
 })();
