@@ -4914,16 +4914,14 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198391280?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/yhfpuhrcyqnhaicl0w5n.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/mompoarret5js4thlrcd.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836222/onuryunisli/olnvuskh5mehwizrefve.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836217/onuryunisli/z5zhiwt1k3ediikuxi54.png"
       ],
       "detail": {
         "layout": "stream",
@@ -4973,16 +4971,6 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/mompoarret5js4thlrcd.png",
-              "type": "image",
-              "alt": "Image may contain: table, drink and indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
               "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
               "type": "image",
               "alt": "Image may contain: bottle and drink",
@@ -5004,6 +4992,16 @@ window.SITE = {
             "type": "media",
             "asset": {
               "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836079/onuryunisli/vdrt14shcwnorgozca39.png",
               "type": "image",
               "alt": "",
               "caption": ""
