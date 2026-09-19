@@ -27,6 +27,17 @@
     const loop = options.loop ?? flag('loop', background);
     const muted = options.muted ?? flag(host.includes('vimeo') ? 'muted' : 'mute', background || autoplay);
     const controls = options.controls ?? flag('controls', !background);
+    /* Knight Lab Juxtapose — the before/after slider. It is interactive,
+       not a video, so none of the playback flags apply to it. */
+    if (host === 'cdn.knightlab.com' && /\/juxtapose\//i.test(url.pathname)) {
+      const uid = query.get('uid');
+      if (!/^[\w-]{6,64}$/.test(uid || '')) return null;
+      const slider = new URL('https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html');
+      slider.searchParams.set('uid', uid);
+      return {src: slider.href, provider: 'Juxtapose', id: uid, interactive: true,
+              background: false, autoplay: false, loop: false, muted: true, controls: true,
+              ratio: width > 0 && height > 0 ? width / height : 16 / 9};
+    }
     let id, target;
     if (['vimeo.com', 'player.vimeo.com'].includes(host)) {
       const parts = url.pathname.split('/').filter(Boolean);
@@ -57,7 +68,7 @@
   }
   function iframe(input, options = {}) {
     const parsed = embed(input, options);
-    if (!parsed) return '<div class="pc-empty">Vimeo və ya YouTube linki əlavə edin</div>';
+    if (!parsed) return '<div class="pc-empty">Vimeo, YouTube və ya Juxtapose linki əlavə edin</div>';
     const source = options.defer ? `data-embed-src="${esc(parsed.src)}"` : `src="${esc(parsed.src)}"`;
     const ar = parsed.ratio > 0 ? ` style="--ar:${(Math.round(parsed.ratio * 10000) / 10000)}"` : '';
     return `<iframe ${source}${ar} title="${esc(options.title || parsed.provider + ' video')}" loading="${parsed.autoplay?'eager':'lazy'}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;

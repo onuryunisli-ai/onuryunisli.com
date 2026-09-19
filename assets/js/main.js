@@ -81,6 +81,7 @@ const media = (src, poster = '', autoplay = false, type = '', alt = '') => {
   if (parsedEmbed) return window.ProjectContent.iframe(src, {background:autoplay, autoplay:autoplay && !REDUCED, muted:autoplay, loop:autoplay, defer:autoplay, title:alt});
   const url = safeURL(src), cover = safeURL(poster);
   if (!url) return '';
+  if (parsedEmbed && parsedEmbed.interactive) return '';
   const clip = window.ProjectContent?.gifVideo?.(url);
   if (clip) return `<video data-autoplay="${!!autoplay}" muted loop playsinline preload="metadata"`
     + `${cover ? ` poster="${escapeHTML(cover)}"` : ''} aria-label="${escapeHTML(alt || '')}">`
@@ -335,7 +336,8 @@ function projectCard(p, idx, opts = {}) {
   const shots = (Array.isArray(p.shots) ? p.shots.map(rb) : []).filter(src => safeURL(src));
   /* embed: keep the pasted code, not the resolved URL — the size attributes
      in it are what makes the cover crop to a square for any video ratio */
-  const embedRaw = window.ProjectContent?.embed(video) ? video : '';
+  const parsedCover = window.ProjectContent?.embed(video);
+  const embedRaw = parsedCover && !parsedCover.interactive ? video : '';
   const cover = embedRaw || safeURL(video) || safeURL(poster);
   // The cover is independent of the gallery: never discard the first shot.
   const coverImages = Array.isArray(p.coverImages)
