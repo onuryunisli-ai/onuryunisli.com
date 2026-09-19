@@ -2461,7 +2461,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "4",
             "gap": 0,
             "padding": 0
           },
@@ -2527,7 +2527,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "3",
             "gap": 0,
             "padding": 0
           },
@@ -2603,7 +2603,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "3",
             "gap": 0,
             "padding": 0
           },
@@ -2629,7 +2629,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "3",
             "gap": 0,
             "padding": 0
           },
@@ -2671,7 +2671,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "4",
             "gap": 0,
             "padding": 0
           },
@@ -2740,7 +2740,7 @@ window.SITE = {
       "shots": [],
       "coverImages": [
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789843901/onuryunisli/work/mom9gnnwrqvev1bso0ym.gif",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
@@ -2768,7 +2768,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789843901/onuryunisli/work/mom9gnnwrqvev1bso0ym.gif",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
               "type": "image",
               "alt": "",
               "caption": ""
