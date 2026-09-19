@@ -998,17 +998,17 @@
       ],
       "featured": true,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1208313788?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
       "shots": [],
       "coverImages": [
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/rpiojvhumjemntqxx0h5.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/ezxidqhwzvui0hyzfrww.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/tl0vvs7kg3f8beknuubs.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/catfdfjzsb19iaiwdcnl.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834338/onuryunisli/urrivedkdtatrbf2mbpx.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834340/onuryunisli/j1nkcuwg70m2kp1i5krx.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834343/onuryunisli/axpzyue1czyna87uwzja.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834345/onuryunisli/hurpwcewnzk9fdl2fmkp.png"
       ],
       "detail": {
         "layout": "stream",
@@ -1193,7 +1193,13 @@
           {
             "type": "embed",
             "src": "<iframe src=\"https://player.vimeo.com/video/1208313788?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
+            "padding": 0,
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "controls": false,
+            "backgroundVideo": true,
+            "ratio": 1.7777777777777777
           },
           {
             "type": "media",
