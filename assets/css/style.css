@@ -307,6 +307,9 @@ img,video{display:block;max-width:100%}
   font-size:clamp(1.05rem,1.85vw,1.45rem);line-height:1.12;letter-spacing:-.02em}
 .row p{margin:0;font-size:14.5px;line-height:1.55;color:var(--grey);max-width:46ch}
 
+.awards .row{grid-template-columns:104px 1fr 1.1fr}
+.awards .row .mono{color:var(--grey);letter-spacing:.1em}
+
 .clients{display:grid;grid-template-columns:repeat(3,1fr);
   gap:0 clamp(18px,2.6vw,44px);border-top:1px solid var(--hair)}
 .client{padding:clamp(15px,1.7vw,22px) 0;border-bottom:1px solid var(--hair)}

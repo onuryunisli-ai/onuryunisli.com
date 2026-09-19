@@ -689,7 +689,10 @@ function clients() {
   const box = $('#clients');
   if (!box) return;
   const seen = new Map();
-  items(S.projects).forEach(p => { if (!seen.has(p.client)) seen.set(p.client, p.sector); });
+  items(S.projects).forEach(p => {
+    const sector = String(p.sector || '').trim();
+    if (sector && !seen.has(p.client)) seen.set(p.client, sector);
+  });
   box.innerHTML = [...seen].map(([c, sec]) =>
     `<div class="client"><b>${escapeHTML(c)}</b><span>${escapeHTML(sec)}</span></div>`).join('');
 }

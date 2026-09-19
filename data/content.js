@@ -2,7 +2,6 @@
 window.SITE = {
   "name": "Onur Yunisli",
   "email": "onuryunisli@gmail.com",
-  "formKey": "8b134a13-92fb-41be-b20b-eafb5e779b0f",
   "phone": "+994 70 319 00 69",
   "phoneRaw": "+994703190069",
   "city": "Baku",
@@ -62,977 +61,11 @@ window.SITE = {
   },
   "projects": [
     {
-      "slug": "be-group-brand-identity",
-      "client": "BE GROUP",
-      "title": "Brand Identity",
-      "initials": "BG",
-      "sector": "",
-      "year": "2026",
-      "services": [
-        "brand",
-        "motion"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1213910370?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/ikgoh1oqpxs3mps6ejkv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/dcsjg08fjtka1kqppjl9.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/oufgolmhcxhjoyumy9qs.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/yy9me00tjuslwkbvvact.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/cyaqzfau5lpftyyejguk.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/cmflhz5lddhgscuj61ce.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "Element created a unified brand identity for BE GROUP, combining construction, collaboration, and architectural thinking into a clear visual system. The project",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1213910370?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Element developed a comprehensive brand identity for BE GROUP, creating a unified visual system that reflects the company’s values and long-term vision.\n\nThe logo is built around the idea of bringing different construction disciplines together under one purpose. The interlocking B and E represent unity and collaboration, while the house and window forms reinforce the company’s core areas of expertise.\n\nThe project included logo design, visual identity, color palette, typography, graphic language, and brand guidelines, establishing a consistent visual system across all communication materials.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
-              "type": "image",
-              "alt": "Image may contain: publication, book and printing",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1213920757?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1213914625?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/ikgoh1oqpxs3mps6ejkv.png",
-              "type": "image",
-              "alt": "Image may contain: businesscard, material property and screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/fzwgm2qceenrnyobj5f3.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/smemkc9a8w2hhd3hbxur.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/ttdsbujreo7h1jvcw425.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/dcsjg08fjtka1kqppjl9.png",
-              "type": "image",
-              "alt": "Image may contain: factory",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/oufgolmhcxhjoyumy9qs.png",
-              "type": "image",
-              "alt": "Image may contain: businesscard, rectangle and material property",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1213915986?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/yy9me00tjuslwkbvvact.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot, rectangle and square",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/cyaqzfau5lpftyyejguk.png",
-              "type": "image",
-              "alt": "Image may contain: box, office supplies and general supply",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/cmflhz5lddhgscuj61ce.png",
-              "type": "image",
-              "alt": "Image may contain: wheel, vehicle and freight transport",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1214201034?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/v7ucle3rmnxudbimdgza.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, person and engineering",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/isbxf2ynydbrepy46mwj.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, person and engineering",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1213913891?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/lowtqe3jtgxw5ehxcgmb.png",
-              "type": "image",
-              "alt": "Image may contain: sky, outdoor and grass",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/253425137/BE-GROUP-Brand-Identity"
-    },
-    {
-      "slug": "baku-resort-spa-hotel-brand-identity",
-      "client": "Baku Resort & Spa",
-      "title": "Hotel Brand Identity",
-      "initials": "BR",
-      "sector": "",
-      "year": "2026",
-      "services": [
-        "brand",
-        "motion"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/iolc2g28p5vdgfnzhq03.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ke31xgyfnur0x1rctkk7.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/m6vfhr6xe4rw4lawli2c.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ejv4imjb8uyixz2g82vv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/amci4wgyx4xwfcggrcyt.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/m6b2xptf0vdheexec7s6.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "Element developed the complete Brand Identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan. The project included logo design, visual identity,",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Element developed the complete Brand Identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan.\n\nThe project included logo design, visual identity, brand guidelines, and a cohesive corporate identity system, creating a consistent brand experience across every touchpoint.\n\nInspired by Azerbaijani architectural heritage, the logo combines traditional arch forms and ornamental motifs with a contemporary graphic approach. The identity reflects the elegance of Azerbaijani culture while expressing the premium hospitality experience of Baku Resort & Spa.\n\nDesigned to be timeless, recognizable, and adaptable, the new identity establishes a distinctive visual language that strengthens the brand across both physical and digital environments.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
-              "type": "image",
-              "alt": "Image may contain: door, architecture and facade",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/iolc2g28p5vdgfnzhq03.png",
-              "type": "image",
-              "alt": "Image may contain: metal, font and sign",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ke31xgyfnur0x1rctkk7.png",
-              "type": "image",
-              "alt": "Image may contain: houseplant, vase and wall",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/m6vfhr6xe4rw4lawli2c.png",
-              "type": "image",
-              "alt": "Image may contain: interior design, indoor and furniture",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ejv4imjb8uyixz2g82vv.png",
-              "type": "image",
-              "alt": "Image may contain: book, pen and handwriting",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/amci4wgyx4xwfcggrcyt.png",
-              "type": "image",
-              "alt": "Image may contain: accessory, fashion accessory and umbrella",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/m6b2xptf0vdheexec7s6.png",
-              "type": "image",
-              "alt": "Image may contain: furniture, houseplant and couch",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/s5dydhrqrwbqcqcf8tth.png",
-              "type": "image",
-              "alt": "Image may contain: tableware, drink and drinkware",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/smwmwhbotpei33rbsgkl.png",
-              "type": "image",
-              "alt": "Image may contain: indoor, menu and table",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1215174345?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820450/onuryunisli/work/kbhc41dgbfmtkpfswyql.jpg",
-              "type": "image",
-              "alt": "Image may contain: indoor, hall and furniture",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820460/onuryunisli/work/u87hmqg6bqsk5scjezgw.png",
-              "type": "image",
-              "alt": "Image may contain: indoor, interior design and wall",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820460/onuryunisli/work/i0nazdy4pudwfppayuhx.png",
-              "type": "image",
-              "alt": "Image may contain: indoor, furniture and wall",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/fx6n96fl3qravagrbjcd.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/oafybksokerjepmbcree.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/ehes04pvbhzn3pzoo0cn.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/y4cosm4f3qvi3bupguut.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/aqvmlpmx6siu9rubkqln.png",
-              "type": "image",
-              "alt": "Image may contain: person, indoor and clothing",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820452/onuryunisli/work/jpega1hnixa04bjvtk6h.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, person and food",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820455/onuryunisli/work/pgy1siry1bglzhogigk7.png",
-              "type": "image",
-              "alt": "Image may contain: clothing and collar",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820453/onuryunisli/work/sukoyj3krc39vsijffxj.png",
-              "type": "image",
-              "alt": "Image may contain: letter, paper and handwriting",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820464/onuryunisli/work/jju6ni4dvrcclpmj00o4.png",
-              "type": "image",
-              "alt": "Image may contain: transport, vehicle and bus",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820455/onuryunisli/work/lzkaarrzy1gjhan2rlvx.png",
-              "type": "image",
-              "alt": "Image may contain: sky, outdoor and cloud",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820456/onuryunisli/work/n5dztjcufdqz2cl7m8du.png",
-              "type": "image",
-              "alt": "Image may contain: outdoor, sky and plant",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820456/onuryunisli/work/anjlaj7yhbogvrdqrrj2.png",
-              "type": "image",
-              "alt": "Image may contain: outdoor, sky and tree",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820457/onuryunisli/work/bmj2ppiu3exkddmvtzeb.png",
-              "type": "image",
-              "alt": "Image may contain: indoor, interior design and pillow",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/adl0qam38hjrwoj6jsdm.jpg",
-              "type": "image",
-              "alt": "Image may contain: clothing, sky and outdoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/irpiamhywgv5j7oroa99.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820459/onuryunisli/work/t4grcmjjp3d2aiheqqeq.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820459/onuryunisli/work/z4t5bwpvqmzspvh9090z.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/253708217/Baku-Resort-Spa-Hotel-Brand-Identity"
-    },
-    {
-      "slug": "turkish-petroleum-baku-2026-exhibition-stand",
-      "client": "Turkish Petroleum",
-      "title": "Baku 2026 Exhibition Stand",
-      "initials": "TP",
-      "sector": "",
-      "year": "2026",
-      "services": [
-        "motion",
-        "3d",
-        "spatial"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/rpiojvhumjemntqxx0h5.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/ezxidqhwzvui0hyzfrww.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/tl0vvs7kg3f8beknuubs.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/catfdfjzsb19iaiwdcnl.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "Turkish Petroleum Corporation (TPAO) Stand Design & Production For the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the exhib",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, man and billboard",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Turkish Petroleum Corporation (TPAO) Stand Design & Production\n\nFor the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the exhibition stand for Turkish Petroleum Corporation (TPAO).\n\nInspired by the strategic vision of Sultan Mehmed the Conqueror, the concept combines contemporary architecture with immersive exhibition design to reflect TPAO’s energy vision.\n\nFrom creative concept and design to 3D visualization, production, and on-site implementation, the entire project was executed by Element.\n\nThe stand received the “Most Creative Stand” award at the exhibition.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/rpiojvhumjemntqxx0h5.png",
-              "type": "image",
-              "alt": "Image may contain: suit, clothing and man",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PblWKhr74nw?si=2cZ8pANt7rALFnX0\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/ezxidqhwzvui0hyzfrww.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, person and footwear",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/tl0vvs7kg3f8beknuubs.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, person and building",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/catfdfjzsb19iaiwdcnl.png",
-              "type": "image",
-              "alt": "Image may contain: building, clothing and person",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/gf4lmjikxqukz9xha1eh.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/yt4aoo9vkxsijjjgzigo.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot, exhibition and billboard",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1208310516?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"2048\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/ztas9cs7ad60nyfi6wjw.png",
-              "type": "image",
-              "alt": "Image may contain: furniture, vase and coffee table",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1208310515?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"2048\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/qbxp4mr7vk8weonxizfe.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/ilh7wqbabu2jedina0um.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/sabosrcdfot9kuiishdu.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/jpy58mrd5zfauorcvcaa.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1208312097?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4000\" height=\"2000\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1208313788?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/zjlf47ke767i3hp9ion8.png",
-              "type": "image",
-              "alt": "Image may contain: sign and person",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/naww05iaehmxxls1cs4b.png",
-              "type": "image",
-              "alt": "Image may contain: clothing, table and furniture",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/251377447/Turkish-Petroleum-Baku-2026-Exhibition-Stand"
-    },
-    {
-      "slug": "packaging-sirab-soda",
-      "client": "SIRAB",
-      "title": "Packaging — Soda",
-      "initials": "SI",
-      "sector": "",
-      "year": "2026",
-      "services": [
-        "3d",
-        "packaging"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/vbggb3wxml15p9wk1tuk.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/nawgfct13dsg5jeiw0x7.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/xyhcmknfmoamge0v3bzw.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/y3i0wqhteyweerochoez.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "Element developed the packaging design for Sirab’s new fruit-flavoured mineral water products. The project focused on extending Sirab’s established visual ident",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
-              "type": "image",
-              "alt": "Image may contain: beverage, bottle and drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Sirab Fruit-Flavoured Mineral Water\n\nPackaging Design by Element\n\nElement developed the packaging design for Sirab’s new fruit-flavoured mineral water products.\n\nThe project focused on extending Sirab’s established visual identity into a new product category while maintaining brand consistency and recognition.We refined the fruit illustrations, colour palette, and label structure to create a fresher and more distinctive appearance. The updated packaging strengthens shelf visibility while clearly communicating the product’s flavour profile.The result is a design that stays true to the Sirab brand while giving the new product a fresh and engaging presence.\n\nAgency: Element\nClient: Sirab",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
-              "type": "image",
-              "alt": "Image may contain: drink, bottle and glass bottle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pfqzl0kkcxq1zg9tsxoi.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/l0s0rgwdygkgmlg6hxsn.gif",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/vbggb3wxml15p9wk1tuk.png",
-              "type": "image",
-              "alt": "Image may contain: lemon, citron and fruit",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, liquid and solution",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/v5xffaf6c5qguczfraqn.gif",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/ylk59me9lidkeyoqiykr.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/nawgfct13dsg5jeiw0x7.png",
-              "type": "image",
-              "alt": "Image may contain: fruit and natural foods",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/xyhcmknfmoamge0v3bzw.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, liquid and solution",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/y3i0wqhteyweerochoez.png",
-              "type": "image",
-              "alt": "Image may contain: drink, food and glass bottle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/gpsghymxps28coyoksx8.png",
-              "type": "image",
-              "alt": "Image may contain: glass bottle, beverage and bottle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/crtdi69nra5g6mowzqs8.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, glass bottle and drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820467/onuryunisli/work/oazh5trljntqrb27fpvh.png",
-              "type": "image",
-              "alt": "Image may contain: fruit, food and fruit drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820467/onuryunisli/work/nntjy3pkuj4x1coiwfwb.png",
-              "type": "image",
-              "alt": "Image may contain: person, outdoor and clothing",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda"
-    },
-    {
       "slug": "azergold-10th-anniversary-brand-identity",
       "client": "AzerGold",
       "title": "10th Anniversary Brand Identity",
       "initials": "AZ",
-      "sector": "",
+      "sector": "Gold mining",
       "year": "2026",
       "services": [
         "brand",
@@ -1228,1686 +261,11 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/247281873/AzerGold-10th-Anniversary-Brand-Identity"
     },
     {
-      "slug": "brand-identity-istanbul-2027",
-      "client": "Istanbul 2027",
-      "title": "Brand Identity",
-      "initials": "I2",
-      "sector": "",
-      "year": "2026",
-      "services": [
-        "brand",
-        "3d"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1171815730?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/sxvlfc0kaqi6qrfwv5og.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/ocoeogjssjkvvrlcia8k.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/apoubfpp0rnxhasbfvik.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/gsdacyn5soolvvyfpof8.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/zfw1i2aptgjpu26ngubq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/wksqsykakksi40agszyk.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1171815730?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "We drew inspiration from the crescent and star of the glorious flag of the Republic of Türkiye for the logo of “Istanbul 2027 European Games,” the first major sports organization of the second century of the Türkiye.\n\nWe brought together our crescent and star with the shining star of the world, the city of Istanbul, and the growing Istanbul brand.\n\nIstanbul, which connects two continents, will now take the stage with the unifying power of sport.\n\nAdam Yunisov, the logo designer of the Baku 2015 First European Games, has now designed the logo for Istanbul 2027 European Games!\n\n​​​​​​​",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Türkiye Cumhuriyetinin yeni yüzyılının ilk büyük spor organizasyonu olan \"İstanbul 2027 Avrupa Oyunları\"nın logosu için Şanlı Cumhuriyetimizin ay yıldızlı bayrağından ilham aldık. \n\nDünyanın parlayan yıldızı İstanbul şehri ve gelişen İstanbul markası ile ay yıldızımızı bir araya getirdik.\n\nİki kıtayı birleştiren İstanbul şimdi de sporun birleştirici gücüyle görücüye çıkacak!\n\nBaku 2015 ilk Avrupa Oyunlarının logo tasarımcısı Adam Yunisov şimdi de İstanbul 2027 Avrupa Oyunları için tasarladı!",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/sxvlfc0kaqi6qrfwv5og.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/ocoeogjssjkvvrlcia8k.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/apoubfpp0rnxhasbfvik.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/gsdacyn5soolvvyfpof8.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/zfw1i2aptgjpu26ngubq.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/wksqsykakksi40agszyk.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/hv4hqxuswacgzoujnt4p.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/cwtdn4n4og9vb8vjuryt.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/tddrzlgwiqh5ihxddvai.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1171816185?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/axst8pczuwtpizgaxw6b.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820528/onuryunisli/work/hr3lnowlihsh6swvr8dd.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1189702444?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2400\" height=\"1792\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1189702593?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3160\" height=\"2310\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/wn0wwk1uggk31zmryyvi.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820526/onuryunisli/work/gpnb59d4ablyxsoiacb8.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/vs9gdjiqs9xlcufurhst.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/roakvccawl6ktxn9xqwi.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820528/onuryunisli/work/stkrtyyzvb5ex7fxpyiz.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/fgtphwpkzkghc2zmswzx.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820521/onuryunisli/work/y7gadurawai2bmrxvvdc.png",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820521/onuryunisli/work/htlvgl0fdk69zjjmhpzd.jpg",
-              "type": "image",
-              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/236894015/Brand-Identity-Istanbul-2027"
-    },
-    {
-      "slug": "livgrt-hydro8-branding-packaging-design",
-      "client": "LIVGRT",
-      "title": "HYDRO8 — Branding & Packaging Design",
-      "initials": "LI",
-      "sector": "",
-      "year": "2025",
-      "services": [
-        "brand",
-        "motion",
-        "3d",
-        "packaging"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1146237684?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2880\" height=\"1620\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/j0k9kbyh8dipdzdc9qzf.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/vnafyzyle5olsepgkvas.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/eifs3e33skfhtlu2o96p.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "The LIVGRT logo is designed to encapsulate the brand's focus on health and vitality. The logo \u0003creatively integrates the letter \"V\" into a symbol that resembles",
-        "blocks": [
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/j0k9kbyh8dipdzdc9qzf.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/rhjujhpzkvhdnwnywwbl.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/xo7hpyhlvsyvonmnxbkg.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/rsr0d9irklllngiibhnn.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/nrsn90unvoj7rw4szcrf.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/fb69vl1shu8weanhcovu.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/ry8bjuvwsigmr5dv7fev.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/kljgfwkvmaxkqsexf3yr.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1146237684?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2880\" height=\"1620\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/saryipjsyejyxdofz23a.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/wlz4f3aygemeaevbvtxr.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/pqhkcaptabfjdvfzyxhx.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/nvhbf7pah1xkvsglkgdz.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/vnafyzyle5olsepgkvas.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, indoor and book",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/vq9gcxagpg8smwvviejk.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/ac8yyh0h6a6valnju39q.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820481/onuryunisli/work/ogmjzy605czp8tlmypak.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/eifs3e33skfhtlu2o96p.png",
-              "type": "image",
-              "alt": "Image may contain: person, indoor and human face",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/chwpco0orlchj8v56pv8.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/rgj61vqcxuenisetyagm.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/omnckymvt4fz4n1d0zey.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820481/onuryunisli/work/xchysiwcrk2ohkn9zmqy.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820483/onuryunisli/work/txygfovvbtwv3movpyjg.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/dfgtq8jizyoneo4amdpj.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/gws1tbf6pnzwa6f1stbq.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/f3cuhxfpp8vyqvz6zrcb.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/240406245/LIVGRT-HYDRO8-Branding-Packaging-Design"
-    },
-    {
-      "slug": "alive-coffee-packaging-3d-animation",
-      "client": "Alive Coffee",
-      "title": "Packaging & 3D Animation",
-      "initials": "AC",
-      "sector": "",
-      "year": "2025",
-      "services": [
-        "brand",
-        "motion",
-        "3d",
-        "packaging"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1099894462?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/nfwkepnji52j7qwhczwd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/axog7yngrqr8llri2z7i.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/svye5cxqafe2sqtujc4w.jpg"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894462?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Alive Coffee - Packaging & 3D Animation\n\nAlive Coffee’s new packaging design shows the fresh and modern spirit of the brand.\nWith clean lines, bright details, and smooth 3D animation, the design highlights the energy and taste inside every cup. It is a simple but powerful visual story that makes the product feel alive and inspiring.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot, skyscraper and indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894088?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894071?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/nfwkepnji52j7qwhczwd.jpg",
-              "type": "image",
-              "alt": "Image may contain: skyscraper and screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/axog7yngrqr8llri2z7i.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894328?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/svye5cxqafe2sqtujc4w.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/w3vkkfxj8pyetr8ohhdg.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/c4us2jvkwr7orux4cyoe.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894189?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894402?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099894275?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1099895639?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/229946545/Alive-Coffee-Packaging-3D-Animation"
-    },
-    {
-      "slug": "badamli-mineral-water-vintage-packaging",
-      "client": "Badamli",
-      "title": "Mineral Water — Vintage Packaging",
-      "initials": "BA",
-      "sector": "",
-      "year": "2025",
-      "services": [
-        "brand",
-        "3d",
-        "packaging"
-      ],
-      "featured": true,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1198391280?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/yhfpuhrcyqnhaicl0w5n.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/mompoarret5js4thlrcd.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, we revived the brand’s iconic 1970s–1980s packaging style and reintroduced it under the nam",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198391280?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, we revived the brand’s iconic 1970s–1980s packaging style and reintroduced it under the name “Vintage Badamlı.” The classic retro label design was reimagined to bring the spirit of the past back to life on the bottle. The concept went beyond packaging, a special Vintage Badamlı car was also designed in the same nostalgic style.\n\nThe campaign was seamlessly integrated into old Azerbaijani films, taking viewers on a journey through time. Once launched on social media, it quickly captured the audience’s attention and admiration. By blending the taste and emotion of the past with today’s design language, we retold the story of Badamlı’s rich heritage.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, indoor and soft drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/yhfpuhrcyqnhaicl0w5n.png",
-              "type": "image",
-              "alt": "Image may contain: map",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198391134?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/mompoarret5js4thlrcd.png",
-              "type": "image",
-              "alt": "Image may contain: table, drink and indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
-              "type": "image",
-              "alt": "Image may contain: bottle and drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
-              "type": "image",
-              "alt": "Image may contain: wall and bottle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, drink and wine",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/npelbjdi6nv7fpyswdni.jpg",
-              "type": "image",
-              "alt": "Image may contain: bottle and drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/iampvuajlvsiexrij9ce.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, drink and beer",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/tcgrulflxw81kigapnkg.png",
-              "type": "image",
-              "alt": "Image may contain: indoor, bottle and drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/grjvpntfnufdwagjjpvj.jpg",
-              "type": "image",
-              "alt": "Image may contain: bottle, drink and beer",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/q6ms9dr8tbi7j9aoqnuz.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/jyy4r41ydbehrucoy8a9.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821458/onuryunisli/work/ih8qh4lvbrqt9lv5ml37.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, drink and table",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Premium Vintage Gift Box\n\nAs part of the 75th anniversary celebrations, a Premium Vintage Gift Box was created a beautifully crafted packaging that included the Vintage Badamlı bottle along with exclusive branded promotional items.These gift boxes were sent to business leaders, partners, and influential figures,serving as a unique way to introduce and celebrate Badamlı’s heritage.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/ompbjbjw2ifoyf5qorxp.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/c09ev4vvcmzwp0p7eiyx.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/echsghb08xofpq2xvqxx.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/hftpa7amxi0gxguig4qm.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Vintage Badamli - Nostalgic Atmosphere \n\nAs part of the project, we recreated a nostalgic atmosphere by integrating the Vintage Badamlı product into scenes from old Azerbaijani films, both in moments where Badamlı was originally featured decades ago, and in classic table-setting scenes. These clips were re-edited into short videos and shared on social media, sparking strong emotional connections and attracting significant public interest.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xwU8iyWsXSs?si=lDwBwstKIEzK-CeE\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3T21z27tWHY?si=PwS76W7GMAPx8EzG\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/232123155/Badamli-Mineral-Water-Vintage-Packaging"
-    },
-    {
-      "slug": "sirab-niy-seviln-su",
-      "client": "SIRAB",
-      "title": "Niyə Sevilən Su?",
-      "initials": "SI",
-      "sector": "",
-      "year": "2025",
-      "services": [
-        "brand",
-        "3d",
-        "packaging"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821547/onuryunisli/work/nbbhpo4qmcounlc9d1f1.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/rrsh8wyyl4vmlcc2pfrg.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/adjxzc1c0vtfgnynfbou.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/admiid4jtl4pmlwei0mv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821550/onuryunisli/work/ahuvvbkwwmpv2zcyunug.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821543/onuryunisli/work/jbnvneeluni6xjk3mbvi.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic natural resources, we at Element were proud to develop a campaign that honored its legacy",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic natural resources, we at Element were proud to develop a campaign that honored its legacy through both visual and narrative expression.\n\nAt the heart of the project was one simple question:\nWhy has Sirab remained so loved for 75 years?\n\nWe answered this by producing a 9-part video series, each episode highlighting a unique aspect of the brand’s enduring value — from its mineral composition to production standards and emotional connection with generations. All production was handled in-house by Element.\n\nThe campaign also featured a custom-designed, heart-shaped QR code, placed across product packaging and digital channels — giving users an interactive way to explore the brand’s story.\n\nThis project allowed us to reflect on the past, embrace the present, and shape the future of a truly beloved water brand.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
-              "type": "image",
-              "alt": "Image may contain: outdoor, sky and building",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821547/onuryunisli/work/nbbhpo4qmcounlc9d1f1.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, soft drink and drink",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198391129?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/rrsh8wyyl4vmlcc2pfrg.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/adjxzc1c0vtfgnynfbou.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, indoor and beverage",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BlUDFL6uYEU?si=aBc49BVZbvc6gfiY\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/admiid4jtl4pmlwei0mv.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, drink and beer",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zyt83siT818?si=pzJpzMAOuONfaQ89\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821550/onuryunisli/work/ahuvvbkwwmpv2zcyunug.png",
-              "type": "image",
-              "alt": "Image may contain: outdoor, tree and ground",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lxeOOEt-a1M?si=jCL7dER9QwnOExf_\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821543/onuryunisli/work/jbnvneeluni6xjk3mbvi.png",
-              "type": "image",
-              "alt": "Image may contain: person, green and clothing",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YESYT5IsHpc?si=c7IoJdva2Wq1VUus\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cmKpFwH3nUM?si=C9y5wb-3s9lU1dIU\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/as4OxGYKQTU?si=7W6n7yFJrFExMXJf\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NTsD8sSLbcU?si=UoQFkKnueNvCLs2-\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1gVqbSlWr6o?si=JYqm__Eo2-EK1tp9\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/229462795/Sirab-Niy-Seviln-Su"
-    },
-    {
-      "slug": "turkish-petroleum-exhibition-stand",
-      "client": "Turkish Petroleum",
-      "title": "Exhibition Stand",
-      "initials": "TP",
-      "sector": "",
-      "year": "2025",
-      "services": [
-        "motion",
-        "3d",
-        "spatial"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1198390371?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/owbyavbpo8omdspo4nbo.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/lwuiysvyentmlinkkjva.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/a5plutyllndnrqo3gziq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/xhaaxqhnbkqtmyjdocrm.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mrnb6mj6cnzdg843m4rx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/sg49lc9k7cvbhvpgo2bq.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "The Story Behind Our Stand As Turkish Petroleum, our exhibition stand at Baku Energy Week was crafted with a distinctive architectural language, inspired by the",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390371?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Inspired by the “Century of Türkiye” vision, this stand reflects the forward-looking and sustainable energy strategy of “Turkish Petroleum.” The crescent-and-star structure represents national identity and the journey of energy rising from deep underground to contribute to the country’s economy.\n\nLive greenery embedded in the crescent symbolizes environmental responsibility. \n\nThe curved LED screen displays powerful scenes from offshore and onshore operations. \n\nThe timeline displayed on the wall showcases the institutional memory and \n\ndevelopment journey of “Turkish Petroleum,” marking milestones and key achievements. \n\nLED lighting integrated into the floor symbolizes energy rising from the earth \n\nto the surface — making the invisible visible.\n\nThis is a space where design carries meaning, and every element tells \n\na story of vision, determination, and responsibility.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/owbyavbpo8omdspo4nbo.png",
-              "type": "image",
-              "alt": "Image may contain: different, furniture and chair",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/lwuiysvyentmlinkkjva.png",
-              "type": "image",
-              "alt": "Image may contain: indoor and sign",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/a5plutyllndnrqo3gziq.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/xhaaxqhnbkqtmyjdocrm.png",
-              "type": "image",
-              "alt": "Image may contain: person",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mrnb6mj6cnzdg843m4rx.png",
-              "type": "image",
-              "alt": "Image may contain: indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198399797?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/sg49lc9k7cvbhvpgo2bq.png",
-              "type": "image",
-              "alt": "Image may contain: indoor and red",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/h4uvuj2nylgyo9vxgxrw.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820535/onuryunisli/work/aany2hbydzubhphdlglf.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820535/onuryunisli/work/cw96a8pjavgor932rk1s.png",
-              "type": "image",
-              "alt": "Image may contain: furniture, screenshot and cartoon",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820536/onuryunisli/work/ixmlmpmisc1rrdjlsptd.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820536/onuryunisli/work/aylaigtleqrzrphdyeeu.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390376?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/U8nhuNU4DLg?si=Hkl03nae7h30kwmg\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820537/onuryunisli/work/cc0c4ldchclqx2vnbegv.png",
-              "type": "image",
-              "alt": "Image may contain: person, human face and clothing",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820537/onuryunisli/work/zqxcsghborzjxrvhbosm.png",
-              "type": "image",
-              "alt": "Image may contain: person, clothing and man",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/fbqexqxv8jgdzn7jhbd9.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mt9pbronwxj9bfe16dqy.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820539/onuryunisli/work/nruwwf2e29wj724qn1vc.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820544/onuryunisli/work/t6sjdie4fi3u0ctdsgzr.png",
-              "type": "image",
-              "alt": "Image may contain: person and people",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390979?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820545/onuryunisli/work/b6t7omjckalocsqqicps.png",
-              "type": "image",
-              "alt": "Image may contain: person",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820545/onuryunisli/work/hiyeiebpfescfti0kzub.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820544/onuryunisli/work/dfcxkkkl57kh1wtczhre.png",
-              "type": "image",
-              "alt": "Image may contain: indoor",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/228233515/Turkish-Petroleum-Exhibition-Stand"
-    },
-    {
-      "slug": "brand-identity-lamina-dekor",
-      "client": "Brand Identity",
-      "title": "Lamina Dekor",
-      "initials": "BI",
-      "sector": "",
-      "year": "2025",
-      "services": [
-        "brand",
-        "motion",
-        "spatial"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1198390839?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/sv4xkb0h6zwtbuiypb0j.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/egeq6ppecv3xfthhtm9e.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/l4lq0h1yvuggzwe2fz1t.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/khziltrth1xmdtphwkbd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/ufpovfcg6ttct0ouljfr.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/udkydzntnzwa1wl8rybr.jpg"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "At Lamina Dekor, we believe that great design begins with exceptional materials. Specializing in premium laminate flooring and high-quality kitchen countertops,",
-        "blocks": [
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
-              "type": "image",
-              "alt": "Image may contain: outdoor, piano and furniture",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "LAMINA DEKOR - BRAND IDENTITY\n\nAt Lamina Dekor, we believe that great design begins with exceptional materials.\nSpecializing in premium laminate flooring and high-quality kitchen countertops, we are dedicated to transforming everyday spaces into inspiring environments.\n\nOur vision is simple yet ambitious — to set new standards of quality, innovation, and service in the decorative surfaces industry. We continuously invest in advanced technologies and carefully curated designs to ensure that every product we deliver reflects superior craftsmanship and aesthetic excellence.\n\nDriven by a passion for perfection, we aim to provide our customers with not only beautiful and durable solutions but also an experience that exceeds expectations at every step. From initial concept to final installation, Lamina Dekor is committed to offering the highest level of customer satisfaction and long-term value.\n\nLooking ahead, we aspire to expand our reach both locally and internationally, becoming a trusted name synonymous with quality, reliability, and contemporary style.​​​​​​​\n\nClient | Dekor Group\n\nAgency: Element VS\n\nBaku, Azerbaijan | 2024",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/sv4xkb0h6zwtbuiypb0j.png",
-              "type": "image",
-              "alt": "Image may contain: musical instrument and piano",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "The logo is a combination of the letter “L” for “Lamina” and the letter “D” for “Decor”, forming diagonally arranged pieces of wood and crossed symbols.\n\nThe cross icon in the center of the logo represents precision in this area, \n\nas it reflects the size and shape of the furniture.\n\nThe use of orange in the color choice creates a strong and eye-catching \n\nimage of the brand.\n\nThe details and colors in the logo reflect the dynamism and professionalism of the brand.\nOverall, the logo emphasizes the brand image with a modern, trendy and \n\nminimalist design.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/egeq6ppecv3xfthhtm9e.jpg",
-              "type": "image",
-              "alt": "Image may contain: person and clothing",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390839?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/l4lq0h1yvuggzwe2fz1t.jpg",
-              "type": "image",
-              "alt": "Image may contain: land vehicle, wheel and vehicle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/khziltrth1xmdtphwkbd.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390277?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1800\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198390229?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"5430\" height=\"3434\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/ufpovfcg6ttct0ouljfr.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/udkydzntnzwa1wl8rybr.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198391247?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/t8kuirstfz0cwtqrexrb.jpg",
-              "type": "image",
-              "alt": "Image may contain: screenshot, poster and typography",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/an7u6z0l5lbhacjsjubq.jpg",
-              "type": "image",
-              "alt": "Image may contain: wooden, table and chair",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198391193?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1198391054?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/hwi1efakrmjjekimxfnl.jpg",
-              "type": "image",
-              "alt": "Image may contain: art, music and screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/szvgmz7fko8bedjhgybp.jpg",
-              "type": "image",
-              "alt": "Image may contain: abstract and screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/z8u8jbcmoghgsptrfrpm.jpg",
-              "type": "image",
-              "alt": "Image may contain: building, outdoor and city",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/mioghb1bgfkv8jacixdq.jpg",
-              "type": "image",
-              "alt": "Image may contain: outdoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/ul2rrudoxigpjrwhlzfh.jpg",
-              "type": "image",
-              "alt": "Image may contain: cartoon",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/wizpcxb04jjw9krmk0ur.png",
-              "type": "image",
-              "alt": "Image may contain: person, clothing and human face",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/uivpaadh7xeayfyocnla.jpg",
-              "type": "image",
-              "alt": "Image may contain: vehicle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/dsyspnew5tjuly4d2nuc.jpg",
-              "type": "image",
-              "alt": "Image may contain: indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/rnyjop0rjj5ockdyat6m.jpg",
-              "type": "image",
-              "alt": "Image may contain: letter, book and screenshot",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/vhe2yvz0hbea4umyflkk.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/223113601/Brand-Identity-Lamina-Dekor"
-    },
-    {
       "slug": "sirab-brand-identity-packaging",
       "client": "SIRAB",
       "title": "Brand Identity & Packaging",
       "initials": "SI",
-      "sector": "",
+      "sector": "Mineral water",
       "year": "2025",
       "services": [
         "brand",
@@ -3311,30 +669,30 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/222636877/SIRAB-Brand-Identity-Packaging"
     },
     {
-      "slug": "turkic-week-in-geneva",
-      "client": "Turkic Week in Geneva",
-      "title": "Turkic Week in Geneva",
-      "initials": "TW",
-      "sector": "",
-      "year": "2025",
+      "slug": "badamli-mineral-water-packaging-design",
+      "client": "Badamlı",
+      "title": "Mineral Water — Packaging Design",
+      "initials": "BA",
+      "sector": "Mineral water",
+      "year": "2023",
       "services": [
         "brand",
-        "motion",
-        "spatial"
+        "3d",
+        "packaging"
       ],
       "featured": false,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1066953749?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4392\" height=\"2776\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/813545258?h=5cf9fb2487&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/clbcjd0bgyouwazspark.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/kx9mbebua8o2yxo1mrhx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/ihsvzomalssz5n7uzi1u.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/j0ys4gpzlfdilbkyv4e9.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/ks1qy3fsj81s6xn3sivt.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/gs0fzpbykh4pocdjtjdn.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/swows5qixouhzhvx9pt3.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/vtaki0i9hxwduw1bdtfx.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/os0ojc0wlbtutkbgoqzp.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/zvrvtv2r9jytpptazkay.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/msfuy0akbogfllyp8z5g.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/da6iukk9vhnge7ac5taw.jpg"
       ],
       "detail": {
         "layout": "stream",
@@ -3342,51 +700,36 @@ window.SITE = {
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "The “Turkic Week” project, jointly organized by the Turkic World Organization (TDT) and other Turkic world organizations, aims to introduce the common culture, ",
+        "description": "Mineral springs of Badamli village located in Shahbuz appeared as a result of an earthquake in the late 19th century. In 1947, a small production area was estab",
         "blocks": [
           {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1066953749?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4392\" height=\"2776\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
+              "type": "image",
+              "alt": "Image may contain: bottle, drinking water and beverage",
+              "caption": ""
+            },
             "padding": 0
           },
           {
             "type": "text",
             "title": "",
-            "text": "TURKIC WEEK IN GENEVA\n\n \n\nThe “Turkic Week” project, jointly organized by the Turkic World Organization (TDT) \n\nand other Turkic World organizations, aims to introduce the common culture, artistic richness and strategic cooperation of Turkic states to the international public.\n\nAll visual communication designs for this spectacular event were created by the Element team. The designs presented within the scope of the project were built on a holistic visual language that combines tradition and modernity and carries the spirit of the Turkic world.",
+            "text": "Badamlı Mineral Water \n\nMineral springs of Badamli village located in Shahbuz appeared as a result of an earthquake in the late 19th century. In 1947, a small production area was established and the first manual water production was started.\n\nThe miraculous Badamli water is extracted at a height of 1274 meters above sea level. Natural mineral water, which is rich in mineral content for human health and meets national and international standards, has been decorating the tables 75 years.\n\nDesigner: Adam Yunisov, Hatam Yunisli\n\nPackaging & 3D Design: Hatam Yunisli\n\n3D Modelling: Hatam Yunisli & Onur Yunisli",
             "align": "left",
             "padding": 0
           },
           {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
-              "type": "image",
-              "alt": "Image may contain: building, outdoor and parking",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1066948932?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"5000\" height=\"3328\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/813545258?h=5cf9fb2487&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/clbcjd0bgyouwazspark.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/swows5qixouhzhvx9pt3.jpg",
               "type": "image",
-              "alt": "Image may contain: template",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/kx9mbebua8o2yxo1mrhx.png",
-              "type": "image",
-              "alt": "Image may contain: person, floor and clothing",
+              "alt": "",
               "caption": ""
             },
             "padding": 0
@@ -3395,13 +738,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821651/onuryunisli/work/cebxkunj2ofmat0pbzft.png",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/jjhuyezkoivv2tsboc0m.png",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821651/onuryunisli/work/zhlomti6xbfgfrzgnr3p.png",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/xcoop8drvbxag0qfwrol.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821555/onuryunisli/work/yl3jhzzlunvnehvx4cre.png",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3413,13 +762,13 @@ window.SITE = {
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1066948997?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/813535851?h=8d5db8c556&amp;autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/ihsvzomalssz5n7uzi1u.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/vtaki0i9hxwduw1bdtfx.jpg",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3427,16 +776,286 @@ window.SITE = {
             "padding": 0
           },
           {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/d32vkpcjjbobfu7mzrtw.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/ze3vpvxbpd8gqsv1aiya.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/kuommnqy5y9mjy0dhrlm.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/ndtvnqssbumfdlvrdn0p.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/os0ojc0wlbtutkbgoqzp.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/zvrvtv2r9jytpptazkay.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/msfuy0akbogfllyp8z5g.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/uhuhgbzoqhqhmi9arcy2.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/fdasriluaxf09z2hlpnd.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/da6iukk9vhnge7ac5taw.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821555/onuryunisli/work/dgwv4ymqx2kehtzy10iu.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/wcofii9icwjhmz8svck7.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/p2kykybwqa8n3mw70zsj.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/m2gwibgnqwnj6c0klw2f.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/sgdzxbkwt7e8v3muigc6.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/ryef2gkrngxng14mbjaa.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/o6isw7ltdr2wmfadnuk0.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/oeoz3dcjdppjh9c6eyvp.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/oiivrqbmbdwpov7nzw0z.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821558/onuryunisli/work/gzuucmdwuunnvcltc1tx.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/os9kdbtdhavcqosvme8u.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821558/onuryunisli/work/eexm4rsdushjs3if75yb.gif",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/167317263/Badamli-Mineral-Water-Packaging-Design"
+    },
+    {
+      "slug": "turkish-petroleum-baku-2026-exhibition-stand",
+      "client": "Turkish Petroleum",
+      "title": "Baku 2026 Exhibition Stand",
+      "initials": "TP",
+      "sector": "Energy",
+      "year": "2026",
+      "services": [
+        "motion",
+        "3d",
+        "spatial"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/rpiojvhumjemntqxx0h5.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/ezxidqhwzvui0hyzfrww.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/tl0vvs7kg3f8beknuubs.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/catfdfjzsb19iaiwdcnl.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "Turkish Petroleum Corporation (TPAO) Stand Design & Production For the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the exhib",
+        "blocks": [
+          {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1067237843?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/j0ys4gpzlfdilbkyv4e9.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
               "type": "image",
-              "alt": "Image may contain: person, standing and clothing",
+              "alt": "Image may contain: clothing, man and billboard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Turkish Petroleum Corporation (TPAO) Stand Design & Production\n\nFor the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the exhibition stand for Turkish Petroleum Corporation (TPAO).\n\nInspired by the strategic vision of Sultan Mehmed the Conqueror, the concept combines contemporary architecture with immersive exhibition design to reflect TPAO’s energy vision.\n\nFrom creative concept and design to 3D visualization, production, and on-site implementation, the entire project was executed by Element.\n\nThe stand received the “Most Creative Stand” award at the exhibition.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/rpiojvhumjemntqxx0h5.png",
+              "type": "image",
+              "alt": "Image may contain: suit, clothing and man",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PblWKhr74nw?si=2cZ8pANt7rALFnX0\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/ezxidqhwzvui0hyzfrww.png",
+              "type": "image",
+              "alt": "Image may contain: clothing, person and footwear",
               "caption": ""
             },
             "padding": 0
@@ -3444,9 +1063,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/ks1qy3fsj81s6xn3sivt.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/tl0vvs7kg3f8beknuubs.png",
               "type": "image",
-              "alt": "Image may contain: tree, outdoor and billboard",
+              "alt": "Image may contain: clothing, person and building",
               "caption": ""
             },
             "padding": 0
@@ -3454,7 +1073,251 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/gs0fzpbykh4pocdjtjdn.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/catfdfjzsb19iaiwdcnl.png",
+              "type": "image",
+              "alt": "Image may contain: building, clothing and person",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/gf4lmjikxqukz9xha1eh.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/yt4aoo9vkxsijjjgzigo.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, exhibition and billboard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1208310516?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"2048\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/ztas9cs7ad60nyfi6wjw.png",
+              "type": "image",
+              "alt": "Image may contain: furniture, vase and coffee table",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1208310515?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"2048\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/qbxp4mr7vk8weonxizfe.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/ilh7wqbabu2jedina0um.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/sabosrcdfot9kuiishdu.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/jpy58mrd5zfauorcvcaa.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1208312097?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4000\" height=\"2000\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1208313788?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/zjlf47ke767i3hp9ion8.png",
+              "type": "image",
+              "alt": "Image may contain: sign and person",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/naww05iaehmxxls1cs4b.png",
+              "type": "image",
+              "alt": "Image may contain: clothing, table and furniture",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/251377447/Turkish-Petroleum-Baku-2026-Exhibition-Stand"
+    },
+    {
+      "slug": "azvirt-rebranding",
+      "client": "AZVIRT",
+      "title": "Rebranding",
+      "initials": "AZ",
+      "sector": "Road infrastructure",
+      "year": "2024",
+      "services": [
+        "brand"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/996535649?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/bqegsqly7tbsty5r9i1r.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/szndgyarqtlseigsvupd.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/vvoefhkiojgpggmjswim.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/rxtnnhndlvavraliwjxi.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/i3xxwhjon4xewouzhcsy.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/uqinutjqisc8amlc36o9.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "As Element Company, we are proud to present the rebranding process we carried out for 'Azvirt,' one of the largest and most renowned road construction companies",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/996535649?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "AZVIRT\n\nAs Element Company, we are proud to present the rebranding process we carried out for 'Azvirt,' one of the largest and most renowned road construction companies in Azerbaijan.\n\nThe new logo and brand identity we created for the company reflect the strong and sustainable operations of a company with a 30-year history, which has successfully completed important infrastructure projects such as highways, airports, and bridges—our nation's eternal assets leading us into the future.\n\nAgency: Element \n\nCreative Direction & Logo: Adam Yunisov\n\nArt Direction: Hatam Yunisli\n\nDesigner: Alibey Alizade\n\nMotion Designer: Onur Yunisli\n\nCopywriter: Jeyhun Ismayilov",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+              "type": "image",
+              "alt": "Image may contain: abstract",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "The logo of AzVirt was redesigned in Azerbaijan, It has been designed to modern, international standards, taking into account the fact that it has gained sufficient reputation outside the country. The main meaning remains intact and is symbolized by a minimalist and modern design. The logo of the globally recognized company is no longer a separate combination, but is visualized in the form of “AZVIRT” in a more \n\ncreative and modern reflection.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/bqegsqly7tbsty5r9i1r.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, vehicle and land vehicle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821591/onuryunisli/work/tcsq8d7tvwe7x9vzsvko.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 1,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/szndgyarqtlseigsvupd.png",
+              "type": "image",
+              "alt": "Image may contain: sky, outdoor and vehicle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/999425465?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/vvoefhkiojgpggmjswim.png",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -3464,9 +1327,49 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821657/onuryunisli/work/wfuekqzjv0svdryy31bl.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/rxtnnhndlvavraliwjxi.png",
               "type": "image",
-              "alt": "Image may contain: person, indoor and clothing",
+              "alt": "Image may contain: person, outdoor and sky",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/i3xxwhjon4xewouzhcsy.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot and ship",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/uqinutjqisc8amlc36o9.png",
+              "type": "image",
+              "alt": "Image may contain: tree, outdoor and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/u13ssexxygjzffgfbade.png",
+              "type": "image",
+              "alt": "Image may contain: building",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/ofecm3jwjr6h7cbzxmhx.jpg",
+              "type": "image",
+              "alt": "Image may contain: sky, screenshot and vehicle",
               "caption": ""
             },
             "padding": 0
@@ -3475,13 +1378,404 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821654/onuryunisli/work/spy6hlnu3bbh7iwubaod.png",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/akeni50tjymgebpdovzc.png",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/pwqppsxk3yngmkfalhl5.png",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/xdyiy3rt7yweris59qph.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/999440152?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/estkcpg94vms3laypnak.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot, transport and outdoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/f1mnufmqnz1qa9ybtefr.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 1,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/fmqbinsftsdlhbvobjz6.png",
+              "type": "image",
+              "alt": "Image may contain: person, man and orange",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/w5llnhrln4swq9sntgrx.png",
+              "type": "image",
+              "alt": "Image may contain: cartoon and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/cv7ug7ko6miglvjl7byx.png",
+              "type": "image",
+              "alt": "Image may contain: cartoon and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821602/onuryunisli/work/jn7o3xu0rilz5mnjbn1j.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot and cartoon",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821602/onuryunisli/work/mfuemcvwnp3ejjlyxalx.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821603/onuryunisli/work/wf0qlxhxsrunbnnjb98v.png",
+              "type": "image",
+              "alt": "Image may contain: sky, outdoor and flag",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821598/onuryunisli/work/sww8lhggiurjdaqgj099.jpg",
+              "type": "image",
+              "alt": "Image may contain: indoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/z4mwqjyvk6tnboysunk7.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/o8eno5cv8o7vik4seszi.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 1,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821599/onuryunisli/work/djn89zzyj8op7wasqw97.png",
+              "type": "image",
+              "alt": "Image may contain: hat, umbrella and fashion accessory",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821603/onuryunisli/work/fvyorxotwsqmokenz4sw.jpg",
+              "type": "image",
+              "alt": "Image may contain: necktie",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "We are thrilled to showcase our latest project for Azvirt, a leading company specializing in road construction. As Azvirt Company celebrates its 30th anniversary in 2025, Element has crafted a special commemorative logo. This design retains the essence of Azvirt’s original logo while seamlessly integrating the number 30 to mark this significant milestone. Our goal was to honor their rich history and enduring impact in the industry with a modern yet respectful update to their visual identity.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/h5moxd7lbg8jcf1awvd3.jpg",
+              "type": "image",
+              "alt": "Image may contain: outdoor, yellow and fashion accessory",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821601/onuryunisli/work/yox6uwpvo85qev63tlfr.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821604/onuryunisli/work/jq2b9jsv2mnb6p5jazfm.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/999426453?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/205164583/AZVIRT-Rebranding"
+    },
+    {
+      "slug": "baku-resort-spa-hotel-brand-identity",
+      "client": "Baku Resort & Spa",
+      "title": "Hotel Brand Identity",
+      "initials": "BR",
+      "sector": "Hospitality",
+      "year": "2026",
+      "services": [
+        "brand",
+        "motion"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/iolc2g28p5vdgfnzhq03.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ke31xgyfnur0x1rctkk7.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/m6vfhr6xe4rw4lawli2c.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ejv4imjb8uyixz2g82vv.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/amci4wgyx4xwfcggrcyt.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/m6b2xptf0vdheexec7s6.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "Element developed the complete Brand Identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan. The project included logo design, visual identity,",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Element developed the complete Brand Identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan.\n\nThe project included logo design, visual identity, brand guidelines, and a cohesive corporate identity system, creating a consistent brand experience across every touchpoint.\n\nInspired by Azerbaijani architectural heritage, the logo combines traditional arch forms and ornamental motifs with a contemporary graphic approach. The identity reflects the elegance of Azerbaijani culture while expressing the premium hospitality experience of Baku Resort & Spa.\n\nDesigned to be timeless, recognizable, and adaptable, the new identity establishes a distinctive visual language that strengthens the brand across both physical and digital environments.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+              "type": "image",
+              "alt": "Image may contain: door, architecture and facade",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/iolc2g28p5vdgfnzhq03.png",
+              "type": "image",
+              "alt": "Image may contain: metal, font and sign",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ke31xgyfnur0x1rctkk7.png",
+              "type": "image",
+              "alt": "Image may contain: houseplant, vase and wall",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/m6vfhr6xe4rw4lawli2c.png",
+              "type": "image",
+              "alt": "Image may contain: interior design, indoor and furniture",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ejv4imjb8uyixz2g82vv.png",
+              "type": "image",
+              "alt": "Image may contain: book, pen and handwriting",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/amci4wgyx4xwfcggrcyt.png",
+              "type": "image",
+              "alt": "Image may contain: accessory, fashion accessory and umbrella",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/m6b2xptf0vdheexec7s6.png",
+              "type": "image",
+              "alt": "Image may contain: furniture, houseplant and couch",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/s5dydhrqrwbqcqcf8tth.png",
+              "type": "image",
+              "alt": "Image may contain: tableware, drink and drinkware",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/smwmwhbotpei33rbsgkl.png",
+              "type": "image",
+              "alt": "Image may contain: indoor, menu and table",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1215174345?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820450/onuryunisli/work/kbhc41dgbfmtkpfswyql.jpg",
+              "type": "image",
+              "alt": "Image may contain: indoor, hall and furniture",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820460/onuryunisli/work/u87hmqg6bqsk5scjezgw.png",
+              "type": "image",
+              "alt": "Image may contain: indoor, interior design and wall",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820460/onuryunisli/work/i0nazdy4pudwfppayuhx.png",
+              "type": "image",
+              "alt": "Image may contain: indoor, furniture and wall",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/fx6n96fl3qravagrbjcd.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/oafybksokerjepmbcree.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/ehes04pvbhzn3pzoo0cn.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/y4cosm4f3qvi3bupguut.png",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3494,9 +1788,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821652/onuryunisli/work/cbpimewrv7oti8jivwqu.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/aqvmlpmx6siu9rubkqln.png",
               "type": "image",
-              "alt": "Image may contain: screenshot, print and template",
+              "alt": "Image may contain: person, indoor and clothing",
               "caption": ""
             },
             "padding": 0
@@ -3504,9 +1798,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821653/onuryunisli/work/fa3l0vxeueli4wxyupok.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820452/onuryunisli/work/jpega1hnixa04bjvtk6h.png",
               "type": "image",
-              "alt": "Image may contain: illustration",
+              "alt": "Image may contain: clothing, person and food",
               "caption": ""
             },
             "padding": 0
@@ -3514,40 +1808,136 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821654/onuryunisli/work/tg6qcsokxljmngc6yohq.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820455/onuryunisli/work/pgy1siry1bglzhogigk7.png",
               "type": "image",
-              "alt": "Image may contain: accessory",
+              "alt": "Image may contain: clothing and collar",
               "caption": ""
             },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820453/onuryunisli/work/sukoyj3krc39vsijffxj.png",
+              "type": "image",
+              "alt": "Image may contain: letter, paper and handwriting",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820464/onuryunisli/work/jju6ni4dvrcclpmj00o4.png",
+              "type": "image",
+              "alt": "Image may contain: transport, vehicle and bus",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820455/onuryunisli/work/lzkaarrzy1gjhan2rlvx.png",
+              "type": "image",
+              "alt": "Image may contain: sky, outdoor and cloud",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820456/onuryunisli/work/n5dztjcufdqz2cl7m8du.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, sky and plant",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820456/onuryunisli/work/anjlaj7yhbogvrdqrrj2.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, sky and tree",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820457/onuryunisli/work/bmj2ppiu3exkddmvtzeb.png",
+              "type": "image",
+              "alt": "Image may contain: indoor, interior design and pillow",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/adl0qam38hjrwoj6jsdm.jpg",
+              "type": "image",
+              "alt": "Image may contain: clothing, sky and outdoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/irpiamhywgv5j7oroa99.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820459/onuryunisli/work/t4grcmjjp3d2aiheqqeq.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820459/onuryunisli/work/z4t5bwpvqmzspvh9090z.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           }
         ]
       },
-      "behanceUrl": "https://www.behance.net/gallery/221090663/Turkic-Week-in-Geneva"
+      "behanceUrl": "https://www.behance.net/gallery/253708217/Baku-Resort-Spa-Hotel-Brand-Identity"
     },
     {
-      "slug": "rebranding-lezzet-qida-senaye",
-      "client": "Rebranding",
-      "title": "Lezzet Qida Senaye",
-      "initials": "RE",
-      "sector": "",
-      "year": "2024",
+      "slug": "livgrt-hydro8-branding-packaging-design",
+      "client": "LIVGRT",
+      "title": "HYDRO8 — Branding & Packaging Design",
+      "initials": "LI",
+      "sector": "Health & supplements",
+      "year": "2025",
       "services": [
-        "brand"
+        "brand",
+        "motion",
+        "3d",
+        "packaging"
       ],
-      "featured": false,
+      "featured": true,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1023248442?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1146237684?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2880\" height=\"1620\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/a4ysc7ckighkk9mbmc7e.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/vdkiaznl4aurmw4isqqr.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/fpfzrlo93w7rudzobubm.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mm0zyfmjce6qb00vgj7m.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/xx26kxuohvmro2kyqjbk.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821683/onuryunisli/work/b9jjypuirskepxkquanl.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/j0k9kbyh8dipdzdc9qzf.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/vnafyzyle5olsepgkvas.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/eifs3e33skfhtlu2o96p.png"
       ],
       "detail": {
         "layout": "stream",
@@ -3555,89 +1945,12 @@ window.SITE = {
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "Introducing the New Branding for “Lazzat” As Element, we are proud to present a new logo and brand identity crafted exclusively for “Lazzat,” a leading name in ",
+        "description": "The LIVGRT logo is designed to encapsulate the brand's focus on health and vitality. The logo \u0003creatively integrates the letter \"V\" into a symbol that resembles",
         "blocks": [
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "LƏZZƏT QİDA\n\nIntroducing the New Branding for “Lazzat”\nAs Element, we are proud to present a new logo and brand identity crafted exclusively for “Lazzat,” a leading name in Azerbaijan’s food industry. This updated design captures the essence of consumer loyalty and the brand’s steadfast commitment to quality.\n\nThe new slogan, “Lazzat al!” (“Take pleasure from life, be happy!”), conveys the brand’s story and the customers' affinity for the brand. Blending a modern and minimalist aesthetic with traditional values, this brand identity reflects “Lazzat’s” innovative spirit and cultural heritage. Through this project, we aim to further solidify the brand’s unique position in the local market and usher in a new era for the Azerbaijani food industry.\n\nAgency: Element \n\nCreative Direction & Logo: Adam Yunisov\n\nArt Direction: Hatam Yunisli\n\nDesigner: Alibey Alizade\n\nMotion Designer: Onur Yunisli\n\nCopywriter: Jeyhun Ismayilov",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/a4ysc7ckighkk9mbmc7e.png",
-              "type": "image",
-              "alt": "Image may contain: indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/vdkiaznl4aurmw4isqqr.png",
-              "type": "image",
-              "alt": "Image may contain: illustration",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/fpfzrlo93w7rudzobubm.png",
-              "type": "image",
-              "alt": "Image may contain: person, man and indoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mm0zyfmjce6qb00vgj7m.png",
-              "type": "image",
-              "alt": "Image may contain: building, outdoor and brick",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/xx26kxuohvmro2kyqjbk.png",
-              "type": "image",
-              "alt": "Image may contain: sign",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821683/onuryunisli/work/b9jjypuirskepxkquanl.png",
-              "type": "image",
-              "alt": "Image may contain: person, woman and human face",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/lnexds9xqgbe0ybzivjc.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3647,127 +1960,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/kyixdkb0lwhctrj0ud99.png",
-              "type": "image",
-              "alt": "Image may contain: letter, book and businesscard",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/ptwysqcybk37kxudy2ft.png",
-              "type": "image",
-              "alt": "Image may contain: outdoor, building and truck",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/s4svl8qbmussm8dgz4zd.png",
-              "type": "image",
-              "alt": "Image may contain: person, man and human face",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821682/onuryunisli/work/lu34f1evajubpgqtsolq.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot, handwriting and letter",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mq9forvjtgzxo87lcvuj.png",
-              "type": "image",
-              "alt": "Image may contain: human face, baby and smile",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mhonzxfewqsckiucuki6.png",
-              "type": "image",
-              "alt": "Image may contain: grass, human face and smile",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821684/onuryunisli/work/q7fircblkvfrqtly1yp3.png",
-              "type": "image",
-              "alt": "Image may contain: cartoon",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821689/onuryunisli/work/ykl1abxlhzphuqs6kvav.png",
-              "type": "image",
-              "alt": "Image may contain: sky and sign",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/ixpoxg5xoqf2qfezj5ic.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot, person and man",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/kygcaffpaogjitqnfti8.png",
-              "type": "image",
-              "alt": "Image may contain: screenshot, print and geometry",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/q27b2ufrugq9hdk58gmd.png",
-              "type": "image",
-              "alt": "Image may contain: fast food, food and snack",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821692/onuryunisli/work/ixqgpc0ahbcetsrr3rpp.png",
-              "type": "image",
-              "alt": "Image may contain: box, waste container and businesscard",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/ygpwvofp8xdoiu5skn2a.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/j0k9kbyh8dipdzdc9qzf.png",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3775,102 +1968,257 @@ window.SITE = {
             "padding": 0
           },
           {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/roceue1p2um0lz8nl6cz.png",
-              "type": "image",
-              "alt": "Image may contain: businesscard",
-              "caption": ""
-            },
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/rhjujhpzkvhdnwnywwbl.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/xo7hpyhlvsyvonmnxbkg.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           },
           {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/dqsvp9aovw6o0kmupbeo.png",
-              "type": "image",
-              "alt": "Image may contain: stationary and illustration",
-              "caption": ""
-            },
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/rsr0d9irklllngiibhnn.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/nrsn90unvoj7rw4szcrf.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           },
           {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/r9n4ti6u5ocibsitivrv.png",
-              "type": "image",
-              "alt": "Image may contain: cartoon, human face and person",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/asctiejbglyx1kjojbn2.png",
-              "type": "image",
-              "alt": "Image may contain: person, red and clothing",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821688/onuryunisli/work/mmlycizl8wdmr61krqxj.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821692/onuryunisli/work/gpmmkofmljrh9ih3c03r.png",
-              "type": "image",
-              "alt": "Image may contain: active shirt, sleeve and sports uniform",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821691/onuryunisli/work/ufeatwxuu50kti4kd75s.png",
-              "type": "image",
-              "alt": "Image may contain: billboard and flag",
-              "caption": ""
-            },
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/fb69vl1shu8weanhcovu.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/ry8bjuvwsigmr5dv7fev.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/kljgfwkvmaxkqsexf3yr.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1023248442?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1146237684?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2880\" height=\"1620\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/saryipjsyejyxdofz23a.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/wlz4f3aygemeaevbvtxr.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/pqhkcaptabfjdvfzyxhx.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/nvhbf7pah1xkvsglkgdz.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/vnafyzyle5olsepgkvas.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, indoor and book",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/vq9gcxagpg8smwvviejk.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/ac8yyh0h6a6valnju39q.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820481/onuryunisli/work/ogmjzy605czp8tlmypak.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/eifs3e33skfhtlu2o96p.png",
+              "type": "image",
+              "alt": "Image may contain: person, indoor and human face",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/chwpco0orlchj8v56pv8.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/rgj61vqcxuenisetyagm.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/omnckymvt4fz4n1d0zey.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820481/onuryunisli/work/xchysiwcrk2ohkn9zmqy.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820483/onuryunisli/work/txygfovvbtwv3movpyjg.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/dfgtq8jizyoneo4amdpj.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/gws1tbf6pnzwa6f1stbq.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/f3cuhxfpp8vyqvz6zrcb.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           }
         ]
       },
-      "behanceUrl": "https://www.behance.net/gallery/207577561/Rebranding-Lezzet-Qida-Senaye"
+      "behanceUrl": "https://www.behance.net/gallery/240406245/LIVGRT-HYDRO8-Branding-Packaging-Design"
     },
     {
-      "slug": "alive-skin-beauty-3d-product-rendering-animation",
-      "client": "Alive Skin & Beauty",
-      "title": "3D Product Rendering & Animation",
-      "initials": "AS",
-      "sector": "",
-      "year": "2024",
+      "slug": "social-media-motion-badamli",
+      "client": "Badamlı",
+      "title": "Social Media — Motion",
+      "initials": "BA",
+      "sector": "Mineral water",
+      "year": "2023",
       "services": [
         "motion",
-        "3d",
-        "packaging"
+        "3d"
       ],
       "featured": false,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1030336653?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
+      "video": "<iframe src=\"https://player.vimeo.com/video/820312951?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -3881,76 +2229,64 @@ window.SITE = {
         "blocks": [
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336653?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Alive Skin & Beauty\n\nDesign and animation package for Alive Skin & Beauty’s collagen product launch redefines the brand’s identity through a seamless blend of innovation and elegance.\nBy utilizing a mix of 3D animation, motion graphics, and minimalist design, I crafted an immersive visual experience that highlights the essence of each product.",
-            "align": "left",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820312951?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030343281?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820164168?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030343396?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820332987?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336129?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820333019?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336056?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820333049?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336172?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820333073?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030338144?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820333099?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030339350?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/820333131?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336105?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336219?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1030336261?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
             "padding": 0
           }
         ]
       },
-      "behanceUrl": "https://www.behance.net/gallery/212662139/Alive-Skin-Beauty-3D-Product-Rendering-Animation"
+      "behanceUrl": "https://www.behance.net/gallery/168964795/Social-Media-Motion-Badamli"
     },
     {
       "slug": "alive-packaging-design-product-rendering",
       "client": "ALIVE",
       "title": "Packaging Design & Product Rendering",
       "initials": "AL",
-      "sector": "",
+      "sector": "Wellness & beverage",
       "year": "2024",
       "services": [
         "3d",
@@ -4364,22 +2700,32 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/210318207/ALIVE-Packaging-Design-Product-Rendering"
     },
     {
-      "slug": "energy-drink-social-media-motions",
-      "client": "Energy Drink",
-      "title": "Social Media - Motions",
-      "initials": "ED",
-      "sector": "",
-      "year": "2024",
+      "slug": "dinamit-energy-drink-package-design-brand-identity",
+      "client": "Dinamit",
+      "title": "Package Design & Brand Identity",
+      "initials": "DE",
+      "sector": "Energy drinks",
+      "year": "2023",
       "services": [
+        "brand",
         "motion",
-        "3d"
+        "3d",
+        "packaging"
       ],
       "featured": false,
       "status": "published",
-      "video": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=03cee500-6e7f-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
+      "video": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35523e42-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/b0vk6gv6xu1lwbl4unrl.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/byypqrtcwnjdvwfcczqq.png"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -4389,84 +2735,21 @@ window.SITE = {
         "description": "",
         "blocks": [
           {
-            "type": "embed",
-            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=03cee500-6e7f-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
             "padding": 0
           },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1007575677?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1007575731?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1007578720?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1007578737?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1007580941?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1007580332?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/207473567/Energy-Drink-Social-Media-Motions"
-    },
-    {
-      "slug": "packaging-sirab-sport-water",
-      "client": "SIRAB",
-      "title": "Packaging — Sport Water",
-      "initials": "SI",
-      "sector": "",
-      "year": "2024",
-      "services": [
-        "brand",
-        "3d",
-        "packaging"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1006116233?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/htgc5flh4xbgtkrl0z3z.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/as6ujtscjqnd2v1grvnx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/wqmec4latx65knqws968.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/honr4fhym81dgstilpxr.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/yqcutboxkchlbapur0mx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821461/onuryunisli/work/ley463wzrbsgn0tg3jfg.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "We are proud to Introduce Sirab’s New “Sport Cap” Water Product! We're excited to present the \"Sport Cap\" water product, a new addition to the Sirab family. The",
-        "blocks": [
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
               "type": "image",
-              "alt": "Image may contain: screenshot and cartoon",
+              "alt": "",
               "caption": ""
             },
             "padding": 0
@@ -4474,16 +2757,16 @@ window.SITE = {
           {
             "type": "text",
             "title": "",
-            "text": "We are proud to Introduce Sirab’s \n\nNew “Sport Cap” Water Product!\n\nWe're excited to present the \"Sport Cap\" water product, a new addition to the Sirab family. The creative idea and concept belongs to Element. This product is designed to enhance and support the water drinking habits that are essential for modern, health-focused lifestyles.\n\nSpecifically crafted for athletes, fitness enthusiasts, and everyday walkers, this innovative product features a practical design that seamlessly integrates into active routines. The packaging also includes a scale that tracks your daily water intake, encouraging you to \"Reach the Target\" and stay hydrated throughout the day.\n\nThis new design perfectly balances aesthetic appeal with functionality, making it the ideal choice for those who value both style and health.\n\nClient: Sirab\n\nAgency: Element \n\nCreative Direction: Adam Yunisov\n\nArt Direction: Hatam Yunisli\n\nPackaging & 3D Design: Hatam Yunisli\n\nDesigner: Alibey Alizade\n\nMotion Design & 3D Modelling: Onur Yunisli\n\nCopywriter: Jeyhun Ismayilov",
+            "text": "Dinamit®\n\nDinamit energy drink has been produced by Enna LLC since 2022. Dinamit is an energy drink developed on the basis of technologies that meet world standards to ensure customer and consumer satisfaction. Dinamit meets true energy drink standards with its taurine and caffeine content. The drink is prepared with \"non-contact production principles\" from the beginning of production to the customer. Dinamit energy drink is offered to its customers in 250 ml and 500 ml packaging.\n\nLogo & Packaging design  |  Adam Yunisov\n\nArt Direction |  Hatam Yunisli\n\nDesigner  |  Parviz Babayev  &  Amir Nazirov & Jalal Mammadov​​​​​​​\n\nCopywriting  |  Jeyhun Ismayilov\n\nMotion Designer  |  Hatam Yunisli & Onur Yunisli\n\n3D Designer  |  Hatam Yunisli\n\nProject  |  Element",
             "align": "left",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/htgc5flh4xbgtkrl0z3z.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
               "type": "image",
-              "alt": "Image may contain: bottle, beverage and drinking water",
+              "alt": "",
               "caption": ""
             },
             "padding": 0
@@ -4491,88 +2774,672 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/as6ujtscjqnd2v1grvnx.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
               "type": "image",
-              "alt": "Image may contain: bottle",
+              "alt": "",
               "caption": ""
             },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/b0vk6gv6xu1lwbl4unrl.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/byypqrtcwnjdvwfcczqq.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/b1efoj0aagfb9oa8f3bc.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/s3lcg4mgtvlxlybuk6fk.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 1,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/mxw8lusd3krrljmkovu1.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/blncx9w6x7eshmtogubq.gif",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/stublbxydg3zwqv7lowq.gif",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/rizv64qoqcifqula9rvt.gif",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/tf4qotb7bpbluexirpqx.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/fs8b1zj4tjj6z8hic4a1.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/ghylbljkxwh53sd0yeby.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/tiuxgnfip3fyf8mnh9qo.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/lx7iaqpyy23utajcvt7u.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/tsdaqi9x1znv283cnuf6.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/pvd1ud42z18bnssxmklj.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/chogr3xbodnjusnwr4uq.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/xpmmbsd2gfon5q8hh0hu.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/hyqie6zx63xsyakns4el.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/futrrveva25reg4zs9ev.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/grpe1aqypsnaqz8r3rgo.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/ltbc1jde4plpyrrmwc7c.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/hcxttn5h1gemavq7x3ff.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/psphxkoxsqkapfefm002.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/vkokqatqssn1lh50nrrh.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/x4vmhqs3w1cgcacxcksv.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/wwpdhty1sdg1j9ux4llc.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/gdaqvc9bufuzrpqeytlf.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/movmllpbiimxeqnco79b.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/axjbgyiqbz9xcotdwv13.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/cbnha83emtuh3sclssk6.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/fi9ryjk7ueq74io6sxnb.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/puqmb5tgze3aadrs2etw.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/jk7fo2yizeajdcun5iij.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/jhzkqzl4jv88zs6t7ver.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/o5zvqcumonuovehaioxo.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/hplyudubl7uahrjwbyil.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/jefwv2qbwo6erx06rjvq.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/mr7om2bldfdezbqywase.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/uo1nrkvvsqu0rays0wpm.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/estrf5cyekgdhzuo00ic.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/tewe06fuvj0aayt6d1vi.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/1006116233?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35523e42-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=16be1a1e-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ce0273f6-adf0-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/wqmec4latx65knqws968.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/hvbryqp7takocbyjjzvo.png",
               "type": "image",
-              "alt": "Image may contain: outdoor, truck and vehicle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/honr4fhym81dgstilpxr.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, beverage and drinking water",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/yqcutboxkchlbapur0mx.png",
-              "type": "image",
-              "alt": "Image may contain: tree and outdoor",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821461/onuryunisli/work/ley463wzrbsgn0tg3jfg.png",
-              "type": "image",
-              "alt": "Image may contain: bottle, indoor and plastic bottle",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/jeuvl2v9rcnx6ero6seb.png",
-              "type": "image",
-              "alt": "Image may contain: person, footwear and poster",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/rzuhhyvcsvofvsqr9xoh.png",
-              "type": "image",
-              "alt": "Image may contain: outdoor, bicycle and sports equipment",
+              "alt": "",
               "caption": ""
             },
             "padding": 0
           }
         ]
       },
-      "behanceUrl": "https://www.behance.net/gallery/206425751/Packaging-Sirab-Sport-Water"
+      "behanceUrl": "https://www.behance.net/gallery/163848123/Dinamit-Energy-Drink-Package-Design-Brand-Identity"
+    },
+    {
+      "slug": "turkish-petroleum-exhibition-stand",
+      "client": "Turkish Petroleum",
+      "title": "Exhibition Stand",
+      "initials": "TP",
+      "sector": "Energy",
+      "year": "2025",
+      "services": [
+        "motion",
+        "3d",
+        "spatial"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1198390371?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/owbyavbpo8omdspo4nbo.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/lwuiysvyentmlinkkjva.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/a5plutyllndnrqo3gziq.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/xhaaxqhnbkqtmyjdocrm.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mrnb6mj6cnzdg843m4rx.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/sg49lc9k7cvbhvpgo2bq.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "The Story Behind Our Stand As Turkish Petroleum, our exhibition stand at Baku Energy Week was crafted with a distinctive architectural language, inspired by the",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390371?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Inspired by the “Century of Türkiye” vision, this stand reflects the forward-looking and sustainable energy strategy of “Turkish Petroleum.” The crescent-and-star structure represents national identity and the journey of energy rising from deep underground to contribute to the country’s economy.\n\nLive greenery embedded in the crescent symbolizes environmental responsibility. \n\nThe curved LED screen displays powerful scenes from offshore and onshore operations. \n\nThe timeline displayed on the wall showcases the institutional memory and \n\ndevelopment journey of “Turkish Petroleum,” marking milestones and key achievements. \n\nLED lighting integrated into the floor symbolizes energy rising from the earth \n\nto the surface — making the invisible visible.\n\nThis is a space where design carries meaning, and every element tells \n\na story of vision, determination, and responsibility.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/owbyavbpo8omdspo4nbo.png",
+              "type": "image",
+              "alt": "Image may contain: different, furniture and chair",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/lwuiysvyentmlinkkjva.png",
+              "type": "image",
+              "alt": "Image may contain: indoor and sign",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/a5plutyllndnrqo3gziq.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/xhaaxqhnbkqtmyjdocrm.png",
+              "type": "image",
+              "alt": "Image may contain: person",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mrnb6mj6cnzdg843m4rx.png",
+              "type": "image",
+              "alt": "Image may contain: indoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198399797?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/sg49lc9k7cvbhvpgo2bq.png",
+              "type": "image",
+              "alt": "Image may contain: indoor and red",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/h4uvuj2nylgyo9vxgxrw.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820535/onuryunisli/work/aany2hbydzubhphdlglf.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820535/onuryunisli/work/cw96a8pjavgor932rk1s.png",
+              "type": "image",
+              "alt": "Image may contain: furniture, screenshot and cartoon",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820536/onuryunisli/work/ixmlmpmisc1rrdjlsptd.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820536/onuryunisli/work/aylaigtleqrzrphdyeeu.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390376?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/U8nhuNU4DLg?si=Hkl03nae7h30kwmg\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820537/onuryunisli/work/cc0c4ldchclqx2vnbegv.png",
+              "type": "image",
+              "alt": "Image may contain: person, human face and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820537/onuryunisli/work/zqxcsghborzjxrvhbosm.png",
+              "type": "image",
+              "alt": "Image may contain: person, clothing and man",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/fbqexqxv8jgdzn7jhbd9.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mt9pbronwxj9bfe16dqy.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820539/onuryunisli/work/nruwwf2e29wj724qn1vc.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820544/onuryunisli/work/t6sjdie4fi3u0ctdsgzr.png",
+              "type": "image",
+              "alt": "Image may contain: person and people",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390979?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820545/onuryunisli/work/b6t7omjckalocsqqicps.png",
+              "type": "image",
+              "alt": "Image may contain: person",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820545/onuryunisli/work/hiyeiebpfescfti0kzub.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820544/onuryunisli/work/dfcxkkkl57kh1wtczhre.png",
+              "type": "image",
+              "alt": "Image may contain: indoor",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/228233515/Turkish-Petroleum-Exhibition-Stand"
     },
     {
       "slug": "ankara-metropolitan-municipality-city-branding",
-      "client": "Ankara Metropolitan Municipality City Branding",
-      "title": "Ankara Metropolitan Municipality City Branding",
+      "client": "Ankara Metropolitan Municipality",
+      "title": "City Branding",
       "initials": "AM",
-      "sector": "",
+      "sector": "City branding",
       "year": "2024",
       "services": [
         "brand",
@@ -4876,28 +3743,28 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/206404161/Ankara-Metropolitan-Municipality-City-Branding"
     },
     {
-      "slug": "azvirt-rebranding",
-      "client": "AZVIRT",
-      "title": "Rebranding",
-      "initials": "AZ",
-      "sector": "",
+      "slug": "shusha-global-media-forum-branding",
+      "client": "Shusha Global Media Forum",
+      "title": "Branding",
+      "initials": "SG",
+      "sector": "Cultural event",
       "year": "2024",
       "services": [
         "brand"
       ],
       "featured": false,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/996535649?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/927043401?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/bqegsqly7tbsty5r9i1r.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/szndgyarqtlseigsvupd.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/vvoefhkiojgpggmjswim.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/rxtnnhndlvavraliwjxi.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/i3xxwhjon4xewouzhcsy.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/uqinutjqisc8amlc36o9.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/uui7xmxu1umlasio9rqk.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/bfbahxyavfqamofpsozr.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/ruxuw8zbznc4l0dyajmi.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zkwzvbh29ojvhampjuys.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/p2q8my1giqdxj7tgryif.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/m7oaeyu246ochsoe4ulk.jpg"
       ],
       "detail": {
         "layout": "stream",
@@ -4905,43 +3772,66 @@ window.SITE = {
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "As Element Company, we are proud to present the rebranding process we carried out for 'Azvirt,' one of the largest and most renowned road construction companies",
+        "description": "The Global Media Forum took place on July 21–23, 2023, in Shusha, Azerbaijan. The forum honors the 148th anniversary of the National Press Media of Azerbaijan a",
         "blocks": [
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/996535649?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/927043401?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/kpndnfvz5p8tojldnbed.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/xdbqt69gdlmlbij7pgwq.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
             "padding": 0
           },
           {
             "type": "text",
             "title": "",
-            "text": "AZVIRT\n\nAs Element Company, we are proud to present the rebranding process we carried out for 'Azvirt,' one of the largest and most renowned road construction companies in Azerbaijan.\n\nThe new logo and brand identity we created for the company reflect the strong and sustainable operations of a company with a 30-year history, which has successfully completed important infrastructure projects such as highways, airports, and bridges—our nation's eternal assets leading us into the future.\n\nAgency: Element \n\nCreative Direction & Logo: Adam Yunisov\n\nArt Direction: Hatam Yunisli\n\nDesigner: Alibey Alizade\n\nMotion Designer: Onur Yunisli\n\nCopywriter: Jeyhun Ismayilov",
+            "text": "The Global Media Forum took place on July 21–23, 2023, in Shusha, Azerbaijan. The forum honors the 148th anniversary of the National Press Media of Azerbaijan as well as the 100th birthday of the National Leader of Azerbaijan, Haydar Aliyev.\n\nIlham Aliyev, the president of Azerbaijan, participated in a panel discussion during the Forum's opening session. As honorary guests, Mr. Sultan Raev, Secretary General of TURKSOY, and Mr. Kubanychbek Omuraliyev, Secretary General of the Organization of Turkic States, attended the forum.\n\nState agencies from 34 countries were present at the forum, but there were also numerous volunteers from Azerbaijan, 60 members of the local media, and 12 representatives of international organizations.",
             "align": "left",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
               "type": "image",
-              "alt": "Image may contain: abstract",
+              "alt": "",
               "caption": ""
             },
             "padding": 0
           },
           {
-            "type": "text",
-            "title": "",
-            "text": "The logo of AzVirt was redesigned in Azerbaijan, It has been designed to modern, international standards, taking into account the fact that it has gained sufficient reputation outside the country. The main meaning remains intact and is symbolized by a minimalist and modern design. The logo of the globally recognized company is no longer a separate combination, but is visualized in the form of “AZVIRT” in a more \n\ncreative and modern reflection.",
-            "align": "left",
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/uui7xmxu1umlasio9rqk.jpg",
+              "type": "image",
+              "alt": "Image may contain: print, letter and template",
+              "caption": ""
+            },
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/bqegsqly7tbsty5r9i1r.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/bfbahxyavfqamofpsozr.jpg",
               "type": "image",
-              "alt": "Image may contain: screenshot, vehicle and land vehicle",
+              "alt": "Image may contain: poster",
               "caption": ""
             },
             "padding": 0
@@ -4950,7 +3840,67 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821591/onuryunisli/work/tcsq8d7tvwe7x9vzsvko.jpg",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/yvpc3rgwh2droc5jy9oi.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/nrvbni8nb9uzsajukekv.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/ruxuw8zbznc4l0dyajmi.jpg",
+              "type": "image",
+              "alt": "Image may contain: sky, outdoor and billboard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zkwzvbh29ojvhampjuys.jpg",
+              "type": "image",
+              "alt": "Image may contain: poster, clothing and person",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/p2q8my1giqdxj7tgryif.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/m7oaeyu246ochsoe4ulk.jpg",
+              "type": "image",
+              "alt": "Image may contain: handbag, luggage and bags and shoulder bag",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/m1ruyyc4mba3zlxhtwno.jpg",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -4961,26 +3911,192 @@ window.SITE = {
             "padding": 0
           },
           {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/a5z8njrf0fp0wk0udoq5.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821666/onuryunisli/work/hsaq3evtkktjkqhl4pno.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/190370951/Shusha-Global-Media-Forum-Branding"
+    },
+    {
+      "slug": "brand-identity-istanbul-2027",
+      "client": "Istanbul 2027",
+      "title": "Brand Identity",
+      "initials": "I2",
+      "sector": "Events",
+      "year": "2026",
+      "services": [
+        "brand",
+        "3d"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1171815730?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/sxvlfc0kaqi6qrfwv5og.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/ocoeogjssjkvvrlcia8k.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/apoubfpp0rnxhasbfvik.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/gsdacyn5soolvvyfpof8.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/zfw1i2aptgjpu26ngubq.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/wksqsykakksi40agszyk.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1171815730?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "We drew inspiration from the crescent and star of the glorious flag of the Republic of Türkiye for the logo of “Istanbul 2027 European Games,” the first major sports organization of the second century of the Türkiye.\n\nWe brought together our crescent and star with the shining star of the world, the city of Istanbul, and the growing Istanbul brand.\n\nIstanbul, which connects two continents, will now take the stage with the unifying power of sport.\n\nAdam Yunisov, the logo designer of the Baku 2015 First European Games, has now designed the logo for Istanbul 2027 European Games!\n\n​​​​​​​",
+            "align": "left",
+            "padding": 0
+          },
+          {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/szndgyarqtlseigsvupd.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and vehicle",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Türkiye Cumhuriyetinin yeni yüzyılının ilk büyük spor organizasyonu olan \"İstanbul 2027 Avrupa Oyunları\"nın logosu için Şanlı Cumhuriyetimizin ay yıldızlı bayrağından ilham aldık. \n\nDünyanın parlayan yıldızı İstanbul şehri ve gelişen İstanbul markası ile ay yıldızımızı bir araya getirdik.\n\nİki kıtayı birleştiren İstanbul şimdi de sporun birleştirici gücüyle görücüye çıkacak!\n\nBaku 2015 ilk Avrupa Oyunlarının logo tasarımcısı Adam Yunisov şimdi de İstanbul 2027 Avrupa Oyunları için tasarladı!",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/sxvlfc0kaqi6qrfwv5og.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/ocoeogjssjkvvrlcia8k.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/apoubfpp0rnxhasbfvik.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/gsdacyn5soolvvyfpof8.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/zfw1i2aptgjpu26ngubq.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/wksqsykakksi40agszyk.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/hv4hqxuswacgzoujnt4p.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/cwtdn4n4og9vb8vjuryt.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/tddrzlgwiqh5ihxddvai.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
             },
             "padding": 0
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/999425465?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1171816185?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/vvoefhkiojgpggmjswim.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/axst8pczuwtpizgaxw6b.png",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
             },
             "padding": 0
@@ -4988,9 +4104,29 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/rxtnnhndlvavraliwjxi.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820528/onuryunisli/work/hr3lnowlihsh6swvr8dd.png",
               "type": "image",
-              "alt": "Image may contain: person, outdoor and sky",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1189702444?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2400\" height=\"1792\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1189702593?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3160\" height=\"2310\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/wn0wwk1uggk31zmryyvi.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
             },
             "padding": 0
@@ -4998,9 +4134,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/i3xxwhjon4xewouzhcsy.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820526/onuryunisli/work/gpnb59d4ablyxsoiacb8.png",
               "type": "image",
-              "alt": "Image may contain: screenshot and ship",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
             },
             "padding": 0
@@ -5008,9 +4144,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/uqinutjqisc8amlc36o9.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/vs9gdjiqs9xlcufurhst.png",
               "type": "image",
-              "alt": "Image may contain: tree, outdoor and screenshot",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
             },
             "padding": 0
@@ -5018,9 +4154,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/u13ssexxygjzffgfbade.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/roakvccawl6ktxn9xqwi.png",
               "type": "image",
-              "alt": "Image may contain: building",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
             },
             "padding": 0
@@ -5028,9 +4164,258 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/ofecm3jwjr6h7cbzxmhx.jpg",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820528/onuryunisli/work/stkrtyyzvb5ex7fxpyiz.png",
               "type": "image",
-              "alt": "Image may contain: sky, screenshot and vehicle",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/fgtphwpkzkghc2zmswzx.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820521/onuryunisli/work/y7gadurawai2bmrxvvdc.png",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820521/onuryunisli/work/htlvgl0fdk69zjjmhpzd.jpg",
+              "type": "image",
+              "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/236894015/Brand-Identity-Istanbul-2027"
+    },
+    {
+      "slug": "packaging-sirab-sport-water",
+      "client": "SIRAB",
+      "title": "Packaging — Sport Water",
+      "initials": "SI",
+      "sector": "Mineral water",
+      "year": "2024",
+      "services": [
+        "brand",
+        "3d",
+        "packaging"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1006116233?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/htgc5flh4xbgtkrl0z3z.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/as6ujtscjqnd2v1grvnx.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/wqmec4latx65knqws968.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/honr4fhym81dgstilpxr.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/yqcutboxkchlbapur0mx.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821461/onuryunisli/work/ley463wzrbsgn0tg3jfg.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "We are proud to Introduce Sirab’s New “Sport Cap” Water Product! We're excited to present the \"Sport Cap\" water product, a new addition to the Sirab family. The",
+        "blocks": [
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot and cartoon",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "We are proud to Introduce Sirab’s \n\nNew “Sport Cap” Water Product!\n\nWe're excited to present the \"Sport Cap\" water product, a new addition to the Sirab family. The creative idea and concept belongs to Element. This product is designed to enhance and support the water drinking habits that are essential for modern, health-focused lifestyles.\n\nSpecifically crafted for athletes, fitness enthusiasts, and everyday walkers, this innovative product features a practical design that seamlessly integrates into active routines. The packaging also includes a scale that tracks your daily water intake, encouraging you to \"Reach the Target\" and stay hydrated throughout the day.\n\nThis new design perfectly balances aesthetic appeal with functionality, making it the ideal choice for those who value both style and health.\n\nClient: Sirab\n\nAgency: Element \n\nCreative Direction: Adam Yunisov\n\nArt Direction: Hatam Yunisli\n\nPackaging & 3D Design: Hatam Yunisli\n\nDesigner: Alibey Alizade\n\nMotion Design & 3D Modelling: Onur Yunisli\n\nCopywriter: Jeyhun Ismayilov",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/htgc5flh4xbgtkrl0z3z.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, beverage and drinking water",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/as6ujtscjqnd2v1grvnx.png",
+              "type": "image",
+              "alt": "Image may contain: bottle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1006116233?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/wqmec4latx65knqws968.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, truck and vehicle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/honr4fhym81dgstilpxr.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, beverage and drinking water",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/yqcutboxkchlbapur0mx.png",
+              "type": "image",
+              "alt": "Image may contain: tree and outdoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821461/onuryunisli/work/ley463wzrbsgn0tg3jfg.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, indoor and plastic bottle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/jeuvl2v9rcnx6ero6seb.png",
+              "type": "image",
+              "alt": "Image may contain: person, footwear and poster",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/rzuhhyvcsvofvsqr9xoh.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, bicycle and sports equipment",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/206425751/Packaging-Sirab-Sport-Water"
+    },
+    {
+      "slug": "be-group-brand-identity",
+      "client": "BE GROUP",
+      "title": "Brand Identity",
+      "initials": "BG",
+      "sector": "Corporate group",
+      "year": "2026",
+      "services": [
+        "brand",
+        "motion"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1213910370?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/ikgoh1oqpxs3mps6ejkv.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/dcsjg08fjtka1kqppjl9.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/oufgolmhcxhjoyumy9qs.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/yy9me00tjuslwkbvvact.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/cyaqzfau5lpftyyejguk.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/cmflhz5lddhgscuj61ce.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "Element created a unified brand identity for BE GROUP, combining construction, collaboration, and architectural thinking into a clear visual system. The project",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1213910370?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Element developed a comprehensive brand identity for BE GROUP, creating a unified visual system that reflects the company’s values and long-term vision.\n\nThe logo is built around the idea of bringing different construction disciplines together under one purpose. The interlocking B and E represent unity and collaboration, while the house and window forms reinforce the company’s core areas of expertise.\n\nThe project included logo design, visual identity, color palette, typography, graphic language, and brand guidelines, establishing a consistent visual system across all communication materials.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
+              "type": "image",
+              "alt": "Image may contain: publication, book and printing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1213920757?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1213914625?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/ikgoh1oqpxs3mps6ejkv.png",
+              "type": "image",
+              "alt": "Image may contain: businesscard, material property and screenshot",
               "caption": ""
             },
             "padding": 0
@@ -5039,13 +4424,436 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/akeni50tjymgebpdovzc.png",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/fzwgm2qceenrnyobj5f3.png",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/xdyiy3rt7yweris59qph.jpg",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/smemkc9a8w2hhd3hbxur.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/ttdsbujreo7h1jvcw425.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/dcsjg08fjtka1kqppjl9.png",
+              "type": "image",
+              "alt": "Image may contain: factory",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/oufgolmhcxhjoyumy9qs.png",
+              "type": "image",
+              "alt": "Image may contain: businesscard, rectangle and material property",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1213915986?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/yy9me00tjuslwkbvvact.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, rectangle and square",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/cyaqzfau5lpftyyejguk.png",
+              "type": "image",
+              "alt": "Image may contain: box, office supplies and general supply",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/cmflhz5lddhgscuj61ce.png",
+              "type": "image",
+              "alt": "Image may contain: wheel, vehicle and freight transport",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1214201034?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/v7ucle3rmnxudbimdgza.png",
+              "type": "image",
+              "alt": "Image may contain: clothing, person and engineering",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/isbxf2ynydbrepy46mwj.png",
+              "type": "image",
+              "alt": "Image may contain: clothing, person and engineering",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1213913891?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px%;height:1080px%;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/lowtqe3jtgxw5ehxcgmb.png",
+              "type": "image",
+              "alt": "Image may contain: sky, outdoor and grass",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/253425137/BE-GROUP-Brand-Identity"
+    },
+    {
+      "slug": "packaging-sirab-soda",
+      "client": "SIRAB",
+      "title": "Packaging — Soda",
+      "initials": "SI",
+      "sector": "Mineral water",
+      "year": "2026",
+      "services": [
+        "3d",
+        "packaging"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/vbggb3wxml15p9wk1tuk.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/nawgfct13dsg5jeiw0x7.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/xyhcmknfmoamge0v3bzw.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/y3i0wqhteyweerochoez.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "Element developed the packaging design for Sirab’s new fruit-flavoured mineral water products. The project focused on extending Sirab’s established visual ident",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
+              "type": "image",
+              "alt": "Image may contain: beverage, bottle and drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Sirab Fruit-Flavoured Mineral Water\n\nPackaging Design by Element\n\nElement developed the packaging design for Sirab’s new fruit-flavoured mineral water products.\n\nThe project focused on extending Sirab’s established visual identity into a new product category while maintaining brand consistency and recognition.We refined the fruit illustrations, colour palette, and label structure to create a fresher and more distinctive appearance. The updated packaging strengthens shelf visibility while clearly communicating the product’s flavour profile.The result is a design that stays true to the Sirab brand while giving the new product a fresh and engaging presence.\n\nAgency: Element\nClient: Sirab",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
+              "type": "image",
+              "alt": "Image may contain: drink, bottle and glass bottle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pfqzl0kkcxq1zg9tsxoi.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/l0s0rgwdygkgmlg6hxsn.gif",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/vbggb3wxml15p9wk1tuk.png",
+              "type": "image",
+              "alt": "Image may contain: lemon, citron and fruit",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, liquid and solution",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/v5xffaf6c5qguczfraqn.gif",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/ylk59me9lidkeyoqiykr.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/nawgfct13dsg5jeiw0x7.png",
+              "type": "image",
+              "alt": "Image may contain: fruit and natural foods",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/xyhcmknfmoamge0v3bzw.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, liquid and solution",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/y3i0wqhteyweerochoez.png",
+              "type": "image",
+              "alt": "Image may contain: drink, food and glass bottle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/gpsghymxps28coyoksx8.png",
+              "type": "image",
+              "alt": "Image may contain: glass bottle, beverage and bottle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/crtdi69nra5g6mowzqs8.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, glass bottle and drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820467/onuryunisli/work/oazh5trljntqrb27fpvh.png",
+              "type": "image",
+              "alt": "Image may contain: fruit, food and fruit drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820467/onuryunisli/work/nntjy3pkuj4x1coiwfwb.png",
+              "type": "image",
+              "alt": "Image may contain: person, outdoor and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda"
+    },
+    {
+      "slug": "alive-coffee-packaging-3d-animation",
+      "client": "ALIVE",
+      "title": "Coffee — Packaging & 3D Animation",
+      "initials": "AC",
+      "sector": "Wellness & beverage",
+      "year": "2025",
+      "services": [
+        "brand",
+        "motion",
+        "3d",
+        "packaging"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1099894462?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/nfwkepnji52j7qwhczwd.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/axog7yngrqr8llri2z7i.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/svye5cxqafe2sqtujc4w.jpg"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894462?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Alive Coffee - Packaging & 3D Animation\n\nAlive Coffee’s new packaging design shows the fresh and modern spirit of the brand.\nWith clean lines, bright details, and smooth 3D animation, the design highlights the energy and taste inside every cup. It is a simple but powerful visual story that makes the product feel alive and inspiring.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot, skyscraper and indoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894088?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894071?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/nfwkepnji52j7qwhczwd.jpg",
+              "type": "image",
+              "alt": "Image may contain: skyscraper and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/axog7yngrqr8llri2z7i.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894328?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/svye5cxqafe2sqtujc4w.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/w3vkkfxj8pyetr8ohhdg.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/c4us2jvkwr7orux4cyoe.jpg",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -5057,15 +4865,185 @@ window.SITE = {
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/999440152?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894189?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894402?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099894275?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1099895639?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/229946545/Alive-Coffee-Packaging-3D-Animation"
+    },
+    {
+      "slug": "badamli-mineral-water-vintage-packaging",
+      "client": "Badamlı",
+      "title": "Mineral Water — Vintage Packaging",
+      "initials": "BA",
+      "sector": "Mineral water",
+      "year": "2025",
+      "services": [
+        "brand",
+        "3d",
+        "packaging"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1198391280?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/yhfpuhrcyqnhaicl0w5n.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/mompoarret5js4thlrcd.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, we revived the brand’s iconic 1970s–1980s packaging style and reintroduced it under the nam",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198391280?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, we revived the brand’s iconic 1970s–1980s packaging style and reintroduced it under the name “Vintage Badamlı.” The classic retro label design was reimagined to bring the spirit of the past back to life on the bottle. The concept went beyond packaging, a special Vintage Badamlı car was also designed in the same nostalgic style.\n\nThe campaign was seamlessly integrated into old Azerbaijani films, taking viewers on a journey through time. Once launched on social media, it quickly captured the audience’s attention and admiration. By blending the taste and emotion of the past with today’s design language, we retold the story of Badamlı’s rich heritage.",
+            "align": "left",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/estkcpg94vms3laypnak.jpg",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
               "type": "image",
-              "alt": "Image may contain: screenshot, transport and outdoor",
+              "alt": "Image may contain: bottle, indoor and soft drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/yhfpuhrcyqnhaicl0w5n.png",
+              "type": "image",
+              "alt": "Image may contain: map",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198391134?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/mompoarret5js4thlrcd.png",
+              "type": "image",
+              "alt": "Image may contain: table, drink and indoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
+              "type": "image",
+              "alt": "Image may contain: bottle and drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
+              "type": "image",
+              "alt": "Image may contain: wall and bottle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, drink and wine",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/npelbjdi6nv7fpyswdni.jpg",
+              "type": "image",
+              "alt": "Image may contain: bottle and drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/iampvuajlvsiexrij9ce.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, drink and beer",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/tcgrulflxw81kigapnkg.png",
+              "type": "image",
+              "alt": "Image may contain: indoor, bottle and drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/grjvpntfnufdwagjjpvj.jpg",
+              "type": "image",
+              "alt": "Image may contain: bottle, drink and beer",
               "caption": ""
             },
             "padding": 0
@@ -5074,22 +5052,152 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/f1mnufmqnz1qa9ybtefr.jpg",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/q6ms9dr8tbi7j9aoqnuz.jpg",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/jyy4r41ydbehrucoy8a9.jpg",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               }
             ],
-            "columns": 1,
+            "columns": 2,
             "gap": 0,
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/fmqbinsftsdlhbvobjz6.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821458/onuryunisli/work/ih8qh4lvbrqt9lv5ml37.png",
               "type": "image",
-              "alt": "Image may contain: person, man and orange",
+              "alt": "Image may contain: bottle, drink and table",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Premium Vintage Gift Box\n\nAs part of the 75th anniversary celebrations, a Premium Vintage Gift Box was created a beautifully crafted packaging that included the Vintage Badamlı bottle along with exclusive branded promotional items.These gift boxes were sent to business leaders, partners, and influential figures,serving as a unique way to introduce and celebrate Badamlı’s heritage.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/ompbjbjw2ifoyf5qorxp.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/c09ev4vvcmzwp0p7eiyx.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/echsghb08xofpq2xvqxx.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/hftpa7amxi0gxguig4qm.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Vintage Badamli - Nostalgic Atmosphere \n\nAs part of the project, we recreated a nostalgic atmosphere by integrating the Vintage Badamlı product into scenes from old Azerbaijani films, both in moments where Badamlı was originally featured decades ago, and in classic table-setting scenes. These clips were re-edited into short videos and shared on social media, sparking strong emotional connections and attracting significant public interest.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xwU8iyWsXSs?si=lDwBwstKIEzK-CeE\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3T21z27tWHY?si=PwS76W7GMAPx8EzG\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/232123155/Badamli-Mineral-Water-Vintage-Packaging"
+    },
+    {
+      "slug": "sirab-niy-seviln-su",
+      "client": "SIRAB",
+      "title": "Niyə Sevilən Su?",
+      "initials": "SI",
+      "sector": "Mineral water",
+      "year": "2025",
+      "services": [
+        "brand",
+        "3d",
+        "packaging"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821547/onuryunisli/work/nbbhpo4qmcounlc9d1f1.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/rrsh8wyyl4vmlcc2pfrg.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/adjxzc1c0vtfgnynfbou.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/admiid4jtl4pmlwei0mv.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821550/onuryunisli/work/ahuvvbkwwmpv2zcyunug.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821543/onuryunisli/work/jbnvneeluni6xjk3mbvi.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic natural resources, we at Element were proud to develop a campaign that honored its legacy",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic natural resources, we at Element were proud to develop a campaign that honored its legacy through both visual and narrative expression.\n\nAt the heart of the project was one simple question:\nWhy has Sirab remained so loved for 75 years?\n\nWe answered this by producing a 9-part video series, each episode highlighting a unique aspect of the brand’s enduring value — from its mineral composition to production standards and emotional connection with generations. All production was handled in-house by Element.\n\nThe campaign also featured a custom-designed, heart-shaped QR code, placed across product packaging and digital channels — giving users an interactive way to explore the brand’s story.\n\nThis project allowed us to reflect on the past, embrace the present, and shape the future of a truly beloved water brand.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, sky and building",
               "caption": ""
             },
             "padding": 0
@@ -5097,9 +5205,24 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/w5llnhrln4swq9sntgrx.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821547/onuryunisli/work/nbbhpo4qmcounlc9d1f1.png",
               "type": "image",
-              "alt": "Image may contain: cartoon and screenshot",
+              "alt": "Image may contain: bottle, soft drink and drink",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198391129?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/rrsh8wyyl4vmlcc2pfrg.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
               "caption": ""
             },
             "padding": 0
@@ -5107,9 +5230,176 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/cv7ug7ko6miglvjl7byx.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/adjxzc1c0vtfgnynfbou.png",
               "type": "image",
-              "alt": "Image may contain: cartoon and screenshot",
+              "alt": "Image may contain: bottle, indoor and beverage",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BlUDFL6uYEU?si=aBc49BVZbvc6gfiY\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/admiid4jtl4pmlwei0mv.png",
+              "type": "image",
+              "alt": "Image may contain: bottle, drink and beer",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zyt83siT818?si=pzJpzMAOuONfaQ89\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821550/onuryunisli/work/ahuvvbkwwmpv2zcyunug.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, tree and ground",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lxeOOEt-a1M?si=jCL7dER9QwnOExf_\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821543/onuryunisli/work/jbnvneeluni6xjk3mbvi.png",
+              "type": "image",
+              "alt": "Image may contain: person, green and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YESYT5IsHpc?si=c7IoJdva2Wq1VUus\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cmKpFwH3nUM?si=C9y5wb-3s9lU1dIU\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/as4OxGYKQTU?si=7W6n7yFJrFExMXJf\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NTsD8sSLbcU?si=UoQFkKnueNvCLs2-\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1gVqbSlWr6o?si=JYqm__Eo2-EK1tp9\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/229462795/Sirab-Niy-Seviln-Su"
+    },
+    {
+      "slug": "brand-identity-lamina-dekor",
+      "client": "Lamina Dekor",
+      "title": "Brand Identity",
+      "initials": "BI",
+      "sector": "Interiors",
+      "year": "2025",
+      "services": [
+        "brand",
+        "motion",
+        "spatial"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1198390839?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/sv4xkb0h6zwtbuiypb0j.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/egeq6ppecv3xfthhtm9e.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/l4lq0h1yvuggzwe2fz1t.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/khziltrth1xmdtphwkbd.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/ufpovfcg6ttct0ouljfr.jpg",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/udkydzntnzwa1wl8rybr.jpg"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "At Lamina Dekor, we believe that great design begins with exceptional materials. Specializing in premium laminate flooring and high-quality kitchen countertops,",
+        "blocks": [
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
+              "type": "image",
+              "alt": "Image may contain: outdoor, piano and furniture",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "LAMINA DEKOR - BRAND IDENTITY\n\nAt Lamina Dekor, we believe that great design begins with exceptional materials.\nSpecializing in premium laminate flooring and high-quality kitchen countertops, we are dedicated to transforming everyday spaces into inspiring environments.\n\nOur vision is simple yet ambitious — to set new standards of quality, innovation, and service in the decorative surfaces industry. We continuously invest in advanced technologies and carefully curated designs to ensure that every product we deliver reflects superior craftsmanship and aesthetic excellence.\n\nDriven by a passion for perfection, we aim to provide our customers with not only beautiful and durable solutions but also an experience that exceeds expectations at every step. From initial concept to final installation, Lamina Dekor is committed to offering the highest level of customer satisfaction and long-term value.\n\nLooking ahead, we aspire to expand our reach both locally and internationally, becoming a trusted name synonymous with quality, reliability, and contemporary style.​​​​​​​\n\nClient | Dekor Group\n\nAgency: Element VS\n\nBaku, Azerbaijan | 2024",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/sv4xkb0h6zwtbuiypb0j.png",
+              "type": "image",
+              "alt": "Image may contain: musical instrument and piano",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "The logo is a combination of the letter “L” for “Lamina” and the letter “D” for “Decor”, forming diagonally arranged pieces of wood and crossed symbols.\n\nThe cross icon in the center of the logo represents precision in this area, \n\nas it reflects the size and shape of the furniture.\n\nThe use of orange in the color choice creates a strong and eye-catching \n\nimage of the brand.\n\nThe details and colors in the logo reflect the dynamism and professionalism of the brand.\nOverall, the logo emphasizes the brand image with a modern, trendy and \n\nminimalist design.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/egeq6ppecv3xfthhtm9e.jpg",
+              "type": "image",
+              "alt": "Image may contain: person and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390839?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/l4lq0h1yvuggzwe2fz1t.jpg",
+              "type": "image",
+              "alt": "Image may contain: land vehicle, wheel and vehicle",
               "caption": ""
             },
             "padding": 0
@@ -5117,9 +5407,29 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821602/onuryunisli/work/jn7o3xu0rilz5mnjbn1j.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/khziltrth1xmdtphwkbd.jpg",
               "type": "image",
-              "alt": "Image may contain: screenshot and cartoon",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390277?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1800\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390229?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"5430\" height=\"3434\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/ufpovfcg6ttct0ouljfr.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
               "caption": ""
             },
             "padding": 0
@@ -5127,7 +5437,82 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821602/onuryunisli/work/mfuemcvwnp3ejjlyxalx.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/udkydzntnzwa1wl8rybr.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198391247?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/t8kuirstfz0cwtqrexrb.jpg",
+              "type": "image",
+              "alt": "Image may contain: screenshot, poster and typography",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/an7u6z0l5lbhacjsjubq.jpg",
+              "type": "image",
+              "alt": "Image may contain: wooden, table and chair",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198391193?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198391054?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/hwi1efakrmjjekimxfnl.jpg",
+              "type": "image",
+              "alt": "Image may contain: art, music and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/szvgmz7fko8bedjhgybp.jpg",
+              "type": "image",
+              "alt": "Image may contain: abstract and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/z8u8jbcmoghgsptrfrpm.jpg",
+              "type": "image",
+              "alt": "Image may contain: building, outdoor and city",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/mioghb1bgfkv8jacixdq.jpg",
               "type": "image",
               "alt": "Image may contain: outdoor",
               "caption": ""
@@ -5137,9 +5522,9 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821603/onuryunisli/work/wf0qlxhxsrunbnnjb98v.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/ul2rrudoxigpjrwhlzfh.jpg",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and flag",
+              "alt": "Image may contain: cartoon",
               "caption": ""
             },
             "padding": 0
@@ -5147,7 +5532,27 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821598/onuryunisli/work/sww8lhggiurjdaqgj099.jpg",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/wizpcxb04jjw9krmk0ur.png",
+              "type": "image",
+              "alt": "Image may contain: person, clothing and human face",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/uivpaadh7xeayfyocnla.jpg",
+              "type": "image",
+              "alt": "Image may contain: vehicle",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/dsyspnew5tjuly4d2nuc.jpg",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -5157,9 +5562,104 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/z4mwqjyvk6tnboysunk7.png",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/rnyjop0rjj5ockdyat6m.jpg",
+              "type": "image",
+              "alt": "Image may contain: letter, book and screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/vhe2yvz0hbea4umyflkk.jpg",
               "type": "image",
               "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/223113601/Brand-Identity-Lamina-Dekor"
+    },
+    {
+      "slug": "turkic-week-in-geneva",
+      "client": "Turkic Week in Geneva",
+      "title": "Turkic Week in Geneva",
+      "initials": "TW",
+      "sector": "Cultural event",
+      "year": "2025",
+      "services": [
+        "brand",
+        "motion",
+        "spatial"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1066953749?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4392\" height=\"2776\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/clbcjd0bgyouwazspark.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/kx9mbebua8o2yxo1mrhx.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/ihsvzomalssz5n7uzi1u.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/j0ys4gpzlfdilbkyv4e9.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/ks1qy3fsj81s6xn3sivt.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/gs0fzpbykh4pocdjtjdn.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "The “Turkic Week” project, jointly organized by the Turkic World Organization (TDT) and other Turkic world organizations, aims to introduce the common culture, ",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1066953749?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4392\" height=\"2776\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "TURKIC WEEK IN GENEVA\n\n \n\nThe “Turkic Week” project, jointly organized by the Turkic World Organization (TDT) \n\nand other Turkic World organizations, aims to introduce the common culture, artistic richness and strategic cooperation of Turkic states to the international public.\n\nAll visual communication designs for this spectacular event were created by the Element team. The designs presented within the scope of the project were built on a holistic visual language that combines tradition and modernity and carries the spirit of the Turkic world.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
+              "type": "image",
+              "alt": "Image may contain: building, outdoor and parking",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1066948932?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"5000\" height=\"3328\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/clbcjd0bgyouwazspark.png",
+              "type": "image",
+              "alt": "Image may contain: template",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/kx9mbebua8o2yxo1mrhx.png",
+              "type": "image",
+              "alt": "Image may contain: person, floor and clothing",
               "caption": ""
             },
             "padding": 0
@@ -5168,67 +5668,31 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/o8eno5cv8o7vik4seszi.jpg",
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821651/onuryunisli/work/cebxkunj2ofmat0pbzft.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821651/onuryunisli/work/zhlomti6xbfgfrzgnr3p.png",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               }
             ],
-            "columns": 1,
+            "columns": 2,
             "gap": 0,
             "padding": 0
           },
           {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821599/onuryunisli/work/djn89zzyj8op7wasqw97.png",
-              "type": "image",
-              "alt": "Image may contain: hat, umbrella and fashion accessory",
-              "caption": ""
-            },
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1066948997?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           },
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821603/onuryunisli/work/fvyorxotwsqmokenz4sw.jpg",
-              "type": "image",
-              "alt": "Image may contain: necktie",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "We are thrilled to showcase our latest project for Azvirt, a leading company specializing in road construction. As Azvirt Company celebrates its 30th anniversary in 2025, Element has crafted a special commemorative logo. This design retains the essence of Azvirt’s original logo while seamlessly integrating the number 30 to mark this significant milestone. Our goal was to honor their rich history and enduring impact in the industry with a modern yet respectful update to their visual identity.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/h5moxd7lbg8jcf1awvd3.jpg",
-              "type": "image",
-              "alt": "Image may contain: outdoor, yellow and fashion accessory",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821601/onuryunisli/work/yox6uwpvo85qev63tlfr.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821604/onuryunisli/work/jq2b9jsv2mnb6p5jazfm.jpg",
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/ihsvzomalssz5n7uzi1u.png",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5237,19 +5701,593 @@ window.SITE = {
           },
           {
             "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/999426453?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1067237843?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/j0ys4gpzlfdilbkyv4e9.png",
+              "type": "image",
+              "alt": "Image may contain: person, standing and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/ks1qy3fsj81s6xn3sivt.png",
+              "type": "image",
+              "alt": "Image may contain: tree, outdoor and billboard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/gs0fzpbykh4pocdjtjdn.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821657/onuryunisli/work/wfuekqzjv0svdryy31bl.png",
+              "type": "image",
+              "alt": "Image may contain: person, indoor and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821654/onuryunisli/work/spy6hlnu3bbh7iwubaod.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/pwqppsxk3yngmkfalhl5.png",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821652/onuryunisli/work/cbpimewrv7oti8jivwqu.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, print and template",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821653/onuryunisli/work/fa3l0vxeueli4wxyupok.png",
+              "type": "image",
+              "alt": "Image may contain: illustration",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821654/onuryunisli/work/tg6qcsokxljmngc6yohq.png",
+              "type": "image",
+              "alt": "Image may contain: accessory",
+              "caption": ""
+            },
             "padding": 0
           }
         ]
       },
-      "behanceUrl": "https://www.behance.net/gallery/205164583/AZVIRT-Rebranding"
+      "behanceUrl": "https://www.behance.net/gallery/221090663/Turkic-Week-in-Geneva"
+    },
+    {
+      "slug": "rebranding-lezzet-qida-senaye",
+      "client": "Lezzet Group",
+      "title": "Rebranding — Lezzet Qida Sənaye",
+      "initials": "RE",
+      "sector": "Food production",
+      "year": "2024",
+      "services": [
+        "brand"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1023248442?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
+      "shots": [],
+      "coverImages": [
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/a4ysc7ckighkk9mbmc7e.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/vdkiaznl4aurmw4isqqr.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/fpfzrlo93w7rudzobubm.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mm0zyfmjce6qb00vgj7m.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/xx26kxuohvmro2kyqjbk.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821683/onuryunisli/work/b9jjypuirskepxkquanl.png"
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "Introducing the New Branding for “Lazzat” As Element, we are proud to present a new logo and brand identity crafted exclusively for “Lazzat,” a leading name in ",
+        "blocks": [
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "LƏZZƏT QİDA\n\nIntroducing the New Branding for “Lazzat”\nAs Element, we are proud to present a new logo and brand identity crafted exclusively for “Lazzat,” a leading name in Azerbaijan’s food industry. This updated design captures the essence of consumer loyalty and the brand’s steadfast commitment to quality.\n\nThe new slogan, “Lazzat al!” (“Take pleasure from life, be happy!”), conveys the brand’s story and the customers' affinity for the brand. Blending a modern and minimalist aesthetic with traditional values, this brand identity reflects “Lazzat’s” innovative spirit and cultural heritage. Through this project, we aim to further solidify the brand’s unique position in the local market and usher in a new era for the Azerbaijani food industry.\n\nAgency: Element \n\nCreative Direction & Logo: Adam Yunisov\n\nArt Direction: Hatam Yunisli\n\nDesigner: Alibey Alizade\n\nMotion Designer: Onur Yunisli\n\nCopywriter: Jeyhun Ismayilov",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/a4ysc7ckighkk9mbmc7e.png",
+              "type": "image",
+              "alt": "Image may contain: indoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/vdkiaznl4aurmw4isqqr.png",
+              "type": "image",
+              "alt": "Image may contain: illustration",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/fpfzrlo93w7rudzobubm.png",
+              "type": "image",
+              "alt": "Image may contain: person, man and indoor",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mm0zyfmjce6qb00vgj7m.png",
+              "type": "image",
+              "alt": "Image may contain: building, outdoor and brick",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/xx26kxuohvmro2kyqjbk.png",
+              "type": "image",
+              "alt": "Image may contain: sign",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821683/onuryunisli/work/b9jjypuirskepxkquanl.png",
+              "type": "image",
+              "alt": "Image may contain: person, woman and human face",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/lnexds9xqgbe0ybzivjc.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/kyixdkb0lwhctrj0ud99.png",
+              "type": "image",
+              "alt": "Image may contain: letter, book and businesscard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/ptwysqcybk37kxudy2ft.png",
+              "type": "image",
+              "alt": "Image may contain: outdoor, building and truck",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/s4svl8qbmussm8dgz4zd.png",
+              "type": "image",
+              "alt": "Image may contain: person, man and human face",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821682/onuryunisli/work/lu34f1evajubpgqtsolq.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, handwriting and letter",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mq9forvjtgzxo87lcvuj.png",
+              "type": "image",
+              "alt": "Image may contain: human face, baby and smile",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mhonzxfewqsckiucuki6.png",
+              "type": "image",
+              "alt": "Image may contain: grass, human face and smile",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821684/onuryunisli/work/q7fircblkvfrqtly1yp3.png",
+              "type": "image",
+              "alt": "Image may contain: cartoon",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821689/onuryunisli/work/ykl1abxlhzphuqs6kvav.png",
+              "type": "image",
+              "alt": "Image may contain: sky and sign",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/ixpoxg5xoqf2qfezj5ic.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, person and man",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/kygcaffpaogjitqnfti8.png",
+              "type": "image",
+              "alt": "Image may contain: screenshot, print and geometry",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/q27b2ufrugq9hdk58gmd.png",
+              "type": "image",
+              "alt": "Image may contain: fast food, food and snack",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821692/onuryunisli/work/ixqgpc0ahbcetsrr3rpp.png",
+              "type": "image",
+              "alt": "Image may contain: box, waste container and businesscard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/ygpwvofp8xdoiu5skn2a.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/roceue1p2um0lz8nl6cz.png",
+              "type": "image",
+              "alt": "Image may contain: businesscard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/dqsvp9aovw6o0kmupbeo.png",
+              "type": "image",
+              "alt": "Image may contain: stationary and illustration",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/r9n4ti6u5ocibsitivrv.png",
+              "type": "image",
+              "alt": "Image may contain: cartoon, human face and person",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/asctiejbglyx1kjojbn2.png",
+              "type": "image",
+              "alt": "Image may contain: person, red and clothing",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821688/onuryunisli/work/mmlycizl8wdmr61krqxj.png",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821692/onuryunisli/work/gpmmkofmljrh9ih3c03r.png",
+              "type": "image",
+              "alt": "Image may contain: active shirt, sleeve and sports uniform",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821691/onuryunisli/work/ufeatwxuu50kti4kd75s.png",
+              "type": "image",
+              "alt": "Image may contain: billboard and flag",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1023248442?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/207577561/Rebranding-Lezzet-Qida-Senaye"
+    },
+    {
+      "slug": "alive-skin-beauty-3d-product-rendering-animation",
+      "client": "ALIVE",
+      "title": "Skin & Beauty — 3D Rendering & Animation",
+      "initials": "AS",
+      "sector": "Wellness & beverage",
+      "year": "2024",
+      "services": [
+        "motion",
+        "3d",
+        "packaging"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1030336653?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "",
+      "shots": [],
+      "coverImages": [],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336653?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "",
+            "text": "Alive Skin & Beauty\n\nDesign and animation package for Alive Skin & Beauty’s collagen product launch redefines the brand’s identity through a seamless blend of innovation and elegance.\nBy utilizing a mix of 3D animation, motion graphics, and minimalist design, I crafted an immersive visual experience that highlights the essence of each product.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030343281?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030343396?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336129?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336056?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336172?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030338144?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030339350?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336105?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336219?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1030336261?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/212662139/Alive-Skin-Beauty-3D-Product-Rendering-Animation"
+    },
+    {
+      "slug": "energy-drink-social-media-motions",
+      "client": "Dinamit",
+      "title": "Energy Drink — Social Media Motions",
+      "initials": "ED",
+      "sector": "Energy drinks",
+      "year": "2024",
+      "services": [
+        "motion",
+        "3d"
+      ],
+      "featured": false,
+      "status": "published",
+      "video": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=03cee500-6e7f-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "",
+      "shots": [],
+      "coverImages": [],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "",
+        "blocks": [
+          {
+            "type": "embed",
+            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=03cee500-6e7f-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1007575677?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1007575731?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1007578720?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1007578737?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1007580941?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1007580332?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3300\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          }
+        ]
+      },
+      "behanceUrl": "https://www.behance.net/gallery/207473567/Energy-Drink-Social-Media-Motions"
     },
     {
       "slug": "baku-chess-set-gobustan-edition",
       "client": "Baku Chess Set",
       "title": "Gobustan Edition",
       "initials": "BC",
-      "sector": "",
+      "sector": "Product design",
       "year": "2024",
       "services": [
         "3d"
@@ -5374,7 +6412,7 @@ window.SITE = {
     },
     {
       "slug": "social-media-motion-design",
-      "client": "Social Media Motion Design",
+      "client": "Social media",
       "title": "Social Media Motion Design",
       "initials": "SM",
       "sector": "",
@@ -5488,7 +6526,7 @@ window.SITE = {
       "client": "Baku Chess Set",
       "title": "Azerbaijan Carpet Edition",
       "initials": "BC",
-      "sector": "",
+      "sector": "Product design",
       "year": "2024",
       "services": [
         "3d"
@@ -5661,10 +6699,10 @@ window.SITE = {
     },
     {
       "slug": "juiz-branding",
-      "client": "JUIZ Branding",
-      "title": "JUIZ Branding",
+      "client": "JUIZ",
+      "title": "Branding",
       "initials": "JB",
-      "sector": "",
+      "sector": "Beverages",
       "year": "2024",
       "services": [
         "brand",
@@ -5949,203 +6987,11 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/195404683/JUIZ-Branding"
     },
     {
-      "slug": "shusha-global-media-forum-branding",
-      "client": "Shusha Global Media Forum",
-      "title": "Branding",
-      "initials": "SG",
-      "sector": "",
-      "year": "2024",
-      "services": [
-        "brand"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/927043401?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/uui7xmxu1umlasio9rqk.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/bfbahxyavfqamofpsozr.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/ruxuw8zbznc4l0dyajmi.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zkwzvbh29ojvhampjuys.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/p2q8my1giqdxj7tgryif.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/m7oaeyu246ochsoe4ulk.jpg"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "The Global Media Forum took place on July 21–23, 2023, in Shusha, Azerbaijan. The forum honors the 148th anniversary of the National Press Media of Azerbaijan a",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/927043401?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/kpndnfvz5p8tojldnbed.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/xdbqt69gdlmlbij7pgwq.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "The Global Media Forum took place on July 21–23, 2023, in Shusha, Azerbaijan. The forum honors the 148th anniversary of the National Press Media of Azerbaijan as well as the 100th birthday of the National Leader of Azerbaijan, Haydar Aliyev.\n\nIlham Aliyev, the president of Azerbaijan, participated in a panel discussion during the Forum's opening session. As honorary guests, Mr. Sultan Raev, Secretary General of TURKSOY, and Mr. Kubanychbek Omuraliyev, Secretary General of the Organization of Turkic States, attended the forum.\n\nState agencies from 34 countries were present at the forum, but there were also numerous volunteers from Azerbaijan, 60 members of the local media, and 12 representatives of international organizations.",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/uui7xmxu1umlasio9rqk.jpg",
-              "type": "image",
-              "alt": "Image may contain: print, letter and template",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/bfbahxyavfqamofpsozr.jpg",
-              "type": "image",
-              "alt": "Image may contain: poster",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/yvpc3rgwh2droc5jy9oi.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/nrvbni8nb9uzsajukekv.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/ruxuw8zbznc4l0dyajmi.jpg",
-              "type": "image",
-              "alt": "Image may contain: sky, outdoor and billboard",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zkwzvbh29ojvhampjuys.jpg",
-              "type": "image",
-              "alt": "Image may contain: poster, clothing and person",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/p2q8my1giqdxj7tgryif.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/m7oaeyu246ochsoe4ulk.jpg",
-              "type": "image",
-              "alt": "Image may contain: handbag, luggage and bags and shoulder bag",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/m1ruyyc4mba3zlxhtwno.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 1,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/a5z8njrf0fp0wk0udoq5.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821666/onuryunisli/work/hsaq3evtkktjkqhl4pno.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/190370951/Shusha-Global-Media-Forum-Branding"
-    },
-    {
       "slug": "goalaz-branding",
       "client": "Goal.az",
       "title": "Branding",
       "initials": "GA",
-      "sector": "",
+      "sector": "Sports media",
       "year": "2024",
       "services": [
         "brand",
@@ -6368,7 +7214,7 @@ window.SITE = {
     },
     {
       "slug": "logo-animation-v2",
-      "client": "Logo Animation",
+      "client": "Self-initiated",
       "title": "V2",
       "initials": "LA",
       "sector": "",
@@ -6430,7 +7276,7 @@ window.SITE = {
       "client": "Lezzet Group",
       "title": "Branding",
       "initials": "LG",
-      "sector": "",
+      "sector": "Food production",
       "year": "2023",
       "services": [
         "brand",
@@ -6695,7 +7541,7 @@ window.SITE = {
       "client": "TAMStore",
       "title": "Teaser Campaign",
       "initials": "TA",
-      "sector": "",
+      "sector": "Retail",
       "year": "2023",
       "services": [
         "motion",
@@ -6814,7 +7660,7 @@ window.SITE = {
       "client": "1001 Home",
       "title": "Branding",
       "initials": "1H",
-      "sector": "",
+      "sector": "Home & living",
       "year": "2023",
       "services": [
         "brand"
@@ -7162,10 +8008,10 @@ window.SITE = {
     },
     {
       "slug": "explainer-video-badamli",
-      "client": "Badamli",
+      "client": "Badamlı",
       "title": "Explainer Video",
       "initials": "BA",
-      "sector": "",
+      "sector": "Mineral water",
       "year": "2023",
       "services": [
         "motion"
@@ -7232,10 +8078,10 @@ window.SITE = {
     },
     {
       "slug": "social-media-motion-buva",
-      "client": "Social Media",
-      "title": "Motion - Buva",
+      "client": "Buva",
+      "title": "Social Media — Motion",
       "initials": "SM",
-      "sector": "",
+      "sector": "Beverages",
       "year": "2023",
       "services": [
         "motion",
@@ -7351,10 +8197,10 @@ window.SITE = {
     },
     {
       "slug": "bahar-kargo-branding",
-      "client": "Bahar kargo",
+      "client": "Bahar Kargo",
       "title": "Branding",
       "initials": "BK",
-      "sector": "",
+      "sector": "Logistics",
       "year": "2023",
       "services": [
         "brand",
@@ -7685,7 +8531,7 @@ window.SITE = {
     },
     {
       "slug": "logo-animation-v1",
-      "client": "Logo Animation",
+      "client": "Self-initiated",
       "title": "V1",
       "initials": "LA",
       "sector": "",
@@ -7759,7 +8605,7 @@ window.SITE = {
     },
     {
       "slug": "100th-anniversary-of-heydar-aliyev",
-      "client": "100th anniversary of Heydar Aliyev",
+      "client": "Heydar Aliyev Centenary",
       "title": "100th anniversary of Heydar Aliyev",
       "initials": "1A",
       "sector": "",
@@ -7917,10 +8763,10 @@ window.SITE = {
     },
     {
       "slug": "araz-nakhchivan-football-team-rebranding",
-      "client": "Araz Nakhchivan Football Team",
+      "client": "Araz Nakhchivan",
       "title": "Rebranding",
       "initials": "AN",
-      "sector": "",
+      "sector": "Football club",
       "year": "2023",
       "services": [
         "brand"
@@ -8433,92 +9279,11 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/169142053/Araz-Nakhchivan-Football-Team-Rebranding"
     },
     {
-      "slug": "social-media-motion-badamli",
-      "client": "Badamli",
-      "title": "Social Media — Motion",
-      "initials": "BA",
-      "sector": "",
-      "year": "2023",
-      "services": [
-        "motion",
-        "3d"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/820312951?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "",
-        "blocks": [
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820312951?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820164168?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820332987?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820333019?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820333049?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820333073?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820333099?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/820333131?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/168964795/Social-Media-Motion-Badamli"
-    },
-    {
       "slug": "sizin-market-brand-identity",
       "client": "Sizin Market",
       "title": "Brand Identity",
       "initials": "SM",
-      "sector": "",
+      "sector": "Retail",
       "year": "2023",
       "services": [
         "brand"
@@ -8807,774 +9572,8 @@ window.SITE = {
       "behanceUrl": "https://www.behance.net/gallery/166943253/Sizin-Market-Brand-Identity"
     },
     {
-      "slug": "badamli-mineral-water-packaging-design",
-      "client": "Badamli",
-      "title": "Mineral Water — Packaging Design",
-      "initials": "BA",
-      "sector": "",
-      "year": "2023",
-      "services": [
-        "brand",
-        "3d",
-        "packaging"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/813545258?h=5cf9fb2487&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/swows5qixouhzhvx9pt3.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/vtaki0i9hxwduw1bdtfx.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/os0ojc0wlbtutkbgoqzp.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/zvrvtv2r9jytpptazkay.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/msfuy0akbogfllyp8z5g.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/da6iukk9vhnge7ac5taw.jpg"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "Mineral springs of Badamli village located in Shahbuz appeared as a result of an earthquake in the late 19th century. In 1947, a small production area was estab",
-        "blocks": [
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
-              "type": "image",
-              "alt": "Image may contain: bottle, drinking water and beverage",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Badamlı Mineral Water \n\nMineral springs of Badamli village located in Shahbuz appeared as a result of an earthquake in the late 19th century. In 1947, a small production area was established and the first manual water production was started.\n\nThe miraculous Badamli water is extracted at a height of 1274 meters above sea level. Natural mineral water, which is rich in mineral content for human health and meets national and international standards, has been decorating the tables 75 years.\n\nDesigner: Adam Yunisov, Hatam Yunisli\n\nPackaging & 3D Design: Hatam Yunisli\n\n3D Modelling: Hatam Yunisli & Onur Yunisli",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/813545258?h=5cf9fb2487&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/swows5qixouhzhvx9pt3.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/jjhuyezkoivv2tsboc0m.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/xcoop8drvbxag0qfwrol.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821555/onuryunisli/work/yl3jhzzlunvnehvx4cre.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe src=\"https://player.vimeo.com/video/813535851?h=8d5db8c556&amp;autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/vtaki0i9hxwduw1bdtfx.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/d32vkpcjjbobfu7mzrtw.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/ze3vpvxbpd8gqsv1aiya.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/kuommnqy5y9mjy0dhrlm.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/ndtvnqssbumfdlvrdn0p.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/os0ojc0wlbtutkbgoqzp.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/zvrvtv2r9jytpptazkay.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/msfuy0akbogfllyp8z5g.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/uhuhgbzoqhqhmi9arcy2.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/fdasriluaxf09z2hlpnd.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/da6iukk9vhnge7ac5taw.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821555/onuryunisli/work/dgwv4ymqx2kehtzy10iu.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/wcofii9icwjhmz8svck7.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/p2kykybwqa8n3mw70zsj.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/m2gwibgnqwnj6c0klw2f.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/sgdzxbkwt7e8v3muigc6.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/ryef2gkrngxng14mbjaa.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/o6isw7ltdr2wmfadnuk0.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/oeoz3dcjdppjh9c6eyvp.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/oiivrqbmbdwpov7nzw0z.jpg",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821558/onuryunisli/work/gzuucmdwuunnvcltc1tx.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/os9kdbtdhavcqosvme8u.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821558/onuryunisli/work/eexm4rsdushjs3if75yb.gif",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/167317263/Badamli-Mineral-Water-Packaging-Design"
-    },
-    {
-      "slug": "dinamit-energy-drink-package-design-brand-identity",
-      "client": "Dinamit Energy Drink",
-      "title": "Package Design & Brand Identity",
-      "initials": "DE",
-      "sector": "",
-      "year": "2023",
-      "services": [
-        "brand",
-        "motion",
-        "3d",
-        "packaging"
-      ],
-      "featured": false,
-      "status": "published",
-      "video": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35523e42-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
-      "shots": [],
-      "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/b0vk6gv6xu1lwbl4unrl.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/byypqrtcwnjdvwfcczqq.png"
-      ],
-      "detail": {
-        "layout": "stream",
-        "background": "#ffffff",
-        "color": "#202522",
-        "spacing": 0,
-        "width": 1400,
-        "description": "",
-        "blocks": [
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "text",
-            "title": "",
-            "text": "Dinamit®\n\nDinamit energy drink has been produced by Enna LLC since 2022. Dinamit is an energy drink developed on the basis of technologies that meet world standards to ensure customer and consumer satisfaction. Dinamit meets true energy drink standards with its taurine and caffeine content. The drink is prepared with \"non-contact production principles\" from the beginning of production to the customer. Dinamit energy drink is offered to its customers in 250 ml and 500 ml packaging.\n\nLogo & Packaging design  |  Adam Yunisov\n\nArt Direction |  Hatam Yunisli\n\nDesigner  |  Parviz Babayev  &  Amir Nazirov & Jalal Mammadov​​​​​​​\n\nCopywriting  |  Jeyhun Ismayilov\n\nMotion Designer  |  Hatam Yunisli & Onur Yunisli\n\n3D Designer  |  Hatam Yunisli\n\nProject  |  Element",
-            "align": "left",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/b0vk6gv6xu1lwbl4unrl.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/byypqrtcwnjdvwfcczqq.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/b1efoj0aagfb9oa8f3bc.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/s3lcg4mgtvlxlybuk6fk.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 1,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/mxw8lusd3krrljmkovu1.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/blncx9w6x7eshmtogubq.gif",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/stublbxydg3zwqv7lowq.gif",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/rizv64qoqcifqula9rvt.gif",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/tf4qotb7bpbluexirpqx.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/fs8b1zj4tjj6z8hic4a1.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/ghylbljkxwh53sd0yeby.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/tiuxgnfip3fyf8mnh9qo.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/lx7iaqpyy23utajcvt7u.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/tsdaqi9x1znv283cnuf6.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/pvd1ud42z18bnssxmklj.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/chogr3xbodnjusnwr4uq.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/xpmmbsd2gfon5q8hh0hu.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/hyqie6zx63xsyakns4el.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/futrrveva25reg4zs9ev.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/grpe1aqypsnaqz8r3rgo.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/ltbc1jde4plpyrrmwc7c.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/hcxttn5h1gemavq7x3ff.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/psphxkoxsqkapfefm002.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/vkokqatqssn1lh50nrrh.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/x4vmhqs3w1cgcacxcksv.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/wwpdhty1sdg1j9ux4llc.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/gdaqvc9bufuzrpqeytlf.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/movmllpbiimxeqnco79b.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/axjbgyiqbz9xcotdwv13.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/cbnha83emtuh3sclssk6.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/fi9ryjk7ueq74io6sxnb.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/puqmb5tgze3aadrs2etw.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/jk7fo2yizeajdcun5iij.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/jhzkqzl4jv88zs6t7ver.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/o5zvqcumonuovehaioxo.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/hplyudubl7uahrjwbyil.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/jefwv2qbwo6erx06rjvq.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/mr7om2bldfdezbqywase.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/uo1nrkvvsqu0rays0wpm.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/estrf5cyekgdhzuo00ic.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/tewe06fuvj0aayt6d1vi.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35523e42-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=16be1a1e-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "embed",
-            "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ce0273f6-adf0-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/hvbryqp7takocbyjjzvo.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          }
-        ]
-      },
-      "behanceUrl": "https://www.behance.net/gallery/163848123/Dinamit-Energy-Drink-Package-Design-Brand-Identity"
-    },
-    {
       "slug": "work-proces",
-      "client": "Work Proces",
+      "client": "Self-initiated",
       "title": "Work Proces",
       "initials": "WP",
       "sector": "",
@@ -9614,8 +9613,8 @@ window.SITE = {
     },
     {
       "slug": "pes-2013-first-screen-animation",
-      "client": "Pes 2013",
-      "title": "first screen animation.",
+      "client": "Self-initiated",
+      "title": "First Screen Animation",
       "initials": "P2",
       "sector": "",
       "year": "2017",
@@ -9641,7 +9640,7 @@ window.SITE = {
     },
     {
       "slug": "village",
-      "client": "Village",
+      "client": "Self-initiated",
       "title": "Village",
       "initials": "VI",
       "sector": "",
@@ -9681,7 +9680,7 @@ window.SITE = {
     },
     {
       "slug": "ray-ban",
-      "client": "Ray Ban",
+      "client": "Self-initiated",
       "title": "Ray Ban",
       "initials": "RB",
       "sector": "",
@@ -9743,7 +9742,7 @@ window.SITE = {
     },
     {
       "slug": "iron-man",
-      "client": "Iron Man",
+      "client": "Self-initiated",
       "title": "Iron Man",
       "initials": "IM",
       "sector": "",
@@ -10159,5 +10158,6 @@ window.SITE = {
         ]
       }
     }
-  ]
+  ],
+  "formKey": "8b134a13-92fb-41be-b20b-eafb5e779b0f"
 };
