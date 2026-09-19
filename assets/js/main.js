@@ -331,6 +331,11 @@ function projectCard(p, idx, opts = {}) {
     : cover ? [cover, ...shots.filter(src => src !== cover)]
     : shots.length ? shots : [0,1,2,3,4,5,6];
   if (!sources.length) sources.push(0);
+  /* kartdakı kvadrat: layihənin logosu, yoxdursa baş hərfləri */
+  const logoSrc = safeURL(rb(p.logo));
+  const logoMark = logoSrc
+    ? `<img src="${escapeHTML(logoSrc)}" alt="${escapeHTML(p.client || '')}" loading="lazy">`
+    : escapeHTML(p.initials);
   const frames = sources.map((src, k) => {
     const videoCover = k === 0 && !!(window.ProjectContent?.embed(video) || safeURL(video));
     const inner = typeof src === 'string'
@@ -343,7 +348,7 @@ function projectCard(p, idx, opts = {}) {
     <div class="thumb">
       <div class="media">${frames}</div>
       <span class="dl">${dlIcon}</span>
-      <span class="chip"><span class="sq">${escapeHTML(p.initials)}</span><span><b>${escapeHTML(p.client)}</b><span>${escapeHTML(p.sector)}</span></span></span>
+      <span class="chip"><span class="sq">${logoMark}</span><span><b>${escapeHTML(p.client)}</b><span>${escapeHTML(p.sector)}</span></span></span>
     </div>
     <h3>${escapeHTML(p.title)}</h3>
   </a>`;

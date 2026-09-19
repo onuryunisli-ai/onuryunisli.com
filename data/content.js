@@ -9859,44 +9859,304 @@ window.SITE = {
   ],
   "posts": [
     {
-      "title": "Yeni xəbər",
-      "category": "STUDIO",
-      "date": "2026",
-      "url": "#",
-      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789803091/onuryunisli/qzlxngz6hhylojy0i0f7.jpg",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1181493901?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160 \" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
-      "slug": "yeni-xeber"
-    },
-    {
+      "slug": "anniversary-brand-identity-what-to-change",
+      "title": "Refresh, don't redraw: designing a 10th anniversary identity",
       "category": "Process",
-      "date": "11 September 2026",
-      "url": "#",
-      "title": "One line, eighty years: animating Badamlı's anniversaryd",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160 \" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "date": "12 September 2026",
+      "isoDate": "2026-09-12",
+      "excerpt": "An anniversary mark is not a new logo. On AzerGold's tenth year we kept the equity and changed only what the milestone could honestly own.",
+      "url": "",
+      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1181481142?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
-      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789804212/onuryunisli/qudxxzsro5ri31xabeve.png",
-      "slug": "one-line-eighty-years-animating-badamli-s-anniversaryd"
+      "status": "published",
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "An anniversary is one of the most dangerous briefs in branding. The client arrives wanting something that feels new, and the temptation is to redraw the logo. But ten years of recognition is an asset that took ten years to buy, and a redraw spends it in an afternoon.\n\nThe useful question is narrower: what can a milestone honestly own? Usually three things — a commemorative lockup that sits beside the master mark rather than replacing it, a single accent that appears only during the anniversary year, and a motion signature that says something print cannot.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
+              "type": "image",
+              "alt": "AzerGold 10th anniversary brand identity",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "What the brief actually needed",
+            "text": "AzerGold plays a strategic role in Azerbaijan's mining sector, turning underground resources into value. Ten years in, the company had built real trust — but that progress had never been given a clear visual expression.\n\nSo the concept was not decoration. It was a way to describe a journey: from depth to surface, from raw material to finished value. The anniversary mark had to carry that idea and still survive the places a mining brand actually lives — a helmet, a site sign, an annual report cover, a phone screen. That last constraint kills more anniversary marks than any aesthetic argument. If the numeral stops reading at 24 pixels, it is a poster, not an identity.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1181481142?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Why motion carries an anniversary better than print",
+            "text": "An anniversary is a claim about time, and motion is the only medium that can show duration. A static mark can say \"ten years\". A sequence can show ten years happening.\n\nThe film was built in Cinema 4D with Redshift, because a gold brand punishes dishonest material. Gold is a difficult surface: it takes its colour almost entirely from what surrounds it, so a gold that convinces under one lighting setup turns to brass under another. Getting the reflections right mattered more than any camera move.\n\nThe motion work then fed back into the static system — the frames that read best became the key visuals, not the other way round.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/nvvpx8jkkuctv0hiwljw.gif",
+              "type": "image",
+              "alt": "AzerGold anniversary mark applications",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "A short checklist before you redraw anything",
+            "text": "Ask what equity you would be spending. If the existing mark is recognised, the anniversary is a layer, not a replacement.\n\nDesign the smallest size first. A commemorative lockup that only works at poster scale is a decoration.\n\nDecide the end date. An anniversary identity that never retires quietly becomes the brand, and the real mark gets lost.\n\nLet motion lead where the story is about time — then pull the static system out of it.",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
     },
     {
-      "category": "Insights",
-      "date": "3 September 2026",
-      "url": "#",
-      "title": "We made a bank commercial without a camera",
-      "video": "",
-      "poster": "",
-      "image": "",
-      "slug": "we-made-a-bank-commercial-without-a-camera"
-    },
-    {
-      "category": "Work",
+      "slug": "mineral-water-packaging-design",
+      "title": "A mineral water label that still reads from two metres",
+      "category": "Packaging",
       "date": "28 August 2026",
-      "url": "#",
-      "title": "A teardrop shelf for SİRAB",
-      "video": "",
+      "isoDate": "2026-08-28",
+      "excerpt": "Shelf is a distance problem before it is a taste problem. How the SIRAB redesign kept 75 years of recognition and still cleaned the label up.",
+      "url": "",
+      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1198390347?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
-      "image": "",
-      "slug": "a-teardrop-shelf-for-sirab"
+      "status": "published",
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "Packaging design is usually discussed as a visual problem and solved as a distance problem. A shopper decides at roughly two metres, in under a second, while moving. Everything that survives that moment is the brand; everything else is detail you are paying to print.\n\nSIRAB has been on Azerbaijani shelves for 75 years. That is a large amount of recognition sitting in a small number of elements — the name, the colour, the droplet. The brief was to modernise without spending any of it.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
+              "type": "image",
+              "alt": "SIRAB mineral water packaging design",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "What we kept, and what we let go",
+            "text": "The identity was renewed in a more modern, minimal direction while staying with its core values. The logo was redrawn towards minimalism — not a new shape, a cleaner one: tighter curves, better optical spacing, a form that holds together embossed, printed on a wet bottle, or reduced to a favicon.\n\nOn the label itself the changes were deliberately small. Classic elements stayed. What changed was hierarchy: fewer competing type sizes, more room around the mark, a clearer separation between the brand block and the mandatory information. A label gets calmer not by removing content but by ranking it.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1198390347?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Rendering before printing",
+            "text": "Every structure was built and rendered in 3D before anything went to print. This is not a presentation trick. A dieline that looks correct flat can fail on a curved bottle, and a colour that passes on screen can shift once it sits on a translucent substrate behind water.\n\nRendering the bottle in context — on a shelf, under retail lighting, beside competitors — answers the only question that matters: does it still read? It is far cheaper to find a hierarchy problem in a render than on a pallet.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/xvymhphfkiesojcpjoqg.png",
+              "type": "image",
+              "alt": "SIRAB bottle renders and label system",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The 75th anniversary mark",
+            "text": "For the anniversary we added a separate commemorative mark rather than touching the master logo. It combines two symbols the brand already owns — a heart and a water droplet — with the numerals 7 and 5 forming the heart shape itself.\n\nIt works because it is additive. The anniversary mark can run on a limited edition, in campaign motion and at point of sale, then retire, while the identity underneath is untouched.",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "hospitality-brand-identity-design",
+      "title": "Hospitality identity is an object problem",
+      "category": "Brand identity",
+      "date": "5 September 2026",
+      "isoDate": "2026-09-05",
+      "excerpt": "A hotel brand is met on keys, signage, linen and a bottle in the minibar — not on a screen. Designing the Baku Resort & Spa identity around that.",
+      "url": "",
+      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "",
+      "status": "published",
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "Most identities are judged on a screen. A hospitality identity is met almost entirely on objects: a key card, a door number, a folded towel, a coffee cup, a sign read from a car at night. The decisions that matter are therefore material decisions.\n\nFor Baku Resort & Spa, a hospitality destination in Kyrgyzstan, Element developed the full identity — logo, visual system, brand guidelines, and the corporate identity that carries them across every touchpoint.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+              "type": "image",
+              "alt": "Baku Resort & Spa hotel brand identity",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Why the motif is abstracted, not illustrated",
+            "text": "The mark draws on Azerbaijani architectural ornament. The decision that shaped everything was to abstract it rather than illustrate it.\n\nA literal ornament is beautiful at one size and unusable at every other. Abstracted into a four-lobed geometric form built from a consistent stroke weight, the same mark can be cut into a metal signage panel, embroidered on a slipper, foil-stamped on a folder, or animated. One drawing, many materials — that is the whole test for a hospitality mark.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Guidelines are the deliverable",
+            "text": "On a hotel project the logo is the smallest part of the work. The identity is executed by people the designer will never meet: a signage fabricator, a uniform supplier, a printer working from an emailed file, a social media manager two years later.\n\nSo the real deliverable is the guideline system — spacing rules, a defined minimum size, a small and enforceable palette, and worked examples of the wrong application as well as the right one. An identity survives on the quality of its rules, not the cleverness of its mark.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/smwmwhbotpei33rbsgkl.png",
+              "type": "image",
+              "alt": "Baku Resort & Spa identity applications",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The digital layer",
+            "text": "The motion work gives the static system a voice on channels where a still mark would sit inert — booking pages, social, screens in the lobby. It is deliberately quiet: the ornament assembles from its own geometry, and stops.\n\nA hospitality brand is selling calm, and motion is very good at accidentally selling urgency instead.",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "exhibition-stand-design-process",
+      "title": "An exhibition stand is a brand read at forty metres",
+      "category": "Spatial",
+      "date": "19 September 2026",
+      "isoDate": "2026-09-19",
+      "excerpt": "For TPAO at the 31st Caspian Oil & Gas Exhibition — a stand is designed backwards, from the far sightline to the handshake.",
+      "url": "",
+      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "poster": "",
+      "status": "published",
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "An exhibition stand is designed backwards, starting from the furthest point a visitor can see it. On a hall floor there are three distances, and each one needs a different decision.\n\nAt forty metres a visitor sees a silhouette and a colour. Nothing else. That distance is won by form and height, not by content. At ten metres they read one line and decide whether to change direction. At one metre the stand stops being architecture and becomes furniture — somewhere to stand, put down a coffee, and have a conversation.\n\nMost stands fail because they are designed at one metre and hoped to work at forty.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+              "type": "image",
+              "alt": "Turkish Petroleum exhibition stand design",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The TPAO concept",
+            "text": "For the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the stand for Turkish Petroleum Corporation. The concept drew on the strategic vision of Sultan Mehmed the Conqueror, translated into contemporary architectural language rather than historical pastiche.\n\nThat translation is the whole job. A historical reference used literally reads as a theme. Used structurally — in proportion, rhythm, the way a mass is carried — it reads as confidence.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "3D is a contract, not a presentation",
+            "text": "The renders were not made to sell the idea internally. They were made because a stand is built once, in a few days, by a crew working from drawings, with no second attempt.\n\nModelling it fully means the sightlines are verified before anyone quotes for material: what blocks what, where the light falls, whether the logo is legible from the main aisle, how the structure behaves when the neighbouring stand turns out taller than promised. Every problem found in the model is a problem not found on site at midnight.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
+              "type": "image",
+              "alt": "Turkish Petroleum stand — built",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Motion is the only surface you can change",
+            "text": "Everything else about a stand is fixed the moment it is built. The screens are not. That makes the motion content the only element that can still respond — to the hour, the audience, the announcement that moved forward.\n\nSo the film is designed as part of the architecture rather than dropped into it: cut to be legible in peripheral vision, silent by default, and built from the same geometry as the physical structure, so the screen does not look like a television someone carried in.",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
     }
   ]
 };
