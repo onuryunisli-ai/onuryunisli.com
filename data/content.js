@@ -4561,7 +4561,7 @@ window.SITE = {
       "slug": "packaging-sirab-soda",
       "client": "SIRAB",
       "title": "Packaging — Soda",
-      "initials": "SI",
+      "initials": "",
       "sector": "Mineral water",
       "year": "2026",
       "services": [
@@ -4676,7 +4676,7 @@ window.SITE = {
                 "caption": ""
               }
             ],
-            "columns": 2,
+            "columns": "2",
             "gap": 0,
             "padding": 0
           },
@@ -4752,7 +4752,8 @@ window.SITE = {
           }
         ]
       },
-      "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda"
+      "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda",
+      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789837437/onuryunisli/l2fpnm7ye1jwv10ng2id.png"
     },
     {
       "slug": "alive-coffee-packaging-3d-animation",
