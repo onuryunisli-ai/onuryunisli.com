@@ -1,3 +1,10 @@
+@font-face{font-family:"Aeonik";src:url("/assets/fonts/aeonik-regular.woff2") format("woff2");
+  font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Aeonik";src:url("/assets/fonts/aeonik-medium.woff2") format("woff2");
+  font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:"Aeonik";src:url("/assets/fonts/aeonik-bold.woff2") format("woff2");
+  font-weight:600 700;font-style:normal;font-display:swap}
+
 @font-face{font-family:"Gotham";src:url("/assets/fonts/gotham-book.woff2") format("woff2");
   font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:"Gotham";src:url("/assets/fonts/gotham-medium.woff2") format("woff2");
@@ -9,8 +16,9 @@
   --night:#1B1E24; --dark:#1C1C1C; --white:#fff; --ink:#111214; --band:#E02927;
   --accent:#E02927; --accent-lit:#FF4A3B; --accent-deep:#C41F1D;
   --grey:#6F7377; --hair:#E4E4E2; --hair-d:#33343A; --yellow:#F4F19B;
-  /* şrifti geri qaytarmaq üçün "Gotham" sözünü bu sətirdən sil */
-  --sans:"Gotham","Archivo","Helvetica Neue",Arial,sans-serif;
+  /* ŞRIFT SEÇIMI — sıradakı ilk ad işləyir.
+     Aeonik → indiki | Gotham → "Aeonik", sözünü sil | Archivo → hər ikisini sil */
+  --sans:"Aeonik","Gotham","Archivo","Helvetica Neue",Arial,sans-serif;
   --mono:"DM Mono",ui-monospace,Menlo,monospace;
   --serif:"Instrument Serif",Georgia,serif;
   --gut:clamp(24px,5.2vw,120px);
