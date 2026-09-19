@@ -4570,17 +4570,15 @@ window.SITE = {
       ],
       "featured": true,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1228383383?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1080\" height=\"1920\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
       "shots": [],
       "coverImages": [
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/vbggb3wxml15p9wk1tuk.png",
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836737/onuryunisli/lw4pb0dqohzmhodqjah6.png",
         "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/nawgfct13dsg5jeiw0x7.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/xyhcmknfmoamge0v3bzw.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/y3i0wqhteyweerochoez.png"
+        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836739/onuryunisli/t9vwosbs1perx1zpgajd.png"
       ],
       "detail": {
         "layout": "stream",
