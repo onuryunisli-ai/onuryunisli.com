@@ -597,6 +597,7 @@ function contactForm() {
   if (!form) return;
   const note = $('#cform-status');
   const button = $('#cform-send');
+  const label = (button && button.querySelector('.lbl')) || button;
   const rest = note ? note.textContent : '';
   const EMAIL = /^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i;
   const at = name => form.querySelector(`[name="${name}"]`);
@@ -664,7 +665,7 @@ function contactForm() {
           _replyto: email, page: location.href };
 
     form.dataset.busy = '1';
-    if (button) { button.disabled = true; button.textContent = 'Sending…'; }
+    if (button) { button.disabled = true; label.textContent = 'Sending…'; }
     say('Sending…');
 
     try {
@@ -682,7 +683,7 @@ function contactForm() {
         + `I reply within one working day, usually sooner.</p></div>`;
     } catch {
       form.dataset.busy = '';
-      if (button) { button.disabled = false; button.textContent = 'Send message'; }
+      if (button) { button.disabled = false; label.textContent = 'Send message'; }
       const href = inbox ? 'mailto:' + encodeURIComponent(inbox).replace(/%40/g, '@') : '';
       say(inbox
         ? `Could not send just now. Write to <a href="${href}">${escapeHTML(inbox)}</a> instead.`

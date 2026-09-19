@@ -17,6 +17,17 @@ a{color:inherit;text-decoration:none}
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 img,video{display:block;max-width:100%}
 :focus-visible{outline:2px solid currentColor;outline-offset:3px}
+/* brauzerin öz mavisi: seçim, forma vurğusu, avtomatik doldurma */
+::selection{background:var(--accent);color:#fff}
+::-moz-selection{background:var(--accent);color:#fff}
+html{accent-color:var(--accent);caret-color:var(--accent)}
+input:-webkit-autofill,textarea:-webkit-autofill,
+input:-webkit-autofill:hover,textarea:-webkit-autofill:hover{
+  -webkit-text-fill-color:var(--ink);caret-color:var(--accent);
+  box-shadow:0 0 0 1000px #fff inset;transition:background-color 9999s ease-in-out 0s}
+input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
+  box-shadow:0 0 0 1000px #fff inset,0 0 0 3px rgba(224,41,39,.14)}
+
 .wrap{padding:0 var(--gut)}
 .mono{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
 
