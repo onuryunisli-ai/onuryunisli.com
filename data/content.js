@@ -4570,7 +4570,7 @@ window.SITE = {
       ],
       "featured": true,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1228383383?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1080\" height=\"1920\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1228383383?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1080\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
       "shots": [],
       "coverImages": [
