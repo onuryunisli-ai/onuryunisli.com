@@ -2314,7 +2314,7 @@ window.SITE = {
       ],
       "featured": false,
       "status": "published",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1025851892?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1228402435?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/nk0hszlwqlyimaic4wvv.jpg",
       "shots": [],
       "coverImages": [
@@ -2416,7 +2416,13 @@ window.SITE = {
           {
             "type": "embed",
             "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"3840\" height=\"2160\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=91f80232-8b79-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
+            "padding": 0,
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "controls": true,
+            "backgroundVideo": false,
+            "ratio": 1.7777777777777777
           },
           {
             "type": "media",
@@ -2431,7 +2437,13 @@ window.SITE = {
           {
             "type": "embed",
             "src": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"3840\" height=\"2160\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4554aa98-8b79-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-            "padding": 0
+            "padding": 0,
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "controls": true,
+            "backgroundVideo": false,
+            "ratio": 1.7777777777777777
           },
           {
             "type": "grid",
