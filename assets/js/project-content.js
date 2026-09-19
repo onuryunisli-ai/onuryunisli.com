@@ -62,10 +62,28 @@
     const ar = parsed.ratio > 0 ? ` style="--ar:${(Math.round(parsed.ratio * 10000) / 10000)}"` : '';
     return `<iframe ${source}${ar} title="${esc(options.title || parsed.provider + ' video')}" loading="${parsed.autoplay?'eager':'lazy'}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   }
+  /* An animated gif on Cloudinary is delivered as a looping muted video:
+     it always loops (some gifs carry no loop flag and stop after one pass)
+     and the file is a fraction of the size. */
+  const CLOUD_GIF = /^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(.+)\.gif(?:[?#].*)?$/i;
+  function gifVideo(src) {
+    const parts = String(src || '').match(CLOUD_GIF);
+    if (!parts) return null;
+    return {webm: parts[1] + parts[2] + '.webm', mp4: parts[1] + parts[2] + '.mp4'};
+  }
+  function gifMarkup(src, alt) {
+    const clip = gifVideo(src);
+    if (!clip) return '';
+    return `<video autoplay muted loop playsinline preload="metadata" aria-label="${esc(alt || '')}">`
+      + `<source src="${esc(clip.webm)}" type="video/webm">`
+      + `<source src="${esc(clip.mp4)}" type="video/mp4">`
+      + `<img src="${esc(src)}" alt="${esc(alt || '')}" loading="lazy"></video>`;
+  }
   function figure(asset = {}, options = {}) {
     const src = assetURL(asset.src, options.base), poster = assetURL(asset.poster, options.base);
     const video = asset.type === 'video' || /\.(mp4|webm|mov)(?:[?#]|$)/i.test(src);
-    const visual = !src ? '<div class="pc-empty">Şəkil və ya video əlavə edin</div>' : embed(src) ? `<div class="pc-film">${iframe(src, {title:asset.alt})}</div>` : video
+    const clip = gifMarkup(src, asset.alt);
+    const visual = !src ? '<div class="pc-empty">Şəkil və ya video əlavə edin</div>' : clip ? clip : embed(src) ? `<div class="pc-film">${iframe(src, {title:asset.alt})}</div>` : video
       ? `<video src="${esc(src)}" ${poster ? `poster="${esc(poster)}"` : ''} controls playsinline preload="metadata"></video>`
       : `<img src="${esc(src)}" alt="${esc(asset.alt)}" loading="lazy">`;
     return `<figure>${visual}${asset.caption ? `<figcaption>${esc(asset.caption)}</figcaption>` : ''}</figure>`;
@@ -102,5 +120,5 @@
   function render(detail, options = {}) {
     return `<div class="project-stream" style="--pc-gap:${number(detail.spacing ?? 0,0,120,0)}px;--pc-bg:${color(detail.background, '#ffffff')};--pc-ink:${color(detail.color, '#161616')};--pc-width:${number(detail.width ?? 1400,600,1920,1400)}px">${(detail.blocks || []).map(b=>block(b,options)).join('')}</div>`;
   }
-  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render};
+  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo};
 })(typeof window !== 'undefined' ? window : globalThis);

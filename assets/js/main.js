@@ -81,6 +81,12 @@ const media = (src, poster = '', autoplay = false, type = '', alt = '') => {
   if (parsedEmbed) return window.ProjectContent.iframe(src, {background:autoplay, autoplay:autoplay && !REDUCED, muted:autoplay, loop:autoplay, defer:autoplay, title:alt});
   const url = safeURL(src), cover = safeURL(poster);
   if (!url) return '';
+  const clip = window.ProjectContent?.gifVideo?.(url);
+  if (clip) return `<video data-autoplay="${!!autoplay}" muted loop playsinline preload="metadata"`
+    + `${cover ? ` poster="${escapeHTML(cover)}"` : ''} aria-label="${escapeHTML(alt || '')}">`
+    + `<source src="${escapeHTML(clip.webm)}" type="video/webm">`
+    + `<source src="${escapeHTML(clip.mp4)}" type="video/mp4">`
+    + `<img src="${escapeHTML(url)}" alt="${escapeHTML(alt || '')}" loading="lazy"></video>`;
   const video = type === 'video' || (!type && isVideo(url));
   return video
     ? `<video src="${escapeHTML(url)}" data-autoplay="${!!autoplay}" muted loop playsinline preload="metadata"${cover ? ` poster="${escapeHTML(cover)}"` : ''}></video>`
