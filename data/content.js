@@ -284,7 +284,8 @@ window.SITE = {
       "url": "#",
       "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789803091/onuryunisli/qzlxngz6hhylojy0i0f7.jpg",
       "video": "<iframe src=\"https://player.vimeo.com/video/1181493901?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160 \" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": ""
+      "poster": "",
+      "slug": "yeni-xeber"
     },
     {
       "category": "Process",
@@ -293,7 +294,8 @@ window.SITE = {
       "title": "One line, eighty years: animating Badamlı's anniversaryd",
       "video": "<iframe src=\"https://player.vimeo.com/video/1181869598?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"3840\" height=\"2160 \" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
-      "image": ""
+      "image": "",
+      "slug": "one-line-eighty-years-animating-badamli-s-anniversaryd"
     },
     {
       "category": "Insights",
@@ -302,7 +304,8 @@ window.SITE = {
       "title": "We made a bank commercial without a camera",
       "video": "",
       "poster": "",
-      "image": ""
+      "image": "",
+      "slug": "we-made-a-bank-commercial-without-a-camera"
     },
     {
       "category": "Work",
@@ -311,7 +314,8 @@ window.SITE = {
       "title": "A teardrop shelf for SİRAB",
       "video": "",
       "poster": "",
-      "image": ""
+      "image": "",
+      "slug": "a-teardrop-shelf-for-sirab"
     }
   ]
 };

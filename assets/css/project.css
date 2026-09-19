@@ -79,3 +79,15 @@
 .case-more-head{display:flex;justify-content:center;padding-bottom:clamp(24px,3vw,40px)}
 .case-more-head h2{margin:0;font-weight:500;text-transform:uppercase;
   font-size:clamp(1.15rem,2vw,1.6rem);line-height:1.1;letter-spacing:-.02em}
+
+/* ═════════ POST PAGE ═════════ */
+.post-cover{margin-bottom:clamp(30px,4vw,60px)}
+.post-cover img{width:100%;height:auto;border-radius:12px;display:block}
+.post-body{max-width:70ch;margin:0 auto;padding-bottom:clamp(40px,6vw,80px)}
+.post-body h2{font-weight:500;text-transform:uppercase;letter-spacing:-.02em;
+  font-size:clamp(1.15rem,2vw,1.6rem);line-height:1.15;margin:clamp(32px,4vw,56px) 0 14px}
+.post-body h2:first-child{margin-top:0}
+.post-body p{margin:0 0 1.15em;color:#33363B;
+  font-size:clamp(15px,1.25vw,17.5px);line-height:1.68}
+.post-body p:last-child{margin-bottom:0}
+.post-page .case-more{border-top:1px solid var(--hair);margin-top:clamp(20px,3vw,40px)}

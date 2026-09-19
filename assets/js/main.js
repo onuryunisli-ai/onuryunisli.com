@@ -21,6 +21,27 @@ const safeURL = value => {
 };
 const isVideo = src => /\.(mp4|webm|mov)(?:[?#]|$)/i.test(src || '');
 const items = value => Array.isArray(value) ? value.filter(item => item && typeof item === 'object') : [];
+
+/* _cms/scripts/posts.py içindəki slugify ilə eyni nəticəni verməlidir */
+const SLUG_TRANS = { 'ə':'e', 'ı':'i', 'ğ':'g', 'ü':'u', 'ş':'s', 'ö':'o', 'ç':'c' };
+const slugify = (text, fallback = 'post') => {
+  let s = String(text ?? '').toLowerCase();
+  s = [...s].map(c => SLUG_TRANS[c] ?? c).join('');
+  s = s.normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
+  s = s.replace(/[^a-z0-9]+/g, '-').replace(/-{2,}/g, '-').replace(/^-+|-+$/g, '')
+       .slice(0, 60).replace(/^-+|-+$/g, '');
+  return s || fallback;
+};
+const postSlug = (post, index = 0) => {
+  const raw = String(post?.slug ?? '').trim();
+  return raw ? slugify(raw) : slugify(post?.title, `post-${index + 1}`);
+};
+/* xəbərin gedəcəyi ünvan: xarici link verilibsə ona, yoxsa öz səhifəsinə */
+const postHref = (post, index = 0, base = '') => {
+  const external = safeURL(post?.url);
+  if (external && external !== '#' && /^https?:/i.test(external)) return external;
+  return `${base}posts/${postSlug(post, index)}.html`;
+};
 const videoVisibility = new Map();
 function syncVideos() {
   syncEmbeds();
@@ -148,6 +169,46 @@ function projectPage() {
       <div class="case-more-head rv-el"><h2>More work</h2></div>
       <div class="grid">${more.map((q, i) => moreCard(q, i)).join('')}</div>
     </section>` : ''}`;
+}
+
+
+/* ══ POST PAGE ══════════════════════════════════════════════════ */
+/* Səhifənin statik variantı Python tərəfindən yazılır — botlar onu görür.
+   Burada yalnız blokların zəngin görünüşü onun üzərinə qurulur.        */
+function postPage() {
+  const root = $('#post-detail');
+  if (!root) return;
+  const list = items(S.posts);
+  const slug = root.dataset.post;
+  const post = list.find((p, i) => postSlug(p, i) === slug) || null;
+  if (!post) return;
+  const detail = post.detail || {};
+  const body = $('#post-body');
+  if (body && items(detail.blocks).length && window.ProjectContent) {
+    body.className = 'case-stream-shell';
+    body.innerHTML = window.ProjectContent.render(detail, { base: '../' });
+  }
+  document.title = `${post.title} — ${S.name || 'Onur Yunisli'}`;
+}
+
+/* Latest səhifəsində kateqoriya filtri */
+function postFilters() {
+  const bar = $('#postfilters');
+  if (!bar) return;
+  const cats = [...new Set(items(S.posts)
+    .map(p => String(p.category || '').trim()).filter(Boolean))];
+  if (cats.length < 2) return;
+  bar.innerHTML = [`<button class="pill ghost on" data-c="all">All</button>`]
+    .concat(cats.map(c => `<button class="pill ghost" data-c="${escapeHTML(c.toLowerCase())}">${escapeHTML(c)}</button>`))
+    .join('');
+  const cards = $$('#postgrid .card');
+  bar.addEventListener('click', e => {
+    const b = e.target.closest('.pill');
+    if (!b) return;
+    $$('.pill', bar).forEach(x => x.classList.toggle('on', x === b));
+    const c = b.dataset.c;
+    cards.forEach(card => card.classList.toggle('hide', c !== 'all' && card.dataset.cat !== c));
+  });
 }
 
 
@@ -423,8 +484,8 @@ function latest() {
   const listEl = $('#posts'), box = $('#latestImg');
   if (!listEl) return;
   const P = items(S.posts);
-  listEl.innerHTML = P.map(p => `
-    <a class="post" href="${escapeHTML(safeURL(p.url) || '#')}"><div>
+  listEl.innerHTML = P.map((p, i) => `
+    <a class="post" href="${escapeHTML(postHref(p, i))}"><div>
       <div class="post-meta mono"><i class="sq"></i> ${escapeHTML(p.category)} <span>|</span> ${escapeHTML(p.date)}</div>
       <h3>${escapeHTML(p.title)}</h3>
     </div><span class="arrow" aria-hidden="true">↗</span></a>`).join('');
@@ -451,7 +512,7 @@ function postGrid() {
     const src = safeURL(p.video) || safeURL(p.image) || safeURL(p.poster);
     const inner = src ? media(src, p.poster, !!safeURL(p.video), safeURL(p.video) ? 'video' : '', p.title) : plate(i + 1, 1000, 1000, i * 2);
     return `
-  <a class="card pcard" href="${escapeHTML(safeURL(p.url) || '#')}">
+  <a class="card pcard" href="${escapeHTML(postHref(p, i))}" data-cat="${escapeHTML(String(p.category || '').toLowerCase())}">
     <div class="thumb"><div class="media"><div class="fr on">${inner}</div></div></div>
     <div class="pmeta mono"><i class="sq"></i> ${escapeHTML(p.category)} <span>|</span> ${escapeHTML(p.date)}</div>
     <h3>${escapeHTML(p.title)}</h3>
@@ -826,8 +887,8 @@ function observeEmbeds() {
 }
 
 /* ══ BOOT ═══════════════════════════════════════════════════════ */
-settings(); projectPage(); hero();
-grid(); latest(); postGrid(); contact(); portrait(); clients();
+settings(); projectPage(); postPage(); hero();
+grid(); latest(); postGrid(); postFilters(); contact(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds();
 reveal(); navDot(); navBar(); magnet(); ink(); elementLogo();
 })();
