@@ -13,8 +13,9 @@
   function embed(input, options = {}) {
     const raw = String(input || '').trim().replace(/&amp;/g, '&');
     let src = raw;
-    const width = Number(raw.match(/\bwidth\s*=\s*["']\s*(\d+)/i)?.[1]);
-    const height = Number(raw.match(/\bheight\s*=\s*["']\s*(\d+)/i)?.[1]);
+    /* only a plain pixel count counts; width="100%" tells us nothing */
+    const width = Number(raw.match(/\bwidth\s*=\s*["']\s*(\d+)\s*["']/i)?.[1]);
+    const height = Number(raw.match(/\bheight\s*=\s*["']\s*(\d+)\s*["']/i)?.[1]);
     if (src.startsWith('<')) src = src.match(/\bsrc\s*=\s*["']([^"']+)["']/i)?.[1] || '';
     src = src.replace(/^\[([^\]]+)\]\([^)]*\)$/, '$1').replace(/\\&/g, '&').replace(/title=0byline=0/g, 'title=0&byline=0');
     let url; try { url = new URL(src); } catch { return null; }
@@ -103,10 +104,25 @@
       clip.muted = true;
       clip.loop = true;
       clip.playsInline = true;
-      const go = () => { const p = clip.play(); if (p && p.catch) p.catch(() => {}); };
+      const go = () => {
+        if (clip.dataset.offscreen === '1' || document.hidden) return;
+        const run = clip.play(); if (run && run.catch) run.catch(() => {});
+      };
+      /* a page can hold a dozen clips; only the ones in view may run,
+         otherwise a phone runs out of decoders and the tab is dropped */
+      if (typeof IntersectionObserver !== 'undefined') {
+        new IntersectionObserver(entries => {
+          entries.forEach(entry => {
+            clip.dataset.offscreen = entry.isIntersecting ? '0' : '1';
+            if (entry.isIntersecting) go(); else clip.pause();
+          });
+        }, {rootMargin: '150px'}).observe(clip);
+      }
       if (clip.readyState >= 2) go();
       else clip.addEventListener('loadeddata', go, {once:true});
-      clip.addEventListener('pause', () => { if (!clip.ended && !document.hidden) go(); });
+      clip.addEventListener('pause', () => {
+        if (!clip.ended && !document.hidden && clip.dataset.offscreen !== '1') go();
+      });
     });
   }
   if (typeof document !== 'undefined' && typeof MutationObserver !== 'undefined') {

@@ -154,10 +154,8 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 /* the whole frame recedes — overlays counter-scale so they keep their size */
 .card:hover .thumb{transform:scale(.955)}
 .media{position:absolute;inset:0}
-.chip,.dl{transition:transform .34s var(--ease)}
-.card:hover .chip{transform:scale(1.047);transform-origin:0 100%}
-.card:hover .dl{transform:scale(1.047);transform-origin:100% 0}
-.fr{position:absolute;inset:0;opacity:0;transition:none}
+.chip,.card:hover .chip{transform:scale(1.047);transform-origin:0 100%}
+.card:hover .fr{position:absolute;inset:0;opacity:0;transition:none}
 .fr.on{opacity:1}
 .fr img,.fr video,.fr svg{width:100%;height:100%;object-fit:cover;display:block}
 .chip{position:absolute;left:16px;bottom:16px;display:flex;align-items:center;gap:13px;
@@ -171,10 +169,7 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 .chip b{display:block;color:#fff;font-weight:500;font-size:16.5px;line-height:1.2}
 .chip span{display:block;font-family:var(--mono);font-size:9.5px;letter-spacing:.13em;
   text-transform:uppercase;color:rgba(255,255,255,.82);margin-top:3px}
-.dl{position:absolute;right:13px;top:13px;width:30px;height:30px;border-radius:999px;background:#fff;
-  display:grid;place-items:center;opacity:0;transform:translateY(-4px);transition:.3s var(--ease)}
-.card:hover .dl{opacity:1;transform:none}
-.dl svg{width:14px;height:14px;object-fit:contain}
+.card:hover .dl svg{width:14px;height:14px;object-fit:contain}
 .card h3{font-weight:500;text-transform:uppercase;font-size:clamp(.95rem,1.35vw,1.2rem);
   letter-spacing:-.005em;margin:16px 0 0;line-height:1.22}
 

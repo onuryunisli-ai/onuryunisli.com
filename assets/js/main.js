@@ -315,7 +315,6 @@ function hero() {
 
 
 /* ══ WORK GRID ══════════════════════════════════════════════════ */
-const dlIcon = `<svg viewBox="0 0 24 24" fill="none" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 19h16"/></svg>`;
 
 function grid() {
   const g = $('#grid');
@@ -375,7 +374,6 @@ function projectCard(p, idx, opts = {}) {
   <a class="card" href="/work/${escapeHTML(encodeURIComponent(String(p.slug ?? '')))}" data-svc="${escapeHTML((Array.isArray(p.services) ? p.services : []).join(' '))}">
     <div class="thumb">
       <div class="media">${frames}</div>
-      <span class="dl">${dlIcon}</span>
       <span class="chip"><span class="sq${logoSrc ? ' logo' : ''}">${logoMark}</span><span><b>${escapeHTML(p.client)}</b><span>${escapeHTML(p.sector)}</span></span></span>
     </div>
     <h3>${escapeHTML(p.title)}</h3>
@@ -923,6 +921,34 @@ function autoCycle() {
   });
 }
 
+/* ══ TOUCH: PROJECT PAGE FILMS ═════════════════════════════════════ */
+/* Inside a project every film is a Vimeo page of its own. On a phone
+   only the one being looked at keeps its source; the rest are emptied. */
+function pageFilms() {
+  if (!TOUCH) return;
+  const frames = $$('.pc-film iframe');
+  if (!frames.length) return;
+  frames.forEach(frame => {
+    if (!frame.dataset.filmSrc) frame.dataset.filmSrc = frame.getAttribute('src') || '';
+    frame.removeAttribute('src');
+  });
+  let shown = null;
+  const watch = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const frame = entry.target;
+      if (entry.isIntersecting) {
+        if (shown && shown !== frame) { shown.removeAttribute('src'); }
+        shown = frame;
+        if (!frame.getAttribute('src') && frame.dataset.filmSrc) frame.setAttribute('src', frame.dataset.filmSrc);
+      } else if (frame === shown) {
+        frame.removeAttribute('src');
+        shown = null;
+      }
+    });
+  }, {threshold: 0, rootMargin: '100px'});
+  frames.forEach(frame => watch.observe(frame));
+}
+
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
 function reveal() {
   const h = $('[data-split]');
@@ -1247,5 +1273,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle(); pageFilms();
 })();
