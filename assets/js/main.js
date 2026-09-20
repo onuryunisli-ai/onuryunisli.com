@@ -940,32 +940,35 @@ function autoCycle() {
   });
 }
 
-/* ══ TOUCH: PROJECT PAGE FILMS ═════════════════════════════════════ */
-/* Inside a project every film is a Vimeo page of its own. On a phone
-   only the one being looked at keeps its source; the rest are emptied. */
+/* ══ PROJECT PAGE FILMS ════════════════════════════════════════════ */
+/* Inside a project every film is loaded once, in the order it appears,
+   and is never taken away again — scrolling back never reloads. */
 function pageFilms() {
-  if (!TOUCH) return;
   const frames = $$('.pc-film iframe');
   if (!frames.length) return;
-  frames.forEach(frame => {
-    if (!frame.dataset.filmSrc) frame.dataset.filmSrc = frame.getAttribute('src') || '';
+  frames.forEach((frame, i) => {
+    const source = frame.getAttribute('src') || frame.dataset.filmSrc;
+    if (!source) return;
+    frame.dataset.filmSrc = source;
+    frame.removeAttribute('loading');
+    if (i === 0) return;                       /* birincisi onsuz da yüklənir */
     frame.removeAttribute('src');
+    setTimeout(() => {                         /* növbə ilə, şəbəkəni boğmadan */
+      if (!frame.getAttribute('src')) frame.setAttribute('src', source);
+    }, 700 * i);
   });
-  let shown = null;
-  const watch = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      const frame = entry.target;
-      if (entry.isIntersecting) {
-        if (shown && shown !== frame) { shown.removeAttribute('src'); }
-        shown = frame;
-        if (!frame.getAttribute('src') && frame.dataset.filmSrc) frame.setAttribute('src', frame.dataset.filmSrc);
-      } else if (frame === shown) {
-        frame.removeAttribute('src');
-        shown = null;
-      }
-    });
-  }, {threshold: 0, rootMargin: '100px'});
-  frames.forEach(frame => watch.observe(frame));
+}
+
+/* ══ OUTSIDE LINKS ═════════════════════════════════════════════════ */
+function outside() {
+  $$('a[href]').forEach(link => {
+    const href = link.getAttribute('href') || '';
+    if (!/^https?:/i.test(href)) return;
+    let host; try { host = new URL(href, location.href).host; } catch { return; }
+    if (host === location.host) return;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+  });
 }
 
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
@@ -1292,5 +1295,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle(); pageFilms();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle(); pageFilms(); outside();
 })();
