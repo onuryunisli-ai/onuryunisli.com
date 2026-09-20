@@ -338,7 +338,9 @@ function projectCard(p, idx, opts = {}) {
   /* embed: keep the pasted code, not the resolved URL — the size attributes
      in it are what makes the cover crop to a square for any video ratio */
   const parsedCover = window.ProjectContent?.embed(video);
-  const embedRaw = parsedCover && !parsedCover.interactive ? video : '';
+  /* A Vimeo frame is a whole web page; nine of them exhaust a phone's
+     memory and Safari drops the tab. On touch the card shows its still. */
+  const embedRaw = parsedCover && !parsedCover.interactive && !TOUCH ? video : '';
   const cover = embedRaw || safeURL(video) || safeURL(poster);
   // The cover is independent of the gallery: never discard the first shot.
   const coverImages = Array.isArray(p.coverImages)
@@ -819,6 +821,16 @@ function autoCycle() {
   });
 }
 
+/* ══ TOUCH: ONE HERO FILM ═══════════════════════════════════════════ */
+/* Each background is a full Vimeo page. A phone keeps one, not five. */
+function heroLite() {
+  if (!TOUCH) return;
+  const layers = $$('.bgs .bg');
+  if (layers.length < 2) return;
+  layers.slice(1).forEach(layer => layer.remove());
+  layers[0].classList.add('on');
+}
+
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
 function reveal() {
   const h = $('[data-split]');
@@ -1039,6 +1051,9 @@ function embedActive(frame) {
   return embedVisibility.get(frame) && !document.hidden && !REDUCED && (!parent || parent.classList.contains('on'));
 }
 function syncEmbeds() {
+  if (TOUCH) $$('iframe[data-embed-src]').forEach(frame => {
+    if (embedActive(frame)) warmEmbed(frame);    /* sıra ona çatanda yüklənir */
+  });
   embedPlayers.forEach((state, frame) => {
     if (!state.ready) return;
     const play = embedActive(frame) || (state.warming && !document.hidden && !REDUCED);
@@ -1113,15 +1128,18 @@ function observeEmbeds() {
   }, {rootMargin:'600px'});
   $$('iframe[data-embed-src]').forEach(frame => {
     embedVisibility.set(frame,false); observer.observe(frame);
-    if (frame.closest('.bg')) warmEmbed(frame);
+    if (frame.closest('.bg')) {
+      if (!TOUCH) warmEmbed(frame);              /* telefonda yalnız görünən sətir yüklənir */
+      else if (frame.closest('.bg').classList.contains('on')) warmEmbed(frame);
+    }
     else preload.observe(frame);
   });
   document.addEventListener('visibilitychange',syncVideos);
 }
 
 /* ══ BOOT ═══════════════════════════════════════════════════════ */
-settings(); projectPage(); postPage(); hero();
+settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark();
 })();
