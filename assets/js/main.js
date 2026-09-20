@@ -340,7 +340,7 @@ function projectCard(p, idx, opts = {}) {
   const parsedCover = window.ProjectContent?.embed(video);
   /* A Vimeo frame is a whole web page; nine of them exhaust a phone's
      memory and Safari drops the tab. On touch the card shows its still. */
-  const embedRaw = parsedCover && !parsedCover.interactive ? video : '';
+  const embedRaw = parsedCover && !parsedCover.interactive && !TOUCH ? video : '';
   const cover = embedRaw || safeURL(video) || safeURL(poster);
   // The cover is independent of the gallery: never discard the first shot.
   const coverImages = Array.isArray(p.coverImages)
@@ -440,6 +440,15 @@ function scrub() {
     };
     const warm = () => frs.forEach((_, k) => { prepare(k); });
     warmers.set(th, warm); nearby.observe(th);
+    /* the film frame is empty until the player answers, so the first
+       still holds the card and steps aside once the film can run */
+    const film = frs[0].querySelector('iframe[data-embed-src], video');
+    const filmReady = () => !!film && (film.dataset.mediaReady === 'true'
+      || (film.tagName === 'VIDEO' && film.readyState >= 2));
+    if (film && !filmReady()) {
+      paint(imageFrames[0]);
+      prepare(0).then(ok => { if (ok && wanted === 0) paint(0); });
+    }
     th.addEventListener('mouseenter', warm, {once:true});
     th.addEventListener('mousemove', e => {
       const r = th.getBoundingClientRect();
@@ -1226,5 +1235,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); soloEmbeds(); autoCycle();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle();
 })();
