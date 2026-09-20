@@ -154,8 +154,9 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 /* the whole frame recedes — overlays counter-scale so they keep their size */
 .card:hover .thumb{transform:scale(.955)}
 .media{position:absolute;inset:0}
-.chip,.card:hover .chip{transform:scale(1.047);transform-origin:0 100%}
-.card:hover .fr{position:absolute;inset:0;opacity:0;transition:none}
+.chip{transition:transform .34s var(--ease)}
+.card:hover .chip{transform:scale(1.047);transform-origin:0 100%}
+.fr{position:absolute;inset:0;opacity:0;transition:none}
 .fr.on{opacity:1}
 .fr img,.fr video,.fr svg{width:100%;height:100%;object-fit:cover;display:block}
 .chip{position:absolute;left:16px;bottom:16px;display:flex;align-items:center;gap:13px;
