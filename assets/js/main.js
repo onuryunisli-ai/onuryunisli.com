@@ -340,7 +340,7 @@ function projectCard(p, idx, opts = {}) {
   const parsedCover = window.ProjectContent?.embed(video);
   /* A Vimeo frame is a whole web page; nine of them exhaust a phone's
      memory and Safari drops the tab. On touch the card shows its still. */
-  const embedRaw = parsedCover && !parsedCover.interactive && !TOUCH ? video : '';
+  const embedRaw = parsedCover && !parsedCover.interactive ? video : '';
   const cover = embedRaw || safeURL(video) || safeURL(poster);
   // The cover is independent of the gallery: never discard the first shot.
   const coverImages = Array.isArray(p.coverImages)
@@ -831,6 +831,45 @@ function heroLite() {
   layers[0].classList.add('on');
 }
 
+/* ══ TOUCH: ONE PLAYER AT A TIME ═══════════════════════════════════ */
+/* Every Vimeo frame is a whole web page and a phone cannot hold many.
+   The card nearest the middle of the screen gets the player; the one
+   before it is unloaded outright, not merely paused. */
+function soloEmbeds() {
+  if (!TOUCH) return;
+  let current = null;
+  const drop = frame => {
+    if (!frame || !frame.dataset.embedSrc) return;
+    embedPlayers.delete(frame);
+    frame.removeAttribute('data-media-ready');
+    frame.setAttribute('src', 'about:blank');
+    frame.removeAttribute('src');
+  };
+  const pick = () => {
+    const middle = innerHeight / 2;
+    let best = null, near = Infinity;
+    $$('.card iframe[data-embed-src]').forEach(frame => {
+      const box = frame.getBoundingClientRect();
+      if (box.bottom < 0 || box.top > innerHeight) return;
+      const gap = Math.abs(box.top + box.height / 2 - middle);
+      if (gap < near) { near = gap; best = frame; }
+    });
+    if (best === current) return;
+    drop(current);
+    current = best;
+    if (current) warmEmbed(current);
+  };
+  let waiting = false;
+  const queue = () => {
+    if (waiting) return;
+    waiting = true;
+    requestAnimationFrame(() => { waiting = false; pick(); });
+  };
+  addEventListener('scroll', queue, {passive:true});
+  addEventListener('resize', queue, {passive:true});
+  setTimeout(pick, 600);
+}
+
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
 function reveal() {
   const h = $('[data-split]');
@@ -1051,8 +1090,8 @@ function embedActive(frame) {
   return embedVisibility.get(frame) && !document.hidden && !REDUCED && (!parent || parent.classList.contains('on'));
 }
 function syncEmbeds() {
-  if (TOUCH) $$('iframe[data-embed-src]').forEach(frame => {
-    if (embedActive(frame)) warmEmbed(frame);    /* sıra ona çatanda yüklənir */
+  if (TOUCH) $$('.bg iframe[data-embed-src]').forEach(frame => {
+    if (embedActive(frame)) warmEmbed(frame);    /* hero: sıra ona çatanda */
   });
   embedPlayers.forEach((state, frame) => {
     if (!state.ready) return;
@@ -1128,6 +1167,7 @@ function observeEmbeds() {
   }, {rootMargin:'600px'});
   $$('iframe[data-embed-src]').forEach(frame => {
     embedVisibility.set(frame,false); observer.observe(frame);
+    if (TOUCH && !frame.closest('.bg')) return;   /* soloEmbeds() idarə edir */
     if (frame.closest('.bg')) {
       if (!TOUCH) warmEmbed(frame);              /* telefonda yalnız görünən sətir yüklənir */
       else if (frame.closest('.bg').classList.contains('on')) warmEmbed(frame);
@@ -1141,5 +1181,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); soloEmbeds();
 })();
