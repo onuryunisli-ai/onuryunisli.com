@@ -442,8 +442,16 @@ function scrub() {
       if (ready[k]) paint(k);
       else prepare(k).then(loaded => { if (loaded && wanted === k) paint(k); });
     };
-    const warm = () => frs.forEach((_, k) => { prepare(k); });
+    /* the stills come first: warming every player at once on a page of
+       forty-six cards starves the images and the cards look empty */
+    const warm = () => imageFrames.forEach(k => { prepare(k); });
     warmers.set(th, warm); nearby.observe(th);
+    const onScreen = new IntersectionObserver(entries => {
+      if (!entries[0].isIntersecting) return;
+      onScreen.disconnect();
+      prepare(0);                                 /* film yalnız kart görünəndə */
+    }, {threshold: 0.4});
+    onScreen.observe(th);
     /* the film frame is empty until the player answers, so the first
        still holds the card and steps aside once the film can run */
     const film = frs[0].querySelector('iframe[data-embed-src], video');
@@ -451,7 +459,11 @@ function scrub() {
       || (film.tagName === 'VIDEO' && film.readyState >= 2));
     if (film && !filmReady()) {
       paint(imageFrames[0]);
-      prepare(0).then(ok => { if (ok && wanted === 0) paint(0); });
+      /* wait for the film to announce itself — forcing every card to
+         load its player at once starves the cover images */
+      const swap = () => { if (wanted === 0 && filmReady()) paint(0); };
+      film.addEventListener('mediaready', swap, {once:true});
+      film.addEventListener('loadeddata', swap, {once:true});
     }
     th.addEventListener('mouseenter', warm, {once:true});
     th.addEventListener('mousemove', e => {
