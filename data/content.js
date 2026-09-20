@@ -17,7 +17,7 @@ window.SITE = {
   },
   "disciplines": [
     {
-      "title": "MOTION DESIGNs",
+      "title": "MOTION DESIGN",
       "video": "<iframe src=\"https://player.vimeo.com/video/1228423392?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
     },
     {
