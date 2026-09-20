@@ -823,12 +823,14 @@ function autoCycle() {
 
 /* ══ TOUCH: ONE HERO FILM ═══════════════════════════════════════════ */
 /* Each background is a full Vimeo page. A phone keeps one, not five. */
-function heroLite() {
-  if (!TOUCH) return;
-  const layers = $$('.bgs .bg');
-  if (layers.length < 2) return;
-  layers.slice(1).forEach(layer => layer.remove());
-  layers[0].classList.add('on');
+function heroLite() { /* layers stay; syncEmbeds() keeps one player */ }
+
+function unloadEmbed(frame) {
+  if (!frame || !frame.dataset.embedSrc) return;
+  embedPlayers.delete(frame);
+  frame.removeAttribute('data-media-ready');
+  frame.setAttribute('src', 'about:blank');
+  frame.removeAttribute('src');
 }
 
 /* ══ TOUCH: ONE PLAYER AT A TIME ═══════════════════════════════════ */
@@ -838,13 +840,7 @@ function heroLite() {
 function soloEmbeds() {
   if (!TOUCH) return;
   let current = null;
-  const drop = frame => {
-    if (!frame || !frame.dataset.embedSrc) return;
-    embedPlayers.delete(frame);
-    frame.removeAttribute('data-media-ready');
-    frame.setAttribute('src', 'about:blank');
-    frame.removeAttribute('src');
-  };
+  const drop = unloadEmbed;
   const pick = () => {
     const middle = innerHeight / 2;
     let best = null, near = Infinity;
@@ -855,9 +851,13 @@ function soloEmbeds() {
       if (gap < near) { near = gap; best = frame; }
     });
     if (best === current) return;
-    drop(current);
+    if (current) { drop(current); const was = current.closest('.card'); if (was) delete was.dataset.playing; }
     current = best;
-    if (current) warmEmbed(current);
+    if (current) {
+      warmEmbed(current);
+      const card = current.closest('.card');
+      if (card) card.dataset.playing = '1';
+    }
   };
   let waiting = false;
   const queue = () => {
@@ -868,6 +868,38 @@ function soloEmbeds() {
   addEventListener('scroll', queue, {passive:true});
   addEventListener('resize', queue, {passive:true});
   setTimeout(pick, 600);
+}
+
+/* ══ TOUCH: COVERS STEP THROUGH ════════════════════════════════════ */
+/* The card holding the player shows its film; the rest walk their
+   cover stills, three seconds apiece. */
+function autoCycle() {
+  if (!TOUCH || REDUCED) return;
+  $$('.card .thumb').forEach(th => {
+    const card = th.closest('.card');
+    const frs = $$('.fr', th);
+    const stills = frs.map((frame, i) => ({frame, i}))
+      .filter(({frame}) => !frame.querySelector('video, iframe')).map(({i}) => i);
+    if (stills.length < 1) return;
+    let step = 0, timer = null, live = false;
+    const paint = k => {
+      frs.forEach((frame, n) => frame.classList.toggle('on', n === k));
+      const img = frs[k].querySelector('img');
+      if (img) img.loading = 'eager';
+      syncVideos();
+    };
+    const tick = () => {
+      if (card && card.dataset.playing) paint(0);
+      else { paint(stills[step % stills.length]); step++; }
+      timer = setTimeout(tick, 3000);
+    };
+    const watch = new IntersectionObserver(entries => {
+      const seen = entries[0].isIntersecting;
+      if (seen && !live) { live = true; step = 0; tick(); }
+      else if (!seen && live) { live = false; clearTimeout(timer); }
+    }, {threshold: 0.25});
+    watch.observe(th);
+  });
 }
 
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
@@ -1091,7 +1123,9 @@ function embedActive(frame) {
 }
 function syncEmbeds() {
   if (TOUCH) $$('.bg iframe[data-embed-src]').forEach(frame => {
-    if (embedActive(frame)) warmEmbed(frame);    /* hero: sıra ona çatanda */
+    /* the discipline on screen gets the player, the rest are unloaded */
+    if (embedActive(frame)) warmEmbed(frame);
+    else if (frame.getAttribute('src')) unloadEmbed(frame);
   });
   embedPlayers.forEach((state, frame) => {
     if (!state.ready) return;
@@ -1181,5 +1215,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); soloEmbeds();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); soloEmbeds(); autoCycle();
 })();

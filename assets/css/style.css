@@ -445,3 +445,11 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 @media (max-width:1000px){
   .cnt-grid{grid-template-columns:1fr}
 }
+
+/* ═════════ TELEFON: MENYU ÖLÇÜSÜ ═════════ */
+@media (max-width:620px){
+  .mark-art{height:22px}
+  .nav-links{gap:11px}
+  .nav-links a{font-size:10px;letter-spacing:.05em;padding-bottom:7px}
+  .nav-links a::after{width:3px;height:3px}
+}
