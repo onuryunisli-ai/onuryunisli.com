@@ -41,7 +41,7 @@ const postSlug = (post, index = 0) => {
 const postHref = (post, index = 0) => {
   const external = safeURL(post?.url);
   if (external && external !== '#' && /^https?:/i.test(external)) return external;
-  return `/posts/${postSlug(post, index)}`;
+  return `/posts/${postSlug(post, index)}/`;
 };
 const videoVisibility = new Map();
 function syncVideos() {
@@ -104,7 +104,7 @@ function projectPage() {
   const projects = items(S.projects);
   const index = projects.findIndex(project => project.slug === root.dataset.project);
   if (index < 0) {
-    root.innerHTML = '<header class="case-header wrap"><a class="case-back mono" href="/work">← All work</a><h1 class="case-title">Project unavailable</h1></header>';
+    root.innerHTML = '<header class="case-header wrap"><a class="case-back mono" href="/work/">← All work</a><h1 class="case-title">Project unavailable</h1></header>';
     return;
   }
   const p = projects[index], detail = p.detail || {};
@@ -164,7 +164,7 @@ function projectPage() {
   if (description) description.setAttribute('content', detail.description || `${p.client}: ${p.title}. ${services.join(', ')}.`);
   root.innerHTML = `
     <header class="case-header wrap">
-      <div class="case-eyebrow"><a class="case-back mono" href="/work">← All work</a><span class="mono">${String(index+1).padStart(2,'0')} / ${String(projects.length).padStart(2,'0')}</span></div>
+      <div class="case-eyebrow"><a class="case-back mono" href="/work/">← All work</a><span class="mono">${String(index+1).padStart(2,'0')} / ${String(projects.length).padStart(2,'0')}</span></div>
       <h1 class="case-title">${escapeHTML(p.client)}</h1>
       <p class="case-lede">${escapeHTML(p.title)}</p>
     </header>
@@ -365,7 +365,7 @@ function projectCard(p, idx, opts = {}) {
     return `<div class="fr${k ? '' : ' on'}">${inner}</div>`;
   }).join('');
   return `
-  <a class="card" href="/work/${escapeHTML(encodeURIComponent(String(p.slug ?? '')))}" data-svc="${escapeHTML((Array.isArray(p.services) ? p.services : []).join(' '))}">
+  <a class="card" href="/work/${escapeHTML(encodeURIComponent(String(p.slug ?? '')))}/" data-svc="${escapeHTML((Array.isArray(p.services) ? p.services : []).join(' '))}">
     <div class="thumb">
       <div class="media">${frames}</div>
       <span class="chip"><span class="sq${logoSrc ? ' logo' : ''}">${logoMark}</span><span><b>${escapeHTML(p.client)}</b><span>${escapeHTML(p.sector)}</span></span></span>
