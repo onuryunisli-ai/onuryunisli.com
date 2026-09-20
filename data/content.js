@@ -12,7 +12,8 @@ window.SITE = {
     "behance": "https://www.behance.net/onuryunisli",
     "instagram": "https://www.instagram.com/onuryunisli/",
     "linkedin": "https://www.linkedin.com/in/onur-yunisli-64674b232/",
-    "vimeo": "https://vimeo.com/onuryunisli"
+    "vimeo": "https://vimeo.com/onuryunisli",
+    "dribbble": "https://dribbble.com/OnurYunisli"
   },
   "disciplines": [
     {

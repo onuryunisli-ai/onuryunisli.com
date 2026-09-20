@@ -254,8 +254,11 @@ input:-webkit-autofill:focus,textarea:-webkit-autofill:focus{
 .icons{display:flex;justify-content:flex-end;gap:clamp(14px,1.8vw,26px)}
 .icons a{width:20px;height:20px;display:block;color:rgba(255,255,255,.85);
   transition:color .25s,transform .25s var(--ease)}
-.icons a:hover{color:#fff;transform:translateY(-3px)}
-.icons svg{width:100%;height:100%;display:block}
+.icons a:hover{color:#fff}
+/* lifting the link itself pulls it out from under the cursor and the
+   hover flickers — the drawing moves, the hit area does not */
+.icons svg{width:100%;height:100%;display:block;transition:transform .25s var(--ease)}
+.icons a:hover svg{transform:translateY(-3px)}
 
 .rv{opacity:0;transform:translateY(26px);
   transition:opacity 1.5s var(--ease),transform 1.5s var(--ease)}
