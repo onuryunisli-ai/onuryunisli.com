@@ -8,6 +8,7 @@ const S = window.SITE || {};
 const $  = (q, r = document) => r.querySelector(q);
 const $$ = (q, r = document) => [...r.querySelectorAll(q)];
 const REDUCED = matchMedia('(prefers-reduced-motion:reduce)').matches;
+const TOUCH = matchMedia('(hover:none)').matches;   /* telefon, planşet */
 
 // CMS text is content, never HTML. URL fields accept web/local paths only.
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g,
@@ -375,6 +376,7 @@ function projectCard(p, idx, opts = {}) {
 
 /* cursor sweeps the stills */
 function scrub() {
+  if (TOUCH) return;               /* toxunmada avtomatik dövr işləyir */
   const warmers = new Map();
   const nearby = new IntersectionObserver(entries => {
     entries.forEach(entry => {
@@ -462,7 +464,7 @@ function coverVideos() {
       if (entry.target.networkState === 0) entry.target.load();
       preload.unobserve(entry.target);
     });
-  }, {rootMargin:'600px'});
+  }, {rootMargin: TOUCH ? '0px' : '600px'});
   vids.forEach(video => {
     videoVisibility.set(video, false); io.observe(video);
     preload.observe(video);
@@ -775,6 +777,46 @@ function wordmark() {
   holder.addEventListener('focus', () => { warmUp(); roll(); });
   holder.addEventListener('blur', rest);
   if (!REDUCED) addEventListener('pointermove', warmUp, {once:true, passive:true});
+  if (TOUCH && !REDUCED) {                 /* hover yoxdur: hər 10 saniyədən bir özü oynayır */
+    setTimeout(function beat() {
+      warmUp(); roll();
+      setTimeout(rest, 4300);
+      setTimeout(beat, 10000);
+    }, 2500);
+  }
+}
+
+/* ══ TOUCH: CARDS CYCLE THEMSELVES ═════════════════════════════════ */
+/* No pointer to follow, so a card in view plays its cover film for a
+   beat and then steps through the stills on its own. Only the card on
+   screen runs, which also keeps phone memory low. */
+function autoCycle() {
+  if (!TOUCH || REDUCED) return;
+  $$('.card .thumb').forEach(th => {
+    const frs = $$('.fr', th);
+    if (frs.length < 2) return;
+    const film = !!frs[0].querySelector('video, iframe');
+    let at = 0, timer = null, live = false;
+    const show = k => {
+      at = k;
+      frs.forEach((frame, n) => frame.classList.toggle('on', n === k));
+      const img = frs[k].querySelector('img');
+      if (img) img.loading = 'eager';
+      const ahead = frs[(k + 1) % frs.length].querySelector('img');
+      if (ahead) ahead.loading = 'eager';
+      syncVideos();
+    };
+    const step = () => {
+      timer = setTimeout(() => { show((at + 1) % frs.length); step(); },
+                         at === 0 && film ? 5000 : 3000);
+    };
+    const watch = new IntersectionObserver(entries => {
+      const seen = entries[0].isIntersecting;
+      if (seen && !live) { live = true; show(0); step(); }
+      else if (!seen && live) { live = false; clearTimeout(timer); show(0); }
+    }, {threshold: 0.4});
+    watch.observe(th);
+  });
 }
 
 /* ══ SCROLL REVEAL ══════════════════════════════════════════════ */
@@ -1081,5 +1123,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle();
 })();
