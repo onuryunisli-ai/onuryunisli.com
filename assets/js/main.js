@@ -233,7 +233,13 @@ function hero() {
   if (!D.length) return;
   const LEN = D.length, COPIES = 5, MID = 2 * LEN;
 
+  const seed = bgs.querySelector('.bg[data-seed]');
+  if (seed) {
+    const parsed = window.ProjectContent?.embed(D[0] && D[0].video);
+    if (!parsed || parsed.id !== seed.dataset.seed) seed.remove();   /* CMS-də dəyişibsə */
+  }
   D.forEach((d, i) => {
+    if (i === 0 && bgs.querySelector('.bg[data-seed]')) return;      /* onsuz da oynayır */
     const b = document.createElement('div');
     b.className = 'bg' + (i ? '' : ' on');
     b.innerHTML = d.video ? media(d.video, d.poster, true, 'video') : plate(i, 1600, 900);
