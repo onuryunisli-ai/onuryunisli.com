@@ -74,6 +74,24 @@
     const ar = parsed.ratio > 0 ? ` style="--ar:${(Math.round(parsed.ratio * 10000) / 10000)}"` : '';
     return `<iframe ${source}${ar} title="${esc(options.title || parsed.provider + ' video')}" loading="${parsed.autoplay?'eager':'lazy'}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   }
+  /* Behance'dən gələn şəkillər tam ölçülü PNG olur — bir səhifədə 26 dənəsi
+     telefonun yaddaşını doldurur. Cloudinary URL-inə f_auto,q_auto və en
+     əlavə edirik: heç nə yenidən yüklənmir, sadəcə çatdırılma dəyişir. */
+  const CLOUD_IMG = /^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(v\d+\/.+)$/i;
+  const IMG_WIDTHS = [640, 960, 1280, 1600, 2000];
+  function sized(src) {
+    const raw = String(src || '');
+    const parts = raw.match(CLOUD_IMG);
+    if (!parts || /\.(gif|svg)(?:[?#]|$)/i.test(raw)) return null;
+    const at = w => parts[1] + 'f_auto,q_auto,w_' + w + '/' + parts[2];
+    return {src: at(1600), srcset: IMG_WIDTHS.map(w => at(w) + ' ' + w + 'w').join(', ')};
+  }
+  function imgTag(src, alt) {
+    const fit = sized(src);
+    return fit
+      ? `<img src="${esc(fit.src)}" srcset="${esc(fit.srcset)}" sizes="(max-width:1500px) 100vw, 1400px" alt="${esc(alt || '')}" loading="lazy" decoding="async">`
+      : `<img src="${esc(src)}" alt="${esc(alt || '')}" loading="lazy" decoding="async">`;
+  }
   /* An animated gif on Cloudinary is delivered as a looping muted video:
      it always loops (some gifs carry no loop flag and stop after one pass)
      and the file is a fraction of the size. */
@@ -144,7 +162,7 @@
     const clip = gifMarkup(src, asset.alt);
     const visual = !src ? '<div class="pc-empty">Şəkil və ya video əlavə edin</div>' : clip ? clip : embed(src) ? `<div class="pc-film">${iframe(src, {title:asset.alt})}</div>` : video
       ? `<video src="${esc(src)}" ${poster ? `poster="${esc(poster)}"` : ''} controls playsinline preload="metadata"></video>`
-      : `<img src="${esc(src)}" alt="${esc(asset.alt)}" loading="lazy">`;
+      : imgTag(src, asset.alt);
     return `<figure>${visual}${asset.caption ? `<figcaption>${esc(asset.caption)}</figcaption>` : ''}</figure>`;
   }
   function block(b, options = {}) {
@@ -176,5 +194,5 @@
   function render(detail, options = {}) {
     return `<div class="project-stream" style="--pc-gap:${number(detail.spacing ?? 0,0,120,0)}px;--pc-bg:${color(detail.background, '#ffffff')};--pc-ink:${color(detail.color, '#161616')};--pc-width:${number(detail.width ?? 1400,600,1920,1400)}px">${(detail.blocks || []).map(b=>block(b,options)).join('')}</div>`;
   }
-  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo, startClips};
+  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo, startClips, sized};
 })(typeof window !== 'undefined' ? window : globalThis);

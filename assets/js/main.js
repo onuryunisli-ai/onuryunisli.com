@@ -935,22 +935,56 @@ function autoCycle() {
 }
 
 /* ══ PROJECT PAGE FILMS ════════════════════════════════════════════ */
-/* Inside a project every film is loaded once, in the order it appears,
-   and is never taken away again — scrolling back never reloads. */
+/* A case can hold twenty Vimeo frames and each one is a web page of its
+   own. A desktop swallows them; a phone does not — nineteen players is
+   a frozen tab. So a phone keeps a short window of films alive around
+   the one being read, loading the next ones well before they arrive. */
 function pageFilms() {
   const frames = $$('.pc-film iframe');
   if (!frames.length) return;
-  frames.forEach((frame, i) => {
+  frames.forEach(frame => {
     const source = frame.getAttribute('src') || frame.dataset.filmSrc;
-    if (!source) return;
-    frame.dataset.filmSrc = source;
+    if (source) frame.dataset.filmSrc = source;
     frame.removeAttribute('loading');
-    if (i === 0) return;                       /* birincisi onsuz da yüklənir */
-    frame.removeAttribute('src');
-    setTimeout(() => {                         /* növbə ilə, şəbəkəni boğmadan */
-      if (!frame.getAttribute('src')) frame.setAttribute('src', source);
-    }, 700 * i);
   });
+
+  if (!TOUCH) {                       /* masaüstü: hamısı, sıra ilə, birdəfəlik */
+    frames.forEach((frame, i) => {
+      if (i === 0) return;
+      frame.removeAttribute('src');
+      setTimeout(() => {
+        if (!frame.getAttribute('src') && frame.dataset.filmSrc) frame.setAttribute('src', frame.dataset.filmSrc);
+      }, 700 * i);
+    });
+    return;
+  }
+
+  const BACK = 1, AHEAD = 3;          /* pəncərə: biri arxada, üçü qabaqda */
+  frames.forEach(frame => frame.removeAttribute('src'));
+  let waiting = false;
+  const sweep = () => {
+    const middle = innerHeight / 2;
+    let near = 0, best = Infinity;
+    frames.forEach((frame, i) => {
+      const box = frame.getBoundingClientRect();
+      const gap = Math.abs(box.top + box.height / 2 - middle);
+      if (gap < best) { best = gap; near = i; }
+    });
+    frames.forEach((frame, i) => {
+      const keep = i >= near - BACK && i <= near + AHEAD;
+      const live = !!frame.getAttribute('src');
+      if (keep && !live && frame.dataset.filmSrc) frame.setAttribute('src', frame.dataset.filmSrc);
+      else if (!keep && live) { frame.setAttribute('src', 'about:blank'); frame.removeAttribute('src'); }
+    });
+  };
+  const queue = () => {
+    if (waiting) return;
+    waiting = true;
+    requestAnimationFrame(() => { waiting = false; sweep(); });
+  };
+  addEventListener('scroll', queue, {passive:true});
+  addEventListener('resize', queue, {passive:true});
+  sweep();
 }
 
 /* ══ OUTSIDE LINKS ═════════════════════════════════════════════════ */
