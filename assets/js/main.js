@@ -390,7 +390,7 @@ function scrub() {
       warmers.get(entry.target)?.();
       nearby.unobserve(entry.target);
     });
-  }, { rootMargin: '500px' });
+  }, { rootMargin: '1400px' });   /* şəkillər hover-dən çox əvvəl hazır olsun */
   $$('.card .thumb').forEach(th => {
     const frs = $$('.fr', th);
     if (frs.length < 2) return;
@@ -465,14 +465,21 @@ function scrub() {
       film.addEventListener('mediaready', swap, {once:true});
       film.addEventListener('loadeddata', swap, {once:true});
     }
-    th.addEventListener('mouseenter', warm, {once:true});
+    th.addEventListener('mouseenter', () => {
+      imageFrames.forEach(k => {
+        const img = frs[k].querySelector('img');
+        if (img) { img.loading = 'eager'; img.fetchPriority = 'high'; }
+      });
+      warm();
+    }, {once:true});
     th.addEventListener('mousemove', e => {
       const r = th.getBoundingClientRect();
       const p = (e.clientX - r.left) / r.width;
       const zone = Math.max(0, Math.min(imageFrames.length - 1, Math.floor(p * imageFrames.length)));
       show(imageFrames[zone]);
     }, { passive: true });
-    th.addEventListener('mouseleave', () => show(0));
+    /* leaving the card must not drop it onto an empty player */
+    th.addEventListener('mouseleave', () => show(film && !filmReady() ? imageFrames[0] : 0));
   });
 }
 
