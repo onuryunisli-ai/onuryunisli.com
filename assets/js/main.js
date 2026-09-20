@@ -1170,7 +1170,12 @@ async function warmEmbed(frame) {
   const state = {ready:false, playing:null, warming:!REDUCED};
   embedPlayers.set(frame,state);
   const url = new URL(frame.dataset.embedSrc);
-  url.searchParams.set('autoplay','0');
+  /* The player API can only start a film after vimeo's script has
+     downloaded and the player has answered — seconds on a cold load.
+     The background already on screen carries autoplay in its own URL,
+     so it starts the moment the frame loads. */
+  const upfront = !REDUCED && !!frame.closest('.bg.on');
+  url.searchParams.set('autoplay', upfront ? '1' : '0');
   frame.loading = 'eager';
   const markReady = () => {
     if (frame.dataset.mediaReady === 'true') return;
@@ -1219,6 +1224,7 @@ function observeEmbeds() {
   const preload = new IntersectionObserver(entries => {
     entries.forEach(e => { if (e.isIntersecting) { warmEmbed(e.target); preload.unobserve(e.target); } });
   }, {rootMargin:'600px'});
+  if ($('.bg iframe[data-embed-src]')) loadPlayerScript('https://player.vimeo.com/api/player.js');
   $$('iframe[data-embed-src]').forEach(frame => {
     embedVisibility.set(frame,false); observer.observe(frame);
     if (TOUCH && !frame.closest('.bg')) return;   /* soloEmbeds() idarə edir */
