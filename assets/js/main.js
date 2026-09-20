@@ -887,11 +887,17 @@ function autoCycle() {
       const img = frs[k].querySelector('img');
       if (img) img.loading = 'eager';
       syncVideos();
+      stills.forEach(n => { const first = frs[n].querySelector('img'); if (first) first.loading = 'eager'; });
     };
+    const film = frs[0].querySelector('iframe, video');
+    const filmReady = () => !film
+      || film.dataset.mediaReady === 'true'
+      || (film.tagName === 'VIDEO' && film.readyState >= 2);
     const tick = () => {
-      if (card && card.dataset.playing) paint(0);
+      /* never cut to an empty frame: the still stays until the film runs */
+      if (card && card.dataset.playing && filmReady()) paint(0);
       else { paint(stills[step % stills.length]); step++; }
-      timer = setTimeout(tick, 3000);
+      timer = setTimeout(tick, card && card.dataset.playing && filmReady() ? 4000 : 3000);
     };
     const watch = new IntersectionObserver(entries => {
       const seen = entries[0].isIntersecting;
@@ -1122,11 +1128,16 @@ function embedActive(frame) {
   return embedVisibility.get(frame) && !document.hidden && !REDUCED && (!parent || parent.classList.contains('on'));
 }
 function syncEmbeds() {
-  if (TOUCH) $$('.bg iframe[data-embed-src]').forEach(frame => {
-    /* the discipline on screen gets the player, the rest are unloaded */
-    if (embedActive(frame)) warmEmbed(frame);
-    else if (frame.getAttribute('src')) unloadEmbed(frame);
-  });
+  if (TOUCH) {
+    /* Vimeo needs a second or two to start, so the next discipline is
+       loaded while the current one plays; everything else is dropped. */
+    const layers = $$('.bgs .bg');
+    layers.forEach(layer => {
+      const frame = layer.querySelector('iframe[data-embed-src]');
+      if (!frame) return;
+      warmEmbed(frame);            /* hər beş intizam yaddaşda qalır */
+    });
+  }
   embedPlayers.forEach((state, frame) => {
     if (!state.ready) return;
     const play = embedActive(frame) || (state.warming && !document.hidden && !REDUCED);
