@@ -959,7 +959,7 @@ function pageFilms() {
     return;
   }
 
-  const BACK = 1, AHEAD = 3;          /* pəncərə: biri arxada, üçü qabaqda */
+  const BACK = 3, AHEAD = 6;          /* pəncərə: üçü arxada, altısı qabaqda — cəmi 10 */
   frames.forEach(frame => frame.removeAttribute('src'));
   let waiting = false;
   const sweep = () => {
