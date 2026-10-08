@@ -17,7 +17,7 @@ window.SITE = {
   },
   "disciplines": [
     {
-      "title": "MOTION DESIGNs",
+      "title": "MOTION DESIGN",
       "video": "/assets/media/hero/motion-design.mp4",
       "poster": "/assets/media/hero/motion-design.jpg"
     },
