@@ -104,7 +104,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, sky and sunset",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 1",
               "caption": ""
             },
             "padding": 0
@@ -126,7 +126,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/b3gxxvck52zagrmwjqle.webp",
               "type": "image",
-              "alt": "",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 2",
               "caption": ""
             },
             "padding": 0
@@ -141,7 +141,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/dnc3ske9kt0rledfx47n.webp",
               "type": "image",
-              "alt": "Image may contain: painting",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 3",
               "caption": ""
             },
             "padding": 0
@@ -156,7 +156,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/yulihcsgcvqtbjvmm8bt.webp",
               "type": "image",
-              "alt": "",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 4",
               "caption": ""
             },
             "padding": 0
@@ -166,7 +166,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/nvvpx8jkkuctv0hiwljw.webp",
               "type": "image",
-              "alt": "Image may contain: person, outdoor and clothing",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 5",
               "caption": ""
             },
             "padding": 0
@@ -181,7 +181,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/crqxmvuhvrsrmialwgpx.webp",
               "type": "image",
-              "alt": "",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 6",
               "caption": ""
             },
             "padding": 0
@@ -191,7 +191,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/prk69pmmzv65e7nhdobl.webp",
               "type": "image",
-              "alt": "Image may contain: footwear",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 7",
               "caption": ""
             },
             "padding": 0
@@ -202,13 +202,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/qlmaugojvwhpygmmcafl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AzerGold 10th Anniversary Brand Identity — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/e1pf40odjfsp8gfl1j0e.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AzerGold 10th Anniversary Brand Identity — 9",
                 "caption": ""
               }
             ],
@@ -221,7 +221,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/pf28pzbsocuutsbuer9l.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 10",
               "caption": ""
             },
             "padding": 0
@@ -231,7 +231,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/ldlfspftoudi0bov0dam.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 11",
               "caption": ""
             },
             "padding": 0
@@ -241,7 +241,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/j2wjrvwg8awqodt3tzvh.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 12",
               "caption": ""
             },
             "padding": 0
@@ -251,7 +251,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/eto5xmo7oknzrdw9d7ar.webp",
               "type": "image",
-              "alt": "Image may contain: tree, outdoor and sign",
+              "alt": "AzerGold 10th Anniversary Brand Identity — 13",
               "caption": ""
             },
             "padding": 0
@@ -307,7 +307,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, soft drink and drink",
+              "alt": "SIRAB Brand Identity & Packaging — 1",
               "caption": ""
             },
             "padding": 0
@@ -329,7 +329,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/zosaeufgenzxz9hyg7ry.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon and illustration",
+              "alt": "SIRAB Brand Identity & Packaging — 2",
               "caption": ""
             },
             "padding": 0
@@ -364,7 +364,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/yymvknz2busdvetv9h1m.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, indoor and drink",
+              "alt": "SIRAB Brand Identity & Packaging — 3",
               "caption": ""
             },
             "padding": 0
@@ -379,7 +379,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/jfsxypzw2b7abwrqwqid.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drink and soft drink",
+              "alt": "SIRAB Brand Identity & Packaging — 4",
               "caption": ""
             },
             "padding": 0
@@ -394,7 +394,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/bshromrnhxfpiuh03u0z.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, road and truck",
+              "alt": "SIRAB Brand Identity & Packaging — 5",
               "caption": ""
             },
             "padding": 0
@@ -414,7 +414,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/hn5kgrydm1lyd5ds2agx.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, sky and building",
+              "alt": "SIRAB Brand Identity & Packaging — 6",
               "caption": ""
             },
             "padding": 0
@@ -434,7 +434,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp",
               "type": "image",
-              "alt": "Image may contain: tree and outdoor",
+              "alt": "SIRAB Brand Identity & Packaging — 7",
               "caption": ""
             },
             "padding": 0
@@ -449,7 +449,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/vbgqpack0fw9x8mxyc3g.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, water and plastic bottle",
+              "alt": "SIRAB Brand Identity & Packaging — 8",
               "caption": ""
             },
             "padding": 0
@@ -459,7 +459,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/gmnt3cvejhkuo2ka8lcb.webp",
               "type": "image",
-              "alt": "Image may contain: cup",
+              "alt": "SIRAB Brand Identity & Packaging — 9",
               "caption": ""
             },
             "padding": 0
@@ -469,7 +469,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/exwbwtoew8sk4qxxrfn1.webp",
               "type": "image",
-              "alt": "Image may contain: soft drink, bottle and drink",
+              "alt": "SIRAB Brand Identity & Packaging — 10",
               "caption": ""
             },
             "padding": 0
@@ -490,7 +490,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/odmdlkubashtbtwntgh3.webp",
               "type": "image",
-              "alt": "Image may contain: electronics",
+              "alt": "SIRAB Brand Identity & Packaging — 11",
               "caption": ""
             },
             "padding": 0
@@ -505,7 +505,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/fotb6n13rqenolyudef7.webp",
               "type": "image",
-              "alt": "Image may contain: sky, alcohol and drink",
+              "alt": "SIRAB Brand Identity & Packaging — 12",
               "caption": ""
             },
             "padding": 0
@@ -515,7 +515,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/ehghjikwhskf9wdhlyzo.webp",
               "type": "image",
-              "alt": "",
+              "alt": "SIRAB Brand Identity & Packaging — 13",
               "caption": ""
             },
             "padding": 0
@@ -525,7 +525,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/s6ygrrmm2ujglsh91fly.webp",
               "type": "image",
-              "alt": "Image may contain: grass and cartoon",
+              "alt": "SIRAB Brand Identity & Packaging — 14",
               "caption": ""
             },
             "padding": 0
@@ -535,7 +535,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/fltoazuotzq9tosa1mq7.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "SIRAB Brand Identity & Packaging — 15",
               "caption": ""
             },
             "padding": 0
@@ -545,7 +545,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/cn5tokpltxdd8hblk1tv.webp",
               "type": "image",
-              "alt": "Image may contain: road, truck and green",
+              "alt": "SIRAB Brand Identity & Packaging — 16",
               "caption": ""
             },
             "padding": 0
@@ -555,7 +555,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/i8drrzo5rumotnb1igfn.webp",
               "type": "image",
-              "alt": "Image may contain: hat, fashion accessory and sun hat",
+              "alt": "SIRAB Brand Identity & Packaging — 17",
               "caption": ""
             },
             "padding": 0
@@ -565,7 +565,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/ytpxg6mrofhlteyttuhh.webp",
               "type": "image",
-              "alt": "Image may contain: electronics, screenshot and circuit",
+              "alt": "SIRAB Brand Identity & Packaging — 18",
               "caption": ""
             },
             "padding": 0
@@ -575,7 +575,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/xcd9nt9jueoyvcb24u3i.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, print and businesscard",
+              "alt": "SIRAB Brand Identity & Packaging — 19",
               "caption": ""
             },
             "padding": 0
@@ -612,7 +612,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/kmzaql4zrx5if3h5nwne.webp",
               "type": "image",
-              "alt": "Image may contain: building, billboard and outdoor",
+              "alt": "SIRAB Brand Identity & Packaging — 20",
               "caption": ""
             },
             "padding": 0
@@ -622,7 +622,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/quadeaahtckevwu2tcnt.webp",
               "type": "image",
-              "alt": "Image may contain: vehicle, land vehicle and car",
+              "alt": "SIRAB Brand Identity & Packaging — 21",
               "caption": ""
             },
             "padding": 0
@@ -632,7 +632,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/e2jdfii5hgl6scyp6pba.webp",
               "type": "image",
-              "alt": "Image may contain: table, green and indoor",
+              "alt": "SIRAB Brand Identity & Packaging — 22",
               "caption": ""
             },
             "padding": 0
@@ -642,7 +642,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/ylzoftbf7o7ygzf8h8zz.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, tree and ground",
+              "alt": "SIRAB Brand Identity & Packaging — 23",
               "caption": ""
             },
             "padding": 0
@@ -652,7 +652,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/asi9agt9de9nh19zvph3.webp",
               "type": "image",
-              "alt": "Image may contain: person, clothing and green",
+              "alt": "SIRAB Brand Identity & Packaging — 24",
               "caption": ""
             },
             "padding": 0
@@ -662,7 +662,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/rox5wfokkf7yrpwnlhke.webp",
               "type": "image",
-              "alt": "Image may contain: sky, tree and outdoor",
+              "alt": "SIRAB Brand Identity & Packaging — 25",
               "caption": ""
             },
             "padding": 0
@@ -672,7 +672,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-brand-identity-packaging/dqdtw0u7et3ksh3dpouz.webp",
               "type": "image",
-              "alt": "Image may contain: cup, coffee and indoor",
+              "alt": "SIRAB Brand Identity & Packaging — 26",
               "caption": ""
             },
             "padding": 0
@@ -722,7 +722,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/z2g0xd3buv0jtarfu6xy.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drinking water and beverage",
+              "alt": "Badamlı Mineral Water — Packaging Design — 1",
               "caption": ""
             },
             "padding": 0
@@ -744,7 +744,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/swows5qixouhzhvx9pt3.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 2",
               "caption": ""
             },
             "padding": 0
@@ -755,19 +755,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/jjhuyezkoivv2tsboc0m.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/xcoop8drvbxag0qfwrol.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 4",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/yl3jhzzlunvnehvx4cre.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 5",
                 "caption": ""
               }
             ],
@@ -785,7 +785,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/vtaki0i9hxwduw1bdtfx.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 6",
               "caption": ""
             },
             "padding": 0
@@ -796,25 +796,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/d32vkpcjjbobfu7mzrtw.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/ze3vpvxbpd8gqsv1aiya.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/kuommnqy5y9mjy0dhrlm.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/ndtvnqssbumfdlvrdn0p.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 10",
                 "caption": ""
               }
             ],
@@ -827,7 +827,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/os0ojc0wlbtutkbgoqzp.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 11",
               "caption": ""
             },
             "padding": 0
@@ -837,7 +837,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/zvrvtv2r9jytpptazkay.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 12",
               "caption": ""
             },
             "padding": 0
@@ -847,7 +847,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/msfuy0akbogfllyp8z5g.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 13",
               "caption": ""
             },
             "padding": 0
@@ -858,13 +858,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/uhuhgbzoqhqhmi9arcy2.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 14",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/fdasriluaxf09z2hlpnd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 15",
                 "caption": ""
               }
             ],
@@ -877,7 +877,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/da6iukk9vhnge7ac5taw.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 16",
               "caption": ""
             },
             "padding": 0
@@ -888,19 +888,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/dgwv4ymqx2kehtzy10iu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 17",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/wcofii9icwjhmz8svck7.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 18",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/p2kykybwqa8n3mw70zsj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 19",
                 "caption": ""
               }
             ],
@@ -913,7 +913,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/m2gwibgnqwnj6c0klw2f.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 20",
               "caption": ""
             },
             "padding": 0
@@ -924,25 +924,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/sgdzxbkwt7e8v3muigc6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 21",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/ryef2gkrngxng14mbjaa.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 22",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/o6isw7ltdr2wmfadnuk0.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 23",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/oeoz3dcjdppjh9c6eyvp.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 24",
                 "caption": ""
               }
             ],
@@ -955,7 +955,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/oiivrqbmbdwpov7nzw0z.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 25",
               "caption": ""
             },
             "padding": 0
@@ -966,13 +966,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/gzuucmdwuunnvcltc1tx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 26",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-packaging-design/os9kdbtdhavcqosvme8u.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Packaging Design — 27",
                 "caption": ""
               }
             ],
@@ -985,7 +985,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-packaging-design/eexm4rsdushjs3if75yb.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Packaging Design — 28",
               "caption": ""
             },
             "padding": 0
@@ -1040,7 +1040,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, man and billboard",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 1",
               "caption": ""
             },
             "padding": 0
@@ -1057,7 +1057,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/rpiojvhumjemntqxx0h5.webp",
               "type": "image",
-              "alt": "Image may contain: suit, clothing and man",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 2",
               "caption": ""
             },
             "padding": 0
@@ -1072,7 +1072,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/ezxidqhwzvui0hyzfrww.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, person and footwear",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 3",
               "caption": ""
             },
             "padding": 0
@@ -1082,7 +1082,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/tl0vvs7kg3f8beknuubs.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, person and building",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 4",
               "caption": ""
             },
             "padding": 0
@@ -1092,7 +1092,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/catfdfjzsb19iaiwdcnl.webp",
               "type": "image",
-              "alt": "Image may contain: building, clothing and person",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 5",
               "caption": ""
             },
             "padding": 0
@@ -1102,7 +1102,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/axgrncsgbiiotsarmm06.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 6",
               "caption": ""
             },
             "padding": 0
@@ -1113,13 +1113,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/gf4lmjikxqukz9xha1eh.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/yt4aoo9vkxsijjjgzigo.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 8",
                 "caption": ""
               }
             ],
@@ -1132,7 +1132,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/krd2xxiwlgohhg1m0fdb.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, exhibition and billboard",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 9",
               "caption": ""
             },
             "padding": 0
@@ -1147,7 +1147,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/ztas9cs7ad60nyfi6wjw.webp",
               "type": "image",
-              "alt": "Image may contain: furniture, vase and coffee table",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 10",
               "caption": ""
             },
             "padding": 0
@@ -1163,13 +1163,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/qbxp4mr7vk8weonxizfe.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/ilh7wqbabu2jedina0um.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 12",
                 "caption": ""
               }
             ],
@@ -1183,13 +1183,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/sabosrcdfot9kuiishdu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 13",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/jpy58mrd5zfauorcvcaa.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 14",
                 "caption": ""
               }
             ],
@@ -1218,7 +1218,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/zjlf47ke767i3hp9ion8.webp",
               "type": "image",
-              "alt": "Image may contain: sign and person",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 15",
               "caption": ""
             },
             "padding": 0
@@ -1228,7 +1228,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/naww05iaehmxxls1cs4b.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, table and furniture",
+              "alt": "Turkish Petroleum Baku 2026 Exhibition Stand — 16",
               "caption": ""
             },
             "padding": 0
@@ -1288,7 +1288,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/hzfhlacddguhqtl03y5j.webp",
               "type": "image",
-              "alt": "Image may contain: abstract",
+              "alt": "AZVIRT Rebranding — 1",
               "caption": ""
             },
             "padding": 0
@@ -1305,7 +1305,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/bqegsqly7tbsty5r9i1r.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, vehicle and land vehicle",
+              "alt": "AZVIRT Rebranding — 2",
               "caption": ""
             },
             "padding": 0
@@ -1316,7 +1316,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/azvirt-rebranding/tcsq8d7tvwe7x9vzsvko.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AZVIRT Rebranding — 3",
                 "caption": ""
               }
             ],
@@ -1329,7 +1329,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/szndgyarqtlseigsvupd.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and vehicle",
+              "alt": "AZVIRT Rebranding — 4",
               "caption": ""
             },
             "padding": 0
@@ -1344,7 +1344,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/vvoefhkiojgpggmjswim.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "AZVIRT Rebranding — 5",
               "caption": ""
             },
             "padding": 0
@@ -1354,7 +1354,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/rxtnnhndlvavraliwjxi.webp",
               "type": "image",
-              "alt": "Image may contain: person, outdoor and sky",
+              "alt": "AZVIRT Rebranding — 6",
               "caption": ""
             },
             "padding": 0
@@ -1364,7 +1364,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/i3xxwhjon4xewouzhcsy.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and ship",
+              "alt": "AZVIRT Rebranding — 7",
               "caption": ""
             },
             "padding": 0
@@ -1374,7 +1374,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/uqinutjqisc8amlc36o9.webp",
               "type": "image",
-              "alt": "Image may contain: tree, outdoor and screenshot",
+              "alt": "AZVIRT Rebranding — 8",
               "caption": ""
             },
             "padding": 0
@@ -1384,7 +1384,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/u13ssexxygjzffgfbade.webp",
               "type": "image",
-              "alt": "Image may contain: building",
+              "alt": "AZVIRT Rebranding — 9",
               "caption": ""
             },
             "padding": 0
@@ -1394,7 +1394,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/ofecm3jwjr6h7cbzxmhx.webp",
               "type": "image",
-              "alt": "Image may contain: sky, screenshot and vehicle",
+              "alt": "AZVIRT Rebranding — 10",
               "caption": ""
             },
             "padding": 0
@@ -1405,13 +1405,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/azvirt-rebranding/akeni50tjymgebpdovzc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AZVIRT Rebranding — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/azvirt-rebranding/xdyiy3rt7yweris59qph.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AZVIRT Rebranding — 12",
                 "caption": ""
               }
             ],
@@ -1429,7 +1429,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/estkcpg94vms3laypnak.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, transport and outdoor",
+              "alt": "AZVIRT Rebranding — 13",
               "caption": ""
             },
             "padding": 0
@@ -1440,7 +1440,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/azvirt-rebranding/f1mnufmqnz1qa9ybtefr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AZVIRT Rebranding — 14",
                 "caption": ""
               }
             ],
@@ -1453,7 +1453,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/fmqbinsftsdlhbvobjz6.webp",
               "type": "image",
-              "alt": "Image may contain: person, man and orange",
+              "alt": "AZVIRT Rebranding — 15",
               "caption": ""
             },
             "padding": 0
@@ -1463,7 +1463,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/w5llnhrln4swq9sntgrx.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon and screenshot",
+              "alt": "AZVIRT Rebranding — 16",
               "caption": ""
             },
             "padding": 0
@@ -1473,7 +1473,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/cv7ug7ko6miglvjl7byx.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon and screenshot",
+              "alt": "AZVIRT Rebranding — 17",
               "caption": ""
             },
             "padding": 0
@@ -1483,7 +1483,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/jn7o3xu0rilz5mnjbn1j.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and cartoon",
+              "alt": "AZVIRT Rebranding — 18",
               "caption": ""
             },
             "padding": 0
@@ -1493,7 +1493,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/mfuemcvwnp3ejjlyxalx.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor",
+              "alt": "AZVIRT Rebranding — 19",
               "caption": ""
             },
             "padding": 0
@@ -1503,7 +1503,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/wf0qlxhxsrunbnnjb98v.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and flag",
+              "alt": "AZVIRT Rebranding — 20",
               "caption": ""
             },
             "padding": 0
@@ -1513,7 +1513,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/sww8lhggiurjdaqgj099.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "AZVIRT Rebranding — 21",
               "caption": ""
             },
             "padding": 0
@@ -1523,7 +1523,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/z4mwqjyvk6tnboysunk7.webp",
               "type": "image",
-              "alt": "",
+              "alt": "AZVIRT Rebranding — 22",
               "caption": ""
             },
             "padding": 0
@@ -1534,7 +1534,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/azvirt-rebranding/o8eno5cv8o7vik4seszi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "AZVIRT Rebranding — 23",
                 "caption": ""
               }
             ],
@@ -1547,7 +1547,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/djn89zzyj8op7wasqw97.webp",
               "type": "image",
-              "alt": "Image may contain: hat, umbrella and fashion accessory",
+              "alt": "AZVIRT Rebranding — 24",
               "caption": ""
             },
             "padding": 0
@@ -1557,7 +1557,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/fvyorxotwsqmokenz4sw.webp",
               "type": "image",
-              "alt": "Image may contain: necktie",
+              "alt": "AZVIRT Rebranding — 25",
               "caption": ""
             },
             "padding": 0
@@ -1574,7 +1574,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/h5moxd7lbg8jcf1awvd3.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, yellow and fashion accessory",
+              "alt": "AZVIRT Rebranding — 26",
               "caption": ""
             },
             "padding": 0
@@ -1584,7 +1584,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/yox6uwpvo85qev63tlfr.webp",
               "type": "image",
-              "alt": "",
+              "alt": "AZVIRT Rebranding — 27",
               "caption": ""
             },
             "padding": 0
@@ -1594,7 +1594,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/azvirt-rebranding/jq2b9jsv2mnb6p5jazfm.webp",
               "type": "image",
-              "alt": "",
+              "alt": "AZVIRT Rebranding — 28",
               "caption": ""
             },
             "padding": 0
@@ -1660,7 +1660,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
               "type": "image",
-              "alt": "Image may contain: door, architecture and facade",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 1",
               "caption": ""
             },
             "padding": 0
@@ -1670,7 +1670,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/iolc2g28p5vdgfnzhq03.webp",
               "type": "image",
-              "alt": "Image may contain: metal, font and sign",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 2",
               "caption": ""
             },
             "padding": 0
@@ -1680,7 +1680,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ke31xgyfnur0x1rctkk7.webp",
               "type": "image",
-              "alt": "Image may contain: houseplant, vase and wall",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 3",
               "caption": ""
             },
             "padding": 0
@@ -1690,7 +1690,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6vfhr6xe4rw4lawli2c.webp",
               "type": "image",
-              "alt": "Image may contain: interior design, indoor and furniture",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 4",
               "caption": ""
             },
             "padding": 0
@@ -1700,7 +1700,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ejv4imjb8uyixz2g82vv.webp",
               "type": "image",
-              "alt": "Image may contain: book, pen and handwriting",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 5",
               "caption": ""
             },
             "padding": 0
@@ -1710,7 +1710,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/amci4wgyx4xwfcggrcyt.webp",
               "type": "image",
-              "alt": "Image may contain: accessory, fashion accessory and umbrella",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 6",
               "caption": ""
             },
             "padding": 0
@@ -1720,7 +1720,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6b2xptf0vdheexec7s6.webp",
               "type": "image",
-              "alt": "Image may contain: furniture, houseplant and couch",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 7",
               "caption": ""
             },
             "padding": 0
@@ -1730,7 +1730,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/s5dydhrqrwbqcqcf8tth.webp",
               "type": "image",
-              "alt": "Image may contain: tableware, drink and drinkware",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 8",
               "caption": ""
             },
             "padding": 0
@@ -1740,7 +1740,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/smwmwhbotpei33rbsgkl.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, menu and table",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 9",
               "caption": ""
             },
             "padding": 0
@@ -1755,7 +1755,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/kbhc41dgbfmtkpfswyql.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, hall and furniture",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 10",
               "caption": ""
             },
             "padding": 0
@@ -1765,7 +1765,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/u87hmqg6bqsk5scjezgw.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, interior design and wall",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 11",
               "caption": ""
             },
             "padding": 0
@@ -1775,7 +1775,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/i0nazdy4pudwfppayuhx.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, furniture and wall",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 12",
               "caption": ""
             },
             "padding": 0
@@ -1786,25 +1786,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/fx6n96fl3qravagrbjcd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 13",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/oafybksokerjepmbcree.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 14",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ehes04pvbhzn3pzoo0cn.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/y4cosm4f3qvi3bupguut.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 16",
                 "caption": ""
               }
             ],
@@ -1817,7 +1817,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/aqvmlpmx6siu9rubkqln.webp",
               "type": "image",
-              "alt": "Image may contain: person, indoor and clothing",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 17",
               "caption": ""
             },
             "padding": 0
@@ -1827,7 +1827,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/jpega1hnixa04bjvtk6h.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, person and food",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 18",
               "caption": ""
             },
             "padding": 0
@@ -1837,7 +1837,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/pgy1siry1bglzhogigk7.webp",
               "type": "image",
-              "alt": "Image may contain: clothing and collar",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 19",
               "caption": ""
             },
             "padding": 0
@@ -1847,7 +1847,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/sukoyj3krc39vsijffxj.webp",
               "type": "image",
-              "alt": "Image may contain: letter, paper and handwriting",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 20",
               "caption": ""
             },
             "padding": 0
@@ -1857,7 +1857,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/jju6ni4dvrcclpmj00o4.webp",
               "type": "image",
-              "alt": "Image may contain: transport, vehicle and bus",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 21",
               "caption": ""
             },
             "padding": 0
@@ -1867,7 +1867,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/lzkaarrzy1gjhan2rlvx.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and cloud",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 22",
               "caption": ""
             },
             "padding": 0
@@ -1877,7 +1877,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/n5dztjcufdqz2cl7m8du.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, sky and plant",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 23",
               "caption": ""
             },
             "padding": 0
@@ -1887,7 +1887,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/anjlaj7yhbogvrdqrrj2.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, sky and tree",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 24",
               "caption": ""
             },
             "padding": 0
@@ -1897,7 +1897,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/bmj2ppiu3exkddmvtzeb.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, interior design and pillow",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 25",
               "caption": ""
             },
             "padding": 0
@@ -1907,7 +1907,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/adl0qam38hjrwoj6jsdm.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, sky and outdoor",
+              "alt": "Baku Resort & Spa Hotel Brand Identity — 26",
               "caption": ""
             },
             "padding": 0
@@ -1918,19 +1918,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/irpiamhywgv5j7oroa99.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 27",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/t4grcmjjp3d2aiheqqeq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 28",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/z4t5bwpvqmzspvh9090z.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Resort & Spa Hotel Brand Identity — 29",
                 "caption": ""
               }
             ],
@@ -1984,7 +1984,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/bsrsgx09gginvm4vqugn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 1",
               "caption": ""
             },
             "padding": 0
@@ -1994,7 +1994,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/j0k9kbyh8dipdzdc9qzf.webp",
               "type": "image",
-              "alt": "",
+              "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 2",
               "caption": ""
             },
             "padding": 0
@@ -2005,13 +2005,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/rhjujhpzkvhdnwnywwbl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/xo7hpyhlvsyvonmnxbkg.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 4",
                 "caption": ""
               }
             ],
@@ -2025,13 +2025,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/rsr0d9irklllngiibhnn.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/nrsn90unvoj7rw4szcrf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 6",
                 "caption": ""
               }
             ],
@@ -2045,19 +2045,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/fb69vl1shu8weanhcovu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/ry8bjuvwsigmr5dv7fev.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/kljgfwkvmaxkqsexf3yr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 9",
                 "caption": ""
               }
             ],
@@ -2076,13 +2076,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/saryipjsyejyxdofz23a.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 10",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/wlz4f3aygemeaevbvtxr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 11",
                 "caption": ""
               }
             ],
@@ -2096,13 +2096,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/pqhkcaptabfjdvfzyxhx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/nvhbf7pah1xkvsglkgdz.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 13",
                 "caption": ""
               }
             ],
@@ -2115,7 +2115,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/vnafyzyle5olsepgkvas.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, indoor and book",
+              "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 14",
               "caption": ""
             },
             "padding": 0
@@ -2126,19 +2126,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/vq9gcxagpg8smwvviejk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/ac8yyh0h6a6valnju39q.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 16",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/ogmjzy605czp8tlmypak.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 17",
                 "caption": ""
               }
             ],
@@ -2151,7 +2151,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/eifs3e33skfhtlu2o96p.webp",
               "type": "image",
-              "alt": "Image may contain: person, indoor and human face",
+              "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 18",
               "caption": ""
             },
             "padding": 0
@@ -2162,19 +2162,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/chwpco0orlchj8v56pv8.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 19",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/rgj61vqcxuenisetyagm.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 20",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/omnckymvt4fz4n1d0zey.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 21",
                 "caption": ""
               }
             ],
@@ -2188,13 +2188,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/xchysiwcrk2ohkn9zmqy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 22",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/txygfovvbtwv3movpyjg.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 23",
                 "caption": ""
               }
             ],
@@ -2208,19 +2208,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/dfgtq8jizyoneo4amdpj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 24",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/gws1tbf6pnzwa6f1stbq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 25",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/f3cuhxfpp8vyqvz6zrcb.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 26",
                 "caption": ""
               }
             ],
@@ -2311,7 +2311,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/social-media-motion-badamli/xwtklyx3caa19rpcejyr.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Social Media — Motion — 1",
               "caption": ""
             },
             "padding": 0
@@ -2365,7 +2365,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/nk0hszlwqlyimaic4wvv.webp",
               "type": "image",
-              "alt": "Image may contain: bottle and drink",
+              "alt": "ALIVE Packaging Design & Product Rendering — 1",
               "caption": ""
             },
             "padding": 0
@@ -2375,7 +2375,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/sdfloqrbeselag1xiuex.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, gold and indoor",
+              "alt": "ALIVE Packaging Design & Product Rendering — 2",
               "caption": ""
             },
             "padding": 0
@@ -2386,13 +2386,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/mxnbscbou4cy1gcvsa13.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/oqsd35vrfotaz4ryxx2d.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 4",
                 "caption": ""
               }
             ],
@@ -2406,7 +2406,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/oyeru5sa3epqlxx870bl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 5",
                 "caption": ""
               }
             ],
@@ -2420,13 +2420,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/teaucz2an9nqqelkavs9.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 6",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/g7dza8s7ehwvs8bgvuwr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 7",
                 "caption": ""
               }
             ],
@@ -2450,7 +2450,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/ymrjrwin56x03on6fryp.webp",
               "type": "image",
-              "alt": "Image may contain: honeycomb, yellow and indoor",
+              "alt": "ALIVE Packaging Design & Product Rendering — 8",
               "caption": ""
             },
             "padding": 0
@@ -2472,25 +2472,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/dedfe956geblbr1fapez.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/dyq7g2wxcqpdhq39lthl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 10",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/drrfxjpx9u8ojdccxskh.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/ylzkdlzvserllrhbh1vx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 12",
                 "caption": ""
               }
             ],
@@ -2504,13 +2504,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/jtgiha84jopuamrlimij.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 13",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/eylk1xmuq3nvwognse0f.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 14",
                 "caption": ""
               }
             ],
@@ -2524,13 +2524,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/n3dywye5v0ffauqnndvy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/ruonzmp7uphpdwnt14al.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 16",
                 "caption": ""
               }
             ],
@@ -2544,19 +2544,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/jn7gxgos4udcu1hcxcjz.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 17",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/jfuyvndjoo2km9jdwqnv.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 18",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/ruwkvjeyjsewuzz257if.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 19",
                 "caption": ""
               }
             ],
@@ -2569,7 +2569,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/jh4taer23rqdldoslmiz.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, indoor and yellow",
+              "alt": "ALIVE Packaging Design & Product Rendering — 20",
               "caption": ""
             },
             "padding": 0
@@ -2579,7 +2579,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/kmfmp7mzf6s8xppdxvmz.webp",
               "type": "image",
-              "alt": "Image may contain: indoor and bottle",
+              "alt": "ALIVE Packaging Design & Product Rendering — 21",
               "caption": ""
             },
             "padding": 0
@@ -2590,13 +2590,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/wrlgirrgyljjfkgnvzse.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 22",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/rarjjftanlxdgqidm44d.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 23",
                 "caption": ""
               }
             ],
@@ -2609,7 +2609,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/juib3tzsh1lsvpglrl7f.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, alcohol and drink",
+              "alt": "ALIVE Packaging Design & Product Rendering — 24",
               "caption": ""
             },
             "padding": 0
@@ -2620,19 +2620,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/gxttjuyqe96zqm7mxl95.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 25",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/nxgu95t1loek06mvtzev.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 26",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/bbnurlyust5lq7ocisko.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 27",
                 "caption": ""
               }
             ],
@@ -2646,19 +2646,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/zp62vefkvnbyrqrl5zxt.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 28",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/eukz3kgt916fnfvb9rul.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 29",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/l1scp8zzwdbqqnfbuvjq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 30",
                 "caption": ""
               }
             ],
@@ -2671,7 +2671,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/uql2e9fkqyrcylhupscb.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "ALIVE Packaging Design & Product Rendering — 31",
               "caption": ""
             },
             "padding": 0
@@ -2682,25 +2682,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/wxilpmojc2tbzdpytwre.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 32",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/r2msgkuek6gc2qg1kdmq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 33",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/j82pw73chn0tvvm03nbv.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 34",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/s4y9dlauoxztkjtwqszb.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 35",
                 "caption": ""
               }
             ],
@@ -2713,7 +2713,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/udkggna7it0yz5qkixbb.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, bottle and drink",
+              "alt": "ALIVE Packaging Design & Product Rendering — 36",
               "caption": ""
             },
             "padding": 0
@@ -2723,7 +2723,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-packaging-design-product-rendering/uy9uv6hef1suw5kzu2y5.webp",
               "type": "image",
-              "alt": "",
+              "alt": "ALIVE Packaging Design & Product Rendering — 37",
               "caption": ""
             },
             "padding": 0
@@ -2734,13 +2734,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/iuv9kfzddn4qyjohveg0.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 38",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-packaging-design-product-rendering/bs3rcosc7hgrtcri5bd6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Packaging Design & Product Rendering — 39",
                 "caption": ""
               }
             ],
@@ -2794,7 +2794,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s2dtxajrrcyqnvyqxubz.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 1",
               "caption": ""
             },
             "padding": 0
@@ -2804,7 +2804,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/wy1fyab1hj5rytwgj9un.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 2",
               "caption": ""
             },
             "padding": 0
@@ -2821,7 +2821,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/xsmxaoyohwtkawobh8c4.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 3",
               "caption": ""
             },
             "padding": 0
@@ -2831,7 +2831,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/eiyk9nc4wdmxqghzmkxb.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 4",
               "caption": ""
             },
             "padding": 0
@@ -2841,7 +2841,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ntez6p7lijmlrl7s3kip.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 5",
               "caption": ""
             },
             "padding": 0
@@ -2851,7 +2851,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/b0vk6gv6xu1lwbl4unrl.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 6",
               "caption": ""
             },
             "padding": 0
@@ -2861,7 +2861,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/byypqrtcwnjdvwfcczqq.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 7",
               "caption": ""
             },
             "padding": 0
@@ -2871,7 +2871,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/b1efoj0aagfb9oa8f3bc.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 8",
               "caption": ""
             },
             "padding": 0
@@ -2882,7 +2882,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s3lcg4mgtvlxlybuk6fk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 9",
                 "caption": ""
               }
             ],
@@ -2895,7 +2895,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/mxw8lusd3krrljmkovu1.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 10",
               "caption": ""
             },
             "padding": 0
@@ -2906,19 +2906,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/blncx9w6x7eshmtogubq.mp4",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/stublbxydg3zwqv7lowq.mp4",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/rizv64qoqcifqula9rvt.mp4",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 13",
                 "caption": ""
               }
             ],
@@ -2932,19 +2932,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tf4qotb7bpbluexirpqx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 14",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/fs8b1zj4tjj6z8hic4a1.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ghylbljkxwh53sd0yeby.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 16",
                 "caption": ""
               }
             ],
@@ -2957,7 +2957,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tiuxgnfip3fyf8mnh9qo.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 17",
               "caption": ""
             },
             "padding": 0
@@ -2968,13 +2968,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/lx7iaqpyy23utajcvt7u.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 18",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tsdaqi9x1znv283cnuf6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 19",
                 "caption": ""
               }
             ],
@@ -2988,13 +2988,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/pvd1ud42z18bnssxmklj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 20",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/chogr3xbodnjusnwr4uq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 21",
                 "caption": ""
               }
             ],
@@ -3007,7 +3007,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/xpmmbsd2gfon5q8hh0hu.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 22",
               "caption": ""
             },
             "padding": 0
@@ -3018,25 +3018,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hyqie6zx63xsyakns4el.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 23",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/futrrveva25reg4zs9ev.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 24",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/grpe1aqypsnaqz8r3rgo.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 25",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ltbc1jde4plpyrrmwc7c.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 26",
                 "caption": ""
               }
             ],
@@ -3050,13 +3050,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hcxttn5h1gemavq7x3ff.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 27",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/psphxkoxsqkapfefm002.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 28",
                 "caption": ""
               }
             ],
@@ -3070,109 +3070,109 @@ window.SITE = {
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/vkokqatqssn1lh50nrrh.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 29",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/x4vmhqs3w1cgcacxcksv.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 30",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/wwpdhty1sdg1j9ux4llc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 31",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/gdaqvc9bufuzrpqeytlf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 32",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/movmllpbiimxeqnco79b.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 33",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/axjbgyiqbz9xcotdwv13.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 34",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/cbnha83emtuh3sclssk6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 35",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/fi9ryjk7ueq74io6sxnb.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 36",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/puqmb5tgze3aadrs2etw.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 37",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/jk7fo2yizeajdcun5iij.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 38",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/jhzkqzl4jv88zs6t7ver.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 39",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/o5zvqcumonuovehaioxo.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 40",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hplyudubl7uahrjwbyil.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 41",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/jefwv2qbwo6erx06rjvq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 42",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/mr7om2bldfdezbqywase.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 43",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/uo1nrkvvsqu0rays0wpm.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 44",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/estrf5cyekgdhzuo00ic.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 45",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tewe06fuvj0aayt6d1vi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Dinamit Package Design & Brand Identity — 46",
                 "caption": ""
               }
             ],
@@ -3200,7 +3200,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hvbryqp7takocbyjjzvo.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Dinamit Package Design & Brand Identity — 47",
               "caption": ""
             },
             "padding": 0
@@ -3260,7 +3260,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/uvlr5vuvi0cq9eehmnbv.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Turkish Petroleum Exhibition Stand — 1",
               "caption": ""
             },
             "padding": 0
@@ -3270,7 +3270,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/owbyavbpo8omdspo4nbo.webp",
               "type": "image",
-              "alt": "Image may contain: different, furniture and chair",
+              "alt": "Turkish Petroleum Exhibition Stand — 2",
               "caption": ""
             },
             "padding": 0
@@ -3280,7 +3280,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/lwuiysvyentmlinkkjva.webp",
               "type": "image",
-              "alt": "Image may contain: indoor and sign",
+              "alt": "Turkish Petroleum Exhibition Stand — 3",
               "caption": ""
             },
             "padding": 0
@@ -3290,7 +3290,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/a5plutyllndnrqo3gziq.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Turkish Petroleum Exhibition Stand — 4",
               "caption": ""
             },
             "padding": 0
@@ -3300,7 +3300,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/xhaaxqhnbkqtmyjdocrm.webp",
               "type": "image",
-              "alt": "Image may contain: person",
+              "alt": "Turkish Petroleum Exhibition Stand — 5",
               "caption": ""
             },
             "padding": 0
@@ -3310,7 +3310,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/mrnb6mj6cnzdg843m4rx.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "Turkish Petroleum Exhibition Stand — 6",
               "caption": ""
             },
             "padding": 0
@@ -3325,7 +3325,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/sg49lc9k7cvbhvpgo2bq.webp",
               "type": "image",
-              "alt": "Image may contain: indoor and red",
+              "alt": "Turkish Petroleum Exhibition Stand — 7",
               "caption": ""
             },
             "padding": 0
@@ -3336,13 +3336,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkish-petroleum-exhibition-stand/h4uvuj2nylgyo9vxgxrw.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Exhibition Stand — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkish-petroleum-exhibition-stand/aany2hbydzubhphdlglf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Exhibition Stand — 9",
                 "caption": ""
               }
             ],
@@ -3355,7 +3355,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/cw96a8pjavgor932rk1s.webp",
               "type": "image",
-              "alt": "Image may contain: furniture, screenshot and cartoon",
+              "alt": "Turkish Petroleum Exhibition Stand — 10",
               "caption": ""
             },
             "padding": 0
@@ -3366,13 +3366,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkish-petroleum-exhibition-stand/ixmlmpmisc1rrdjlsptd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Exhibition Stand — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkish-petroleum-exhibition-stand/aylaigtleqrzrphdyeeu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Exhibition Stand — 12",
                 "caption": ""
               }
             ],
@@ -3395,7 +3395,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/cc0c4ldchclqx2vnbegv.webp",
               "type": "image",
-              "alt": "Image may contain: person, human face and clothing",
+              "alt": "Turkish Petroleum Exhibition Stand — 13",
               "caption": ""
             },
             "padding": 0
@@ -3405,7 +3405,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/zqxcsghborzjxrvhbosm.webp",
               "type": "image",
-              "alt": "Image may contain: person, clothing and man",
+              "alt": "Turkish Petroleum Exhibition Stand — 14",
               "caption": ""
             },
             "padding": 0
@@ -3416,13 +3416,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkish-petroleum-exhibition-stand/fbqexqxv8jgdzn7jhbd9.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Exhibition Stand — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkish-petroleum-exhibition-stand/mt9pbronwxj9bfe16dqy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkish Petroleum Exhibition Stand — 16",
                 "caption": ""
               }
             ],
@@ -3435,7 +3435,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/nruwwf2e29wj724qn1vc.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Turkish Petroleum Exhibition Stand — 17",
               "caption": ""
             },
             "padding": 0
@@ -3445,7 +3445,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/t6sjdie4fi3u0ctdsgzr.webp",
               "type": "image",
-              "alt": "Image may contain: person and people",
+              "alt": "Turkish Petroleum Exhibition Stand — 18",
               "caption": ""
             },
             "padding": 0
@@ -3460,7 +3460,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/b6t7omjckalocsqqicps.webp",
               "type": "image",
-              "alt": "Image may contain: person",
+              "alt": "Turkish Petroleum Exhibition Stand — 19",
               "caption": ""
             },
             "padding": 0
@@ -3470,7 +3470,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/hiyeiebpfescfti0kzub.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Turkish Petroleum Exhibition Stand — 20",
               "caption": ""
             },
             "padding": 0
@@ -3480,7 +3480,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkish-petroleum-exhibition-stand/dfcxkkkl57kh1wtczhre.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "Turkish Petroleum Exhibition Stand — 21",
               "caption": ""
             },
             "padding": 0
@@ -3844,13 +3844,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/kpndnfvz5p8tojldnbed.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 1",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/xdbqt69gdlmlbij7pgwq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 2",
                 "caption": ""
               }
             ],
@@ -3870,7 +3870,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/zryrq5enpwzwykrk6rbd.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Shusha Global Media Forum Branding — 3",
               "caption": ""
             },
             "padding": 0
@@ -3880,7 +3880,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/uui7xmxu1umlasio9rqk.webp",
               "type": "image",
-              "alt": "Image may contain: print, letter and template",
+              "alt": "Shusha Global Media Forum Branding — 4",
               "caption": ""
             },
             "padding": 0
@@ -3890,7 +3890,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/bfbahxyavfqamofpsozr.webp",
               "type": "image",
-              "alt": "Image may contain: poster",
+              "alt": "Shusha Global Media Forum Branding — 5",
               "caption": ""
             },
             "padding": 0
@@ -3901,13 +3901,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/yvpc3rgwh2droc5jy9oi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 6",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/nrvbni8nb9uzsajukekv.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 7",
                 "caption": ""
               }
             ],
@@ -3920,7 +3920,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/ruxuw8zbznc4l0dyajmi.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and billboard",
+              "alt": "Shusha Global Media Forum Branding — 8",
               "caption": ""
             },
             "padding": 0
@@ -3930,7 +3930,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/zkwzvbh29ojvhampjuys.webp",
               "type": "image",
-              "alt": "Image may contain: poster, clothing and person",
+              "alt": "Shusha Global Media Forum Branding — 9",
               "caption": ""
             },
             "padding": 0
@@ -3940,7 +3940,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/p2q8my1giqdxj7tgryif.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Shusha Global Media Forum Branding — 10",
               "caption": ""
             },
             "padding": 0
@@ -3950,7 +3950,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/shusha-global-media-forum-branding/m7oaeyu246ochsoe4ulk.webp",
               "type": "image",
-              "alt": "Image may contain: handbag, luggage and bags and shoulder bag",
+              "alt": "Shusha Global Media Forum Branding — 11",
               "caption": ""
             },
             "padding": 0
@@ -3961,7 +3961,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/m1ruyyc4mba3zlxhtwno.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 12",
                 "caption": ""
               }
             ],
@@ -3975,13 +3975,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/a5z8njrf0fp0wk0udoq5.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 13",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/shusha-global-media-forum-branding/hsaq3evtkktjkqhl4pno.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Shusha Global Media Forum Branding — 14",
                 "caption": ""
               }
             ],
@@ -4307,7 +4307,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/bnix5m3vqjvgu4jgahls.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and cartoon",
+              "alt": "SIRAB Packaging — Sport Water — 1",
               "caption": ""
             },
             "padding": 0
@@ -4324,7 +4324,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/htgc5flh4xbgtkrl0z3z.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, beverage and drinking water",
+              "alt": "SIRAB Packaging — Sport Water — 2",
               "caption": ""
             },
             "padding": 0
@@ -4334,7 +4334,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/as6ujtscjqnd2v1grvnx.webp",
               "type": "image",
-              "alt": "Image may contain: bottle",
+              "alt": "SIRAB Packaging — Sport Water — 3",
               "caption": ""
             },
             "padding": 0
@@ -4349,7 +4349,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/wqmec4latx65knqws968.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, truck and vehicle",
+              "alt": "SIRAB Packaging — Sport Water — 4",
               "caption": ""
             },
             "padding": 0
@@ -4359,7 +4359,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/honr4fhym81dgstilpxr.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, beverage and drinking water",
+              "alt": "SIRAB Packaging — Sport Water — 5",
               "caption": ""
             },
             "padding": 0
@@ -4369,7 +4369,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/yqcutboxkchlbapur0mx.webp",
               "type": "image",
-              "alt": "Image may contain: tree and outdoor",
+              "alt": "SIRAB Packaging — Sport Water — 6",
               "caption": ""
             },
             "padding": 0
@@ -4379,7 +4379,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/ley463wzrbsgn0tg3jfg.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, indoor and plastic bottle",
+              "alt": "SIRAB Packaging — Sport Water — 7",
               "caption": ""
             },
             "padding": 0
@@ -4389,7 +4389,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/jeuvl2v9rcnx6ero6seb.webp",
               "type": "image",
-              "alt": "Image may contain: person, footwear and poster",
+              "alt": "SIRAB Packaging — Sport Water — 8",
               "caption": ""
             },
             "padding": 0
@@ -4399,7 +4399,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-sport-water/rzuhhyvcsvofvsqr9xoh.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, bicycle and sports equipment",
+              "alt": "SIRAB Packaging — Sport Water — 9",
               "caption": ""
             },
             "padding": 0
@@ -4460,7 +4460,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/b8yzdd138eqhv6nhtqao.webp",
               "type": "image",
-              "alt": "Image may contain: publication, book and printing",
+              "alt": "BE GROUP Brand Identity — 1",
               "caption": ""
             },
             "padding": 0
@@ -4480,7 +4480,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/ikgoh1oqpxs3mps6ejkv.webp",
               "type": "image",
-              "alt": "Image may contain: businesscard, material property and screenshot",
+              "alt": "BE GROUP Brand Identity — 2",
               "caption": ""
             },
             "padding": 0
@@ -4491,19 +4491,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/be-group-brand-identity/fzwgm2qceenrnyobj5f3.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "BE GROUP Brand Identity — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/be-group-brand-identity/smemkc9a8w2hhd3hbxur.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "BE GROUP Brand Identity — 4",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/be-group-brand-identity/ttdsbujreo7h1jvcw425.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "BE GROUP Brand Identity — 5",
                 "caption": ""
               }
             ],
@@ -4516,7 +4516,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/dcsjg08fjtka1kqppjl9.webp",
               "type": "image",
-              "alt": "Image may contain: factory",
+              "alt": "BE GROUP Brand Identity — 6",
               "caption": ""
             },
             "padding": 0
@@ -4526,7 +4526,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/oufgolmhcxhjoyumy9qs.webp",
               "type": "image",
-              "alt": "Image may contain: businesscard, rectangle and material property",
+              "alt": "BE GROUP Brand Identity — 7",
               "caption": ""
             },
             "padding": 0
@@ -4541,7 +4541,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/yy9me00tjuslwkbvvact.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, rectangle and square",
+              "alt": "BE GROUP Brand Identity — 8",
               "caption": ""
             },
             "padding": 0
@@ -4551,7 +4551,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/cyaqzfau5lpftyyejguk.webp",
               "type": "image",
-              "alt": "Image may contain: box, office supplies and general supply",
+              "alt": "BE GROUP Brand Identity — 9",
               "caption": ""
             },
             "padding": 0
@@ -4561,7 +4561,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/cmflhz5lddhgscuj61ce.webp",
               "type": "image",
-              "alt": "Image may contain: wheel, vehicle and freight transport",
+              "alt": "BE GROUP Brand Identity — 10",
               "caption": ""
             },
             "padding": 0
@@ -4576,7 +4576,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/v7ucle3rmnxudbimdgza.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, person and engineering",
+              "alt": "BE GROUP Brand Identity — 11",
               "caption": ""
             },
             "padding": 0
@@ -4586,7 +4586,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/isbxf2ynydbrepy46mwj.webp",
               "type": "image",
-              "alt": "Image may contain: clothing, person and engineering",
+              "alt": "BE GROUP Brand Identity — 12",
               "caption": ""
             },
             "padding": 0
@@ -4601,7 +4601,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/be-group-brand-identity/lowtqe3jtgxw5ehxcgmb.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and grass",
+              "alt": "BE GROUP Brand Identity — 13",
               "caption": ""
             },
             "padding": 0
@@ -4655,7 +4655,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/qpnmdpasfxnx2v52mkc0.webp",
               "type": "image",
-              "alt": "Image may contain: beverage, bottle and drink",
+              "alt": "SIRAB Packaging — Soda — 1",
               "caption": ""
             },
             "padding": 0
@@ -4672,7 +4672,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/pdvsve0zhcbgcehnpnj6.webp",
               "type": "image",
-              "alt": "Image may contain: drink, bottle and glass bottle",
+              "alt": "SIRAB Packaging — Soda — 2",
               "caption": ""
             },
             "padding": 0
@@ -4683,13 +4683,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/packaging-sirab-soda/pfqzl0kkcxq1zg9tsxoi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "SIRAB Packaging — Soda — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/packaging-sirab-soda/l0s0rgwdygkgmlg6hxsn.mp4",
                 "type": "image",
-                "alt": "",
+                "alt": "SIRAB Packaging — Soda — 4",
                 "caption": ""
               }
             ],
@@ -4702,7 +4702,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/vbggb3wxml15p9wk1tuk.webp",
               "type": "image",
-              "alt": "Image may contain: lemon, citron and fruit",
+              "alt": "SIRAB Packaging — Soda — 5",
               "caption": ""
             },
             "padding": 0
@@ -4712,7 +4712,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/kajtbmhm4hvfdswynxy4.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, liquid and solution",
+              "alt": "SIRAB Packaging — Soda — 6",
               "caption": ""
             },
             "padding": 0
@@ -4723,13 +4723,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/packaging-sirab-soda/v5xffaf6c5qguczfraqn.mp4",
                 "type": "image",
-                "alt": "",
+                "alt": "SIRAB Packaging — Soda — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/packaging-sirab-soda/ylk59me9lidkeyoqiykr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "SIRAB Packaging — Soda — 8",
                 "caption": ""
               }
             ],
@@ -4742,7 +4742,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/nawgfct13dsg5jeiw0x7.webp",
               "type": "image",
-              "alt": "Image may contain: fruit and natural foods",
+              "alt": "SIRAB Packaging — Soda — 9",
               "caption": ""
             },
             "padding": 0
@@ -4752,7 +4752,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/xyhcmknfmoamge0v3bzw.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, liquid and solution",
+              "alt": "SIRAB Packaging — Soda — 10",
               "caption": ""
             },
             "padding": 0
@@ -4762,7 +4762,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/y3i0wqhteyweerochoez.webp",
               "type": "image",
-              "alt": "Image may contain: drink, food and glass bottle",
+              "alt": "SIRAB Packaging — Soda — 11",
               "caption": ""
             },
             "padding": 0
@@ -4772,7 +4772,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/gpsghymxps28coyoksx8.webp",
               "type": "image",
-              "alt": "Image may contain: glass bottle, beverage and bottle",
+              "alt": "SIRAB Packaging — Soda — 12",
               "caption": ""
             },
             "padding": 0
@@ -4782,7 +4782,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/crtdi69nra5g6mowzqs8.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, glass bottle and drink",
+              "alt": "SIRAB Packaging — Soda — 13",
               "caption": ""
             },
             "padding": 0
@@ -4792,7 +4792,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/oazh5trljntqrb27fpvh.webp",
               "type": "image",
-              "alt": "Image may contain: fruit, food and fruit drink",
+              "alt": "SIRAB Packaging — Soda — 14",
               "caption": ""
             },
             "padding": 0
@@ -4802,7 +4802,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/packaging-sirab-soda/nntjy3pkuj4x1coiwfwb.webp",
               "type": "image",
-              "alt": "Image may contain: person, outdoor and clothing",
+              "alt": "SIRAB Packaging — Soda — 15",
               "caption": ""
             },
             "padding": 0
@@ -4864,7 +4864,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-coffee-packaging-3d-animation/jqthkf2weako5tuyr1eo.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, skyscraper and indoor",
+              "alt": "ALIVE Coffee — Packaging & 3D Animation — 1",
               "caption": ""
             },
             "padding": 0
@@ -4884,7 +4884,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-coffee-packaging-3d-animation/nfwkepnji52j7qwhczwd.webp",
               "type": "image",
-              "alt": "Image may contain: skyscraper and screenshot",
+              "alt": "ALIVE Coffee — Packaging & 3D Animation — 2",
               "caption": ""
             },
             "padding": 0
@@ -4894,7 +4894,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-coffee-packaging-3d-animation/axog7yngrqr8llri2z7i.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "ALIVE Coffee — Packaging & 3D Animation — 3",
               "caption": ""
             },
             "padding": 0
@@ -4909,7 +4909,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/alive-coffee-packaging-3d-animation/svye5cxqafe2sqtujc4w.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "ALIVE Coffee — Packaging & 3D Animation — 4",
               "caption": ""
             },
             "padding": 0
@@ -4920,13 +4920,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/alive-coffee-packaging-3d-animation/w3vkkfxj8pyetr8ohhdg.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Coffee — Packaging & 3D Animation — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/alive-coffee-packaging-3d-animation/c4us2jvkwr7orux4cyoe.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "ALIVE Coffee — Packaging & 3D Animation — 6",
                 "caption": ""
               }
             ],
@@ -5017,7 +5017,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/oso5hx4hmkf7x0natixm.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, indoor and soft drink",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 1",
               "caption": ""
             },
             "padding": 0
@@ -5027,7 +5027,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/yhfpuhrcyqnhaicl0w5n.webp",
               "type": "image",
-              "alt": "Image may contain: map",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 2",
               "caption": ""
             },
             "padding": 0
@@ -5042,7 +5042,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/wujuqbnmcxm5zrhpiqgj.webp",
               "type": "image",
-              "alt": "Image may contain: bottle and drink",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 3",
               "caption": ""
             },
             "padding": 0
@@ -5052,7 +5052,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/avrpomol9cqyaimhz6ql.webp",
               "type": "image",
-              "alt": "Image may contain: wall and bottle",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 4",
               "caption": ""
             },
             "padding": 0
@@ -5062,7 +5062,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/tx1fe2maizetfs1pxmx7.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 5",
               "caption": ""
             },
             "padding": 0
@@ -5072,7 +5072,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/ivhbulnmrpjkdevhthtl.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drink and wine",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 6",
               "caption": ""
             },
             "padding": 0
@@ -5082,7 +5082,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/npelbjdi6nv7fpyswdni.webp",
               "type": "image",
-              "alt": "Image may contain: bottle and drink",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 7",
               "caption": ""
             },
             "padding": 0
@@ -5092,7 +5092,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/iampvuajlvsiexrij9ce.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drink and beer",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 8",
               "caption": ""
             },
             "padding": 0
@@ -5102,7 +5102,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/tcgrulflxw81kigapnkg.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, bottle and drink",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 9",
               "caption": ""
             },
             "padding": 0
@@ -5112,7 +5112,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/grjvpntfnufdwagjjpvj.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drink and beer",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 10",
               "caption": ""
             },
             "padding": 0
@@ -5123,13 +5123,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/q6ms9dr8tbi7j9aoqnuz.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Vintage Packaging — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/jyy4r41ydbehrucoy8a9.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Vintage Packaging — 12",
                 "caption": ""
               }
             ],
@@ -5142,7 +5142,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/ih8qh4lvbrqt9lv5ml37.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drink and table",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 13",
               "caption": ""
             },
             "padding": 0
@@ -5159,7 +5159,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/ompbjbjw2ifoyf5qorxp.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 14",
               "caption": ""
             },
             "padding": 0
@@ -5170,13 +5170,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/c09ev4vvcmzwp0p7eiyx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Vintage Packaging — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/echsghb08xofpq2xvqxx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Badamlı Mineral Water — Vintage Packaging — 16",
                 "caption": ""
               }
             ],
@@ -5189,7 +5189,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/hftpa7amxi0gxguig4qm.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Badamlı Mineral Water — Vintage Packaging — 17",
               "caption": ""
             },
             "padding": 0
@@ -5267,7 +5267,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/cakh3okdpjpwmmwkv7kd.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, sky and building",
+              "alt": "SIRAB Niyə Sevilən Su? — 1",
               "caption": ""
             },
             "padding": 0
@@ -5277,7 +5277,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/nbbhpo4qmcounlc9d1f1.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, soft drink and drink",
+              "alt": "SIRAB Niyə Sevilən Su? — 2",
               "caption": ""
             },
             "padding": 0
@@ -5292,7 +5292,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/rrsh8wyyl4vmlcc2pfrg.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "SIRAB Niyə Sevilən Su? — 3",
               "caption": ""
             },
             "padding": 0
@@ -5302,7 +5302,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/adjxzc1c0vtfgnynfbou.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, indoor and beverage",
+              "alt": "SIRAB Niyə Sevilən Su? — 4",
               "caption": ""
             },
             "padding": 0
@@ -5317,7 +5317,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/admiid4jtl4pmlwei0mv.webp",
               "type": "image",
-              "alt": "Image may contain: bottle, drink and beer",
+              "alt": "SIRAB Niyə Sevilən Su? — 5",
               "caption": ""
             },
             "padding": 0
@@ -5332,7 +5332,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/ahuvvbkwwmpv2zcyunug.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, tree and ground",
+              "alt": "SIRAB Niyə Sevilən Su? — 6",
               "caption": ""
             },
             "padding": 0
@@ -5347,7 +5347,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sirab-niy-seviln-su/jbnvneeluni6xjk3mbvi.webp",
               "type": "image",
-              "alt": "Image may contain: person, green and clothing",
+              "alt": "SIRAB Niyə Sevilən Su? — 7",
               "caption": ""
             },
             "padding": 0
@@ -5422,7 +5422,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/g7xmwoscs4dcb4vco8bv.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, piano and furniture",
+              "alt": "Lamina Dekor Brand Identity — 1",
               "caption": ""
             },
             "padding": 0
@@ -5439,7 +5439,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/sv4xkb0h6zwtbuiypb0j.webp",
               "type": "image",
-              "alt": "Image may contain: musical instrument and piano",
+              "alt": "Lamina Dekor Brand Identity — 2",
               "caption": ""
             },
             "padding": 0
@@ -5456,7 +5456,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/egeq6ppecv3xfthhtm9e.webp",
               "type": "image",
-              "alt": "Image may contain: person and clothing",
+              "alt": "Lamina Dekor Brand Identity — 3",
               "caption": ""
             },
             "padding": 0
@@ -5471,7 +5471,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/l4lq0h1yvuggzwe2fz1t.webp",
               "type": "image",
-              "alt": "Image may contain: land vehicle, wheel and vehicle",
+              "alt": "Lamina Dekor Brand Identity — 4",
               "caption": ""
             },
             "padding": 0
@@ -5481,7 +5481,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/khziltrth1xmdtphwkbd.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Lamina Dekor Brand Identity — 5",
               "caption": ""
             },
             "padding": 0
@@ -5501,7 +5501,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/ufpovfcg6ttct0ouljfr.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Lamina Dekor Brand Identity — 6",
               "caption": ""
             },
             "padding": 0
@@ -5511,7 +5511,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/udkydzntnzwa1wl8rybr.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Lamina Dekor Brand Identity — 7",
               "caption": ""
             },
             "padding": 0
@@ -5526,7 +5526,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/t8kuirstfz0cwtqrexrb.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, poster and typography",
+              "alt": "Lamina Dekor Brand Identity — 8",
               "caption": ""
             },
             "padding": 0
@@ -5536,7 +5536,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/an7u6z0l5lbhacjsjubq.webp",
               "type": "image",
-              "alt": "Image may contain: wooden, table and chair",
+              "alt": "Lamina Dekor Brand Identity — 9",
               "caption": ""
             },
             "padding": 0
@@ -5556,7 +5556,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/hwi1efakrmjjekimxfnl.webp",
               "type": "image",
-              "alt": "Image may contain: art, music and screenshot",
+              "alt": "Lamina Dekor Brand Identity — 10",
               "caption": ""
             },
             "padding": 0
@@ -5566,7 +5566,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/szvgmz7fko8bedjhgybp.webp",
               "type": "image",
-              "alt": "Image may contain: abstract and screenshot",
+              "alt": "Lamina Dekor Brand Identity — 11",
               "caption": ""
             },
             "padding": 0
@@ -5576,7 +5576,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/z8u8jbcmoghgsptrfrpm.webp",
               "type": "image",
-              "alt": "Image may contain: building, outdoor and city",
+              "alt": "Lamina Dekor Brand Identity — 12",
               "caption": ""
             },
             "padding": 0
@@ -5586,7 +5586,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/mioghb1bgfkv8jacixdq.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor",
+              "alt": "Lamina Dekor Brand Identity — 13",
               "caption": ""
             },
             "padding": 0
@@ -5596,7 +5596,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/ul2rrudoxigpjrwhlzfh.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon",
+              "alt": "Lamina Dekor Brand Identity — 14",
               "caption": ""
             },
             "padding": 0
@@ -5606,7 +5606,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/wizpcxb04jjw9krmk0ur.webp",
               "type": "image",
-              "alt": "Image may contain: person, clothing and human face",
+              "alt": "Lamina Dekor Brand Identity — 15",
               "caption": ""
             },
             "padding": 0
@@ -5616,7 +5616,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/uivpaadh7xeayfyocnla.webp",
               "type": "image",
-              "alt": "Image may contain: vehicle",
+              "alt": "Lamina Dekor Brand Identity — 16",
               "caption": ""
             },
             "padding": 0
@@ -5626,7 +5626,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/dsyspnew5tjuly4d2nuc.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "Lamina Dekor Brand Identity — 17",
               "caption": ""
             },
             "padding": 0
@@ -5636,7 +5636,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/rnyjop0rjj5ockdyat6m.webp",
               "type": "image",
-              "alt": "Image may contain: letter, book and screenshot",
+              "alt": "Lamina Dekor Brand Identity — 18",
               "caption": ""
             },
             "padding": 0
@@ -5646,7 +5646,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/brand-identity-lamina-dekor/vhe2yvz0hbea4umyflkk.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lamina Dekor Brand Identity — 19",
               "caption": ""
             },
             "padding": 0
@@ -5708,7 +5708,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/mpdqoveqjyprklzij3tu.webp",
               "type": "image",
-              "alt": "Image may contain: building, outdoor and parking",
+              "alt": "Turkic Week in Geneva — 1",
               "caption": ""
             },
             "padding": 0
@@ -5723,7 +5723,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/clbcjd0bgyouwazspark.webp",
               "type": "image",
-              "alt": "Image may contain: template",
+              "alt": "Turkic Week in Geneva — 2",
               "caption": ""
             },
             "padding": 0
@@ -5733,7 +5733,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/kx9mbebua8o2yxo1mrhx.webp",
               "type": "image",
-              "alt": "Image may contain: person, floor and clothing",
+              "alt": "Turkic Week in Geneva — 3",
               "caption": ""
             },
             "padding": 0
@@ -5744,13 +5744,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkic-week-in-geneva/cebxkunj2ofmat0pbzft.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkic Week in Geneva — 4",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkic-week-in-geneva/zhlomti6xbfgfrzgnr3p.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkic Week in Geneva — 5",
                 "caption": ""
               }
             ],
@@ -5768,7 +5768,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/ihsvzomalssz5n7uzi1u.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Turkic Week in Geneva — 6",
               "caption": ""
             },
             "padding": 0
@@ -5783,7 +5783,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/j0ys4gpzlfdilbkyv4e9.webp",
               "type": "image",
-              "alt": "Image may contain: person, standing and clothing",
+              "alt": "Turkic Week in Geneva — 7",
               "caption": ""
             },
             "padding": 0
@@ -5793,7 +5793,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/ks1qy3fsj81s6xn3sivt.webp",
               "type": "image",
-              "alt": "Image may contain: tree, outdoor and billboard",
+              "alt": "Turkic Week in Geneva — 8",
               "caption": ""
             },
             "padding": 0
@@ -5803,7 +5803,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/gs0fzpbykh4pocdjtjdn.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Turkic Week in Geneva — 9",
               "caption": ""
             },
             "padding": 0
@@ -5813,7 +5813,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/wfuekqzjv0svdryy31bl.webp",
               "type": "image",
-              "alt": "Image may contain: person, indoor and clothing",
+              "alt": "Turkic Week in Geneva — 10",
               "caption": ""
             },
             "padding": 0
@@ -5824,13 +5824,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/turkic-week-in-geneva/spy6hlnu3bbh7iwubaod.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkic Week in Geneva — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/turkic-week-in-geneva/pwqppsxk3yngmkfalhl5.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Turkic Week in Geneva — 12",
                 "caption": ""
               }
             ],
@@ -5843,7 +5843,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/cbpimewrv7oti8jivwqu.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, print and template",
+              "alt": "Turkic Week in Geneva — 13",
               "caption": ""
             },
             "padding": 0
@@ -5853,7 +5853,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/fa3l0vxeueli4wxyupok.webp",
               "type": "image",
-              "alt": "Image may contain: illustration",
+              "alt": "Turkic Week in Geneva — 14",
               "caption": ""
             },
             "padding": 0
@@ -5863,7 +5863,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/turkic-week-in-geneva/tg6qcsokxljmngc6yohq.webp",
               "type": "image",
-              "alt": "Image may contain: accessory",
+              "alt": "Turkic Week in Geneva — 15",
               "caption": ""
             },
             "padding": 0
@@ -5911,7 +5911,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/inz9jpmljlxwzrqmr2ni.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 1",
               "caption": ""
             },
             "padding": 0
@@ -5928,7 +5928,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/a4ysc7ckighkk9mbmc7e.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 2",
               "caption": ""
             },
             "padding": 0
@@ -5938,7 +5938,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/vdkiaznl4aurmw4isqqr.webp",
               "type": "image",
-              "alt": "Image may contain: illustration",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 3",
               "caption": ""
             },
             "padding": 0
@@ -5948,7 +5948,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/fpfzrlo93w7rudzobubm.webp",
               "type": "image",
-              "alt": "Image may contain: person, man and indoor",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 4",
               "caption": ""
             },
             "padding": 0
@@ -5958,7 +5958,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mm0zyfmjce6qb00vgj7m.webp",
               "type": "image",
-              "alt": "Image may contain: building, outdoor and brick",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 5",
               "caption": ""
             },
             "padding": 0
@@ -5968,7 +5968,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/xx26kxuohvmro2kyqjbk.webp",
               "type": "image",
-              "alt": "Image may contain: sign",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 6",
               "caption": ""
             },
             "padding": 0
@@ -5978,7 +5978,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/b9jjypuirskepxkquanl.webp",
               "type": "image",
-              "alt": "Image may contain: person, woman and human face",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 7",
               "caption": ""
             },
             "padding": 0
@@ -5988,7 +5988,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/lnexds9xqgbe0ybzivjc.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 8",
               "caption": ""
             },
             "padding": 0
@@ -5998,7 +5998,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/kyixdkb0lwhctrj0ud99.webp",
               "type": "image",
-              "alt": "Image may contain: letter, book and businesscard",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 9",
               "caption": ""
             },
             "padding": 0
@@ -6008,7 +6008,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ptwysqcybk37kxudy2ft.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, building and truck",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 10",
               "caption": ""
             },
             "padding": 0
@@ -6018,7 +6018,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/s4svl8qbmussm8dgz4zd.webp",
               "type": "image",
-              "alt": "Image may contain: person, man and human face",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 11",
               "caption": ""
             },
             "padding": 0
@@ -6028,7 +6028,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/lu34f1evajubpgqtsolq.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, handwriting and letter",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 12",
               "caption": ""
             },
             "padding": 0
@@ -6038,7 +6038,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mq9forvjtgzxo87lcvuj.webp",
               "type": "image",
-              "alt": "Image may contain: human face, baby and smile",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 13",
               "caption": ""
             },
             "padding": 0
@@ -6048,7 +6048,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mhonzxfewqsckiucuki6.webp",
               "type": "image",
-              "alt": "Image may contain: grass, human face and smile",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 14",
               "caption": ""
             },
             "padding": 0
@@ -6058,7 +6058,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/q7fircblkvfrqtly1yp3.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 15",
               "caption": ""
             },
             "padding": 0
@@ -6068,7 +6068,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ykl1abxlhzphuqs6kvav.webp",
               "type": "image",
-              "alt": "Image may contain: sky and sign",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 16",
               "caption": ""
             },
             "padding": 0
@@ -6078,7 +6078,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ixpoxg5xoqf2qfezj5ic.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, person and man",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 17",
               "caption": ""
             },
             "padding": 0
@@ -6088,7 +6088,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/kygcaffpaogjitqnfti8.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, print and geometry",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 18",
               "caption": ""
             },
             "padding": 0
@@ -6098,7 +6098,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/q27b2ufrugq9hdk58gmd.webp",
               "type": "image",
-              "alt": "Image may contain: fast food, food and snack",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 19",
               "caption": ""
             },
             "padding": 0
@@ -6108,7 +6108,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ixqgpc0ahbcetsrr3rpp.webp",
               "type": "image",
-              "alt": "Image may contain: box, waste container and businesscard",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 20",
               "caption": ""
             },
             "padding": 0
@@ -6118,7 +6118,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ygpwvofp8xdoiu5skn2a.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 21",
               "caption": ""
             },
             "padding": 0
@@ -6128,7 +6128,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/roceue1p2um0lz8nl6cz.webp",
               "type": "image",
-              "alt": "Image may contain: businesscard",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 22",
               "caption": ""
             },
             "padding": 0
@@ -6138,7 +6138,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/dqsvp9aovw6o0kmupbeo.webp",
               "type": "image",
-              "alt": "Image may contain: stationary and illustration",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 23",
               "caption": ""
             },
             "padding": 0
@@ -6148,7 +6148,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/r9n4ti6u5ocibsitivrv.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon, human face and person",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 24",
               "caption": ""
             },
             "padding": 0
@@ -6158,7 +6158,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/asctiejbglyx1kjojbn2.webp",
               "type": "image",
-              "alt": "Image may contain: person, red and clothing",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 25",
               "caption": ""
             },
             "padding": 0
@@ -6168,7 +6168,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mmlycizl8wdmr61krqxj.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 26",
               "caption": ""
             },
             "padding": 0
@@ -6178,7 +6178,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/gpmmkofmljrh9ih3c03r.webp",
               "type": "image",
-              "alt": "Image may contain: active shirt, sleeve and sports uniform",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 27",
               "caption": ""
             },
             "padding": 0
@@ -6188,7 +6188,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ufeatwxuu50kti4kd75s.webp",
               "type": "image",
-              "alt": "Image may contain: billboard and flag",
+              "alt": "Lezzet Group Rebranding — Lezzet Qida Sənaye — 28",
               "caption": ""
             },
             "padding": 0
@@ -6413,7 +6413,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/aefh6wk3xhg9nsravqvs.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and typography",
+              "alt": "Baku Chess Set Gobustan Edition — 1",
               "caption": ""
             },
             "padding": 0
@@ -6423,7 +6423,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/kylbkcgzvomsnkmpypb0.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and sky",
+              "alt": "Baku Chess Set Gobustan Edition — 2",
               "caption": ""
             },
             "padding": 0
@@ -6433,7 +6433,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/ox50ruikbck1b0ehtokl.webp",
               "type": "image",
-              "alt": "Image may contain: grave and cemetery",
+              "alt": "Baku Chess Set Gobustan Edition — 3",
               "caption": ""
             },
             "padding": 0
@@ -6455,7 +6455,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/c3qa4g7ctbiobpf67aw6.webp",
               "type": "image",
-              "alt": "Image may contain: indoor",
+              "alt": "Baku Chess Set Gobustan Edition — 4",
               "caption": ""
             },
             "padding": 0
@@ -6465,7 +6465,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/en8aag9istkekc9vrcie.webp",
               "type": "image",
-              "alt": "Image may contain: cemetery, grave and sky",
+              "alt": "Baku Chess Set Gobustan Edition — 5",
               "caption": ""
             },
             "padding": 0
@@ -6475,7 +6475,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/rsi0tx1l9ttnj8tnzpjr.webp",
               "type": "image",
-              "alt": "Image may contain: cemetery and grave",
+              "alt": "Baku Chess Set Gobustan Edition — 6",
               "caption": ""
             },
             "padding": 0
@@ -6485,7 +6485,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/ecoxrhteyzmwskxp2lum.webp",
               "type": "image",
-              "alt": "Image may contain: indoor, cemetery and grave",
+              "alt": "Baku Chess Set Gobustan Edition — 7",
               "caption": ""
             },
             "padding": 0
@@ -6495,7 +6495,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-gobustan-edition/qk0x6nhch7p590lxmad2.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Gobustan Edition — 8",
               "caption": ""
             },
             "padding": 0
@@ -6554,19 +6554,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/social-media-motion-design/o3fbcbets3hc8fzicsum.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Social Media Motion Design — 1",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-design/qlyyizgbgjq2zajn6svx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Social Media Motion Design — 2",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-design/wjwsfgajeyor9gdcdyej.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Social Media Motion Design — 3",
                 "caption": ""
               }
             ],
@@ -6580,19 +6580,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/social-media-motion-design/n0whhpga7zsicsmrzzzl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Social Media Motion Design — 4",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-design/yipf4vbmgnjfi5dbwqrf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Social Media Motion Design — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-design/y9dxattwy8angip7udb2.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Social Media Motion Design — 6",
                 "caption": ""
               }
             ],
@@ -6663,7 +6663,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ljapkv3tbqxvivhd8glw.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 1",
               "caption": ""
             },
             "padding": 0
@@ -6673,7 +6673,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/fq1eoymlk5l7i4hylqjj.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 2",
               "caption": ""
             },
             "padding": 0
@@ -6683,7 +6683,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/l8zogkseqhkdrgyxnlfk.webp",
               "type": "image",
-              "alt": "Image may contain: table and skyscraper",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 3",
               "caption": ""
             },
             "padding": 0
@@ -6693,7 +6693,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnfypjxbrztwjf8cqwfb.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 4",
               "caption": ""
             },
             "padding": 0
@@ -6703,7 +6703,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/eigoerfnkogcgrptldsn.webp",
               "type": "image",
-              "alt": "Image may contain: skyscraper",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 5",
               "caption": ""
             },
             "padding": 0
@@ -6713,7 +6713,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/rx1vtryrgccvhfdoziop.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 6",
               "caption": ""
             },
             "padding": 0
@@ -6723,7 +6723,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnuekj07isacfcpdoi2h.webp",
               "type": "image",
-              "alt": "Image may contain: ship",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 7",
               "caption": ""
             },
             "padding": 0
@@ -6734,13 +6734,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/im82zxybexfdfwniiokm.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Chess Set Azerbaijan Carpet Edition — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/bnolzkeal2kk2125f65o.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Chess Set Azerbaijan Carpet Edition — 9",
                 "caption": ""
               }
             ],
@@ -6753,7 +6753,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ovuyual3yhek9rwbvkxd.webp",
               "type": "image",
-              "alt": "Image may contain: sky and skyscraper",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 10",
               "caption": ""
             },
             "padding": 0
@@ -6763,7 +6763,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/iqxkowi3rbqdpbjn7v8u.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 11",
               "caption": ""
             },
             "padding": 0
@@ -6774,13 +6774,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/apbz5kiqf4jtev38mkjy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Chess Set Azerbaijan Carpet Edition — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/cwuom4xd3hwyp6dmfwjp.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Baku Chess Set Azerbaijan Carpet Edition — 13",
                 "caption": ""
               }
             ],
@@ -6793,7 +6793,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/nupzictadensem0wjckx.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Baku Chess Set Azerbaijan Carpet Edition — 14",
               "caption": ""
             },
             "padding": 0
@@ -6858,7 +6858,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/juiz-branding/dzkiwznqmw1celgpabxb.webp",
               "type": "image",
-              "alt": "",
+              "alt": "JUIZ Branding — 1",
               "caption": ""
             },
             "padding": 0
@@ -6888,7 +6888,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/juiz-branding/ahtb0dy7cwjsurcd4hcp.webp",
               "type": "image",
-              "alt": "",
+              "alt": "JUIZ Branding — 2",
               "caption": ""
             },
             "padding": 0
@@ -6899,13 +6899,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/qemugdfxxkf8mwu5vclu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/juiz-branding/tegbcu0c9ui1zckabext.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 4",
                 "caption": ""
               }
             ],
@@ -6919,7 +6919,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/zhkrnyjurtkeq0eg4swa.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 5",
                 "caption": ""
               }
             ],
@@ -6933,13 +6933,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/r9yi8dls6nkqmdhqvobk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 6",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/juiz-branding/n4gb4wjmsliud3edf4jt.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 7",
                 "caption": ""
               }
             ],
@@ -6953,7 +6953,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/bzqwcrumt76m1oqhz2oi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 8",
                 "caption": ""
               }
             ],
@@ -6967,13 +6967,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/nz9gbrrx92ilcbjuruon.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/juiz-branding/ddhub95ncxyy1vodk3wr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 10",
                 "caption": ""
               }
             ],
@@ -6986,7 +6986,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/juiz-branding/tww56wa74c2zbb7ssfyb.webp",
               "type": "image",
-              "alt": "",
+              "alt": "JUIZ Branding — 11",
               "caption": ""
             },
             "padding": 0
@@ -6996,7 +6996,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/juiz-branding/d70yhh6vncqknpsesja8.webp",
               "type": "image",
-              "alt": "",
+              "alt": "JUIZ Branding — 12",
               "caption": ""
             },
             "padding": 0
@@ -7007,13 +7007,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/opriclsdh5avevzuqnje.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 13",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/juiz-branding/txedsqopy66xvwkb8uzg.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 14",
                 "caption": ""
               }
             ],
@@ -7032,13 +7032,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/cbgpehohr6f3cd3tsgaf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 15",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/juiz-branding/mltydo8iymw2fcmbuea5.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 16",
                 "caption": ""
               }
             ],
@@ -7051,7 +7051,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/juiz-branding/uqojjj0fez5lydkw3gyn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "JUIZ Branding — 17",
               "caption": ""
             },
             "padding": 0
@@ -7062,13 +7062,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/fjjt3lgdgfnyildi5brh.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 18",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/juiz-branding/kyjscx19fjinisknb6hs.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 19",
                 "caption": ""
               }
             ],
@@ -7082,7 +7082,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/juiz-branding/fgpmghfq0ynsvedtmkt1.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "JUIZ Branding — 20",
                 "caption": ""
               }
             ],
@@ -7141,7 +7141,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/ylbvpk2lu95rne2vvwr9.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 1",
               "caption": ""
             },
             "padding": 0
@@ -7163,7 +7163,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/f13adxbwyeamh0y6tmmr.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 2",
               "caption": ""
             },
             "padding": 0
@@ -7173,7 +7173,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/dgy9zr6wf9n3y2l0e9vn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 3",
               "caption": ""
             },
             "padding": 0
@@ -7183,7 +7183,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/ptwwq7djmb1z632tcirq.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 4",
               "caption": ""
             },
             "padding": 0
@@ -7193,7 +7193,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/tufcx8zocvvztb0nuzo0.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 5",
               "caption": ""
             },
             "padding": 0
@@ -7203,7 +7203,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/gqzoezf7vbx0qtls5wrn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 6",
               "caption": ""
             },
             "padding": 0
@@ -7213,7 +7213,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/ebg0xgwwlsfjwb975h3s.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 7",
               "caption": ""
             },
             "padding": 0
@@ -7223,7 +7223,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/zjznre3uiaoenzoqcq1m.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 8",
               "caption": ""
             },
             "padding": 0
@@ -7234,13 +7234,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/goalaz-branding/lildns4gbltpoouvhbjx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Goal.az Branding — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/goalaz-branding/brqug3gtcuh6rc9yarfj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Goal.az Branding — 10",
                 "caption": ""
               }
             ],
@@ -7253,7 +7253,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/bfvnog6qxkns6ghegnwj.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 11",
               "caption": ""
             },
             "padding": 0
@@ -7264,13 +7264,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/goalaz-branding/c0ogufta0kqnzsnrswkf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Goal.az Branding — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/goalaz-branding/u3dn74kpqptb7rujfuoj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Goal.az Branding — 13",
                 "caption": ""
               }
             ],
@@ -7283,7 +7283,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/tauueatn7odtxrbkkozk.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 14",
               "caption": ""
             },
             "padding": 0
@@ -7293,7 +7293,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/goalaz-branding/kza2mwtfjujgdx8mwg8o.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Goal.az Branding — 15",
               "caption": ""
             },
             "padding": 0
@@ -7304,13 +7304,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/goalaz-branding/leys3hgldugub0yd3nyp.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Goal.az Branding — 16",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/goalaz-branding/uze4752nhc7hgizcnduh.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Goal.az Branding — 17",
                 "caption": ""
               }
             ],
@@ -7434,7 +7434,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/u6eet32du5okfpefrchb.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 1",
               "caption": ""
             },
             "padding": 0
@@ -7451,7 +7451,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/rzkximizrcttry0hnswf.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 2",
               "caption": ""
             },
             "padding": 0
@@ -7462,13 +7462,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/lezzet-group-branding/tylmttinxlpzhy84zqrd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/oh76mpgtl0ngjvl744c9.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 4",
                 "caption": ""
               }
             ],
@@ -7481,7 +7481,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/i6ymuk0pahvdjn9k0lud.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 5",
               "caption": ""
             },
             "padding": 0
@@ -7491,7 +7491,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/zccpwbtkdnyeltq72og2.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 6",
               "caption": ""
             },
             "padding": 0
@@ -7502,13 +7502,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/lezzet-group-branding/gy0wvea4nbj3f4ianhzy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/lxb78kdbmafseglsoclf.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 8",
                 "caption": ""
               }
             ],
@@ -7522,19 +7522,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/lezzet-group-branding/its1nzadynh8pw1hnq5m.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/bhhp9urvh3cdayq97td0.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 10",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/blnvwwqpsnt9tb3paypc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 11",
                 "caption": ""
               }
             ],
@@ -7547,7 +7547,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/qrbwadkyesj3tmdqemun.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 12",
               "caption": ""
             },
             "padding": 0
@@ -7557,7 +7557,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/bmu81me2dgvwzpngpbv8.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 13",
               "caption": ""
             },
             "padding": 0
@@ -7568,13 +7568,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/lezzet-group-branding/p9lkhvy37gjpahunhwot.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 14",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/t7bf1lb4etfxvu79bds8.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 15",
                 "caption": ""
               }
             ],
@@ -7587,7 +7587,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/igsc8qjog522gdxmmpgk.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 16",
               "caption": ""
             },
             "padding": 0
@@ -7598,13 +7598,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/lezzet-group-branding/rcywgre1fpntnxuuuagw.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 17",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/vuy4bzq26lz1l5nerzfc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 18",
                 "caption": ""
               }
             ],
@@ -7618,13 +7618,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/lezzet-group-branding/faarowiavwlrft8dw77s.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 19",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/lezzet-group-branding/krhlzcbei59tjdmj4zcx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Lezzet Group Branding — 20",
                 "caption": ""
               }
             ],
@@ -7637,7 +7637,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/gyvsntdpjiyimnnzuyoi.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 21",
               "caption": ""
             },
             "padding": 0
@@ -7647,7 +7647,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/lezzet-group-branding/luvndgia64dwlmf7r8hm.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Lezzet Group Branding — 22",
               "caption": ""
             },
             "padding": 0
@@ -7707,7 +7707,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/tamstore-teaser-campaign/odusq6xmkaxi4g3suohz.webp",
               "type": "image",
-              "alt": "",
+              "alt": "TAMStore Teaser Campaign — 1",
               "caption": ""
             },
             "padding": 0
@@ -7778,7 +7778,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/tamstore-teaser-campaign/od1plmc7wyt90l02aoqc.webp",
               "type": "image",
-              "alt": "",
+              "alt": "TAMStore Teaser Campaign — 2",
               "caption": ""
             },
             "padding": 0
@@ -7842,7 +7842,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/bpgttqsz3i0mdajwphgf.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 1",
               "caption": ""
             },
             "padding": 0
@@ -7857,7 +7857,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/p1ofa96nivbl9dkbeagu.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 2",
               "caption": ""
             },
             "padding": 0
@@ -7867,7 +7867,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/z6igndvn9n67avir0hnn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 3",
               "caption": ""
             },
             "padding": 0
@@ -7877,7 +7877,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/beghkihvf9hqc0ia3l5w.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, print and card",
+              "alt": "1001 Home Branding — 4",
               "caption": ""
             },
             "padding": 0
@@ -7888,13 +7888,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/e0vbqfxbwbmcyyngtgdj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/y4fhsw7udgzisvht4bne.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 6",
                 "caption": ""
               }
             ],
@@ -7907,7 +7907,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/akzze0bqvu7v9ywv2juu.webp",
               "type": "image",
-              "alt": "Image may contain: vehicle and land vehicle",
+              "alt": "1001 Home Branding — 7",
               "caption": ""
             },
             "padding": 0
@@ -7918,13 +7918,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/wv6rvyppct4pqa2xc8w6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/rqni8hza55skx9nz2jid.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 9",
                 "caption": ""
               }
             ],
@@ -7937,7 +7937,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/p1tfuhssfnkadivndgox.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 10",
               "caption": ""
             },
             "padding": 0
@@ -7947,7 +7947,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/idseskba3z6uoeubmbsk.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 11",
               "caption": ""
             },
             "padding": 0
@@ -7958,13 +7958,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/ohei4adxgqttcttomumu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/s0882gv0ts80b83opvrc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 13",
                 "caption": ""
               }
             ],
@@ -7977,7 +7977,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/fhglha8fo2xqpnrjytjd.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 14",
               "caption": ""
             },
             "padding": 0
@@ -7987,7 +7987,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/zi2o3vv5bqtti3yg12kf.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, sky and road",
+              "alt": "1001 Home Branding — 15",
               "caption": ""
             },
             "padding": 0
@@ -7997,7 +7997,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/i74wxajik5ek4roparxm.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 16",
               "caption": ""
             },
             "padding": 0
@@ -8008,13 +8008,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/i6rlz2yzdporixgceo5z.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 17",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/v3ptfkzxc2alchvxzyqs.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 18",
                 "caption": ""
               }
             ],
@@ -8028,7 +8028,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/jjc7ngkw9yp5d7wvetlc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 19",
                 "caption": ""
               }
             ],
@@ -8042,13 +8042,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/k2buknletm1sosu5qfwz.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 20",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/swgohfwagetqfrwqt7dy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 21",
                 "caption": ""
               }
             ],
@@ -8061,7 +8061,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/lgufscexkhczur19elrf.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 22",
               "caption": ""
             },
             "padding": 0
@@ -8072,7 +8072,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/a29foazzhuuupesjc1rr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 23",
                 "caption": ""
               }
             ],
@@ -8086,13 +8086,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/s5dlk1gfqrewxv6v5tnu.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 24",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/q6blm6uu63520mmmozyr.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 25",
                 "caption": ""
               }
             ],
@@ -8106,13 +8106,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/1001-home-branding/emyvisypof8qnvq7jdnp.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 26",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/1001-home-branding/poq0ksy1oigxneuojybk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "1001 Home Branding — 27",
                 "caption": ""
               }
             ],
@@ -8130,7 +8130,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/1001-home-branding/fhvyh9gbclwaykz7sq4p.webp",
               "type": "image",
-              "alt": "",
+              "alt": "1001 Home Branding — 28",
               "caption": ""
             },
             "padding": 0
@@ -8206,7 +8206,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/explainer-video-badamli/a3jx0fqdr2wko9whxkjl.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Badamlı Explainer Video — 1",
               "caption": ""
             },
             "padding": 0
@@ -8285,13 +8285,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/social-media-motion-buva/cgbb7zyqimridmbsqe2c.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Buva Social Media — Motion — 1",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-buva/m3sneitke8yrqhuypnuz.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Buva Social Media — Motion — 2",
                 "caption": ""
               }
             ],
@@ -8305,13 +8305,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/social-media-motion-buva/vksv7ptte2pnuidh5yo8.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Buva Social Media — Motion — 3",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-buva/hlijisgcpjkgqunukomq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Buva Social Media — Motion — 4",
                 "caption": ""
               }
             ],
@@ -8325,13 +8325,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/social-media-motion-buva/yscn677heowd9fxyjohk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Buva Social Media — Motion — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/social-media-motion-buva/zowfmuinmwrjnno3mrbs.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Buva Social Media — Motion — 6",
                 "caption": ""
               }
             ],
@@ -8383,7 +8383,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/vyvm0gxonxoikyfuu447.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 1",
               "caption": ""
             },
             "padding": 0
@@ -8400,7 +8400,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/wrtzbvr97sdjtveeyxok.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 2",
               "caption": ""
             },
             "padding": 0
@@ -8410,7 +8410,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/niiso993gdxwnfchwhj2.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 3",
               "caption": ""
             },
             "padding": 0
@@ -8420,7 +8420,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/lfwr37wxq3bqv3fx0io5.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 4",
               "caption": ""
             },
             "padding": 0
@@ -8430,7 +8430,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/wjabxmvyeleeymvimj8s.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Bahar Kargo Branding — 5",
               "caption": ""
             },
             "padding": 0
@@ -8440,7 +8440,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/tiq5z9phkkbiwap7obn7.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, internet and template",
+              "alt": "Bahar Kargo Branding — 6",
               "caption": ""
             },
             "padding": 0
@@ -8450,7 +8450,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/oqmdbrgqkxwujlhjzxnu.webp",
               "type": "image",
-              "alt": "Image may contain: illustration",
+              "alt": "Bahar Kargo Branding — 7",
               "caption": ""
             },
             "padding": 0
@@ -8460,7 +8460,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/czpyifdlmqmtccoll9b1.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and businesscard",
+              "alt": "Bahar Kargo Branding — 8",
               "caption": ""
             },
             "padding": 0
@@ -8470,7 +8470,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/kdge5ybjlpz3ev7a5pwx.webp",
               "type": "image",
-              "alt": "Image may contain: book",
+              "alt": "Bahar Kargo Branding — 9",
               "caption": ""
             },
             "padding": 0
@@ -8480,7 +8480,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/hmkcc18ajgcfcyhf33s4.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Bahar Kargo Branding — 10",
               "caption": ""
             },
             "padding": 0
@@ -8490,7 +8490,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/cs0ezvsitsqgsexgelf4.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Bahar Kargo Branding — 11",
               "caption": ""
             },
             "padding": 0
@@ -8500,7 +8500,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/szclenvyk97fbqk9knio.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 12",
               "caption": ""
             },
             "padding": 0
@@ -8510,7 +8510,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/iyqw8sbg0omf2pyn5zmw.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Bahar Kargo Branding — 13",
               "caption": ""
             },
             "padding": 0
@@ -8520,7 +8520,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/knqx0owk7vzam9wkvabd.webp",
               "type": "image",
-              "alt": "Image may contain: letter",
+              "alt": "Bahar Kargo Branding — 14",
               "caption": ""
             },
             "padding": 0
@@ -8530,7 +8530,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/medgwlavr3zytdknfftt.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Bahar Kargo Branding — 15",
               "caption": ""
             },
             "padding": 0
@@ -8540,7 +8540,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/i0ncuhkpsclm0a3dd7lv.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 16",
               "caption": ""
             },
             "padding": 0
@@ -8550,7 +8550,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/p5w0kar55lj4meghtykh.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot",
+              "alt": "Bahar Kargo Branding — 17",
               "caption": ""
             },
             "padding": 0
@@ -8560,7 +8560,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/pibxu0anaovdjr8itgbc.webp",
               "type": "image",
-              "alt": "Image may contain: book, letter and screenshot",
+              "alt": "Bahar Kargo Branding — 18",
               "caption": ""
             },
             "padding": 0
@@ -8570,7 +8570,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/vqnlpsrhcfpksipt5pyg.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and helicopter",
+              "alt": "Bahar Kargo Branding — 19",
               "caption": ""
             },
             "padding": 0
@@ -8580,7 +8580,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/wsr06ny6gb5cgthvwnum.webp",
               "type": "image",
-              "alt": "Image may contain: person",
+              "alt": "Bahar Kargo Branding — 20",
               "caption": ""
             },
             "padding": 0
@@ -8590,7 +8590,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/tybohqlnwhw0zpnh0eab.webp",
               "type": "image",
-              "alt": "Image may contain: sky, table and screenshot",
+              "alt": "Bahar Kargo Branding — 21",
               "caption": ""
             },
             "padding": 0
@@ -8600,7 +8600,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/i0w42ok5hhv5bgkac3pc.webp",
               "type": "image",
-              "alt": "Image may contain: sky, outdoor and billboard",
+              "alt": "Bahar Kargo Branding — 22",
               "caption": ""
             },
             "padding": 0
@@ -8610,7 +8610,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/gzd0iyghxnaowwnq2ikq.webp",
               "type": "image",
-              "alt": "Image may contain: active shirt, indoor and sleeve",
+              "alt": "Bahar Kargo Branding — 23",
               "caption": ""
             },
             "padding": 0
@@ -8620,7 +8620,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/d33rhdbzjp5f8d9whibo.webp",
               "type": "image",
-              "alt": "Image may contain: sign, screenshot and billboard",
+              "alt": "Bahar Kargo Branding — 24",
               "caption": ""
             },
             "padding": 0
@@ -8630,7 +8630,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/se7hzngdxydjxz8wdd7n.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Bahar Kargo Branding — 25",
               "caption": ""
             },
             "padding": 0
@@ -8640,7 +8640,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/avb3ry1wqmhi1xpay2vf.webp",
               "type": "image",
-              "alt": "Image may contain: outdoor, person and billboard",
+              "alt": "Bahar Kargo Branding — 26",
               "caption": ""
             },
             "padding": 0
@@ -8650,7 +8650,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/b2zf7neh5zcvfs9x8don.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot, billboard and scene",
+              "alt": "Bahar Kargo Branding — 27",
               "caption": ""
             },
             "padding": 0
@@ -8660,7 +8660,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/qcopxnh74dmyty3wzlck.webp",
               "type": "image",
-              "alt": "Image may contain: land vehicle, vehicle and wheel",
+              "alt": "Bahar Kargo Branding — 28",
               "caption": ""
             },
             "padding": 0
@@ -8670,7 +8670,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/bahar-kargo-branding/dw7vfwkkl7zvds2wm3hy.webp",
               "type": "image",
-              "alt": "Image may contain: cartoon, handwriting and post-it note",
+              "alt": "Bahar Kargo Branding — 29",
               "caption": ""
             },
             "padding": 0
@@ -8799,7 +8799,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/hcopxphkiezedcaglkrt.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 1",
               "caption": ""
             },
             "padding": 0
@@ -8809,7 +8809,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/ifdire6qokclwnw4vktq.webp",
               "type": "image",
-              "alt": "Image may contain: screenshot and illustration",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 2",
               "caption": ""
             },
             "padding": 0
@@ -8819,7 +8819,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/n0wlvvgql8rcvgsohbun.webp",
               "type": "image",
-              "alt": "Image may contain: handwriting",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 3",
               "caption": ""
             },
             "padding": 0
@@ -8829,7 +8829,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/putf0mvog1g6tbhib7mk.webp",
               "type": "image",
-              "alt": "Image may contain: handwriting and letter",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 4",
               "caption": ""
             },
             "padding": 0
@@ -8839,7 +8839,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/qczp6tpjyudzwam966hs.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 5",
               "caption": ""
             },
             "padding": 0
@@ -8849,7 +8849,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/uefmcb5o4ojlw8yjxax6.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 6",
               "caption": ""
             },
             "padding": 0
@@ -8860,25 +8860,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/gtshnd9qsctmxmkgxlfo.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/qx1gesag4qeed6lwdh8x.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/yhikjcriulwzgmo4d3ql.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/iftnmz2g3ylk1nsonyyd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 10",
                 "caption": ""
               }
             ],
@@ -8891,7 +8891,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/a63bdkucpkk4xewbjhgs.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 11",
               "caption": ""
             },
             "padding": 0
@@ -8901,7 +8901,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/uushwxqmcuchwayl3m3k.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 12",
               "caption": ""
             },
             "padding": 0
@@ -8911,7 +8911,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/yjrzfrecskhdyxeo87tn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Heydar Aliyev Centenary 100th anniversary of Heydar Aliyev — 13",
               "caption": ""
             },
             "padding": 0
@@ -8958,7 +8958,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/mjldppyfa1hyensfjamn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 1",
               "caption": ""
             },
             "padding": 0
@@ -8975,7 +8975,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/lvaljyjwamgxvyagnr3y.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 2",
               "caption": ""
             },
             "padding": 0
@@ -8985,7 +8985,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/fszqof0fy5i8b1dtntyt.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 3",
               "caption": ""
             },
             "padding": 0
@@ -8996,31 +8996,31 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/omim9psdvhyigyvjwntq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 4",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/rvmtxsyoizki4dzmvi1k.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/b8py5hn18iunhcqchdt6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 6",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/dqab3pgydl4ihi5y9p6l.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 7",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/s3fmkhmibd30xumnx2no.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 8",
                 "caption": ""
               }
             ],
@@ -9038,7 +9038,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/k7hy3m58marxyh3ziqqd.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 9",
               "caption": ""
             },
             "padding": 0
@@ -9049,25 +9049,25 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/p0qcwufhj2qgy3ax4zlj.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 10",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/e31chv8otip8attfhtlc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 11",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/fqkoesbvqadhdszwtmku.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/nupxwkskoshz3jeuqbj7.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 13",
                 "caption": ""
               }
             ],
@@ -9081,13 +9081,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/uq4zj5y0zyyaopqmfgsx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 14",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/qxxw5rmjksoekt9entzg.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 15",
                 "caption": ""
               }
             ],
@@ -9101,19 +9101,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ks7y7xsyxolsvbvhjetd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 16",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/wvgc4ax5gfem1lfnw5sk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 17",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/nd5ss4ck8dioqbwiwn9w.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 18",
                 "caption": ""
               }
             ],
@@ -9126,7 +9126,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/dosefcs8qedqibnmjgkd.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 19",
               "caption": ""
             },
             "padding": 0
@@ -9137,7 +9137,7 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/u2hh68agkfijpwwbsier.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 20",
                 "caption": ""
               }
             ],
@@ -9151,43 +9151,43 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/wg4iguvxg1wyt3mqbmjs.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 21",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/kwhhe0065virqvv1ua7o.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 22",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/cxmxjqzldlkwy1bw7la8.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 23",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/mh6gth9d6ulrutxmr8vx.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 24",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/y7yt49wq9tqvdnc0bezi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 25",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/orpjobeh0t4ppozbaads.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 26",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/v4d9bqapg7ucmeidndqi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 27",
                 "caption": ""
               }
             ],
@@ -9200,7 +9200,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/juwzru3u7ur6zp3p8nkf.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 28",
               "caption": ""
             },
             "padding": 0
@@ -9210,7 +9210,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/pmzboid8nrsf5kjpubbl.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 29",
               "caption": ""
             },
             "padding": 0
@@ -9221,19 +9221,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/debina390kns5yzwllyo.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 30",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/d8gdm2xfkhwcq7iwgt5d.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 31",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/lfhshi9nptrgewpiwdih.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 32",
                 "caption": ""
               }
             ],
@@ -9246,7 +9246,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/hjnztgpp31n1vdnfdcvh.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 33",
               "caption": ""
             },
             "padding": 0
@@ -9256,7 +9256,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/gc2hqo5fzpkfe77fnfvy.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 34",
               "caption": ""
             },
             "padding": 0
@@ -9266,7 +9266,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ecxcjzsfbbsxypow8nxc.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 35",
               "caption": ""
             },
             "padding": 0
@@ -9276,7 +9276,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/dfzgodz31ub7vzwevnve.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 36",
               "caption": ""
             },
             "padding": 0
@@ -9287,19 +9287,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/hwcocwxqp1tcfwfjrfov.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 37",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ipvbkjycgmdzojqxmb7u.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 38",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/wswffwia0sfnxqdscbm1.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 39",
                 "caption": ""
               }
             ],
@@ -9312,7 +9312,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/qsh6fqasz5eryefwc2yx.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 40",
               "caption": ""
             },
             "padding": 0
@@ -9323,73 +9323,73 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/sdlznes9iv8w2ibgjkua.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 41",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/otrysh5kkuvhj9gw6g5c.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 42",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/jrfpvy644n7egzxhcg2o.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 43",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/trk6be8lpdbil5gcfs3p.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 44",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ev51gffeorlvu65tmkwi.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 45",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/cuwt6xplj5feenffol9h.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 46",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/h5jaox1nmbuycmzco1cq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 47",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/miheers8dushbjdapvy8.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 48",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/xqy0ftcuiuqwiajkamvd.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 49",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ntbknqbmezmtij7yq4f4.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 50",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/zcnf1xydlxdmvjtpizsm.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 51",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/lnopxsttbbydimnxsme6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 52",
                 "caption": ""
               }
             ],
@@ -9402,7 +9402,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/iih8xif4o5zohbjwlpbd.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Araz Nakhchivan Rebranding — 53",
               "caption": ""
             },
             "padding": 0
@@ -9413,13 +9413,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/clfxe9xzgv9uycyp5fjy.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 54",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/eyxiudpcjsug3jfzvvuc.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Araz Nakhchivan Rebranding — 55",
                 "caption": ""
               }
             ],
@@ -9476,7 +9476,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/xsgojfsbdluygdduulbb.mp4",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 1",
               "caption": ""
             },
             "padding": 0
@@ -9486,7 +9486,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/jyxli3pz3svagnkpxuj2.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 2",
               "caption": ""
             },
             "padding": 0
@@ -9503,7 +9503,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/vxumuddgoepngszi99fu.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 3",
               "caption": ""
             },
             "padding": 0
@@ -9514,19 +9514,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/ztdqeta20j5ueflkhwcq.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 4",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/l94qarszntxacnkme4bl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 5",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/hvsbj4eeskqosgwsgezs.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 6",
                 "caption": ""
               }
             ],
@@ -9539,7 +9539,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/u4othicxlh8ygdhre3kz.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 7",
               "caption": ""
             },
             "padding": 0
@@ -9550,19 +9550,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/bv06gagw0jzfkozzqau6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 8",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/lsgtzbd1hauzncvgoni4.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 9",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/diy6fy9nq1gpb0coojwk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 10",
                 "caption": ""
               }
             ],
@@ -9575,7 +9575,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/yx3g1khg9zqolz2hjapy.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 11",
               "caption": ""
             },
             "padding": 0
@@ -9586,19 +9586,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/jkvtg0tugutaxj8ltzc3.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 12",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/zrssygajthqfrppqcvkl.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 13",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/vlnvvlyyltaovt6dnxe6.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 14",
                 "caption": ""
               }
             ],
@@ -9611,7 +9611,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/uwsafjdbsvtyka40vssn.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 15",
               "caption": ""
             },
             "padding": 0
@@ -9622,13 +9622,13 @@ window.SITE = {
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/apmyw3knqjjkn9oh8uwb.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 16",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/vcrfykyw3sxcmcppsf5l.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 17",
                 "caption": ""
               }
             ],
@@ -9641,7 +9641,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/qyczllfb3vzqkfxw4ovh.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 18",
               "caption": ""
             },
             "padding": 0
@@ -9652,19 +9652,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/fc2vummgvebewqsfwqbk.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 19",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/sttfcnla90frqgrc2fpg.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 20",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/f3j6u1pim1emolwh9rme.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 21",
                 "caption": ""
               }
             ],
@@ -9677,7 +9677,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/s5ct54krisq5ajhjyvtf.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 22",
               "caption": ""
             },
             "padding": 0
@@ -9688,19 +9688,19 @@ window.SITE = {
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/qvldekeibh3f27zxdvl1.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 23",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/iyctlhl9rmlbcj1nbrvz.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 24",
                 "caption": ""
               },
               {
                 "src": "/assets/media/work/sizin-market-brand-identity/bv8rydkhdy7c7ocadh3v.webp",
                 "type": "image",
-                "alt": "",
+                "alt": "Sizin Market Brand Identity — 25",
                 "caption": ""
               }
             ],
@@ -9713,7 +9713,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/lsdlytkyjjrfvlfbxj5g.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 26",
               "caption": ""
             },
             "padding": 0
@@ -9723,7 +9723,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/sizin-market-brand-identity/uz61qhedwbljr4qsnjru.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Sizin Market Brand Identity — 27",
               "caption": ""
             },
             "padding": 0
@@ -9764,7 +9764,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/work-proces/dkhpzfaizc2edaivtrnn.mp4",
               "type": "image",
-              "alt": "Image may contain: cartoon and drawing",
+              "alt": "Self-initiated Work Proces — 1",
               "caption": ""
             },
             "padding": 0
@@ -9833,7 +9833,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/village/kw4icxhu4evulpdey9s9.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Village — 1",
               "caption": ""
             },
             "padding": 0
@@ -9876,7 +9876,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/ray-ban/m5m77uq9zysfwc1igxsc.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Ray Ban — 1",
               "caption": ""
             },
             "padding": 0
@@ -9886,7 +9886,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/ray-ban/fb0gefej5imhiqv6k8r6.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Ray Ban — 2",
               "caption": ""
             },
             "padding": 0
@@ -9896,7 +9896,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/ray-ban/osbilqsmakrrb9co00mx.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Ray Ban — 3",
               "caption": ""
             },
             "padding": 0
@@ -9941,7 +9941,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/xbsh9s6fuxpzomd8jcks.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 1",
               "caption": ""
             },
             "padding": 0
@@ -9951,7 +9951,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/afbqkprvgd7ncottxsty.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 2",
               "caption": ""
             },
             "padding": 0
@@ -9961,7 +9961,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/jvyb0sbsribdnjewsxfq.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 3",
               "caption": ""
             },
             "padding": 0
@@ -9971,7 +9971,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/xntyu8xcjbnpxap2meql.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 4",
               "caption": ""
             },
             "padding": 0
@@ -9981,7 +9981,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/pbfnlbuul3ujxmirllrv.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 5",
               "caption": ""
             },
             "padding": 0
@@ -9991,7 +9991,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/lmwmjdtedb7ncqhznqlo.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 6",
               "caption": ""
             },
             "padding": 0
@@ -10001,7 +10001,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/dmubbwdhtnr21z931zuh.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 7",
               "caption": ""
             },
             "padding": 0
@@ -10011,7 +10011,7 @@ window.SITE = {
             "asset": {
               "src": "/assets/media/work/iron-man/zg8qnfmtupzzme1rjgl6.webp",
               "type": "image",
-              "alt": "",
+              "alt": "Self-initiated Iron Man — 8",
               "caption": ""
             },
             "padding": 0

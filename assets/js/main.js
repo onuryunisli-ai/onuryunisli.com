@@ -109,6 +109,20 @@ function picture(url, alt = '', sizes = '', extra = '') {
 
 
 /* ══ PROJECT DETAIL ════════════════════════════════════════════ */
+/* layihənin xidmətləri → xidmət səhifələri (seo_static.py ilə eyni) */
+const SERVICE_PAGES = { brand:['Brand identity','/services/brand-identity/'],
+  motion:['Motion design','/services/motion-design/'], '3d':['3D product animation','/services/3d-product-animation/'] };
+function serviceLinks(p) {
+  const list = [];
+  if (String(p.slug || '').includes('logo-animation')) list.push(['Logo animation', '/services/logo-animation/']);
+  (Array.isArray(p.services) ? p.services : []).forEach(key => {
+    const page = SERVICE_PAGES[key];
+    if (page && !list.some(x => x[1] === page[1])) list.push(page);
+  });
+  if (!list.length) return '';
+  return `<section class="case-services wrap"><span class="mono">Services</span><div class="case-services-links">${
+    list.map(([t, u]) => `<a class="pill ghost" href="${u}">${escapeHTML(t)}</a>`).join('')}</div></section>`;
+}
 // Layout blocks are data; the same renderer serves every project and a future CMS.
 function projectPage() {
   const root = $('#project-detail');
@@ -175,9 +189,7 @@ function projectPage() {
   /* same card as the homepage; media paths rebased for work/ */
   const moreCard = (q, i) => projectCard(q, index + i + 1);
   const studio = String(p.studio || '').trim();
-  document.title = `${p.client} — ${S.name || 'Onur Yunisli'}`;
-  const description = $('meta[name="description"]');
-  if (description) description.setAttribute('content', detail.description || `${p.client}: ${p.title}. ${services.join(', ')}.`);
+  /* başlıq və açıqlama statik HTML-dədir (SEO üçün yazılıb) — burada dəyişmirik */
   root.innerHTML = `
     <header class="case-header wrap">
       <div class="case-eyebrow"><a class="case-back mono" href="/work/">← All work</a><span class="mono">${String(index+1).padStart(2,'0')} / ${String(projects.length).padStart(2,'0')}</span></div>
@@ -194,6 +206,7 @@ function projectPage() {
       <p>Made at <a href="https://elementvs.com">${escapeHTML(studio)}</a></p>
       ${detail.credits ? `<div class="case-credit-note">${paragraphs(detail.credits)}</div>` : ''}
     </section>` : ''}
+    ${serviceLinks(p)}
     ${more.length ? `<section class="case-more wrap">
       <div class="case-more-head rv-el"><h2>More work</h2></div>
       <div class="grid">${more.map((q, i) => moreCard(q, i)).join('')}</div>
@@ -375,9 +388,12 @@ function projectCard(p, idx, opts = {}) {
   };
   /* cardVideo: Vimeo filminin kvadrat, 20 saniyəlik yerli nüsxəsi (GitHub-da);
      layihə səhifəsi isə tam filmi (video) göstərməyə davam edir */
-  const cardId = String(p.cardVideo || '').match(/(\d+)\.mp4$/)?.[1];
-  /* CMS-də video dəyişsə köhnə yerli nüsxə avtomatik kənara çəkilir */
-  const localFilm = cardId && String(p.video || '').includes(`/video/${cardId}`) ? p.cardVideo : '';
+  /* u-….mp4: CMS-dən əl ilə yüklənib, həmişə oynayır.
+     <rəqəm>.mp4: Vimeo-dan nüsxədir — CMS-də Vimeo linki dəyişsə kənara çəkilir */
+  const cardFile = String(p.cardVideo || '');
+  const cardId = cardFile.match(/\/(\d+)\.mp4$/)?.[1];
+  const localFilm = /\/u-[^/]+\.mp4$/.test(cardFile)
+    || (cardId && String(p.video || '').includes(`/video/${cardId}`)) ? cardFile : '';
   const video = rb(localFilm || p.video), poster = rb(p.poster);
   const shots = (Array.isArray(p.shots) ? p.shots.map(rb) : []).filter(src => safeURL(src));
   /* embed: keep the pasted code, not the resolved URL — the size attributes
