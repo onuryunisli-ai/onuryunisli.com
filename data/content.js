@@ -84,9 +84,12 @@ window.SITE = {
       "poster": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
-        "/assets/media/uploads/czole4a3xueipfewqs0e.webp",
-        "/assets/media/uploads/tmdcwatpknv3bdaodytm.webp"
+        "/assets/media/covers/azergold-10th-anniversary-brand-identity/1.webp",
+        "/assets/media/covers/azergold-10th-anniversary-brand-identity/2.webp",
+        "/assets/media/covers/azergold-10th-anniversary-brand-identity/3.webp",
+        "/assets/media/covers/azergold-10th-anniversary-brand-identity/4.webp",
+        "/assets/media/covers/azergold-10th-anniversary-brand-identity/5.webp",
+        "/assets/media/covers/azergold-10th-anniversary-brand-identity/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -283,13 +286,12 @@ window.SITE = {
       "poster": "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
-        "/assets/media/work/sirab-brand-identity-packaging/hn5kgrydm1lyd5ds2agx.webp",
-        "/assets/media/uploads/lxztpmmwakclbxkq4j9d.webp",
-        "/assets/media/uploads/uf0hb19oyailigxm8w2w.webp",
-        "/assets/media/uploads/irludqbqwifzaan3gf5g.webp",
-        "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp",
-        "/assets/media/uploads/outvdviwjsl3yhx3walz.webp"
+        "/assets/media/covers/sirab-brand-identity-packaging/1.webp",
+        "/assets/media/covers/sirab-brand-identity-packaging/2.webp",
+        "/assets/media/covers/sirab-brand-identity-packaging/3.webp",
+        "/assets/media/covers/sirab-brand-identity-packaging/4.webp",
+        "/assets/media/covers/sirab-brand-identity-packaging/5.webp",
+        "/assets/media/covers/sirab-brand-identity-packaging/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -698,13 +700,12 @@ window.SITE = {
       "poster": "/assets/media/work/badamli-mineral-water-packaging-design/z2g0xd3buv0jtarfu6xy.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/badamli-mineral-water-packaging-design/z2g0xd3buv0jtarfu6xy.webp",
-        "/assets/media/work/badamli-mineral-water-packaging-design/swows5qixouhzhvx9pt3.webp",
-        "/assets/media/work/badamli-mineral-water-packaging-design/vtaki0i9hxwduw1bdtfx.webp",
-        "/assets/media/work/badamli-mineral-water-packaging-design/os0ojc0wlbtutkbgoqzp.webp",
-        "/assets/media/work/badamli-mineral-water-packaging-design/zvrvtv2r9jytpptazkay.webp",
-        "/assets/media/work/badamli-mineral-water-packaging-design/msfuy0akbogfllyp8z5g.webp",
-        "/assets/media/work/badamli-mineral-water-packaging-design/da6iukk9vhnge7ac5taw.webp"
+        "/assets/media/covers/badamli-mineral-water-packaging-design/1.webp",
+        "/assets/media/covers/badamli-mineral-water-packaging-design/2.webp",
+        "/assets/media/covers/badamli-mineral-water-packaging-design/3.webp",
+        "/assets/media/covers/badamli-mineral-water-packaging-design/4.webp",
+        "/assets/media/covers/badamli-mineral-water-packaging-design/5.webp",
+        "/assets/media/covers/badamli-mineral-water-packaging-design/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1011,13 +1012,12 @@ window.SITE = {
       "poster": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
-        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/axgrncsgbiiotsarmm06.webp",
-        "/assets/media/uploads/urrivedkdtatrbf2mbpx.webp",
-        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/krd2xxiwlgohhg1m0fdb.webp",
-        "/assets/media/uploads/j1nkcuwg70m2kp1i5krx.webp",
-        "/assets/media/uploads/axpzyue1czyna87uwzja.webp",
-        "/assets/media/uploads/hurpwcewnzk9fdl2fmkp.webp"
+        "/assets/media/covers/turkish-petroleum-baku-2026-exhibition-stand/1.webp",
+        "/assets/media/covers/turkish-petroleum-baku-2026-exhibition-stand/2.webp",
+        "/assets/media/covers/turkish-petroleum-baku-2026-exhibition-stand/3.webp",
+        "/assets/media/covers/turkish-petroleum-baku-2026-exhibition-stand/4.webp",
+        "/assets/media/covers/turkish-petroleum-baku-2026-exhibition-stand/5.webp",
+        "/assets/media/covers/turkish-petroleum-baku-2026-exhibition-stand/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1252,13 +1252,12 @@ window.SITE = {
       "poster": "/assets/media/work/azvirt-rebranding/hzfhlacddguhqtl03y5j.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/azvirt-rebranding/hzfhlacddguhqtl03y5j.webp",
-        "/assets/media/work/azvirt-rebranding/bqegsqly7tbsty5r9i1r.webp",
-        "/assets/media/work/azvirt-rebranding/szndgyarqtlseigsvupd.webp",
-        "/assets/media/work/azvirt-rebranding/vvoefhkiojgpggmjswim.webp",
-        "/assets/media/work/azvirt-rebranding/rxtnnhndlvavraliwjxi.webp",
-        "/assets/media/work/azvirt-rebranding/i3xxwhjon4xewouzhcsy.webp",
-        "/assets/media/work/azvirt-rebranding/uqinutjqisc8amlc36o9.webp"
+        "/assets/media/covers/azvirt-rebranding/1.webp",
+        "/assets/media/covers/azvirt-rebranding/2.webp",
+        "/assets/media/covers/azvirt-rebranding/3.webp",
+        "/assets/media/covers/azvirt-rebranding/4.webp",
+        "/assets/media/covers/azvirt-rebranding/5.webp",
+        "/assets/media/covers/azvirt-rebranding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1624,13 +1623,12 @@ window.SITE = {
       "poster": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
-        "/assets/media/work/baku-resort-spa-hotel-brand-identity/iolc2g28p5vdgfnzhq03.webp",
-        "/assets/media/uploads/hsvhnhbryrfgiumnchlw.webp",
-        "/assets/media/uploads/urufdfw0mylytgjzywho.webp",
-        "/assets/media/work/baku-resort-spa-hotel-brand-identity/ke31xgyfnur0x1rctkk7.webp",
-        "/assets/media/uploads/osgousnbnndexblzexji.webp",
-        "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6vfhr6xe4rw4lawli2c.webp"
+        "/assets/media/covers/baku-resort-spa-hotel-brand-identity/1.webp",
+        "/assets/media/covers/baku-resort-spa-hotel-brand-identity/2.webp",
+        "/assets/media/covers/baku-resort-spa-hotel-brand-identity/3.webp",
+        "/assets/media/covers/baku-resort-spa-hotel-brand-identity/4.webp",
+        "/assets/media/covers/baku-resort-spa-hotel-brand-identity/5.webp",
+        "/assets/media/covers/baku-resort-spa-hotel-brand-identity/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1960,10 +1958,12 @@ window.SITE = {
       "poster": "/assets/media/work/livgrt-hydro8-branding-packaging-design/bsrsgx09gginvm4vqugn.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/livgrt-hydro8-branding-packaging-design/bsrsgx09gginvm4vqugn.webp",
-        "/assets/media/work/livgrt-hydro8-branding-packaging-design/j0k9kbyh8dipdzdc9qzf.webp",
-        "/assets/media/work/livgrt-hydro8-branding-packaging-design/vnafyzyle5olsepgkvas.webp",
-        "/assets/media/work/livgrt-hydro8-branding-packaging-design/eifs3e33skfhtlu2o96p.webp"
+        "/assets/media/covers/livgrt-hydro8-branding-packaging-design/1.webp",
+        "/assets/media/covers/livgrt-hydro8-branding-packaging-design/2.webp",
+        "/assets/media/covers/livgrt-hydro8-branding-packaging-design/3.webp",
+        "/assets/media/covers/livgrt-hydro8-branding-packaging-design/4.webp",
+        "/assets/media/covers/livgrt-hydro8-branding-packaging-design/5.webp",
+        "/assets/media/covers/livgrt-hydro8-branding-packaging-design/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -2242,10 +2242,14 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/820312951?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "/assets/media/work/social-media-motion-badamli/xwtklyx3caa19rpcejyr.webp",
+      "poster": "/assets/media/covers/social-media-motion-badamli/1.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/social-media-motion-badamli/xwtklyx3caa19rpcejyr.webp"
+        "/assets/media/covers/social-media-motion-badamli/1.webp",
+        "/assets/media/covers/social-media-motion-badamli/2.webp",
+        "/assets/media/covers/social-media-motion-badamli/3.webp",
+        "/assets/media/covers/social-media-motion-badamli/4.webp",
+        "/assets/media/covers/social-media-motion-badamli/5.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -2328,13 +2332,12 @@ window.SITE = {
       "poster": "/assets/media/work/alive-packaging-design-product-rendering/nk0hszlwqlyimaic4wvv.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/alive-packaging-design-product-rendering/nk0hszlwqlyimaic4wvv.webp",
-        "/assets/media/work/alive-packaging-design-product-rendering/sdfloqrbeselag1xiuex.webp",
-        "/assets/media/work/alive-packaging-design-product-rendering/ymrjrwin56x03on6fryp.webp",
-        "/assets/media/work/alive-packaging-design-product-rendering/jh4taer23rqdldoslmiz.webp",
-        "/assets/media/work/alive-packaging-design-product-rendering/kmfmp7mzf6s8xppdxvmz.webp",
-        "/assets/media/work/alive-packaging-design-product-rendering/juib3tzsh1lsvpglrl7f.webp",
-        "/assets/media/work/alive-packaging-design-product-rendering/uql2e9fkqyrcylhupscb.webp"
+        "/assets/media/covers/alive-packaging-design-product-rendering/1.webp",
+        "/assets/media/covers/alive-packaging-design-product-rendering/2.webp",
+        "/assets/media/covers/alive-packaging-design-product-rendering/3.webp",
+        "/assets/media/covers/alive-packaging-design-product-rendering/4.webp",
+        "/assets/media/covers/alive-packaging-design-product-rendering/5.webp",
+        "/assets/media/covers/alive-packaging-design-product-rendering/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -2762,13 +2765,12 @@ window.SITE = {
       "poster": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s2dtxajrrcyqnvyqxubz.mp4",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s2dtxajrrcyqnvyqxubz.mp4",
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/wy1fyab1hj5rytwgj9un.mp4",
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/xsmxaoyohwtkawobh8c4.webp",
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/eiyk9nc4wdmxqghzmkxb.mp4",
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ntez6p7lijmlrl7s3kip.webp",
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/b0vk6gv6xu1lwbl4unrl.webp",
-        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/byypqrtcwnjdvwfcczqq.webp"
+        "/assets/media/covers/dinamit-energy-drink-package-design-brand-identity/1.webp",
+        "/assets/media/covers/dinamit-energy-drink-package-design-brand-identity/2.webp",
+        "/assets/media/covers/dinamit-energy-drink-package-design-brand-identity/3.webp",
+        "/assets/media/covers/dinamit-energy-drink-package-design-brand-identity/4.webp",
+        "/assets/media/covers/dinamit-energy-drink-package-design-brand-identity/5.webp",
+        "/assets/media/covers/dinamit-energy-drink-package-design-brand-identity/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -3218,13 +3220,11 @@ window.SITE = {
       "poster": "/assets/media/work/turkish-petroleum-exhibition-stand/uvlr5vuvi0cq9eehmnbv.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/turkish-petroleum-exhibition-stand/uvlr5vuvi0cq9eehmnbv.webp",
-        "/assets/media/work/turkish-petroleum-exhibition-stand/owbyavbpo8omdspo4nbo.webp",
-        "/assets/media/work/turkish-petroleum-exhibition-stand/lwuiysvyentmlinkkjva.webp",
-        "/assets/media/work/turkish-petroleum-exhibition-stand/a5plutyllndnrqo3gziq.webp",
-        "/assets/media/work/turkish-petroleum-exhibition-stand/xhaaxqhnbkqtmyjdocrm.webp",
-        "/assets/media/work/turkish-petroleum-exhibition-stand/mrnb6mj6cnzdg843m4rx.webp",
-        "/assets/media/work/turkish-petroleum-exhibition-stand/sg49lc9k7cvbhvpgo2bq.webp"
+        "/assets/media/covers/turkish-petroleum-exhibition-stand/1.webp",
+        "/assets/media/covers/turkish-petroleum-exhibition-stand/2.webp",
+        "/assets/media/covers/turkish-petroleum-exhibition-stand/3.webp",
+        "/assets/media/covers/turkish-petroleum-exhibition-stand/4.webp",
+        "/assets/media/covers/turkish-petroleum-exhibition-stand/5.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -3499,13 +3499,12 @@ window.SITE = {
       "poster": "/assets/media/work/ankara-metropolitan-municipality-city-branding/ckuavguorpftfisjb9cn.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/ckuavguorpftfisjb9cn.webp",
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/e9m1vvyp8nvayafozy5w.webp",
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/n4mtg74eomrvbcdbpyth.webp",
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/djnoiwfchqgu4vjh3kpl.webp",
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/rxwp0yizsnrepowryutl.webp",
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/mn67exebifufzi8ncvhq.webp",
-        "/assets/media/work/ankara-metropolitan-municipality-city-branding/foohxssvprxwhnxkczis.webp"
+        "/assets/media/covers/ankara-metropolitan-municipality-city-branding/1.webp",
+        "/assets/media/covers/ankara-metropolitan-municipality-city-branding/2.webp",
+        "/assets/media/covers/ankara-metropolitan-municipality-city-branding/3.webp",
+        "/assets/media/covers/ankara-metropolitan-municipality-city-branding/4.webp",
+        "/assets/media/covers/ankara-metropolitan-municipality-city-branding/5.webp",
+        "/assets/media/covers/ankara-metropolitan-municipality-city-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -3808,13 +3807,12 @@ window.SITE = {
       "poster": "/assets/media/work/shusha-global-media-forum-branding/zryrq5enpwzwykrk6rbd.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/shusha-global-media-forum-branding/zryrq5enpwzwykrk6rbd.webp",
-        "/assets/media/work/shusha-global-media-forum-branding/uui7xmxu1umlasio9rqk.webp",
-        "/assets/media/work/shusha-global-media-forum-branding/bfbahxyavfqamofpsozr.webp",
-        "/assets/media/work/shusha-global-media-forum-branding/ruxuw8zbznc4l0dyajmi.webp",
-        "/assets/media/work/shusha-global-media-forum-branding/zkwzvbh29ojvhampjuys.webp",
-        "/assets/media/work/shusha-global-media-forum-branding/p2q8my1giqdxj7tgryif.webp",
-        "/assets/media/work/shusha-global-media-forum-branding/m7oaeyu246ochsoe4ulk.webp"
+        "/assets/media/covers/shusha-global-media-forum-branding/1.webp",
+        "/assets/media/covers/shusha-global-media-forum-branding/2.webp",
+        "/assets/media/covers/shusha-global-media-forum-branding/3.webp",
+        "/assets/media/covers/shusha-global-media-forum-branding/4.webp",
+        "/assets/media/covers/shusha-global-media-forum-branding/5.webp",
+        "/assets/media/covers/shusha-global-media-forum-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4003,13 +4001,12 @@ window.SITE = {
       "poster": "/assets/media/work/brand-identity-istanbul-2027/xvupswrui9kjaefp5gk3.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/brand-identity-istanbul-2027/xvupswrui9kjaefp5gk3.webp",
-        "/assets/media/work/brand-identity-istanbul-2027/sxvlfc0kaqi6qrfwv5og.webp",
-        "/assets/media/work/brand-identity-istanbul-2027/ocoeogjssjkvvrlcia8k.webp",
-        "/assets/media/work/brand-identity-istanbul-2027/apoubfpp0rnxhasbfvik.webp",
-        "/assets/media/work/brand-identity-istanbul-2027/gsdacyn5soolvvyfpof8.webp",
-        "/assets/media/work/brand-identity-istanbul-2027/zfw1i2aptgjpu26ngubq.webp",
-        "/assets/media/work/brand-identity-istanbul-2027/wksqsykakksi40agszyk.webp"
+        "/assets/media/covers/brand-identity-istanbul-2027/1.webp",
+        "/assets/media/covers/brand-identity-istanbul-2027/2.webp",
+        "/assets/media/covers/brand-identity-istanbul-2027/3.webp",
+        "/assets/media/covers/brand-identity-istanbul-2027/4.webp",
+        "/assets/media/covers/brand-identity-istanbul-2027/5.webp",
+        "/assets/media/covers/brand-identity-istanbul-2027/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4277,13 +4274,12 @@ window.SITE = {
       "poster": "/assets/media/work/packaging-sirab-sport-water/bnix5m3vqjvgu4jgahls.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/packaging-sirab-sport-water/bnix5m3vqjvgu4jgahls.webp",
-        "/assets/media/work/packaging-sirab-sport-water/htgc5flh4xbgtkrl0z3z.webp",
-        "/assets/media/work/packaging-sirab-sport-water/as6ujtscjqnd2v1grvnx.webp",
-        "/assets/media/work/packaging-sirab-sport-water/wqmec4latx65knqws968.webp",
-        "/assets/media/work/packaging-sirab-sport-water/honr4fhym81dgstilpxr.webp",
-        "/assets/media/work/packaging-sirab-sport-water/yqcutboxkchlbapur0mx.webp",
-        "/assets/media/work/packaging-sirab-sport-water/ley463wzrbsgn0tg3jfg.webp"
+        "/assets/media/covers/packaging-sirab-sport-water/1.webp",
+        "/assets/media/covers/packaging-sirab-sport-water/2.webp",
+        "/assets/media/covers/packaging-sirab-sport-water/3.webp",
+        "/assets/media/covers/packaging-sirab-sport-water/4.webp",
+        "/assets/media/covers/packaging-sirab-sport-water/5.webp",
+        "/assets/media/covers/packaging-sirab-sport-water/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4418,13 +4414,12 @@ window.SITE = {
       "poster": "/assets/media/work/be-group-brand-identity/b8yzdd138eqhv6nhtqao.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/be-group-brand-identity/b8yzdd138eqhv6nhtqao.webp",
-        "/assets/media/work/be-group-brand-identity/ikgoh1oqpxs3mps6ejkv.webp",
-        "/assets/media/work/be-group-brand-identity/dcsjg08fjtka1kqppjl9.webp",
-        "/assets/media/work/be-group-brand-identity/oufgolmhcxhjoyumy9qs.webp",
-        "/assets/media/work/be-group-brand-identity/yy9me00tjuslwkbvvact.webp",
-        "/assets/media/work/be-group-brand-identity/cyaqzfau5lpftyyejguk.webp",
-        "/assets/media/work/be-group-brand-identity/cmflhz5lddhgscuj61ce.webp"
+        "/assets/media/covers/be-group-brand-identity/1.webp",
+        "/assets/media/covers/be-group-brand-identity/2.webp",
+        "/assets/media/covers/be-group-brand-identity/3.webp",
+        "/assets/media/covers/be-group-brand-identity/4.webp",
+        "/assets/media/covers/be-group-brand-identity/5.webp",
+        "/assets/media/covers/be-group-brand-identity/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4620,9 +4615,12 @@ window.SITE = {
       "poster": "/assets/media/work/packaging-sirab-soda/qpnmdpasfxnx2v52mkc0.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/packaging-sirab-soda/qpnmdpasfxnx2v52mkc0.webp",
-        "/assets/media/work/packaging-sirab-soda/pdvsve0zhcbgcehnpnj6.webp",
-        "/assets/media/work/packaging-sirab-soda/kajtbmhm4hvfdswynxy4.webp"
+        "/assets/media/covers/packaging-sirab-soda/1.webp",
+        "/assets/media/covers/packaging-sirab-soda/2.webp",
+        "/assets/media/covers/packaging-sirab-soda/3.webp",
+        "/assets/media/covers/packaging-sirab-soda/4.webp",
+        "/assets/media/covers/packaging-sirab-soda/5.webp",
+        "/assets/media/covers/packaging-sirab-soda/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4819,10 +4817,11 @@ window.SITE = {
       "poster": "/assets/media/work/alive-coffee-packaging-3d-animation/jqthkf2weako5tuyr1eo.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/alive-coffee-packaging-3d-animation/jqthkf2weako5tuyr1eo.webp",
-        "/assets/media/work/alive-coffee-packaging-3d-animation/nfwkepnji52j7qwhczwd.webp",
-        "/assets/media/work/alive-coffee-packaging-3d-animation/axog7yngrqr8llri2z7i.webp",
-        "/assets/media/work/alive-coffee-packaging-3d-animation/svye5cxqafe2sqtujc4w.webp"
+        "/assets/media/covers/alive-coffee-packaging-3d-animation/1.webp",
+        "/assets/media/covers/alive-coffee-packaging-3d-animation/2.webp",
+        "/assets/media/covers/alive-coffee-packaging-3d-animation/3.webp",
+        "/assets/media/covers/alive-coffee-packaging-3d-animation/4.webp",
+        "/assets/media/covers/alive-coffee-packaging-3d-animation/5.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4969,9 +4968,12 @@ window.SITE = {
       "poster": "/assets/media/work/badamli-mineral-water-vintage-packaging/wujuqbnmcxm5zrhpiqgj.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/badamli-mineral-water-vintage-packaging/wujuqbnmcxm5zrhpiqgj.webp",
-        "/assets/media/work/badamli-mineral-water-vintage-packaging/avrpomol9cqyaimhz6ql.webp",
-        "/assets/media/work/badamli-mineral-water-vintage-packaging/ivhbulnmrpjkdevhthtl.webp"
+        "/assets/media/covers/badamli-mineral-water-vintage-packaging/1.webp",
+        "/assets/media/covers/badamli-mineral-water-vintage-packaging/2.webp",
+        "/assets/media/covers/badamli-mineral-water-vintage-packaging/3.webp",
+        "/assets/media/covers/badamli-mineral-water-vintage-packaging/4.webp",
+        "/assets/media/covers/badamli-mineral-water-vintage-packaging/5.webp",
+        "/assets/media/covers/badamli-mineral-water-vintage-packaging/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5216,13 +5218,11 @@ window.SITE = {
       "poster": "/assets/media/work/sirab-niy-seviln-su/cakh3okdpjpwmmwkv7kd.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/sirab-niy-seviln-su/cakh3okdpjpwmmwkv7kd.webp",
-        "/assets/media/work/sirab-niy-seviln-su/nbbhpo4qmcounlc9d1f1.webp",
-        "/assets/media/work/sirab-niy-seviln-su/rrsh8wyyl4vmlcc2pfrg.webp",
-        "/assets/media/work/sirab-niy-seviln-su/adjxzc1c0vtfgnynfbou.webp",
-        "/assets/media/work/sirab-niy-seviln-su/admiid4jtl4pmlwei0mv.webp",
-        "/assets/media/work/sirab-niy-seviln-su/ahuvvbkwwmpv2zcyunug.webp",
-        "/assets/media/work/sirab-niy-seviln-su/jbnvneeluni6xjk3mbvi.webp"
+        "/assets/media/covers/sirab-niy-seviln-su/1.webp",
+        "/assets/media/covers/sirab-niy-seviln-su/2.webp",
+        "/assets/media/covers/sirab-niy-seviln-su/3.webp",
+        "/assets/media/covers/sirab-niy-seviln-su/4.webp",
+        "/assets/media/covers/sirab-niy-seviln-su/5.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5383,13 +5383,12 @@ window.SITE = {
       "poster": "/assets/media/work/brand-identity-lamina-dekor/g7xmwoscs4dcb4vco8bv.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/brand-identity-lamina-dekor/g7xmwoscs4dcb4vco8bv.webp",
-        "/assets/media/work/brand-identity-lamina-dekor/sv4xkb0h6zwtbuiypb0j.webp",
-        "/assets/media/work/brand-identity-lamina-dekor/egeq6ppecv3xfthhtm9e.webp",
-        "/assets/media/work/brand-identity-lamina-dekor/l4lq0h1yvuggzwe2fz1t.webp",
-        "/assets/media/work/brand-identity-lamina-dekor/khziltrth1xmdtphwkbd.webp",
-        "/assets/media/work/brand-identity-lamina-dekor/ufpovfcg6ttct0ouljfr.webp",
-        "/assets/media/work/brand-identity-lamina-dekor/udkydzntnzwa1wl8rybr.webp"
+        "/assets/media/covers/brand-identity-lamina-dekor/1.webp",
+        "/assets/media/covers/brand-identity-lamina-dekor/2.webp",
+        "/assets/media/covers/brand-identity-lamina-dekor/3.webp",
+        "/assets/media/covers/brand-identity-lamina-dekor/4.webp",
+        "/assets/media/covers/brand-identity-lamina-dekor/5.webp",
+        "/assets/media/covers/brand-identity-lamina-dekor/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5657,13 +5656,12 @@ window.SITE = {
       "poster": "/assets/media/work/turkic-week-in-geneva/mpdqoveqjyprklzij3tu.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/turkic-week-in-geneva/mpdqoveqjyprklzij3tu.webp",
-        "/assets/media/work/turkic-week-in-geneva/clbcjd0bgyouwazspark.webp",
-        "/assets/media/work/turkic-week-in-geneva/kx9mbebua8o2yxo1mrhx.webp",
-        "/assets/media/work/turkic-week-in-geneva/ihsvzomalssz5n7uzi1u.webp",
-        "/assets/media/work/turkic-week-in-geneva/j0ys4gpzlfdilbkyv4e9.webp",
-        "/assets/media/work/turkic-week-in-geneva/ks1qy3fsj81s6xn3sivt.webp",
-        "/assets/media/work/turkic-week-in-geneva/gs0fzpbykh4pocdjtjdn.webp"
+        "/assets/media/covers/turkic-week-in-geneva/1.webp",
+        "/assets/media/covers/turkic-week-in-geneva/2.webp",
+        "/assets/media/covers/turkic-week-in-geneva/3.webp",
+        "/assets/media/covers/turkic-week-in-geneva/4.webp",
+        "/assets/media/covers/turkic-week-in-geneva/5.webp",
+        "/assets/media/covers/turkic-week-in-geneva/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5872,13 +5870,12 @@ window.SITE = {
       "poster": "/assets/media/work/rebranding-lezzet-qida-senaye/inz9jpmljlxwzrqmr2ni.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/rebranding-lezzet-qida-senaye/inz9jpmljlxwzrqmr2ni.webp",
-        "/assets/media/work/rebranding-lezzet-qida-senaye/a4ysc7ckighkk9mbmc7e.webp",
-        "/assets/media/work/rebranding-lezzet-qida-senaye/vdkiaznl4aurmw4isqqr.webp",
-        "/assets/media/work/rebranding-lezzet-qida-senaye/fpfzrlo93w7rudzobubm.webp",
-        "/assets/media/work/rebranding-lezzet-qida-senaye/mm0zyfmjce6qb00vgj7m.webp",
-        "/assets/media/work/rebranding-lezzet-qida-senaye/xx26kxuohvmro2kyqjbk.webp",
-        "/assets/media/work/rebranding-lezzet-qida-senaye/b9jjypuirskepxkquanl.webp"
+        "/assets/media/covers/rebranding-lezzet-qida-senaye/1.webp",
+        "/assets/media/covers/rebranding-lezzet-qida-senaye/2.webp",
+        "/assets/media/covers/rebranding-lezzet-qida-senaye/3.webp",
+        "/assets/media/covers/rebranding-lezzet-qida-senaye/4.webp",
+        "/assets/media/covers/rebranding-lezzet-qida-senaye/5.webp",
+        "/assets/media/covers/rebranding-lezzet-qida-senaye/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -6201,9 +6198,15 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1030336653?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
+      "poster": "/assets/media/covers/alive-skin-beauty-3d-product-rendering-animation/1.webp",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "/assets/media/covers/alive-skin-beauty-3d-product-rendering-animation/1.webp",
+        "/assets/media/covers/alive-skin-beauty-3d-product-rendering-animation/2.webp",
+        "/assets/media/covers/alive-skin-beauty-3d-product-rendering-animation/3.webp",
+        "/assets/media/covers/alive-skin-beauty-3d-product-rendering-animation/4.webp",
+        "/assets/media/covers/alive-skin-beauty-3d-product-rendering-animation/5.webp"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -6294,9 +6297,15 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1000\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=03cee500-6e7f-11ef-9397-d93975fe8866\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
+      "poster": "/assets/media/covers/energy-drink-social-media-motions/1.webp",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "/assets/media/covers/energy-drink-social-media-motions/1.webp",
+        "/assets/media/covers/energy-drink-social-media-motions/2.webp",
+        "/assets/media/covers/energy-drink-social-media-motions/3.webp",
+        "/assets/media/covers/energy-drink-social-media-motions/4.webp",
+        "/assets/media/covers/energy-drink-social-media-motions/5.webp"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -6362,12 +6371,11 @@ window.SITE = {
       "poster": "/assets/media/work/baku-chess-set-gobustan-edition/kylbkcgzvomsnkmpypb0.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/baku-chess-set-gobustan-edition/kylbkcgzvomsnkmpypb0.webp",
-        "/assets/media/work/baku-chess-set-gobustan-edition/ox50ruikbck1b0ehtokl.webp",
-        "/assets/media/work/baku-chess-set-gobustan-edition/c3qa4g7ctbiobpf67aw6.webp",
-        "/assets/media/work/baku-chess-set-gobustan-edition/en8aag9istkekc9vrcie.webp",
-        "/assets/media/work/baku-chess-set-gobustan-edition/rsi0tx1l9ttnj8tnzpjr.webp",
-        "/assets/media/work/baku-chess-set-gobustan-edition/ecoxrhteyzmwskxp2lum.webp"
+        "/assets/media/covers/baku-chess-set-gobustan-edition/1.webp",
+        "/assets/media/covers/baku-chess-set-gobustan-edition/2.webp",
+        "/assets/media/covers/baku-chess-set-gobustan-edition/3.webp",
+        "/assets/media/covers/baku-chess-set-gobustan-edition/4.webp",
+        "/assets/media/covers/baku-chess-set-gobustan-edition/5.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -6491,7 +6499,13 @@ window.SITE = {
       "video": "<iframe src=\"https://player.vimeo.com/video/833933442?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "/assets/media/covers/social-media-motion-design/1.webp",
+        "/assets/media/covers/social-media-motion-design/2.webp",
+        "/assets/media/covers/social-media-motion-design/3.webp",
+        "/assets/media/covers/social-media-motion-design/4.webp",
+        "/assets/media/covers/social-media-motion-design/5.webp"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -6604,13 +6618,12 @@ window.SITE = {
       "poster": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ljapkv3tbqxvivhd8glw.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ljapkv3tbqxvivhd8glw.webp",
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/fq1eoymlk5l7i4hylqjj.webp",
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/l8zogkseqhkdrgyxnlfk.webp",
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnfypjxbrztwjf8cqwfb.webp",
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/eigoerfnkogcgrptldsn.webp",
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/rx1vtryrgccvhfdoziop.webp",
-        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnuekj07isacfcpdoi2h.webp"
+        "/assets/media/covers/baku-chess-set-azerbaijan-carpet-edition/1.webp",
+        "/assets/media/covers/baku-chess-set-azerbaijan-carpet-edition/2.webp",
+        "/assets/media/covers/baku-chess-set-azerbaijan-carpet-edition/3.webp",
+        "/assets/media/covers/baku-chess-set-azerbaijan-carpet-edition/4.webp",
+        "/assets/media/covers/baku-chess-set-azerbaijan-carpet-edition/5.webp",
+        "/assets/media/covers/baku-chess-set-azerbaijan-carpet-edition/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -6783,11 +6796,12 @@ window.SITE = {
       "poster": "/assets/media/work/juiz-branding/dzkiwznqmw1celgpabxb.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/juiz-branding/dzkiwznqmw1celgpabxb.webp",
-        "/assets/media/work/juiz-branding/ahtb0dy7cwjsurcd4hcp.webp",
-        "/assets/media/work/juiz-branding/tww56wa74c2zbb7ssfyb.webp",
-        "/assets/media/work/juiz-branding/d70yhh6vncqknpsesja8.webp",
-        "/assets/media/work/juiz-branding/uqojjj0fez5lydkw3gyn.webp"
+        "/assets/media/covers/juiz-branding/1.webp",
+        "/assets/media/covers/juiz-branding/2.webp",
+        "/assets/media/covers/juiz-branding/3.webp",
+        "/assets/media/covers/juiz-branding/4.webp",
+        "/assets/media/covers/juiz-branding/5.webp",
+        "/assets/media/covers/juiz-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7076,13 +7090,12 @@ window.SITE = {
       "poster": "/assets/media/work/goalaz-branding/ylbvpk2lu95rne2vvwr9.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/goalaz-branding/ylbvpk2lu95rne2vvwr9.webp",
-        "/assets/media/work/goalaz-branding/f13adxbwyeamh0y6tmmr.webp",
-        "/assets/media/work/goalaz-branding/dgy9zr6wf9n3y2l0e9vn.webp",
-        "/assets/media/work/goalaz-branding/ptwwq7djmb1z632tcirq.webp",
-        "/assets/media/work/goalaz-branding/tufcx8zocvvztb0nuzo0.webp",
-        "/assets/media/work/goalaz-branding/gqzoezf7vbx0qtls5wrn.webp",
-        "/assets/media/work/goalaz-branding/ebg0xgwwlsfjwb975h3s.webp"
+        "/assets/media/covers/goalaz-branding/1.webp",
+        "/assets/media/covers/goalaz-branding/2.webp",
+        "/assets/media/covers/goalaz-branding/3.webp",
+        "/assets/media/covers/goalaz-branding/4.webp",
+        "/assets/media/covers/goalaz-branding/5.webp",
+        "/assets/media/covers/goalaz-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7299,9 +7312,15 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/904598086?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
+      "poster": "/assets/media/covers/logo-animation-v2/1.webp",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "/assets/media/covers/logo-animation-v2/1.webp",
+        "/assets/media/covers/logo-animation-v2/2.webp",
+        "/assets/media/covers/logo-animation-v2/3.webp",
+        "/assets/media/covers/logo-animation-v2/4.webp",
+        "/assets/media/covers/logo-animation-v2/5.webp"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -7362,13 +7381,12 @@ window.SITE = {
       "poster": "/assets/media/work/lezzet-group-branding/u6eet32du5okfpefrchb.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/lezzet-group-branding/u6eet32du5okfpefrchb.webp",
-        "/assets/media/work/lezzet-group-branding/rzkximizrcttry0hnswf.webp",
-        "/assets/media/work/lezzet-group-branding/i6ymuk0pahvdjn9k0lud.webp",
-        "/assets/media/work/lezzet-group-branding/zccpwbtkdnyeltq72og2.webp",
-        "/assets/media/work/lezzet-group-branding/qrbwadkyesj3tmdqemun.webp",
-        "/assets/media/work/lezzet-group-branding/bmu81me2dgvwzpngpbv8.webp",
-        "/assets/media/work/lezzet-group-branding/igsc8qjog522gdxmmpgk.webp"
+        "/assets/media/covers/lezzet-group-branding/1.webp",
+        "/assets/media/covers/lezzet-group-branding/2.webp",
+        "/assets/media/covers/lezzet-group-branding/3.webp",
+        "/assets/media/covers/lezzet-group-branding/4.webp",
+        "/assets/media/covers/lezzet-group-branding/5.webp",
+        "/assets/media/covers/lezzet-group-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7626,11 +7644,14 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/884684121?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "/assets/media/work/tamstore-teaser-campaign/odusq6xmkaxi4g3suohz.webp",
+      "poster": "/assets/media/covers/tamstore-teaser-campaign/1.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/tamstore-teaser-campaign/odusq6xmkaxi4g3suohz.webp",
-        "/assets/media/work/tamstore-teaser-campaign/od1plmc7wyt90l02aoqc.webp"
+        "/assets/media/covers/tamstore-teaser-campaign/1.webp",
+        "/assets/media/covers/tamstore-teaser-campaign/2.webp",
+        "/assets/media/covers/tamstore-teaser-campaign/3.webp",
+        "/assets/media/covers/tamstore-teaser-campaign/4.webp",
+        "/assets/media/covers/tamstore-teaser-campaign/5.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7754,13 +7775,12 @@ window.SITE = {
       "poster": "/assets/media/work/1001-home-branding/bpgttqsz3i0mdajwphgf.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/1001-home-branding/bpgttqsz3i0mdajwphgf.webp",
-        "/assets/media/work/1001-home-branding/p1ofa96nivbl9dkbeagu.webp",
-        "/assets/media/work/1001-home-branding/z6igndvn9n67avir0hnn.webp",
-        "/assets/media/work/1001-home-branding/beghkihvf9hqc0ia3l5w.webp",
-        "/assets/media/work/1001-home-branding/akzze0bqvu7v9ywv2juu.webp",
-        "/assets/media/work/1001-home-branding/p1tfuhssfnkadivndgox.webp",
-        "/assets/media/work/1001-home-branding/idseskba3z6uoeubmbsk.webp"
+        "/assets/media/covers/1001-home-branding/1.webp",
+        "/assets/media/covers/1001-home-branding/2.webp",
+        "/assets/media/covers/1001-home-branding/3.webp",
+        "/assets/media/covers/1001-home-branding/4.webp",
+        "/assets/media/covers/1001-home-branding/5.webp",
+        "/assets/media/covers/1001-home-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8104,10 +8124,13 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/849969153?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "/assets/media/work/explainer-video-badamli/a3jx0fqdr2wko9whxkjl.webp",
+      "poster": "/assets/media/covers/explainer-video-badamli/1.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/explainer-video-badamli/a3jx0fqdr2wko9whxkjl.webp"
+        "/assets/media/covers/explainer-video-badamli/1.webp",
+        "/assets/media/covers/explainer-video-badamli/2.webp",
+        "/assets/media/covers/explainer-video-badamli/3.webp",
+        "/assets/media/covers/explainer-video-badamli/4.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8179,7 +8202,13 @@ window.SITE = {
       "video": "<iframe src=\"https://player.vimeo.com/video/848288983?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "/assets/media/covers/social-media-motion-buva/1.webp",
+        "/assets/media/covers/social-media-motion-buva/2.webp",
+        "/assets/media/covers/social-media-motion-buva/3.webp",
+        "/assets/media/covers/social-media-motion-buva/4.webp",
+        "/assets/media/covers/social-media-motion-buva/5.webp"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -8301,13 +8330,12 @@ window.SITE = {
       "poster": "/assets/media/work/bahar-kargo-branding/vyvm0gxonxoikyfuu447.mp4",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/bahar-kargo-branding/vyvm0gxonxoikyfuu447.mp4",
-        "/assets/media/work/bahar-kargo-branding/wrtzbvr97sdjtveeyxok.mp4",
-        "/assets/media/work/bahar-kargo-branding/niiso993gdxwnfchwhj2.webp",
-        "/assets/media/work/bahar-kargo-branding/lfwr37wxq3bqv3fx0io5.mp4",
-        "/assets/media/work/bahar-kargo-branding/wjabxmvyeleeymvimj8s.webp",
-        "/assets/media/work/bahar-kargo-branding/tiq5z9phkkbiwap7obn7.webp",
-        "/assets/media/work/bahar-kargo-branding/oqmdbrgqkxwujlhjzxnu.webp"
+        "/assets/media/covers/bahar-kargo-branding/1.webp",
+        "/assets/media/covers/bahar-kargo-branding/2.webp",
+        "/assets/media/covers/bahar-kargo-branding/3.webp",
+        "/assets/media/covers/bahar-kargo-branding/4.webp",
+        "/assets/media/covers/bahar-kargo-branding/5.webp",
+        "/assets/media/covers/bahar-kargo-branding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8634,9 +8662,15 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/833931319?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "",
+      "poster": "/assets/media/covers/logo-animation-v1/1.webp",
       "shots": [],
-      "coverImages": [],
+      "coverImages": [
+        "/assets/media/covers/logo-animation-v1/1.webp",
+        "/assets/media/covers/logo-animation-v1/2.webp",
+        "/assets/media/covers/logo-animation-v1/3.webp",
+        "/assets/media/covers/logo-animation-v1/4.webp",
+        "/assets/media/covers/logo-animation-v1/5.webp"
+      ],
       "detail": {
         "layout": "stream",
         "background": "#ffffff",
@@ -8711,13 +8745,12 @@ window.SITE = {
       "poster": "/assets/media/work/100th-anniversary-of-heydar-aliyev/hcopxphkiezedcaglkrt.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/hcopxphkiezedcaglkrt.webp",
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/ifdire6qokclwnw4vktq.webp",
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/n0wlvvgql8rcvgsohbun.webp",
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/putf0mvog1g6tbhib7mk.webp",
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/qczp6tpjyudzwam966hs.webp",
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/uefmcb5o4ojlw8yjxax6.webp",
-        "/assets/media/work/100th-anniversary-of-heydar-aliyev/a63bdkucpkk4xewbjhgs.webp"
+        "/assets/media/covers/100th-anniversary-of-heydar-aliyev/1.webp",
+        "/assets/media/covers/100th-anniversary-of-heydar-aliyev/2.webp",
+        "/assets/media/covers/100th-anniversary-of-heydar-aliyev/3.webp",
+        "/assets/media/covers/100th-anniversary-of-heydar-aliyev/4.webp",
+        "/assets/media/covers/100th-anniversary-of-heydar-aliyev/5.webp",
+        "/assets/media/covers/100th-anniversary-of-heydar-aliyev/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8871,13 +8904,12 @@ window.SITE = {
       "poster": "/assets/media/work/araz-nakhchivan-football-team-rebranding/mjldppyfa1hyensfjamn.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/mjldppyfa1hyensfjamn.webp",
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/lvaljyjwamgxvyagnr3y.webp",
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/fszqof0fy5i8b1dtntyt.webp",
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/k7hy3m58marxyh3ziqqd.webp",
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/dosefcs8qedqibnmjgkd.webp",
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/juwzru3u7ur6zp3p8nkf.webp",
-        "/assets/media/work/araz-nakhchivan-football-team-rebranding/pmzboid8nrsf5kjpubbl.webp"
+        "/assets/media/covers/araz-nakhchivan-football-team-rebranding/1.webp",
+        "/assets/media/covers/araz-nakhchivan-football-team-rebranding/2.webp",
+        "/assets/media/covers/araz-nakhchivan-football-team-rebranding/3.webp",
+        "/assets/media/covers/araz-nakhchivan-football-team-rebranding/4.webp",
+        "/assets/media/covers/araz-nakhchivan-football-team-rebranding/5.webp",
+        "/assets/media/covers/araz-nakhchivan-football-team-rebranding/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9390,13 +9422,12 @@ window.SITE = {
       "poster": "/assets/media/work/sizin-market-brand-identity/xsgojfsbdluygdduulbb.mp4",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/sizin-market-brand-identity/xsgojfsbdluygdduulbb.mp4",
-        "/assets/media/work/sizin-market-brand-identity/jyxli3pz3svagnkpxuj2.webp",
-        "/assets/media/work/sizin-market-brand-identity/vxumuddgoepngszi99fu.webp",
-        "/assets/media/work/sizin-market-brand-identity/u4othicxlh8ygdhre3kz.webp",
-        "/assets/media/work/sizin-market-brand-identity/yx3g1khg9zqolz2hjapy.webp",
-        "/assets/media/work/sizin-market-brand-identity/uwsafjdbsvtyka40vssn.webp",
-        "/assets/media/work/sizin-market-brand-identity/qyczllfb3vzqkfxw4ovh.webp"
+        "/assets/media/covers/sizin-market-brand-identity/1.webp",
+        "/assets/media/covers/sizin-market-brand-identity/2.webp",
+        "/assets/media/covers/sizin-market-brand-identity/3.webp",
+        "/assets/media/covers/sizin-market-brand-identity/4.webp",
+        "/assets/media/covers/sizin-market-brand-identity/5.webp",
+        "/assets/media/covers/sizin-market-brand-identity/6.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9684,7 +9715,7 @@ window.SITE = {
       "poster": "/assets/media/work/work-proces/dkhpzfaizc2edaivtrnn.mp4",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/work-proces/dkhpzfaizc2edaivtrnn.mp4"
+        "/assets/media/covers/work-proces/1.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9753,7 +9784,7 @@ window.SITE = {
       "poster": "/assets/media/work/village/kw4icxhu4evulpdey9s9.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/village/kw4icxhu4evulpdey9s9.webp"
+        "/assets/media/covers/village/1.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9794,9 +9825,9 @@ window.SITE = {
       "poster": "/assets/media/work/ray-ban/m5m77uq9zysfwc1igxsc.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/ray-ban/m5m77uq9zysfwc1igxsc.webp",
-        "/assets/media/work/ray-ban/fb0gefej5imhiqv6k8r6.webp",
-        "/assets/media/work/ray-ban/osbilqsmakrrb9co00mx.webp"
+        "/assets/media/covers/ray-ban/1.webp",
+        "/assets/media/covers/ray-ban/2.webp",
+        "/assets/media/covers/ray-ban/3.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9857,13 +9888,11 @@ window.SITE = {
       "poster": "/assets/media/work/iron-man/xbsh9s6fuxpzomd8jcks.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/iron-man/xbsh9s6fuxpzomd8jcks.webp",
-        "/assets/media/work/iron-man/afbqkprvgd7ncottxsty.webp",
-        "/assets/media/work/iron-man/jvyb0sbsribdnjewsxfq.webp",
-        "/assets/media/work/iron-man/xntyu8xcjbnpxap2meql.webp",
-        "/assets/media/work/iron-man/pbfnlbuul3ujxmirllrv.webp",
-        "/assets/media/work/iron-man/lmwmjdtedb7ncqhznqlo.webp",
-        "/assets/media/work/iron-man/dmubbwdhtnr21z931zuh.webp"
+        "/assets/media/covers/iron-man/1.webp",
+        "/assets/media/covers/iron-man/2.webp",
+        "/assets/media/covers/iron-man/3.webp",
+        "/assets/media/covers/iron-man/4.webp",
+        "/assets/media/covers/iron-man/5.webp"
       ],
       "detail": {
         "layout": "stream",
