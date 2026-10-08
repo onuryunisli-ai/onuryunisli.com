@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://onuryunisli.com/sitemap.xml
+Sitemap: https://onuryunisli.com/sitemap-video.xml

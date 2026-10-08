@@ -36,3 +36,21 @@
 @media (max-width:760px){
   .svc-intro{grid-template-columns:1fr}
 }
+
+/* alətlər, sahələr, müqayisə cədvəli */
+.svc-more{margin:18px 0 0;font-size:11px;letter-spacing:.12em;text-transform:uppercase}
+.svc-more a{color:var(--grey);transition:color .2s}
+.svc-more a:hover{color:var(--accent)}
+.svc-pills{display:flex;flex-wrap:wrap;gap:8px;border-top:1px solid var(--hair);padding-top:clamp(20px,2.4vw,30px)}
+.svc-text{margin:0;border-top:1px solid var(--hair);padding-top:clamp(20px,2.4vw,30px);max-width:68ch;
+  font-size:clamp(15px,1.25vw,17.5px);line-height:1.62;color:#33363B}
+.svc-text a{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.svc-text a:hover{color:var(--accent)}
+.svc-table-wrap{overflow-x:auto;border-top:1px solid var(--hair)}
+.svc-table{width:100%;border-collapse:collapse;min-width:620px;font-size:14.5px;line-height:1.5}
+.svc-table th,.svc-table td{text-align:left;vertical-align:top;padding:clamp(16px,1.8vw,24px) clamp(10px,1.4vw,20px) clamp(16px,1.8vw,24px) 0;
+  border-bottom:1px solid var(--hair)}
+.svc-table thead th{font-family:var(--mono);font-weight:400;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--grey)}
+.svc-table tbody th{font-weight:500;text-transform:uppercase;font-size:clamp(.95rem,1.4vw,1.1rem);letter-spacing:-.01em;width:22%}
+.svc-table td{color:#33363B}
+.svc-table td:last-child{color:var(--ink)}

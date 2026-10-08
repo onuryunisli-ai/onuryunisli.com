@@ -2,6 +2,8 @@
 (function (root) {
   'use strict';
   const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  /* mətndə [söz](/ünvan) → link (yalnız / və http(s)) */
+  const linkify = html => html.replace(/\[([^\]]+)\]\(((?:\/|https?:\/\/)[^)\s]+)\)/g, '<a href="$2">$1</a>');
   const color = (v, fallback) => /^#[\da-f]{6}$/i.test(v || '') ? v : fallback;
   const number = (v, min, max, fallback) => Number.isFinite(+v) ? Math.min(max, Math.max(min, +v)) : fallback;
   function assetURL(value, base = '/') {
@@ -166,7 +168,7 @@
   function block(b, options = {}) {
     const padding = number(b.padding ?? 0, 0, 160, 0);
     let body = '';
-    if (b.type === 'text') body = `<div class="pc-text" style="text-align:${['left','center','right'].includes(b.align) ? b.align : 'left'}">${b.title ? `<h2>${esc(b.title)}</h2>` : ''}${String(b.text || '').split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${esc(p).replace(/\n/g,'<br>')}</p>`).join('') || (!b.title ? '<p>Mətn əlavə edin…</p>' : '')}</div>`;
+    if (b.type === 'text') body = `<div class="pc-text" style="text-align:${['left','center','right'].includes(b.align) ? b.align : 'left'}">${b.title ? `<h2>${esc(b.title)}</h2>` : ''}${String(b.text || '').split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${linkify(esc(p)).replace(/\n/g,'<br>')}</p>`).join('') || (!b.title ? '<p>Mətn əlavə edin…</p>' : '')}</div>`;
     else if (b.type === 'embed') {
       const parsed = embed(b.src);
       const config = b.embedCustom ? {background:b.backgroundVideo,autoplay:b.autoplay,muted:b.muted,loop:b.loop,controls:b.controls} : {};

@@ -96,7 +96,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "A visual identity was developed for AzerGold’s 10th anniversary, aiming to reflect the company’s journey while preserving its established brand image. Rather th",
+        "description": "AzerGold’s 10th anniversary identity by Element: a layered “From Depth to Value” mark, refined logotype, visual system, motion and 3D films, gifts and packaging.",
         "blocks": [
           {
             "type": "media",
@@ -115,8 +115,22 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "AzerGold plays a strategic role in Azerbaijan’s mining sector, transforming underground resources into value. Over its 10-year journey, the company has built strong trust and reputation. However, this progress lacked a clear visual expression. The objective was to present this milestone in a more meaningful and readable way, without losing the brand’s existing strength.\n\nThe concept is built around “From Depth to Value.” Mining is not just extraction. It is a gradual process of turning depth into value. The layered structure in the logo represents geological strata, visualizing this transformation. The ten layers reflect AzerGold’s 10-year development journey. At the same time, the logotype was refined with a more modern and balanced typography, improving overall visual stability and giving the brand a more contemporary presence.\n\nThe visual approach was inspired by the natural structure of mines. Layers were arranged in a clear and balanced system to express both depth and growth. In the anniversary mark, the “0” was designed as a mine cavity, while the “1” represents direction and progress. This approach extended beyond the logo. A flexible visual system was built around the “10,” allowing dynamic use across different applications, from posters to digital platforms. The “From Depth to Value” idea was also reflected in corporate gifts and packaging, both conceptually and visually.",
+            "title": "From depth to value",
+            "text": "For AzerGold’s tenth anniversary, Element created a commemorative identity that marks the milestone without replacing the brand people already trust. The work covers the anniversary mark, a refined logotype, a visual system built around the number 10, motion and 3D films, posters, digital applications, corporate gifts and packaging.\n\nAzerGold plays a strategic role in Azerbaijan’s mining sector, turning underground resources into value. In ten years the company built strong trust and reputation, but that progress had no clear visual expression. The task was to make the milestone readable and meaningful while keeping the strength of the existing brand.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The idea",
+            "text": "Mining is not just extraction — it is a gradual process of turning depth into value. The layered structure of the mark represents geological strata, and its ten layers stand for AzerGold’s ten years. The logotype was refined at the same time with more modern, balanced typography, giving the brand a steadier and more contemporary presence.\n\nIn the anniversary mark, the “0” is drawn as a mine cavity and the “1” as a line of direction and progress. The layers are arranged in a clear, balanced system that expresses both depth and growth.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "One system, many applications",
+            "text": "A flexible visual system was built around the “10”, so the anniversary could run from posters to digital platforms without losing consistency. The same “From Depth to Value” idea carried into corporate gifts and packaging, and into [motion and 3D films](/services/motion-design/) that bring the layered structure to screens.",
             "align": "left",
             "padding": 0
           },
@@ -260,7 +274,8 @@
             "src": "<iframe src=\"https://player.vimeo.com/video/1181869598?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/247281873/AzerGold-10th-Anniversary-Brand-Identity",
       "studio": "Element",
@@ -1027,7 +1042,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "Turkish Petroleum Corporation (TPAO) Stand Design & Production For the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the exhib",
+        "description": "Turkish Petroleum (TPAO) stand at the 31st Caspian Oil & Gas Exhibition, Baku — designed, visualised, produced and installed by Element. “Most Creative Stand” award.",
         "blocks": [
           {
             "type": "embed",
@@ -1046,8 +1061,22 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "Turkish Petroleum Corporation (TPAO) Stand Design & Production\n\nFor the 31st International Caspian Oil & Gas Exhibition, Element designed and delivered the exhibition stand for Turkish Petroleum Corporation (TPAO).\n\nInspired by the strategic vision of Sultan Mehmed the Conqueror, the concept combines contemporary architecture with immersive exhibition design to reflect TPAO’s energy vision.\n\nFrom creative concept and design to 3D visualization, production, and on-site implementation, the entire project was executed by Element.\n\nThe stand received the “Most Creative Stand” award at the exhibition.",
+            "title": "TPAO at the Caspian Oil & Gas Exhibition",
+            "text": "For the 31st International Caspian Oil & Gas Exhibition in Baku, Element designed and delivered the exhibition stand of Turkish Petroleum Corporation (TPAO). The stand received the “Most Creative Stand” award at the exhibition.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The concept",
+            "text": "The design is inspired by the strategic vision of Sultan Mehmed the Conqueror. It combines contemporary architecture with immersive exhibition design to express TPAO’s energy vision.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "From concept to build",
+            "text": "Element ran the whole project — creative concept, design, 3D visualisation, production and on-site implementation. Working from detailed 3D visualisation means the stand, its materials and its screens are designed and approved before anything is built. More on [3D visualisation](/services/3d-product-animation/) and work for [energy and corporate brands](/industries/energy-corporate/).",
             "align": "left",
             "padding": 0
           },
@@ -1232,7 +1261,8 @@
             },
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/251377447/Turkish-Petroleum-Baku-2026-Exhibition-Stand",
       "studio": "Element",
@@ -1640,7 +1670,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "Element developed the complete Brand Identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan. The project included logo design, visual identity,",
+        "description": "Brand identity for Baku Resort & Spa, a hotel in Kyrgyzstan: a logo inspired by Azerbaijani arches and ornament, visual identity, guidelines and motion — by Element.",
         "blocks": [
           {
             "type": "embed",
@@ -1649,8 +1679,22 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "Element developed the complete Brand Identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan.\n\nThe project included logo design, visual identity, brand guidelines, and a cohesive corporate identity system, creating a consistent brand experience across every touchpoint.\n\nInspired by Azerbaijani architectural heritage, the logo combines traditional arch forms and ornamental motifs with a contemporary graphic approach. The identity reflects the elegance of Azerbaijani culture while expressing the premium hospitality experience of Baku Resort & Spa.\n\nDesigned to be timeless, recognizable, and adaptable, the new identity establishes a distinctive visual language that strengthens the brand across both physical and digital environments.",
+            "title": "A hotel identity rooted in Azerbaijani architecture",
+            "text": "Element created the complete brand identity for Baku Resort & Spa, a hospitality destination in Kyrgyzstan: logo, visual identity, brand guidelines and a corporate identity system that keeps the guest experience consistent across every touchpoint.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The mark",
+            "text": "The logo draws on Azerbaijani architectural heritage. Traditional arch forms and ornamental motifs are redrawn with a contemporary graphic approach, so the mark reflects the elegance of Azerbaijani culture while signalling a premium hospitality experience.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The system",
+            "text": "The identity was designed to be timeless, recognisable and adaptable — a distinctive visual language that works across physical and digital environments, from signage and print to screens and [motion](/services/motion-design/).",
             "align": "left",
             "padding": 0
           },
@@ -1937,7 +1981,8 @@
             "gap": 0,
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/253708217/Baku-Resort-Spa-Hotel-Brand-Identity",
       "studio": "Element",
@@ -1976,7 +2021,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "The LIVGRT logo is designed to encapsulate the brand's focus on health and vitality. The logo \u0003creatively integrates the letter \"V\" into a symbol that resembles",
+        "description": "HYDRO8 hydration drink mix by LIVGRT — branding, pouch packaging and 3D product renders and animation in orange, lime and ice.",
         "blocks": [
           {
             "type": "media",
@@ -1986,6 +2031,13 @@
               "alt": "LIVGRT HYDRO8 — Branding & Packaging Design — 1",
               "caption": ""
             },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "LIVGRT HYDRO8",
+            "text": "Branding, packaging and 3D for HYDRO8, a hydration drink mix by LIVGRT in an orange-and-lime flavour. The pouch carries the line “Infinite hydration, infinite energy” and five clear benefits: energy boost, mental clarity, heart health, advanced hydration and daily replenishment.\n\nThe LIVGRT logo is designed to express the brand’s focus on health and vitality, integrating the letter “V” into its symbol. The 3D renders and animation put the pouch into a world of orange and lime liquid, ice crystals and light, so the idea of hydration feels physical. More on [packaging design](/services/packaging-design/) and [3D product animation](/services/3d-product-animation/).",
+            "align": "left",
             "padding": 0
           },
           {
@@ -2227,7 +2279,8 @@
             "gap": 0,
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/240406245/LIVGRT-HYDRO8-Branding-Packaging-Design",
       "studio": "",
@@ -4025,7 +4078,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "",
+        "description": "Logo and identity for the Istanbul 2027 European Games, designed at Element by Adam Yunisov, designer of the Baku 2015 European Games logo.",
         "blocks": [
           {
             "type": "embed",
@@ -4034,8 +4087,15 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "We drew inspiration from the crescent and star of the glorious flag of the Republic of Türkiye for the logo of “Istanbul 2027 European Games,” the first major sports organization of the second century of the Türkiye.\n\nWe brought together our crescent and star with the shining star of the world, the city of Istanbul, and the growing Istanbul brand.\n\nIstanbul, which connects two continents, will now take the stage with the unifying power of sport.\n\nAdam Yunisov, the logo designer of the Baku 2015 First European Games, has now designed the logo for Istanbul 2027 European Games!\n\n​​​​​​​",
+            "title": "Istanbul 2027 European Games",
+            "text": "The logo of the Istanbul 2027 European Games — the first major sports event of the Republic of Türkiye’s second century — was designed at Element by Adam Yunisov, who also designed the logo of the Baku 2015 First European Games.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The idea",
+            "text": "The mark takes the crescent and star of the Turkish flag and brings them together with Istanbul — the shining star of the world and a growing city brand. A city that connects two continents now takes the stage through the unifying power of sport. More on [brand identity](/services/brand-identity/) and work for [events and sports](/industries/events-sports/).",
             "align": "left",
             "padding": 0
           },
@@ -4261,7 +4321,8 @@
             },
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/236894015/Brand-Identity-Istanbul-2027",
       "studio": "Element",
@@ -4997,7 +5058,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, we revived the brand’s iconic 1970s–1980s packaging style and reintroduced it under the nam",
+        "description": "Vintage Badamlı: Element revived Badamlı’s 1970s–80s label for the brand’s 75th anniversary, with a gift box, a vintage car and a campaign set in classic Azerbaijani films.",
         "blocks": [
           {
             "type": "embed",
@@ -5006,8 +5067,8 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, we revived the brand’s iconic 1970s–1980s packaging style and reintroduced it under the name “Vintage Badamlı.” The classic retro label design was reimagined to bring the spirit of the past back to life on the bottle. The concept went beyond packaging, a special Vintage Badamlı car was also designed in the same nostalgic style.\n\nThe campaign was seamlessly integrated into old Azerbaijani films, taking viewers on a journey through time. Once launched on social media, it quickly captured the audience’s attention and admiration. By blending the taste and emotion of the past with today’s design language, we retold the story of Badamlı’s rich heritage.",
+            "title": "Vintage Badamlı",
+            "text": "In 2022, to celebrate the 75th anniversary of Badamlı mineral water, Element revived the brand’s iconic 1970s–80s packaging style and reintroduced it as “Vintage Badamlı”. The classic retro label was reimagined for today’s bottle, bringing the spirit of the past back to the shelf.\n\nThe idea went beyond the label: a special Vintage Badamlı car was designed in the same nostalgic style, and the campaign was woven into old Azerbaijani films. Once launched on social media, it quickly caught the audience’s attention — the taste and emotion of the past, told in today’s design language.",
             "align": "left",
             "padding": 0
           },
@@ -5148,8 +5209,8 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "Premium Vintage Gift Box\n\nAs part of the 75th anniversary celebrations, a Premium Vintage Gift Box was created a beautifully crafted packaging that included the Vintage Badamlı bottle along with exclusive branded promotional items.These gift boxes were sent to business leaders, partners, and influential figures,serving as a unique way to introduce and celebrate Badamlı’s heritage.",
+            "title": "Premium Vintage Gift Box",
+            "text": "For the anniversary, a Premium Vintage Gift Box combined the Vintage Badamlı bottle with exclusive branded items. The boxes were sent to business leaders, partners and public figures as a personal introduction to Badamlı’s heritage.",
             "align": "left",
             "padding": 0
           },
@@ -5195,8 +5256,8 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "Vintage Badamli - Nostalgic Atmosphere \n\nAs part of the project, we recreated a nostalgic atmosphere by integrating the Vintage Badamlı product into scenes from old Azerbaijani films, both in moments where Badamlı was originally featured decades ago, and in classic table-setting scenes. These clips were re-edited into short videos and shared on social media, sparking strong emotional connections and attracting significant public interest.",
+            "title": "Back in the old films",
+            "text": "The Vintage Badamlı bottle was placed into scenes from classic Azerbaijani films — in moments where Badamlı originally appeared decades ago, and in traditional table settings. Re-edited into short videos for social media, the clips created a strong emotional connection and drew wide public interest. More on [packaging design](/services/packaging-design/).",
             "align": "left",
             "padding": 0
           },
@@ -5210,7 +5271,8 @@
             "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3T21z27tWHY?si=PwS76W7GMAPx8EzG\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/232123155/Badamli-Mineral-Water-Vintage-Packaging",
       "studio": "Element",
@@ -5247,7 +5309,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic natural resources, we at Element were proud to develop a campaign that honored its legacy",
+        "description": "“Niyə Sevilən Su?” — a nine-part video series and heart-shaped QR campaign by Element for the 75th anniversary of Sirab mineral water.",
         "blocks": [
           {
             "type": "embed",
@@ -5256,8 +5318,15 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic natural resources, we at Element were proud to develop a campaign that honored its legacy through both visual and narrative expression.\n\nAt the heart of the project was one simple question:\nWhy has Sirab remained so loved for 75 years?\n\nWe answered this by producing a 9-part video series, each episode highlighting a unique aspect of the brand’s enduring value — from its mineral composition to production standards and emotional connection with generations. All production was handled in-house by Element.\n\nThe campaign also featured a custom-designed, heart-shaped QR code, placed across product packaging and digital channels — giving users an interactive way to explore the brand’s story.\n\nThis project allowed us to reflect on the past, embrace the present, and shape the future of a truly beloved water brand.",
+            "title": "Why is Sirab so loved?",
+            "text": "To mark the 75th anniversary of Sirab, one of Azerbaijan’s most iconic mineral water brands, Element built a campaign around one simple question: “Niyə Sevilən Su?” — why has Sirab remained so loved for 75 years?\n\nThe answer became a nine-part video series. Each episode highlights a different side of the brand’s lasting value — from its mineral composition to its production standards and the emotional connection it has built with generations. All production was handled in-house at Element.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "A heart-shaped QR code",
+            "text": "A custom heart-shaped QR code ran across product packaging and digital channels, giving people a direct route from the bottle to the brand’s story.\n\nSplitting the story into nine short films made the campaign easy to release over time on social media and to reuse across channels. More on [explainer videos](/services/explainer-videos/) and [social media content](/services/social-media-content/).",
             "align": "left",
             "padding": 0
           },
@@ -5376,7 +5445,8 @@
             "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1gVqbSlWr6o?si=JYqm__Eo2-EK1tp9\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/229462795/Sirab-Niy-Seviln-Su",
       "studio": "Element",
@@ -6234,7 +6304,7 @@
         "color": "#202522",
         "spacing": 0,
         "width": 1400,
-        "description": "",
+        "description": "3D product animation and motion for the launch of ALIVE Skin & Beauty, a liquid collagen supplement — gold bottles, liquid gold and a heartbeat motif.",
         "blocks": [
           {
             "type": "embed",
@@ -6243,8 +6313,15 @@
           },
           {
             "type": "text",
-            "title": "",
-            "text": "Alive Skin & Beauty\n\nDesign and animation package for Alive Skin & Beauty’s collagen product launch redefines the brand’s identity through a seamless blend of innovation and elegance.\nBy utilizing a mix of 3D animation, motion graphics, and minimalist design, I crafted an immersive visual experience that highlights the essence of each product.",
+            "title": "ALIVE Skin & Beauty",
+            "text": "A design and animation package for the launch of ALIVE Skin & Beauty, a liquid collagen dietary supplement. The films present the product with a blend of 3D product animation, motion graphics and minimalist design — innovation and elegance in the same frame.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The visual world",
+            "text": "Gold bottles, flowing liquid gold and a heartbeat line taken from the ALIVE wordmark, set against a network of hexagonal, molecular forms. Every film is built around the product itself, so the bottle and label stay exact in every shot. More on [3D product animation](/services/3d-product-animation/) and [beauty and wellness brands](/industries/beauty-wellness/).",
             "align": "left",
             "padding": 0
           },
@@ -6298,7 +6375,8 @@
             "src": "<iframe src=\"https://player.vimeo.com/video/1030336261?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
             "padding": 0
           }
-        ]
+        ],
+        "seoCase": true
       },
       "behanceUrl": "https://www.behance.net/gallery/212662139/Alive-Skin-Beauty-3D-Product-Rendering-Animation",
       "studio": "",
@@ -10022,6 +10100,313 @@
     }
   ],
   "posts": [
+    {
+      "slug": "how-much-does-an-ai-commercial-cost-in-2026",
+      "title": "How much does an AI commercial cost in 2026?",
+      "category": "AI film",
+      "date": "9 October 2026",
+      "isoDate": "2026-10-09",
+      "excerpt": "What you actually pay for in an AI commercial — shots, product accuracy, versions and finishing — with 2026 industry benchmarks for traditional production.",
+      "url": "",
+      "image": "/assets/media/hero/ai-films.jpg",
+      "video": "",
+      "poster": "",
+      "status": "published",
+      "related": [
+        [
+          "AI commercials",
+          "/services/ai-commercials/"
+        ],
+        [
+          "AI product videos",
+          "/services/ai-product-videos/"
+        ],
+        [
+          "AI tools",
+          "/ai-tools/"
+        ]
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "Short answer: less than a traditional shoot of the same length, but much more than the price of a software subscription. The cost of an AI commercial is driven by the number of shots, how exact your product has to be, how many versions you need and how much finishing the film gets — not by camera days.\n\nThis article explains what you actually pay for, using published industry benchmarks rather than my own prices, so you can budget and brief with confidence.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "What a traditional commercial costs",
+            "text": "Industry benchmarks give a useful frame. Advids put the average 60-second brand video at around $3,185 in 2026, and full-service brand agencies quote roughly $1,000 to $16,000 per ad, with three to six weeks of turnaround. A broadcast spot with a crew, cast and locations sits far above that.\n\nMost of that money buys time: crew days, studio or location hire, casting, travel, equipment and the risk of reshoots.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "What changes with AI",
+            "text": "AI production removes camera days, locations and most logistics. Superside reported in 2026 that AI-assisted creative services cost around 60% of traditional agency pricing — a fair rule of thumb for professionally finished work.\n\nWhat it does not remove is direction. A usable commercial still needs a script, a shot list, designed keyframes, many generations per shot, product checks, an edit, sound, music and a grade. Figures like “one AI video for a few dollars” count only the subscription — not the failed generations, the review rounds or the finishing.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The five things that set the price",
+            "text": "1. Length and number of shots. A 15-second spot with eight shots and a 30-second spot with twenty are different projects.\n2. Product accuracy. If your label, logo or packaging must be exact in every shot, that means more generations, compositing or 3D.\n3. People. Recurring characters, dialogue and lip sync take longer than product-only scenes.\n4. Versions. Every extra aspect ratio, language or hook adds edit time — though far less than reshooting.\n5. Finishing. Voice-over, music, sound design and colour grading are the same work as for a filmed ad.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "How to get an accurate quote",
+            "text": "Send the length, the platforms, your product files, two or three reference films and your deadline. With that, a fixed quote is possible within a day — and the number of review rounds can be agreed up front instead of being discovered later.\n\nSee how I work on the [AI commercials](/services/ai-commercials/) page, or the [AI tools](/ai-tools/) behind the films.",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ai-vs-traditional-commercial-production",
+      "title": "AI vs traditional commercial production: what actually changes",
+      "category": "AI film",
+      "date": "9 October 2026",
+      "isoDate": "2026-10-09",
+      "excerpt": "AI didn’t make directing obsolete — it moved where the work happens. Pre-production, the shoot, the product, post and versions compared.",
+      "url": "",
+      "image": "/assets/media/hero/ai-films.jpg",
+      "video": "",
+      "poster": "",
+      "status": "published",
+      "related": [
+        [
+          "AI commercials",
+          "/services/ai-commercials/"
+        ],
+        [
+          "Motion design",
+          "/services/motion-design/"
+        ]
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "AI video did not make directing obsolete. It moved where the work happens. Instead of spending budget on shoot days, an AI commercial spends it on planning, generation and finishing. Here is what changes at each stage — and what does not.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Pre-production",
+            "text": "Traditional: casting, location scouting, permits, crew and equipment booking, a shooting schedule.\nAI: a script, a shot list and a designed keyframe for every shot. Characters, products and locations are defined as references before any video is generated, so they stay consistent from the first shot to the last.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The shoot",
+            "text": "Traditional: one or more shoot days. Whatever is not captured on the day is lost, or means booking again.\nAI: each shot is generated, reviewed and regenerated until it works. Changing a shot after feedback does not need a new shoot day — which is why AI suits fast campaigns and pitch films.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "The product",
+            "text": "This is where AI needs the most care. A real bottle on set is always correct; a generated bottle may drift — a wrong label, a different cap, a logo that melts. Product-led commercials therefore lock the product from packshots or a 3D model and check it shot by shot, finishing difficult shots in 3D or compositing. More in [how to keep a product consistent across AI shots](/posts/keep-product-consistent-ai-video/).",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Post-production",
+            "text": "Almost identical: edit, music, sound design, voice-over, colour grade, titles and end card. AI footage needs the same finishing as filmed footage — often more, because shots made with different models have to be matched into one look.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Versions and localisation",
+            "text": "This is where AI wins clearly. Once characters, product and look are locked, new hooks, aspect ratios, seasons and language versions are made from the same assets instead of new shoots.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "When to choose which",
+            "text": "Choose a traditional shoot when the film depends on a real person’s performance, close-up dialogue or a real place that matters to the story. Choose AI when the idea needs worlds that are expensive or impossible to film, when speed matters, or when you need many versions. Many of the best recent spots mix both.\n\nSee [AI commercials](/services/ai-commercials/), or read [how much an AI commercial costs](/posts/how-much-does-an-ai-commercial-cost-in-2026/).",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "seedance-veo-kling-choosing-a-model",
+      "title": "Seedance, Veo or Kling? How I choose a model for each shot",
+      "category": "AI film",
+      "date": "9 October 2026",
+      "isoDate": "2026-10-09",
+      "excerpt": "No single AI model wins every shot. How Seedance 2.0, Veo 3.1 and Kling 3.0 divide the work in a commercial — and how to choose.",
+      "url": "",
+      "image": "/assets/media/hero/ai-films.jpg",
+      "video": "",
+      "poster": "",
+      "status": "published",
+      "related": [
+        [
+          "AI tools",
+          "/ai-tools/"
+        ],
+        [
+          "AI commercials",
+          "/services/ai-commercials/"
+        ]
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "Clients often ask which AI video model I use. The honest answer: more than one in the same film. Each model has its own character, and a commercial is a sequence of very different shots — a product close-up, a crowd, a camera move, a line of dialogue. Here is how the three main models of 2026 divide the work, and how the choice is made.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Seedance 2.0 — when the product has to stay right",
+            "text": "ByteDance’s Seedance 2.0 is strong at holding product details, logos and on-pack text across frames, and at following a detailed shot brief with several reference images. It is the first choice for product shots, and for scenes where a character must stay the same across a sequence.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Veo 3.1 — when it has to feel filmed",
+            "text": "Google’s Veo 3.1 has the most convincing light, physics and camera behaviour, with native audio. It is the choice for shots that must pass as live action — an interior in natural light, water, fabric, a believable hand-held move. Its clips are short, so it is used for single shots rather than long takes.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Kling 3.0 — when the body moves",
+            "text": "Kling 3.0 handles complex human motion well and produces longer, stylised clips at high resolution. It suits dance, sport, action and fashion-style shots — scenes where movement carries the idea.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Higgsfield — one studio for all three",
+            "text": "Working through Higgsfield keeps the models in one place, with Cinema Studio for camera body, lens and focal length, and reusable characters, locations and props across a project. That makes switching models per shot practical instead of chaotic.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "How the choice is made",
+            "text": "1. Write the shot list first, with what each shot must achieve.\n2. Design a keyframe for every shot — usually in Nano Banana Pro — with the product and characters locked.\n3. Send each shot to the model that suits it, generate several takes and choose.\n4. Match everything in the edit and grade, so the audience sees one film, not three models.\n\nThe models will change again within months. The process — shot list, keyframes, the right model for each shot, real finishing — is what keeps the result consistent. See [the AI tools I use](/ai-tools/) and [AI commercials](/services/ai-commercials/).",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "keep-product-consistent-ai-video",
+      "title": "How to keep a product consistent across AI shots",
+      "category": "AI film",
+      "date": "9 October 2026",
+      "isoDate": "2026-10-09",
+      "excerpt": "Generated products drift — labels soften, caps change colour. A six-step method to keep your real product exact in every AI shot.",
+      "url": "",
+      "image": "/assets/media/hero/packaging.jpg",
+      "video": "",
+      "poster": "",
+      "status": "published",
+      "related": [
+        [
+          "AI product videos",
+          "/services/ai-product-videos/"
+        ],
+        [
+          "3D product animation",
+          "/services/3d-product-animation/"
+        ]
+      ],
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 900,
+        "blocks": [
+          {
+            "type": "text",
+            "title": "",
+            "text": "The fastest way to lose a client’s trust with AI video is a label that changes from shot to shot. Generated products drift: the logo softens, the cap changes colour, the text turns into something that only looks like text. In product-led films, consistency is not a finishing touch — it is the first thing planned. This is the method I use.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "1. Start from the real product",
+            "text": "Collect clean packshots from several angles, the label or packaging artwork, logo files and, if it exists, a 3D model. Every later step is checked against these files.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "2. Lock the product in keyframes",
+            "text": "Before any video, each shot gets a designed still with the product in place — made in an image model such as Nano Banana Pro and corrected until the label is right. A video model is far more reliable when it starts from a correct frame than when it invents the product from text.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "3. Give the model references, not adjectives",
+            "text": "Models like Seedance 2.0 accept several reference images per generation. Feeding the same product references into every shot keeps shape, colour and proportion stable across the sequence.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "4. Keep camera moves kind to the label",
+            "text": "Fast rotations, extreme close-ups of small text and hands covering the pack are where drift happens. Plan moves that keep the label readable, and save the hardest angles for 3D.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "5. Fix in finishing",
+            "text": "Even good takes need checking frame by frame. Small drifts are fixed in compositing — a corrected label tracked onto the bottle, a logo replaced. When a model cannot hold the detail at all, the product is rendered in [3D](/services/3d-product-animation/) and placed into the generated scene. The same technique works for bank cards, documents and banknotes in financial ads.",
+            "align": "left",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "6. Check against the files, not by eye",
+            "text": "The final check compares every shot with the original artwork: spelling, logo, colours, proportions. Nothing goes to the client with a misspelt label.\n\nThis is the core of the [AI product videos](/services/ai-product-videos/) I make: the scene can be imagined, the product cannot.",
+            "align": "left",
+            "padding": 0
+          }
+        ]
+      }
+    },
     {
       "slug": "anniversary-brand-identity-what-to-change",
       "title": "Refresh, don't redraw: designing a 10th anniversary identity",
