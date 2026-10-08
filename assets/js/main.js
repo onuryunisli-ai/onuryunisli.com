@@ -245,14 +245,39 @@ function hero() {
   if (!D.length) return;
   const LEN = D.length, COPIES = 5, MID = 2 * LEN;
 
+  /* Ana səhifənin videoları repo-dadır (assets/media/hero/): ad.mp4 (1080p),
+     ad-720.mp4 (telefon üçün) və ad.jpg (ilk kadr). Vimeo pleyerini gözləmədən
+     birinci video dərhal başlayır, qalanları onun ardınca yüklənir. */
+  const HERO = /^(\/assets\/media\/hero\/[^/]+?)\.mp4$/i;
+  const heroVideo = (src, i) => {
+    const m = String(src || '').match(HERO);
+    if (!m) return '';
+    const file = TOUCH ? `${m[1]}-720.mp4` : src;
+    return `<video data-autoplay="true" muted loop playsinline preload="${i ? 'metadata' : 'auto'}"`
+      + ` poster="${escapeHTML(m[1] + '.jpg')}" src="${escapeHTML(file)}" aria-hidden="true"></video>`;
+  };
   D.forEach((d, i) => {
     const b = document.createElement('div');
     b.className = 'bg' + (i ? '' : ' on');
-    b.innerHTML = d.video ? media(d.video, d.poster, true, 'video') : plate(i, 1600, 900);
+    b.innerHTML = d.video ? (heroVideo(d.video, i) || media(d.video, d.poster, true, 'video')) : plate(i, 1600, 900);
     const video = b.querySelector('video');
-    if (video) video.preload = 'auto';
+    if (video && !video.hasAttribute('src')) video.preload = 'auto';
     bgs.appendChild(b);
   });
+  {
+    const vids = $$('.bg video', bgs);
+    let started = false;
+    const rest = () => {
+      if (started) return; started = true;
+      vids.forEach((v, k) => { if (k && v.preload !== 'auto') { v.preload = 'auto'; v.load(); } });
+    };
+    if (vids[0]) {
+      vids[0].muted = true;
+      vids[0].play?.().catch(() => {});
+      vids[0].addEventListener('canplaythrough', rest, {once: true});
+      setTimeout(rest, 2500);
+    } else rest();
+  }
   for (let c = 0; c < COPIES; c++) D.forEach((d, i) => {
     const s = document.createElement('span');
     s.className = 'slot';
@@ -507,7 +532,7 @@ function coverVideos() {
   }, {rootMargin: TOUCH ? '0px' : '600px'});
   vids.forEach(video => {
     videoVisibility.set(video, false); io.observe(video);
-    preload.observe(video);
+    if (!video.closest('.bg')) preload.observe(video);   /* hero öz sırası ilə yüklənir */
     video.addEventListener('canplay', syncVideos);
   });
   document.addEventListener('visibilitychange', syncVideos);

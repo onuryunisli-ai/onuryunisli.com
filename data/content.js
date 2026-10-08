@@ -18,23 +18,28 @@ window.SITE = {
   "disciplines": [
     {
       "title": "MOTION DESIGNs",
-      "video": "<iframe src=\"https://player.vimeo.com/video/1228423392?autoplay=1&loop=1&muted=1&autopause=0&background=1&title=0byline=0&portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+      "video": "/assets/media/hero/motion-design.mp4",
+      "poster": "/assets/media/hero/motion-design.jpg"
     },
     {
       "title": "BRAND IDENTITY",
-      "video": "<iframe src=\"https://player.vimeo.com/video/904598086?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+      "video": "/assets/media/hero/brand-identity.mp4",
+      "poster": "/assets/media/hero/brand-identity.jpg"
     },
     {
       "title": "AI FILMS",
-      "video": "<iframe src=\"[https://player.vimeo.com/video/1228423074?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0](https://player.vimeo.com/video/885533696?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0)\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+      "video": "/assets/media/hero/ai-films.mp4",
+      "poster": "/assets/media/hero/ai-films.jpg"
     },
     {
       "title": "3D & CGI",
-      "video": "<iframe src=\"https://player.vimeo.com/video/885104692?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+      "video": "/assets/media/hero/3d-cgi.mp4",
+      "poster": "/assets/media/hero/3d-cgi.jpg"
     },
     {
       "title": "PACKAGING",
-      "video": "<iframe src=\"[https://player.vimeo.com/video/1228425878?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0](https://player.vimeo.com/video/885533696?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0)\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>"
+      "video": "/assets/media/hero/packaging.mp4",
+      "poster": "/assets/media/hero/packaging.jpg"
     }
   ],
   "projectLayout": {
@@ -79,7 +84,9 @@ window.SITE = {
       "poster": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
       "shots": [],
       "coverImages": [
-        "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp"
+        "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
+        "/assets/media/uploads/czole4a3xueipfewqs0e.webp",
+        "/assets/media/uploads/tmdcwatpknv3bdaodytm.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -278,7 +285,11 @@ window.SITE = {
       "coverImages": [
         "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
         "/assets/media/work/sirab-brand-identity-packaging/hn5kgrydm1lyd5ds2agx.webp",
-        "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp"
+        "/assets/media/uploads/lxztpmmwakclbxkq4j9d.webp",
+        "/assets/media/uploads/uf0hb19oyailigxm8w2w.webp",
+        "/assets/media/uploads/irludqbqwifzaan3gf5g.webp",
+        "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp",
+        "/assets/media/uploads/outvdviwjsl3yhx3walz.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1002,7 +1013,11 @@ window.SITE = {
       "coverImages": [
         "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
         "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/axgrncsgbiiotsarmm06.webp",
-        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/krd2xxiwlgohhg1m0fdb.webp"
+        "/assets/media/uploads/urrivedkdtatrbf2mbpx.webp",
+        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/krd2xxiwlgohhg1m0fdb.webp",
+        "/assets/media/uploads/j1nkcuwg70m2kp1i5krx.webp",
+        "/assets/media/uploads/axpzyue1czyna87uwzja.webp",
+        "/assets/media/uploads/hurpwcewnzk9fdl2fmkp.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1611,7 +1626,10 @@ window.SITE = {
       "coverImages": [
         "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
         "/assets/media/work/baku-resort-spa-hotel-brand-identity/iolc2g28p5vdgfnzhq03.webp",
+        "/assets/media/uploads/hsvhnhbryrfgiumnchlw.webp",
+        "/assets/media/uploads/urufdfw0mylytgjzywho.webp",
         "/assets/media/work/baku-resort-spa-hotel-brand-identity/ke31xgyfnur0x1rctkk7.webp",
+        "/assets/media/uploads/osgousnbnndexblzexji.webp",
         "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6vfhr6xe4rw4lawli2c.webp"
       ],
       "detail": {
