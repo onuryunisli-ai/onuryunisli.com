@@ -265,7 +265,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/247281873/AzerGold-10th-Anniversary-Brand-Identity",
       "studio": "Element",
-      "logo": "/assets/media/logos/azergold.webp"
+      "logo": "/assets/media/logos/azergold.webp",
+      "cardVideo": "/assets/media/cards/1228423392.mp4"
     },
     {
       "slug": "sirab-brand-identity-packaging",
@@ -680,7 +681,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/222636877/SIRAB-Brand-Identity-Packaging",
       "studio": "Element",
-      "logo": "/assets/media/logos/sirab.webp"
+      "logo": "/assets/media/logos/sirab.webp",
+      "cardVideo": "/assets/media/cards/1198390347.mp4"
     },
     {
       "slug": "badamli-mineral-water-packaging-design",
@@ -992,7 +994,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/167317263/Badamli-Mineral-Water-Packaging-Design",
       "studio": "Element",
-      "logo": "/assets/media/logos/badamli.webp"
+      "logo": "/assets/media/logos/badamli.webp",
+      "cardVideo": "/assets/media/cards/813545258.mp4"
     },
     {
       "slug": "turkish-petroleum-baku-2026-exhibition-stand",
@@ -1234,7 +1237,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/251377447/Turkish-Petroleum-Baku-2026-Exhibition-Stand",
       "studio": "Element",
-      "logo": "/assets/media/logos/turkish-petroleum-en.webp"
+      "logo": "/assets/media/logos/turkish-petroleum-en.webp",
+      "cardVideo": "/assets/media/cards/1208313788.mp4"
     },
     {
       "slug": "azvirt-rebranding",
@@ -1604,7 +1608,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/205164583/AZVIRT-Rebranding",
       "studio": "Element",
-      "logo": "/assets/media/logos/azvirt.webp"
+      "logo": "/assets/media/logos/azvirt.webp",
+      "cardVideo": "/assets/media/cards/996535649.mp4"
     },
     {
       "slug": "baku-resort-spa-hotel-brand-identity",
@@ -1937,7 +1942,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/253708217/Baku-Resort-Spa-Hotel-Brand-Identity",
       "studio": "Element",
-      "logo": "/assets/media/logos/baku-resort-spa.webp"
+      "logo": "/assets/media/logos/baku-resort-spa.webp",
+      "cardVideo": "/assets/media/cards/1215131764.mp4"
     },
     {
       "slug": "livgrt-hydro8-branding-packaging-design",
@@ -2226,7 +2232,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/240406245/LIVGRT-HYDRO8-Branding-Packaging-Design",
       "studio": "",
-      "logo": "/assets/media/logos/livgrt.webp"
+      "logo": "/assets/media/logos/livgrt.webp",
+      "cardVideo": "/assets/media/cards/1146237684.mp4"
     },
     {
       "slug": "social-media-motion-badamli",
@@ -2313,7 +2320,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/168964795/Social-Media-Motion-Badamli",
       "studio": "Element",
-      "logo": "/assets/media/logos/badamli.webp"
+      "logo": "/assets/media/logos/badamli.webp",
+      "cardVideo": "/assets/media/cards/820312951.mp4"
     },
     {
       "slug": "alive-packaging-design-product-rendering",
@@ -2744,7 +2752,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/210318207/ALIVE-Packaging-Design-Product-Rendering",
       "studio": "",
-      "logo": "/assets/media/logos/alive.webp"
+      "logo": "/assets/media/logos/alive.webp",
+      "cardVideo": "/assets/media/cards/1228402435.mp4"
     },
     {
       "slug": "dinamit-energy-drink-package-design-brand-identity",
@@ -3480,7 +3489,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/228233515/Turkish-Petroleum-Exhibition-Stand",
       "studio": "Element",
-      "logo": "/assets/media/logos/turkish-petroleum-en.webp"
+      "logo": "/assets/media/logos/turkish-petroleum-en.webp",
+      "cardVideo": "/assets/media/cards/1198390371.mp4"
     },
     {
       "slug": "ankara-metropolitan-municipality-city-branding",
@@ -3789,7 +3799,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/206404161/Ankara-Metropolitan-Municipality-City-Branding",
       "studio": "Element",
-      "logo": "/assets/media/logos/ankara-metropolitan-municipality.webp"
+      "logo": "/assets/media/logos/ankara-metropolitan-municipality.webp",
+      "cardVideo": "/assets/media/cards/1002637856.mp4"
     },
     {
       "slug": "shusha-global-media-forum-branding",
@@ -3982,7 +3993,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/190370951/Shusha-Global-Media-Forum-Branding",
       "studio": "Element",
-      "logo": "/assets/media/logos/shusha-global-media-forum.webp"
+      "logo": "/assets/media/logos/shusha-global-media-forum.webp",
+      "cardVideo": "/assets/media/cards/927043401.mp4"
     },
     {
       "slug": "brand-identity-istanbul-2027",
@@ -4254,7 +4266,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/236894015/Brand-Identity-Istanbul-2027",
       "studio": "Element",
-      "logo": "/assets/media/logos/istanbul-2027.webp"
+      "logo": "/assets/media/logos/istanbul-2027.webp",
+      "cardVideo": "/assets/media/cards/1171815730.mp4"
     },
     {
       "slug": "packaging-sirab-sport-water",
@@ -4395,7 +4408,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/206425751/Packaging-Sirab-Sport-Water",
       "studio": "Element",
-      "logo": "/assets/media/logos/sirab.webp"
+      "logo": "/assets/media/logos/sirab.webp",
+      "cardVideo": "/assets/media/cards/1006116233.mp4"
     },
     {
       "slug": "be-group-brand-identity",
@@ -4596,7 +4610,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/253425137/BE-GROUP-Brand-Identity",
       "studio": "Element",
-      "logo": "/assets/media/logos/be-group.webp"
+      "logo": "/assets/media/logos/be-group.webp",
+      "cardVideo": "/assets/media/cards/1213910370.mp4"
     },
     {
       "slug": "packaging-sirab-soda",
@@ -4796,7 +4811,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda",
       "logo": "/assets/media/logos/sirab.webp",
-      "studio": "Element"
+      "studio": "Element",
+      "cardVideo": "/assets/media/cards/1228383383.mp4"
     },
     {
       "slug": "alive-coffee-packaging-3d-animation",
@@ -4948,7 +4964,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/229946545/Alive-Coffee-Packaging-3D-Animation",
       "studio": "",
-      "logo": "/assets/media/logos/alive.webp"
+      "logo": "/assets/media/logos/alive.webp",
+      "cardVideo": "/assets/media/cards/1099894402.mp4"
     },
     {
       "slug": "badamli-mineral-water-vintage-packaging",
@@ -5198,7 +5215,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/232123155/Badamli-Mineral-Water-Vintage-Packaging",
       "studio": "Element",
-      "logo": "/assets/media/logos/badamli.webp"
+      "logo": "/assets/media/logos/badamli.webp",
+      "cardVideo": "/assets/media/cards/1198391280.mp4"
     },
     {
       "slug": "sirab-niy-seviln-su",
@@ -5363,7 +5381,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/229462795/Sirab-Niy-Seviln-Su",
       "studio": "Element",
-      "logo": "/assets/media/logos/sirab.webp"
+      "logo": "/assets/media/logos/sirab.webp",
+      "cardVideo": "/assets/media/cards/1198390341.mp4"
     },
     {
       "slug": "brand-identity-lamina-dekor",
@@ -5636,7 +5655,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/223113601/Brand-Identity-Lamina-Dekor",
       "studio": "Element",
-      "logo": "/assets/media/logos/lamina-dekor.webp"
+      "logo": "/assets/media/logos/lamina-dekor.webp",
+      "cardVideo": "/assets/media/cards/1198390839.mp4"
     },
     {
       "slug": "turkic-week-in-geneva",
@@ -5852,7 +5872,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/221090663/Turkic-Week-in-Geneva",
       "studio": "Element",
-      "logo": "/assets/media/logos/turkic-week-in-geneva.webp"
+      "logo": "/assets/media/logos/turkic-week-in-geneva.webp",
+      "cardVideo": "/assets/media/cards/1066953749.mp4"
     },
     {
       "slug": "rebranding-lezzet-qida-senaye",
@@ -6181,7 +6202,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/207577561/Rebranding-Lezzet-Qida-Senaye",
       "studio": "Element",
-      "logo": "/assets/media/logos/lezzet.webp"
+      "logo": "/assets/media/logos/lezzet.webp",
+      "cardVideo": "/assets/media/cards/1023248442.mp4"
     },
     {
       "slug": "alive-skin-beauty-3d-product-rendering-animation",
@@ -6281,7 +6303,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/212662139/Alive-Skin-Beauty-3D-Product-Rendering-Animation",
       "studio": "",
-      "logo": "/assets/media/logos/alive.webp"
+      "logo": "/assets/media/logos/alive.webp",
+      "cardVideo": "/assets/media/cards/1030336653.mp4"
     },
     {
       "slug": "energy-drink-social-media-motions",
@@ -6481,7 +6504,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/200947255/Baku-Chess-Set-Gobustan-Edition",
       "studio": "Element",
-      "logo": "/assets/media/logos/baku-chess-set.webp"
+      "logo": "/assets/media/logos/baku-chess-set.webp",
+      "cardVideo": "/assets/media/cards/966419361.mp4"
     },
     {
       "slug": "social-media-motion-design",
@@ -6600,7 +6624,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/200078255/Social-Media-Motion-Design",
       "studio": "Element",
-      "logo": ""
+      "logo": "",
+      "cardVideo": "/assets/media/cards/833933442.mp4"
     },
     {
       "slug": "baku-chess-set-azerbaijan-carpet-edition",
@@ -7069,7 +7094,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/195404683/JUIZ-Branding",
       "studio": "Element",
-      "logo": "/assets/media/logos/juiz.webp"
+      "logo": "/assets/media/logos/juiz.webp",
+      "cardVideo": "/assets/media/cards/930167034.mp4"
     },
     {
       "slug": "goalaz-branding",
@@ -7296,7 +7322,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/185453323/Goalaz-Branding",
       "studio": "Element",
-      "logo": "/assets/media/logos/goalaz.webp"
+      "logo": "/assets/media/logos/goalaz.webp",
+      "cardVideo": "/assets/media/cards/905091432.mp4"
     },
     {
       "slug": "logo-animation-v2",
@@ -7362,7 +7389,8 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/189420189/Logo-Animation-V2",
-      "studio": ""
+      "studio": "",
+      "cardVideo": "/assets/media/cards/904598086.mp4"
     },
     {
       "slug": "lezzet-group-branding",
@@ -7628,7 +7656,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/184918463/Lezzet-Group-Branding",
       "studio": "Element",
-      "logo": "/assets/media/logos/lezzet-group.webp"
+      "logo": "/assets/media/logos/lezzet-group.webp",
+      "cardVideo": "/assets/media/cards/888597106.mp4"
     },
     {
       "slug": "tamstore-teaser-campaign",
@@ -7757,7 +7786,8 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/184575919/TAMStore-Teaser-Campaign",
-      "studio": "Element"
+      "studio": "Element",
+      "cardVideo": "/assets/media/cards/884684121.mp4"
     },
     {
       "slug": "1001-home-branding",
@@ -8109,7 +8139,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/181137229/1001-Home-Branding",
       "studio": "Element",
-      "logo": "/assets/media/logos/1001-home.webp"
+      "logo": "/assets/media/logos/1001-home.webp",
+      "cardVideo": "/assets/media/cards/869436064.mp4"
     },
     {
       "slug": "explainer-video-badamli",
@@ -8184,7 +8215,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/176530537/Explainer-Video-Badamli",
       "studio": "Element",
-      "logo": "/assets/media/logos/badamli.webp"
+      "logo": "/assets/media/logos/badamli.webp",
+      "cardVideo": "/assets/media/cards/849969153.mp4"
     },
     {
       "slug": "social-media-motion-buva",
@@ -8311,7 +8343,8 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/176103719/Social-Media-Motion-Buva",
       "studio": "Element",
-      "logo": "/assets/media/logos/buva.webp"
+      "logo": "/assets/media/logos/buva.webp",
+      "cardVideo": "/assets/media/cards/848288983.mp4"
     },
     {
       "slug": "bahar-kargo-branding",
@@ -8727,7 +8760,8 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/172487011/Logo-Animation-V1",
-      "studio": "Element"
+      "studio": "Element",
+      "cardVideo": "/assets/media/cards/833931319.mp4"
     },
     {
       "slug": "100th-anniversary-of-heydar-aliyev",

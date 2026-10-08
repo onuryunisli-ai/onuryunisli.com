@@ -92,7 +92,8 @@
   }
   /* Behance gif-ləri səssiz, təkrar oynayan video kimi saxlanılır:
      ad.mp4 + ad.webm + ad.jpg (ilk kadr). GIF-dən dəfələrlə yüngüldür. */
-  const LOCAL_CLIP = /^(\/assets\/media\/.+?)\.mp4$/i;
+  /* hero/ və cards/ adi mp4-dür (webm qardaşı yoxdur) */
+  const LOCAL_CLIP = /^(\/assets\/media\/(?!hero\/|cards\/).+?)\.mp4$/i;
   function gifVideo(src) {
     const parts = String(src || '').match(LOCAL_CLIP);
     if (!parts) return null;

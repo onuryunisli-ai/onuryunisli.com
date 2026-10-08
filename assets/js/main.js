@@ -89,6 +89,10 @@ const media = (src, poster = '', autoplay = false, type = '', alt = '') => {
     + `<source src="${escapeHTML(clip.webm)}" type="video/webm">`
     + `<source src="${escapeHTML(clip.mp4)}" type="video/mp4">`
     + `<img src="${escapeHTML(clip.poster)}" alt="${escapeHTML(alt || '')}" loading="lazy"></video>`;
+  /* kart filmi: /assets/media/cards/<id>.mp4 + <id>.jpg — kvadrat, səssiz, təkrar */
+  const card = url.match(/^(\/assets\/media\/cards\/[^/]+?)\.mp4$/i);
+  if (card) return `<video src="${escapeHTML(url)}" data-autoplay="${!!autoplay}" muted loop playsinline preload="none"`
+    + ` poster="${escapeHTML(card[1] + '.jpg')}" aria-label="${escapeHTML(alt || '')}"></video>`;
   const video = type === 'video' || (!type && isVideo(url));
   return video
     ? `<video src="${escapeHTML(url)}" data-autoplay="${!!autoplay}" muted loop playsinline preload="metadata"${cover ? ` poster="${escapeHTML(cover)}"` : ''}></video>`
@@ -369,7 +373,12 @@ function projectCard(p, idx, opts = {}) {
     if (!value || window.ProjectContent?.embed(value)) return value;
     return window.ProjectContent?.assetURL(value, '/') || value;
   };
-  const video = rb(p.video), poster = rb(p.poster);
+  /* cardVideo: Vimeo filminin kvadrat, 20 saniyəlik yerli nüsxəsi (GitHub-da);
+     layihə səhifəsi isə tam filmi (video) göstərməyə davam edir */
+  const cardId = String(p.cardVideo || '').match(/(\d+)\.mp4$/)?.[1];
+  /* CMS-də video dəyişsə köhnə yerli nüsxə avtomatik kənara çəkilir */
+  const localFilm = cardId && String(p.video || '').includes(`/video/${cardId}`) ? p.cardVideo : '';
+  const video = rb(localFilm || p.video), poster = rb(p.poster);
   const shots = (Array.isArray(p.shots) ? p.shots.map(rb) : []).filter(src => safeURL(src));
   /* embed: keep the pasted code, not the resolved URL — the size attributes
      in it are what makes the cover crop to a square for any video ratio */
@@ -907,7 +916,8 @@ function soloEmbeds() {
   const pick = () => {
     const middle = innerHeight / 2;
     let best = null, near = Infinity;
-    $$('.card iframe[data-embed-src]').forEach(frame => {
+    /* yerli kart filmi (mp4) yüngüldür, amma telefonda da eyni anda biri oynayır */
+    $$('.card iframe[data-embed-src], .card .fr video[data-autoplay="true"]').forEach(frame => {
       const box = frame.getBoundingClientRect();
       if (box.bottom < 0 || box.top > innerHeight) return;
       const gap = Math.abs(box.top + box.height / 2 - middle);
@@ -917,7 +927,8 @@ function soloEmbeds() {
     if (current) { drop(current); const was = current.closest('.card'); if (was) delete was.dataset.playing; }
     current = best;
     if (current) {
-      warmEmbed(current);
+      if (current.tagName === 'VIDEO') { current.preload = 'auto'; if (current.networkState === 0) current.load(); }
+      else warmEmbed(current);
       const card = current.closest('.card');
       if (card) card.dataset.playing = '1';
     }
@@ -1272,14 +1283,18 @@ function syncEmbeds() {
     if (state.playing === play) return;
     state.playing = play;
     // Serialize seeking and playback so fast slide changes cannot resume an old position.
+    /* Vimeo setCurrentTime(0) artıq 0-da olan pleyerdə bəzən heç cavab vermir;
+       zəncir ilişib qalmasın deyə hər addımın vaxt həddi var */
+    const settle = (fn, ms = 1500) => Promise.race([
+      Promise.resolve().then(fn).catch(() => {}), new Promise(r => setTimeout(r, ms))]);
     state.operation = (state.operation || Promise.resolve()).catch(() => {}).then(async () => {
       if (state.playing !== play) return;
       if (play) {
-        if (!state.warming) await state.seekStart();
-        if (state.playing) await state.play();
+        if (!state.warming) await settle(state.seekStart);
+        if (state.playing) await settle(state.play, 4000);
       } else {
-        await state.pause();
-        await state.seekStart();
+        await settle(state.pause);
+        await settle(state.seekStart);
       }
     }).catch(() => { state.playing = null; });
   });
@@ -1360,5 +1375,5 @@ function observeEmbeds() {
 settings(); projectPage(); postPage(); hero(); heroLite();
 grid(); latest(); postGrid(); postFilters(); contact(); contactForm(); portrait(); clients();
 scrub(); filters(); loadMore(); coverVideos(); observeEmbeds(); justifyRows();
-reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle(); pageFilms(); outside();
+reveal(); navDot(); navBar(); magnet(); ink(); elementLogo(); wordmark(); autoCycle(); soloEmbeds(); pageFilms(); outside();
 })();
