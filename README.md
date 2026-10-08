@@ -118,7 +118,7 @@ backend, database, upload integration or authentication has been implemented yet
   draft/publish status, and media metadata (Cloudinary public ID, resource type,
   delivery URL and alt text). These are not a database schema yet.
 
-GitHub will store source code; Cloudinary will store media. A backend/database
+GitHub stores both the code and the media (`assets/media/`, served by GitHub Pages). A backend/database
 and hosting will be chosen later. Cloudinary API secrets must stay on the server,
 never in `content.js` or committed to GitHub. Draft data must not be sent in the
 public site's content payload.

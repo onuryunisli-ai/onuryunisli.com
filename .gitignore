@@ -5,15 +5,15 @@
 _cms/
 .cms/
 
-# lokal media — hər şey Cloudinary-dən gəlir
-assets/uploads/
-*.mp4
-*.mov
-
 # köhnə arxiv
 onuryunisli-site.zip
 
 node_modules/
 __pycache__/
+
+# lisenziyalı şriftlərin mənbə faylları (saytda yalnız woff2 işlənir)
 gotham/
 aeonik-font/
+
+# Media artıq repo-dadır: assets/media/ və assets/uploads/ göndərilir.
+# Tək fayl 100 MB-ı keçməsin — GitHub onu qəbul etmir.

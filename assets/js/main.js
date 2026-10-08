@@ -84,16 +84,24 @@ const media = (src, poster = '', autoplay = false, type = '', alt = '') => {
   if (!url) return '';
   if (parsedEmbed && parsedEmbed.interactive) return '';
   const clip = window.ProjectContent?.gifVideo?.(url);
-  if (clip) return `<video data-autoplay="${!!autoplay}" muted loop playsinline preload="metadata"`
-    + `${cover ? ` poster="${escapeHTML(cover)}"` : ''} aria-label="${escapeHTML(alt || '')}">`
+  if (clip) return `<video data-autoplay="${!!autoplay}" muted loop playsinline preload="none"`
+    + ` poster="${escapeHTML(cover || clip.poster)}" aria-label="${escapeHTML(alt || '')}">`
     + `<source src="${escapeHTML(clip.webm)}" type="video/webm">`
     + `<source src="${escapeHTML(clip.mp4)}" type="video/mp4">`
-    + `<img src="${escapeHTML(url)}" alt="${escapeHTML(alt || '')}" loading="lazy"></video>`;
+    + `<img src="${escapeHTML(clip.poster)}" alt="${escapeHTML(alt || '')}" loading="lazy"></video>`;
   const video = type === 'video' || (!type && isVideo(url));
   return video
     ? `<video src="${escapeHTML(url)}" data-autoplay="${!!autoplay}" muted loop playsinline preload="metadata"${cover ? ` poster="${escapeHTML(cover)}"` : ''}></video>`
-    : `<img src="${escapeHTML(url)}" alt="${escapeHTML(alt)}" loading="lazy">`;
+    : picture(url, alt, CARD_SIZES);
 };
+/* kartlar: telefonda tək sütun, planşetdə iki, masaüstündə üç */
+const CARD_SIZES = '(max-width:640px) 100vw, (max-width:1000px) 50vw, 34vw';
+function picture(url, alt = '', sizes = '', extra = '') {
+  const fit = window.ProjectContent?.sized?.(url);
+  return fit
+    ? `<img src="${escapeHTML(fit.src)}" srcset="${escapeHTML(fit.srcset)}" sizes="${escapeHTML(sizes || '100vw')}" alt="${escapeHTML(alt)}" loading="lazy" decoding="async"${extra}>`
+    : `<img src="${escapeHTML(url)}" alt="${escapeHTML(alt)}" loading="lazy" decoding="async"${extra}>`;
+}
 
 
 /* ══ PROJECT DETAIL ════════════════════════════════════════════ */
@@ -118,14 +126,18 @@ function projectPage() {
     const count = ++ordinal;
     const src = safeURL(asset.src), poster = safeURL(asset.poster);
     const aspect = ['wide','square','portrait','natural'].includes(shape) ? shape : 'wide';
-    const isFilm = asset.type === 'video' || (!asset.type && isVideo(src));
+    const isClip = !!window.ProjectContent?.gifVideo?.(src);
+    const isFilm = !isClip && (asset.type === 'video' || (!asset.type && isVideo(src)));
     let visual;
-    if (src && isFilm) {
+    if (src && isClip) {
+      visual = media(src, '', true, '', asset.alt || p.title);
+    } else if (src && isFilm) {
       // Detail films have native playback controls, including sound/fullscreen.
       // Unlike thumbnail loops, these are not managed by coverVideos().
       visual = `<video src="${escapeHTML(src)}"${poster ? ` poster="${escapeHTML(poster)}"` : ''} controls playsinline preload="metadata" aria-label="${escapeHTML(asset.alt || p.title)}"></video>`;
     } else if (src) {
-      visual = `<img src="${escapeHTML(src)}" alt="${escapeHTML(asset.alt || p.title)}" loading="${priority ? 'eager' : 'lazy'}"${priority ? ' fetchpriority="high"' : ''} decoding="async">`;
+      const fit = window.ProjectContent?.sized?.(src);
+      visual = `<img src="${escapeHTML(fit ? fit.src : src)}"${fit ? ` srcset="${escapeHTML(fit.srcset)}" sizes="(max-width:1500px) 100vw, 1400px"` : ''} alt="${escapeHTML(asset.alt || p.title)}" loading="${priority ? 'eager' : 'lazy'}"${priority ? ' fetchpriority="high"' : ''} decoding="async">`;
     } else {
       visual = `<div class="case-placeholder" role="img" aria-label="${escapeHTML(p.client)} — visual placeholder">${plate(index, 1600, aspect === 'portrait' ? 2000 : aspect === 'square' ? 1600 : 1000, (count - 1) % 5)}<span class="case-placeholder-mark" aria-hidden="true">${escapeHTML(p.initials)}</span><span class="case-placeholder-note mono" aria-hidden="true">${String(count).padStart(2,'0')} / ${escapeHTML(p.client)}</span></div>`;
     }
@@ -355,7 +367,7 @@ function projectCard(p, idx, opts = {}) {
   const initials = (words.length > 1 ? words.slice(0, 2).map(w => w[0]).join('')
                                      : (words[0] || '').slice(0, 2)).toUpperCase();
   const logoMark = logoSrc
-    ? `<img src="${escapeHTML(logoSrc)}" alt="${escapeHTML(p.client || '')}" loading="lazy">`
+    ? `<img src="${escapeHTML(window.ProjectContent?.sized?.(logoSrc)?.small || logoSrc)}" alt="${escapeHTML(p.client || '')}" loading="lazy" decoding="async">`
     : escapeHTML(initials);
   const frames = sources.map((src, k) => {
     const videoCover = k === 0 && !!(window.ProjectContent?.embed(video) || safeURL(video));

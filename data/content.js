@@ -76,16 +76,10 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1228423392?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
+      "poster": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832103/onuryunisli/jmcoka7zku58lvxheev9.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789831887/onuryunisli/wu7boc4bhldhhvvolyfi.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832106/onuryunisli/jv5hxjaconwsbwn3gnqy.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832161/onuryunisli/fopfgvhi0orrh5kb2v09.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832028/onuryunisli/czole4a3xueipfewqs0e.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832166/onuryunisli/tmdcwatpknv3bdaodytm.png"
+        "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -98,7 +92,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, sky and sunset",
               "caption": ""
@@ -120,7 +114,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/b3gxxvck52zagrmwjqle.png",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/b3gxxvck52zagrmwjqle.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -135,7 +129,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820382/onuryunisli/work/dnc3ske9kt0rledfx47n.jpg",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/dnc3ske9kt0rledfx47n.webp",
               "type": "image",
               "alt": "Image may contain: painting",
               "caption": ""
@@ -150,7 +144,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/yulihcsgcvqtbjvmm8bt.jpg",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/yulihcsgcvqtbjvmm8bt.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -160,7 +154,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/nvvpx8jkkuctv0hiwljw.gif",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/nvvpx8jkkuctv0hiwljw.webp",
               "type": "image",
               "alt": "Image may contain: person, outdoor and clothing",
               "caption": ""
@@ -175,7 +169,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/crqxmvuhvrsrmialwgpx.jpg",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/crqxmvuhvrsrmialwgpx.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -185,7 +179,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820382/onuryunisli/work/prk69pmmzv65e7nhdobl.jpg",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/prk69pmmzv65e7nhdobl.webp",
               "type": "image",
               "alt": "Image may contain: footwear",
               "caption": ""
@@ -196,13 +190,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/qlmaugojvwhpygmmcafl.jpg",
+                "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/qlmaugojvwhpygmmcafl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820380/onuryunisli/work/e1pf40odjfsp8gfl1j0e.png",
+                "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/e1pf40odjfsp8gfl1j0e.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -215,7 +209,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820380/onuryunisli/work/pf28pzbsocuutsbuer9l.png",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/pf28pzbsocuutsbuer9l.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -225,7 +219,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820381/onuryunisli/work/ldlfspftoudi0bov0dam.png",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/ldlfspftoudi0bov0dam.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -235,7 +229,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820381/onuryunisli/work/j2wjrvwg8awqodt3tzvh.jpg",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/j2wjrvwg8awqodt3tzvh.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -245,7 +239,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820381/onuryunisli/work/eto5xmo7oknzrdw9d7ar.gif",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/eto5xmo7oknzrdw9d7ar.webp",
               "type": "image",
               "alt": "Image may contain: tree, outdoor and sign",
               "caption": ""
@@ -261,7 +255,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/247281873/AzerGold-10th-Anniversary-Brand-Identity",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789853978/onuryunisli/ciafb1qbz0abioheiqc0.png"
+      "logo": "/assets/media/logos/azergold.webp"
     },
     {
       "slug": "sirab-brand-identity-packaging",
@@ -279,16 +273,12 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198390347?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
+      "poster": "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/hn5kgrydm1lyd5ds2agx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832545/onuryunisli/lxztpmmwakclbxkq4j9d.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832506/onuryunisli/uf0hb19oyailigxm8w2w.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832511/onuryunisli/irludqbqwifzaan3gf5g.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/xvymhphfkiesojcpjoqg.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789832517/onuryunisli/outvdviwjsl3yhx3walz.png"
+        "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
+        "/assets/media/work/sirab-brand-identity-packaging/hn5kgrydm1lyd5ds2agx.webp",
+        "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -301,7 +291,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
               "type": "image",
               "alt": "Image may contain: bottle, soft drink and drink",
               "caption": ""
@@ -323,7 +313,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/zosaeufgenzxz9hyg7ry.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/zosaeufgenzxz9hyg7ry.webp",
               "type": "image",
               "alt": "Image may contain: cartoon and illustration",
               "caption": ""
@@ -358,7 +348,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/yymvknz2busdvetv9h1m.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/yymvknz2busdvetv9h1m.webp",
               "type": "image",
               "alt": "Image may contain: bottle, indoor and drink",
               "caption": ""
@@ -373,7 +363,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/jfsxypzw2b7abwrqwqid.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/jfsxypzw2b7abwrqwqid.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drink and soft drink",
               "caption": ""
@@ -388,7 +378,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/bshromrnhxfpiuh03u0z.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/bshromrnhxfpiuh03u0z.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, road and truck",
               "caption": ""
@@ -408,7 +398,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820494/onuryunisli/work/hn5kgrydm1lyd5ds2agx.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/hn5kgrydm1lyd5ds2agx.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, sky and building",
               "caption": ""
@@ -428,7 +418,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/xvymhphfkiesojcpjoqg.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp",
               "type": "image",
               "alt": "Image may contain: tree and outdoor",
               "caption": ""
@@ -443,7 +433,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820490/onuryunisli/work/vbgqpack0fw9x8mxyc3g.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/vbgqpack0fw9x8mxyc3g.webp",
               "type": "image",
               "alt": "Image may contain: bottle, water and plastic bottle",
               "caption": ""
@@ -453,7 +443,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/gmnt3cvejhkuo2ka8lcb.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/gmnt3cvejhkuo2ka8lcb.webp",
               "type": "image",
               "alt": "Image may contain: cup",
               "caption": ""
@@ -463,7 +453,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820496/onuryunisli/work/exwbwtoew8sk4qxxrfn1.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/exwbwtoew8sk4qxxrfn1.webp",
               "type": "image",
               "alt": "Image may contain: soft drink, bottle and drink",
               "caption": ""
@@ -484,7 +474,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/odmdlkubashtbtwntgh3.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/odmdlkubashtbtwntgh3.webp",
               "type": "image",
               "alt": "Image may contain: electronics",
               "caption": ""
@@ -499,7 +489,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/fotb6n13rqenolyudef7.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/fotb6n13rqenolyudef7.webp",
               "type": "image",
               "alt": "Image may contain: sky, alcohol and drink",
               "caption": ""
@@ -509,7 +499,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820500/onuryunisli/work/ehghjikwhskf9wdhlyzo.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/ehghjikwhskf9wdhlyzo.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -519,7 +509,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820501/onuryunisli/work/s6ygrrmm2ujglsh91fly.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/s6ygrrmm2ujglsh91fly.webp",
               "type": "image",
               "alt": "Image may contain: grass and cartoon",
               "caption": ""
@@ -529,7 +519,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820501/onuryunisli/work/fltoazuotzq9tosa1mq7.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/fltoazuotzq9tosa1mq7.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -539,7 +529,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820497/onuryunisli/work/cn5tokpltxdd8hblk1tv.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/cn5tokpltxdd8hblk1tv.webp",
               "type": "image",
               "alt": "Image may contain: road, truck and green",
               "caption": ""
@@ -549,7 +539,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820497/onuryunisli/work/i8drrzo5rumotnb1igfn.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/i8drrzo5rumotnb1igfn.webp",
               "type": "image",
               "alt": "Image may contain: hat, fashion accessory and sun hat",
               "caption": ""
@@ -559,7 +549,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820498/onuryunisli/work/ytpxg6mrofhlteyttuhh.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/ytpxg6mrofhlteyttuhh.webp",
               "type": "image",
               "alt": "Image may contain: electronics, screenshot and circuit",
               "caption": ""
@@ -569,7 +559,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820498/onuryunisli/work/xcd9nt9jueoyvcb24u3i.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/xcd9nt9jueoyvcb24u3i.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, print and businesscard",
               "caption": ""
@@ -606,7 +596,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820505/onuryunisli/work/kmzaql4zrx5if3h5nwne.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/kmzaql4zrx5if3h5nwne.webp",
               "type": "image",
               "alt": "Image may contain: building, billboard and outdoor",
               "caption": ""
@@ -616,7 +606,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820499/onuryunisli/work/quadeaahtckevwu2tcnt.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/quadeaahtckevwu2tcnt.webp",
               "type": "image",
               "alt": "Image may contain: vehicle, land vehicle and car",
               "caption": ""
@@ -626,7 +616,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820505/onuryunisli/work/e2jdfii5hgl6scyp6pba.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/e2jdfii5hgl6scyp6pba.webp",
               "type": "image",
               "alt": "Image may contain: table, green and indoor",
               "caption": ""
@@ -636,7 +626,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820505/onuryunisli/work/ylzoftbf7o7ygzf8h8zz.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/ylzoftbf7o7ygzf8h8zz.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, tree and ground",
               "caption": ""
@@ -646,7 +636,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820502/onuryunisli/work/asi9agt9de9nh19zvph3.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/asi9agt9de9nh19zvph3.webp",
               "type": "image",
               "alt": "Image may contain: person, clothing and green",
               "caption": ""
@@ -656,7 +646,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820507/onuryunisli/work/rox5wfokkf7yrpwnlhke.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/rox5wfokkf7yrpwnlhke.webp",
               "type": "image",
               "alt": "Image may contain: sky, tree and outdoor",
               "caption": ""
@@ -666,7 +656,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820508/onuryunisli/work/dqdtw0u7et3ksh3dpouz.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/dqdtw0u7et3ksh3dpouz.webp",
               "type": "image",
               "alt": "Image may contain: cup, coffee and indoor",
               "caption": ""
@@ -677,7 +667,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/222636877/SIRAB-Brand-Identity-Packaging",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854005/onuryunisli/r8ctnb4qsxymmwkfadni.png"
+      "logo": "/assets/media/logos/sirab.webp"
     },
     {
       "slug": "badamli-mineral-water-packaging-design",
@@ -694,16 +684,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/813545258?h=5cf9fb2487&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
+      "poster": "/assets/media/work/badamli-mineral-water-packaging-design/z2g0xd3buv0jtarfu6xy.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/swows5qixouhzhvx9pt3.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/vtaki0i9hxwduw1bdtfx.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/os0ojc0wlbtutkbgoqzp.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/zvrvtv2r9jytpptazkay.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/msfuy0akbogfllyp8z5g.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/da6iukk9vhnge7ac5taw.jpg"
+        "/assets/media/work/badamli-mineral-water-packaging-design/z2g0xd3buv0jtarfu6xy.webp",
+        "/assets/media/work/badamli-mineral-water-packaging-design/swows5qixouhzhvx9pt3.webp",
+        "/assets/media/work/badamli-mineral-water-packaging-design/vtaki0i9hxwduw1bdtfx.webp",
+        "/assets/media/work/badamli-mineral-water-packaging-design/os0ojc0wlbtutkbgoqzp.webp",
+        "/assets/media/work/badamli-mineral-water-packaging-design/zvrvtv2r9jytpptazkay.webp",
+        "/assets/media/work/badamli-mineral-water-packaging-design/msfuy0akbogfllyp8z5g.webp",
+        "/assets/media/work/badamli-mineral-water-packaging-design/da6iukk9vhnge7ac5taw.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -716,7 +706,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/z2g0xd3buv0jtarfu6xy.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/z2g0xd3buv0jtarfu6xy.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drinking water and beverage",
               "caption": ""
@@ -738,7 +728,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/swows5qixouhzhvx9pt3.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/swows5qixouhzhvx9pt3.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -749,19 +739,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/jjhuyezkoivv2tsboc0m.png",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/jjhuyezkoivv2tsboc0m.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/xcoop8drvbxag0qfwrol.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/xcoop8drvbxag0qfwrol.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821555/onuryunisli/work/yl3jhzzlunvnehvx4cre.png",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/yl3jhzzlunvnehvx4cre.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -779,7 +769,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821552/onuryunisli/work/vtaki0i9hxwduw1bdtfx.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/vtaki0i9hxwduw1bdtfx.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -790,25 +780,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/d32vkpcjjbobfu7mzrtw.png",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/d32vkpcjjbobfu7mzrtw.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/ze3vpvxbpd8gqsv1aiya.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/ze3vpvxbpd8gqsv1aiya.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/kuommnqy5y9mjy0dhrlm.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/kuommnqy5y9mjy0dhrlm.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/ndtvnqssbumfdlvrdn0p.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/ndtvnqssbumfdlvrdn0p.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -821,7 +811,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821553/onuryunisli/work/os0ojc0wlbtutkbgoqzp.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/os0ojc0wlbtutkbgoqzp.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -831,7 +821,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/zvrvtv2r9jytpptazkay.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/zvrvtv2r9jytpptazkay.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -841,7 +831,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/msfuy0akbogfllyp8z5g.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/msfuy0akbogfllyp8z5g.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -852,13 +842,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/uhuhgbzoqhqhmi9arcy2.png",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/uhuhgbzoqhqhmi9arcy2.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/fdasriluaxf09z2hlpnd.png",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/fdasriluaxf09z2hlpnd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -871,7 +861,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821554/onuryunisli/work/da6iukk9vhnge7ac5taw.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/da6iukk9vhnge7ac5taw.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -882,19 +872,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821555/onuryunisli/work/dgwv4ymqx2kehtzy10iu.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/dgwv4ymqx2kehtzy10iu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/wcofii9icwjhmz8svck7.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/wcofii9icwjhmz8svck7.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/p2kykybwqa8n3mw70zsj.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/p2kykybwqa8n3mw70zsj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -907,7 +897,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/m2gwibgnqwnj6c0klw2f.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/m2gwibgnqwnj6c0klw2f.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -918,25 +908,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821556/onuryunisli/work/sgdzxbkwt7e8v3muigc6.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/sgdzxbkwt7e8v3muigc6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/ryef2gkrngxng14mbjaa.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/ryef2gkrngxng14mbjaa.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/o6isw7ltdr2wmfadnuk0.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/o6isw7ltdr2wmfadnuk0.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/oeoz3dcjdppjh9c6eyvp.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/oeoz3dcjdppjh9c6eyvp.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -949,7 +939,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/oiivrqbmbdwpov7nzw0z.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/oiivrqbmbdwpov7nzw0z.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -960,13 +950,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821558/onuryunisli/work/gzuucmdwuunnvcltc1tx.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/gzuucmdwuunnvcltc1tx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821557/onuryunisli/work/os9kdbtdhavcqosvme8u.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-packaging-design/os9kdbtdhavcqosvme8u.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -979,7 +969,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821558/onuryunisli/work/eexm4rsdushjs3if75yb.gif",
+              "src": "/assets/media/work/badamli-mineral-water-packaging-design/eexm4rsdushjs3if75yb.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -990,7 +980,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/167317263/Badamli-Mineral-Water-Packaging-Design",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854020/onuryunisli/dohyo7wfomh9xk2hf8c4.png"
+      "logo": "/assets/media/logos/badamli.webp"
     },
     {
       "slug": "turkish-petroleum-baku-2026-exhibition-stand",
@@ -1007,16 +997,12 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1208313788?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+      "poster": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834338/onuryunisli/urrivedkdtatrbf2mbpx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834340/onuryunisli/j1nkcuwg70m2kp1i5krx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834343/onuryunisli/axpzyue1czyna87uwzja.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789834345/onuryunisli/hurpwcewnzk9fdl2fmkp.png"
+        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
+        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/axgrncsgbiiotsarmm06.webp",
+        "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/krd2xxiwlgohhg1m0fdb.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1034,7 +1020,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
               "type": "image",
               "alt": "Image may contain: clothing, man and billboard",
               "caption": ""
@@ -1051,7 +1037,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/rpiojvhumjemntqxx0h5.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/rpiojvhumjemntqxx0h5.webp",
               "type": "image",
               "alt": "Image may contain: suit, clothing and man",
               "caption": ""
@@ -1066,7 +1052,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/ezxidqhwzvui0hyzfrww.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/ezxidqhwzvui0hyzfrww.webp",
               "type": "image",
               "alt": "Image may contain: clothing, person and footwear",
               "caption": ""
@@ -1076,7 +1062,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/tl0vvs7kg3f8beknuubs.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/tl0vvs7kg3f8beknuubs.webp",
               "type": "image",
               "alt": "Image may contain: clothing, person and building",
               "caption": ""
@@ -1086,7 +1072,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/catfdfjzsb19iaiwdcnl.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/catfdfjzsb19iaiwdcnl.webp",
               "type": "image",
               "alt": "Image may contain: building, clothing and person",
               "caption": ""
@@ -1096,7 +1082,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/axgrncsgbiiotsarmm06.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -1107,13 +1093,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/gf4lmjikxqukz9xha1eh.png",
+                "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/gf4lmjikxqukz9xha1eh.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/yt4aoo9vkxsijjjgzigo.png",
+                "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/yt4aoo9vkxsijjjgzigo.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1126,7 +1112,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/krd2xxiwlgohhg1m0fdb.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/krd2xxiwlgohhg1m0fdb.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, exhibition and billboard",
               "caption": ""
@@ -1141,7 +1127,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/ztas9cs7ad60nyfi6wjw.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/ztas9cs7ad60nyfi6wjw.webp",
               "type": "image",
               "alt": "Image may contain: furniture, vase and coffee table",
               "caption": ""
@@ -1157,13 +1143,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/qbxp4mr7vk8weonxizfe.png",
+                "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/qbxp4mr7vk8weonxizfe.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820486/onuryunisli/work/ilh7wqbabu2jedina0um.png",
+                "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/ilh7wqbabu2jedina0um.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1177,13 +1163,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/sabosrcdfot9kuiishdu.png",
+                "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/sabosrcdfot9kuiishdu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/jpy58mrd5zfauorcvcaa.png",
+                "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/jpy58mrd5zfauorcvcaa.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1212,7 +1198,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/zjlf47ke767i3hp9ion8.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/zjlf47ke767i3hp9ion8.webp",
               "type": "image",
               "alt": "Image may contain: sign and person",
               "caption": ""
@@ -1222,7 +1208,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820487/onuryunisli/work/naww05iaehmxxls1cs4b.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/naww05iaehmxxls1cs4b.webp",
               "type": "image",
               "alt": "Image may contain: clothing, table and furniture",
               "caption": ""
@@ -1233,7 +1219,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/251377447/Turkish-Petroleum-Baku-2026-Exhibition-Stand",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854034/onuryunisli/vkr4uwsn58gjf1qvp6xt.png"
+      "logo": "/assets/media/logos/turkish-petroleum-en.webp"
     },
     {
       "slug": "azvirt-rebranding",
@@ -1248,16 +1234,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/996535649?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+      "poster": "/assets/media/work/azvirt-rebranding/hzfhlacddguhqtl03y5j.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/bqegsqly7tbsty5r9i1r.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/szndgyarqtlseigsvupd.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/vvoefhkiojgpggmjswim.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/rxtnnhndlvavraliwjxi.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/i3xxwhjon4xewouzhcsy.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/uqinutjqisc8amlc36o9.png"
+        "/assets/media/work/azvirt-rebranding/hzfhlacddguhqtl03y5j.webp",
+        "/assets/media/work/azvirt-rebranding/bqegsqly7tbsty5r9i1r.webp",
+        "/assets/media/work/azvirt-rebranding/szndgyarqtlseigsvupd.webp",
+        "/assets/media/work/azvirt-rebranding/vvoefhkiojgpggmjswim.webp",
+        "/assets/media/work/azvirt-rebranding/rxtnnhndlvavraliwjxi.webp",
+        "/assets/media/work/azvirt-rebranding/i3xxwhjon4xewouzhcsy.webp",
+        "/assets/media/work/azvirt-rebranding/uqinutjqisc8amlc36o9.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1282,7 +1268,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/hzfhlacddguhqtl03y5j.png",
+              "src": "/assets/media/work/azvirt-rebranding/hzfhlacddguhqtl03y5j.webp",
               "type": "image",
               "alt": "Image may contain: abstract",
               "caption": ""
@@ -1299,7 +1285,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/bqegsqly7tbsty5r9i1r.png",
+              "src": "/assets/media/work/azvirt-rebranding/bqegsqly7tbsty5r9i1r.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, vehicle and land vehicle",
               "caption": ""
@@ -1310,7 +1296,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821591/onuryunisli/work/tcsq8d7tvwe7x9vzsvko.jpg",
+                "src": "/assets/media/work/azvirt-rebranding/tcsq8d7tvwe7x9vzsvko.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1323,7 +1309,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/szndgyarqtlseigsvupd.png",
+              "src": "/assets/media/work/azvirt-rebranding/szndgyarqtlseigsvupd.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and vehicle",
               "caption": ""
@@ -1338,7 +1324,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821589/onuryunisli/work/vvoefhkiojgpggmjswim.png",
+              "src": "/assets/media/work/azvirt-rebranding/vvoefhkiojgpggmjswim.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -1348,7 +1334,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821590/onuryunisli/work/rxtnnhndlvavraliwjxi.png",
+              "src": "/assets/media/work/azvirt-rebranding/rxtnnhndlvavraliwjxi.webp",
               "type": "image",
               "alt": "Image may contain: person, outdoor and sky",
               "caption": ""
@@ -1358,7 +1344,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/i3xxwhjon4xewouzhcsy.png",
+              "src": "/assets/media/work/azvirt-rebranding/i3xxwhjon4xewouzhcsy.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and ship",
               "caption": ""
@@ -1368,7 +1354,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/uqinutjqisc8amlc36o9.png",
+              "src": "/assets/media/work/azvirt-rebranding/uqinutjqisc8amlc36o9.webp",
               "type": "image",
               "alt": "Image may contain: tree, outdoor and screenshot",
               "caption": ""
@@ -1378,7 +1364,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/u13ssexxygjzffgfbade.png",
+              "src": "/assets/media/work/azvirt-rebranding/u13ssexxygjzffgfbade.webp",
               "type": "image",
               "alt": "Image may contain: building",
               "caption": ""
@@ -1388,7 +1374,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/ofecm3jwjr6h7cbzxmhx.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/ofecm3jwjr6h7cbzxmhx.webp",
               "type": "image",
               "alt": "Image may contain: sky, screenshot and vehicle",
               "caption": ""
@@ -1399,13 +1385,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821593/onuryunisli/work/akeni50tjymgebpdovzc.png",
+                "src": "/assets/media/work/azvirt-rebranding/akeni50tjymgebpdovzc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821595/onuryunisli/work/xdyiy3rt7yweris59qph.jpg",
+                "src": "/assets/media/work/azvirt-rebranding/xdyiy3rt7yweris59qph.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1423,7 +1409,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/estkcpg94vms3laypnak.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/estkcpg94vms3laypnak.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, transport and outdoor",
               "caption": ""
@@ -1434,7 +1420,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/f1mnufmqnz1qa9ybtefr.jpg",
+                "src": "/assets/media/work/azvirt-rebranding/f1mnufmqnz1qa9ybtefr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1447,7 +1433,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/fmqbinsftsdlhbvobjz6.png",
+              "src": "/assets/media/work/azvirt-rebranding/fmqbinsftsdlhbvobjz6.webp",
               "type": "image",
               "alt": "Image may contain: person, man and orange",
               "caption": ""
@@ -1457,7 +1443,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821596/onuryunisli/work/w5llnhrln4swq9sntgrx.png",
+              "src": "/assets/media/work/azvirt-rebranding/w5llnhrln4swq9sntgrx.webp",
               "type": "image",
               "alt": "Image may contain: cartoon and screenshot",
               "caption": ""
@@ -1467,7 +1453,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821597/onuryunisli/work/cv7ug7ko6miglvjl7byx.png",
+              "src": "/assets/media/work/azvirt-rebranding/cv7ug7ko6miglvjl7byx.webp",
               "type": "image",
               "alt": "Image may contain: cartoon and screenshot",
               "caption": ""
@@ -1477,7 +1463,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821602/onuryunisli/work/jn7o3xu0rilz5mnjbn1j.png",
+              "src": "/assets/media/work/azvirt-rebranding/jn7o3xu0rilz5mnjbn1j.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and cartoon",
               "caption": ""
@@ -1487,7 +1473,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821602/onuryunisli/work/mfuemcvwnp3ejjlyxalx.png",
+              "src": "/assets/media/work/azvirt-rebranding/mfuemcvwnp3ejjlyxalx.webp",
               "type": "image",
               "alt": "Image may contain: outdoor",
               "caption": ""
@@ -1497,7 +1483,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821603/onuryunisli/work/wf0qlxhxsrunbnnjb98v.png",
+              "src": "/assets/media/work/azvirt-rebranding/wf0qlxhxsrunbnnjb98v.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and flag",
               "caption": ""
@@ -1507,7 +1493,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821598/onuryunisli/work/sww8lhggiurjdaqgj099.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/sww8lhggiurjdaqgj099.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -1517,7 +1503,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/z4mwqjyvk6tnboysunk7.png",
+              "src": "/assets/media/work/azvirt-rebranding/z4mwqjyvk6tnboysunk7.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -1528,7 +1514,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/o8eno5cv8o7vik4seszi.jpg",
+                "src": "/assets/media/work/azvirt-rebranding/o8eno5cv8o7vik4seszi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1541,7 +1527,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821599/onuryunisli/work/djn89zzyj8op7wasqw97.png",
+              "src": "/assets/media/work/azvirt-rebranding/djn89zzyj8op7wasqw97.webp",
               "type": "image",
               "alt": "Image may contain: hat, umbrella and fashion accessory",
               "caption": ""
@@ -1551,7 +1537,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821603/onuryunisli/work/fvyorxotwsqmokenz4sw.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/fvyorxotwsqmokenz4sw.webp",
               "type": "image",
               "alt": "Image may contain: necktie",
               "caption": ""
@@ -1568,7 +1554,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821600/onuryunisli/work/h5moxd7lbg8jcf1awvd3.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/h5moxd7lbg8jcf1awvd3.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, yellow and fashion accessory",
               "caption": ""
@@ -1578,7 +1564,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821601/onuryunisli/work/yox6uwpvo85qev63tlfr.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/yox6uwpvo85qev63tlfr.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -1588,7 +1574,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821604/onuryunisli/work/jq2b9jsv2mnb6p5jazfm.jpg",
+              "src": "/assets/media/work/azvirt-rebranding/jq2b9jsv2mnb6p5jazfm.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -1604,7 +1590,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/205164583/AZVIRT-Rebranding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854049/onuryunisli/l8rltbcmyto7ddczkqct.png"
+      "logo": "/assets/media/logos/azvirt.webp"
     },
     {
       "slug": "baku-resort-spa-hotel-brand-identity",
@@ -1620,16 +1606,13 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+      "poster": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/iolc2g28p5vdgfnzhq03.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789838934/onuryunisli/hsvhnhbryrfgiumnchlw.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789838923/onuryunisli/urufdfw0mylytgjzywho.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ke31xgyfnur0x1rctkk7.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789838912/onuryunisli/osgousnbnndexblzexji.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/m6vfhr6xe4rw4lawli2c.png"
+        "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
+        "/assets/media/work/baku-resort-spa-hotel-brand-identity/iolc2g28p5vdgfnzhq03.webp",
+        "/assets/media/work/baku-resort-spa-hotel-brand-identity/ke31xgyfnur0x1rctkk7.webp",
+        "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6vfhr6xe4rw4lawli2c.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1654,7 +1637,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
               "type": "image",
               "alt": "Image may contain: door, architecture and facade",
               "caption": ""
@@ -1664,7 +1647,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/iolc2g28p5vdgfnzhq03.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/iolc2g28p5vdgfnzhq03.webp",
               "type": "image",
               "alt": "Image may contain: metal, font and sign",
               "caption": ""
@@ -1674,7 +1657,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ke31xgyfnur0x1rctkk7.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ke31xgyfnur0x1rctkk7.webp",
               "type": "image",
               "alt": "Image may contain: houseplant, vase and wall",
               "caption": ""
@@ -1684,7 +1667,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/m6vfhr6xe4rw4lawli2c.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6vfhr6xe4rw4lawli2c.webp",
               "type": "image",
               "alt": "Image may contain: interior design, indoor and furniture",
               "caption": ""
@@ -1694,7 +1677,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/ejv4imjb8uyixz2g82vv.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ejv4imjb8uyixz2g82vv.webp",
               "type": "image",
               "alt": "Image may contain: book, pen and handwriting",
               "caption": ""
@@ -1704,7 +1687,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820448/onuryunisli/work/amci4wgyx4xwfcggrcyt.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/amci4wgyx4xwfcggrcyt.webp",
               "type": "image",
               "alt": "Image may contain: accessory, fashion accessory and umbrella",
               "caption": ""
@@ -1714,7 +1697,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/m6b2xptf0vdheexec7s6.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/m6b2xptf0vdheexec7s6.webp",
               "type": "image",
               "alt": "Image may contain: furniture, houseplant and couch",
               "caption": ""
@@ -1724,7 +1707,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/s5dydhrqrwbqcqcf8tth.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/s5dydhrqrwbqcqcf8tth.webp",
               "type": "image",
               "alt": "Image may contain: tableware, drink and drinkware",
               "caption": ""
@@ -1734,7 +1717,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/smwmwhbotpei33rbsgkl.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/smwmwhbotpei33rbsgkl.webp",
               "type": "image",
               "alt": "Image may contain: indoor, menu and table",
               "caption": ""
@@ -1749,7 +1732,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820450/onuryunisli/work/kbhc41dgbfmtkpfswyql.jpg",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/kbhc41dgbfmtkpfswyql.webp",
               "type": "image",
               "alt": "Image may contain: indoor, hall and furniture",
               "caption": ""
@@ -1759,7 +1742,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820460/onuryunisli/work/u87hmqg6bqsk5scjezgw.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/u87hmqg6bqsk5scjezgw.webp",
               "type": "image",
               "alt": "Image may contain: indoor, interior design and wall",
               "caption": ""
@@ -1769,7 +1752,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820460/onuryunisli/work/i0nazdy4pudwfppayuhx.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/i0nazdy4pudwfppayuhx.webp",
               "type": "image",
               "alt": "Image may contain: indoor, furniture and wall",
               "caption": ""
@@ -1780,25 +1763,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/fx6n96fl3qravagrbjcd.png",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/fx6n96fl3qravagrbjcd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/oafybksokerjepmbcree.png",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/oafybksokerjepmbcree.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/ehes04pvbhzn3pzoo0cn.png",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ehes04pvbhzn3pzoo0cn.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/y4cosm4f3qvi3bupguut.png",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/y4cosm4f3qvi3bupguut.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1811,7 +1794,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820451/onuryunisli/work/aqvmlpmx6siu9rubkqln.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/aqvmlpmx6siu9rubkqln.webp",
               "type": "image",
               "alt": "Image may contain: person, indoor and clothing",
               "caption": ""
@@ -1821,7 +1804,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820452/onuryunisli/work/jpega1hnixa04bjvtk6h.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/jpega1hnixa04bjvtk6h.webp",
               "type": "image",
               "alt": "Image may contain: clothing, person and food",
               "caption": ""
@@ -1831,7 +1814,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820455/onuryunisli/work/pgy1siry1bglzhogigk7.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/pgy1siry1bglzhogigk7.webp",
               "type": "image",
               "alt": "Image may contain: clothing and collar",
               "caption": ""
@@ -1841,7 +1824,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820453/onuryunisli/work/sukoyj3krc39vsijffxj.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/sukoyj3krc39vsijffxj.webp",
               "type": "image",
               "alt": "Image may contain: letter, paper and handwriting",
               "caption": ""
@@ -1851,7 +1834,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820464/onuryunisli/work/jju6ni4dvrcclpmj00o4.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/jju6ni4dvrcclpmj00o4.webp",
               "type": "image",
               "alt": "Image may contain: transport, vehicle and bus",
               "caption": ""
@@ -1861,7 +1844,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820455/onuryunisli/work/lzkaarrzy1gjhan2rlvx.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/lzkaarrzy1gjhan2rlvx.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and cloud",
               "caption": ""
@@ -1871,7 +1854,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820456/onuryunisli/work/n5dztjcufdqz2cl7m8du.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/n5dztjcufdqz2cl7m8du.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, sky and plant",
               "caption": ""
@@ -1881,7 +1864,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820456/onuryunisli/work/anjlaj7yhbogvrdqrrj2.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/anjlaj7yhbogvrdqrrj2.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, sky and tree",
               "caption": ""
@@ -1891,7 +1874,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820457/onuryunisli/work/bmj2ppiu3exkddmvtzeb.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/bmj2ppiu3exkddmvtzeb.webp",
               "type": "image",
               "alt": "Image may contain: indoor, interior design and pillow",
               "caption": ""
@@ -1901,7 +1884,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/adl0qam38hjrwoj6jsdm.jpg",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/adl0qam38hjrwoj6jsdm.webp",
               "type": "image",
               "alt": "Image may contain: clothing, sky and outdoor",
               "caption": ""
@@ -1912,19 +1895,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/irpiamhywgv5j7oroa99.jpg",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/irpiamhywgv5j7oroa99.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820459/onuryunisli/work/t4grcmjjp3d2aiheqqeq.jpg",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/t4grcmjjp3d2aiheqqeq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820459/onuryunisli/work/z4t5bwpvqmzspvh9090z.jpg",
+                "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/z4t5bwpvqmzspvh9090z.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -1938,7 +1921,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/253708217/Baku-Resort-Spa-Hotel-Brand-Identity",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854062/onuryunisli/v415jypxlh11tzwfh4sk.png"
+      "logo": "/assets/media/logos/baku-resort-spa.webp"
     },
     {
       "slug": "livgrt-hydro8-branding-packaging-design",
@@ -1956,13 +1939,13 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1146237684?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"2880\" height=\"1620\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
+      "poster": "/assets/media/work/livgrt-hydro8-branding-packaging-design/bsrsgx09gginvm4vqugn.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/j0k9kbyh8dipdzdc9qzf.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/vnafyzyle5olsepgkvas.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/eifs3e33skfhtlu2o96p.png"
+        "/assets/media/work/livgrt-hydro8-branding-packaging-design/bsrsgx09gginvm4vqugn.webp",
+        "/assets/media/work/livgrt-hydro8-branding-packaging-design/j0k9kbyh8dipdzdc9qzf.webp",
+        "/assets/media/work/livgrt-hydro8-branding-packaging-design/vnafyzyle5olsepgkvas.webp",
+        "/assets/media/work/livgrt-hydro8-branding-packaging-design/eifs3e33skfhtlu2o96p.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -1975,7 +1958,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/bsrsgx09gginvm4vqugn.png",
+              "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/bsrsgx09gginvm4vqugn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -1985,7 +1968,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/j0k9kbyh8dipdzdc9qzf.png",
+              "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/j0k9kbyh8dipdzdc9qzf.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -1996,13 +1979,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/rhjujhpzkvhdnwnywwbl.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/rhjujhpzkvhdnwnywwbl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/xo7hpyhlvsyvonmnxbkg.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/xo7hpyhlvsyvonmnxbkg.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2016,13 +1999,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820477/onuryunisli/work/rsr0d9irklllngiibhnn.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/rsr0d9irklllngiibhnn.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/nrsn90unvoj7rw4szcrf.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/nrsn90unvoj7rw4szcrf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2036,19 +2019,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/fb69vl1shu8weanhcovu.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/fb69vl1shu8weanhcovu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/ry8bjuvwsigmr5dv7fev.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/ry8bjuvwsigmr5dv7fev.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/kljgfwkvmaxkqsexf3yr.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/kljgfwkvmaxkqsexf3yr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2067,13 +2050,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/saryipjsyejyxdofz23a.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/saryipjsyejyxdofz23a.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820478/onuryunisli/work/wlz4f3aygemeaevbvtxr.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/wlz4f3aygemeaevbvtxr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2087,13 +2070,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/pqhkcaptabfjdvfzyxhx.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/pqhkcaptabfjdvfzyxhx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/nvhbf7pah1xkvsglkgdz.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/nvhbf7pah1xkvsglkgdz.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2106,7 +2089,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820479/onuryunisli/work/vnafyzyle5olsepgkvas.png",
+              "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/vnafyzyle5olsepgkvas.webp",
               "type": "image",
               "alt": "Image may contain: bottle, indoor and book",
               "caption": ""
@@ -2117,19 +2100,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/vq9gcxagpg8smwvviejk.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/vq9gcxagpg8smwvviejk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/ac8yyh0h6a6valnju39q.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/ac8yyh0h6a6valnju39q.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820481/onuryunisli/work/ogmjzy605czp8tlmypak.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/ogmjzy605czp8tlmypak.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2142,7 +2125,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/eifs3e33skfhtlu2o96p.png",
+              "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/eifs3e33skfhtlu2o96p.webp",
               "type": "image",
               "alt": "Image may contain: person, indoor and human face",
               "caption": ""
@@ -2153,19 +2136,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/chwpco0orlchj8v56pv8.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/chwpco0orlchj8v56pv8.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/rgj61vqcxuenisetyagm.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/rgj61vqcxuenisetyagm.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820480/onuryunisli/work/omnckymvt4fz4n1d0zey.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/omnckymvt4fz4n1d0zey.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2179,13 +2162,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820481/onuryunisli/work/xchysiwcrk2ohkn9zmqy.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/xchysiwcrk2ohkn9zmqy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820483/onuryunisli/work/txygfovvbtwv3movpyjg.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/txygfovvbtwv3movpyjg.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2199,19 +2182,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/dfgtq8jizyoneo4amdpj.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/dfgtq8jizyoneo4amdpj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/gws1tbf6pnzwa6f1stbq.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/gws1tbf6pnzwa6f1stbq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820482/onuryunisli/work/f3cuhxfpp8vyqvz6zrcb.png",
+                "src": "/assets/media/work/livgrt-hydro8-branding-packaging-design/f3cuhxfpp8vyqvz6zrcb.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2225,7 +2208,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/240406245/LIVGRT-HYDRO8-Branding-Packaging-Design",
       "studio": "",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854073/onuryunisli/ctmxhvun4fjxt9joaims.png"
+      "logo": "/assets/media/logos/livgrt.webp"
     },
     {
       "slug": "social-media-motion-badamli",
@@ -2241,10 +2224,10 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/820312951?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1400\" height=\"1050\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png",
+      "poster": "/assets/media/work/social-media-motion-badamli/xwtklyx3caa19rpcejyr.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png"
+        "/assets/media/work/social-media-motion-badamli/xwtklyx3caa19rpcejyr.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -2297,7 +2280,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820552/onuryunisli/work/xwtklyx3caa19rpcejyr.png",
+              "src": "/assets/media/work/social-media-motion-badamli/xwtklyx3caa19rpcejyr.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2308,7 +2291,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/168964795/Social-Media-Motion-Badamli",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854084/onuryunisli/h27rgvfc9kab3kkg3nlh.png"
+      "logo": "/assets/media/logos/badamli.webp"
     },
     {
       "slug": "alive-packaging-design-product-rendering",
@@ -2324,16 +2307,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1228402435?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1080\" height=\"1350\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/nk0hszlwqlyimaic4wvv.jpg",
+      "poster": "/assets/media/work/alive-packaging-design-product-rendering/nk0hszlwqlyimaic4wvv.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/nk0hszlwqlyimaic4wvv.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/sdfloqrbeselag1xiuex.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821468/onuryunisli/work/ymrjrwin56x03on6fryp.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/jh4taer23rqdldoslmiz.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/kmfmp7mzf6s8xppdxvmz.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/juib3tzsh1lsvpglrl7f.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821473/onuryunisli/work/uql2e9fkqyrcylhupscb.jpg"
+        "/assets/media/work/alive-packaging-design-product-rendering/nk0hszlwqlyimaic4wvv.webp",
+        "/assets/media/work/alive-packaging-design-product-rendering/sdfloqrbeselag1xiuex.webp",
+        "/assets/media/work/alive-packaging-design-product-rendering/ymrjrwin56x03on6fryp.webp",
+        "/assets/media/work/alive-packaging-design-product-rendering/jh4taer23rqdldoslmiz.webp",
+        "/assets/media/work/alive-packaging-design-product-rendering/kmfmp7mzf6s8xppdxvmz.webp",
+        "/assets/media/work/alive-packaging-design-product-rendering/juib3tzsh1lsvpglrl7f.webp",
+        "/assets/media/work/alive-packaging-design-product-rendering/uql2e9fkqyrcylhupscb.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -2351,7 +2334,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/nk0hszlwqlyimaic4wvv.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/nk0hszlwqlyimaic4wvv.webp",
               "type": "image",
               "alt": "Image may contain: bottle and drink",
               "caption": ""
@@ -2361,7 +2344,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821467/onuryunisli/work/sdfloqrbeselag1xiuex.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/sdfloqrbeselag1xiuex.webp",
               "type": "image",
               "alt": "Image may contain: bottle, gold and indoor",
               "caption": ""
@@ -2372,13 +2355,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821468/onuryunisli/work/mxnbscbou4cy1gcvsa13.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/mxnbscbou4cy1gcvsa13.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821468/onuryunisli/work/oqsd35vrfotaz4ryxx2d.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/oqsd35vrfotaz4ryxx2d.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2392,7 +2375,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821468/onuryunisli/work/oyeru5sa3epqlxx870bl.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/oyeru5sa3epqlxx870bl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2406,13 +2389,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821468/onuryunisli/work/teaucz2an9nqqelkavs9.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/teaucz2an9nqqelkavs9.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821469/onuryunisli/work/g7dza8s7ehwvs8bgvuwr.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/g7dza8s7ehwvs8bgvuwr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2436,7 +2419,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821468/onuryunisli/work/ymrjrwin56x03on6fryp.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/ymrjrwin56x03on6fryp.webp",
               "type": "image",
               "alt": "Image may contain: honeycomb, yellow and indoor",
               "caption": ""
@@ -2458,25 +2441,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821469/onuryunisli/work/dedfe956geblbr1fapez.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/dedfe956geblbr1fapez.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821470/onuryunisli/work/dyq7g2wxcqpdhq39lthl.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/dyq7g2wxcqpdhq39lthl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821469/onuryunisli/work/drrfxjpx9u8ojdccxskh.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/drrfxjpx9u8ojdccxskh.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821469/onuryunisli/work/ylzkdlzvserllrhbh1vx.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/ylzkdlzvserllrhbh1vx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2490,13 +2473,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821470/onuryunisli/work/jtgiha84jopuamrlimij.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/jtgiha84jopuamrlimij.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821470/onuryunisli/work/eylk1xmuq3nvwognse0f.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/eylk1xmuq3nvwognse0f.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2510,13 +2493,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/n3dywye5v0ffauqnndvy.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/n3dywye5v0ffauqnndvy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/ruonzmp7uphpdwnt14al.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/ruonzmp7uphpdwnt14al.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2530,19 +2513,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821470/onuryunisli/work/jn7gxgos4udcu1hcxcjz.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/jn7gxgos4udcu1hcxcjz.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821472/onuryunisli/work/jfuyvndjoo2km9jdwqnv.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/jfuyvndjoo2km9jdwqnv.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821470/onuryunisli/work/ruwkvjeyjsewuzz257if.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/ruwkvjeyjsewuzz257if.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2555,7 +2538,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/jh4taer23rqdldoslmiz.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/jh4taer23rqdldoslmiz.webp",
               "type": "image",
               "alt": "Image may contain: bottle, indoor and yellow",
               "caption": ""
@@ -2565,7 +2548,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/kmfmp7mzf6s8xppdxvmz.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/kmfmp7mzf6s8xppdxvmz.webp",
               "type": "image",
               "alt": "Image may contain: indoor and bottle",
               "caption": ""
@@ -2576,13 +2559,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821472/onuryunisli/work/wrlgirrgyljjfkgnvzse.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/wrlgirrgyljjfkgnvzse.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821472/onuryunisli/work/rarjjftanlxdgqidm44d.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/rarjjftanlxdgqidm44d.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2595,7 +2578,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821471/onuryunisli/work/juib3tzsh1lsvpglrl7f.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/juib3tzsh1lsvpglrl7f.webp",
               "type": "image",
               "alt": "Image may contain: bottle, alcohol and drink",
               "caption": ""
@@ -2606,19 +2589,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821472/onuryunisli/work/gxttjuyqe96zqm7mxl95.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/gxttjuyqe96zqm7mxl95.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821472/onuryunisli/work/nxgu95t1loek06mvtzev.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/nxgu95t1loek06mvtzev.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821473/onuryunisli/work/bbnurlyust5lq7ocisko.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/bbnurlyust5lq7ocisko.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2632,19 +2615,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821473/onuryunisli/work/zp62vefkvnbyrqrl5zxt.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/zp62vefkvnbyrqrl5zxt.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/eukz3kgt916fnfvb9rul.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/eukz3kgt916fnfvb9rul.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/l1scp8zzwdbqqnfbuvjq.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/l1scp8zzwdbqqnfbuvjq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2657,7 +2640,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821473/onuryunisli/work/uql2e9fkqyrcylhupscb.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/uql2e9fkqyrcylhupscb.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -2668,25 +2651,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/wxilpmojc2tbzdpytwre.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/wxilpmojc2tbzdpytwre.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/r2msgkuek6gc2qg1kdmq.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/r2msgkuek6gc2qg1kdmq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/j82pw73chn0tvvm03nbv.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/j82pw73chn0tvvm03nbv.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/s4y9dlauoxztkjtwqszb.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/s4y9dlauoxztkjtwqszb.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2699,7 +2682,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/udkggna7it0yz5qkixbb.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/udkggna7it0yz5qkixbb.webp",
               "type": "image",
               "alt": "Image may contain: indoor, bottle and drink",
               "caption": ""
@@ -2709,7 +2692,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821474/onuryunisli/work/uy9uv6hef1suw5kzu2y5.jpg",
+              "src": "/assets/media/work/alive-packaging-design-product-rendering/uy9uv6hef1suw5kzu2y5.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2720,13 +2703,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821476/onuryunisli/work/iuv9kfzddn4qyjohveg0.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/iuv9kfzddn4qyjohveg0.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821476/onuryunisli/work/bs3rcosc7hgrtcri5bd6.jpg",
+                "src": "/assets/media/work/alive-packaging-design-product-rendering/bs3rcosc7hgrtcri5bd6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2740,7 +2723,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/210318207/ALIVE-Packaging-Design-Product-Rendering",
       "studio": "",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854147/onuryunisli/bb8srm4uunpjn4dqqgvp.png"
+      "logo": "/assets/media/logos/alive.webp"
     },
     {
       "slug": "dinamit-energy-drink-package-design-brand-identity",
@@ -2758,16 +2741,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"1250\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35523e42-adf1-11ed-b5bd-6595d9b17862\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
+      "poster": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s2dtxajrrcyqnvyqxubz.mp4",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/b0vk6gv6xu1lwbl4unrl.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/byypqrtcwnjdvwfcczqq.png"
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s2dtxajrrcyqnvyqxubz.mp4",
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/wy1fyab1hj5rytwgj9un.mp4",
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/xsmxaoyohwtkawobh8c4.webp",
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/eiyk9nc4wdmxqghzmkxb.mp4",
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ntez6p7lijmlrl7s3kip.webp",
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/b0vk6gv6xu1lwbl4unrl.webp",
+        "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/byypqrtcwnjdvwfcczqq.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -2780,7 +2763,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/s2dtxajrrcyqnvyqxubz.gif",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s2dtxajrrcyqnvyqxubz.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2790,7 +2773,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/wy1fyab1hj5rytwgj9un.gif",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/wy1fyab1hj5rytwgj9un.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2807,7 +2790,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/xsmxaoyohwtkawobh8c4.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/xsmxaoyohwtkawobh8c4.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2817,7 +2800,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/eiyk9nc4wdmxqghzmkxb.gif",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/eiyk9nc4wdmxqghzmkxb.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2827,7 +2810,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/ntez6p7lijmlrl7s3kip.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ntez6p7lijmlrl7s3kip.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2837,7 +2820,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/b0vk6gv6xu1lwbl4unrl.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/b0vk6gv6xu1lwbl4unrl.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2847,7 +2830,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821505/onuryunisli/work/byypqrtcwnjdvwfcczqq.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/byypqrtcwnjdvwfcczqq.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2857,7 +2840,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/b1efoj0aagfb9oa8f3bc.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/b1efoj0aagfb9oa8f3bc.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2868,7 +2851,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/s3lcg4mgtvlxlybuk6fk.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/s3lcg4mgtvlxlybuk6fk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2881,7 +2864,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/mxw8lusd3krrljmkovu1.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/mxw8lusd3krrljmkovu1.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2892,19 +2875,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/blncx9w6x7eshmtogubq.gif",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/blncx9w6x7eshmtogubq.mp4",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/stublbxydg3zwqv7lowq.gif",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/stublbxydg3zwqv7lowq.mp4",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/rizv64qoqcifqula9rvt.gif",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/rizv64qoqcifqula9rvt.mp4",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2918,19 +2901,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/tf4qotb7bpbluexirpqx.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tf4qotb7bpbluexirpqx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/fs8b1zj4tjj6z8hic4a1.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/fs8b1zj4tjj6z8hic4a1.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821506/onuryunisli/work/ghylbljkxwh53sd0yeby.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ghylbljkxwh53sd0yeby.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2943,7 +2926,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/tiuxgnfip3fyf8mnh9qo.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tiuxgnfip3fyf8mnh9qo.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -2954,13 +2937,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/lx7iaqpyy23utajcvt7u.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/lx7iaqpyy23utajcvt7u.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821507/onuryunisli/work/tsdaqi9x1znv283cnuf6.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tsdaqi9x1znv283cnuf6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2974,13 +2957,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/pvd1ud42z18bnssxmklj.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/pvd1ud42z18bnssxmklj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/chogr3xbodnjusnwr4uq.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/chogr3xbodnjusnwr4uq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -2993,7 +2976,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/xpmmbsd2gfon5q8hh0hu.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/xpmmbsd2gfon5q8hh0hu.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3004,25 +2987,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/hyqie6zx63xsyakns4el.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hyqie6zx63xsyakns4el.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821508/onuryunisli/work/futrrveva25reg4zs9ev.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/futrrveva25reg4zs9ev.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/grpe1aqypsnaqz8r3rgo.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/grpe1aqypsnaqz8r3rgo.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/ltbc1jde4plpyrrmwc7c.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/ltbc1jde4plpyrrmwc7c.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3036,13 +3019,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/hcxttn5h1gemavq7x3ff.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hcxttn5h1gemavq7x3ff.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821509/onuryunisli/work/psphxkoxsqkapfefm002.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/psphxkoxsqkapfefm002.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3056,109 +3039,109 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/vkokqatqssn1lh50nrrh.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/vkokqatqssn1lh50nrrh.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/x4vmhqs3w1cgcacxcksv.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/x4vmhqs3w1cgcacxcksv.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/wwpdhty1sdg1j9ux4llc.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/wwpdhty1sdg1j9ux4llc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/gdaqvc9bufuzrpqeytlf.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/gdaqvc9bufuzrpqeytlf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/movmllpbiimxeqnco79b.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/movmllpbiimxeqnco79b.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821510/onuryunisli/work/axjbgyiqbz9xcotdwv13.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/axjbgyiqbz9xcotdwv13.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/cbnha83emtuh3sclssk6.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/cbnha83emtuh3sclssk6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/fi9ryjk7ueq74io6sxnb.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/fi9ryjk7ueq74io6sxnb.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/puqmb5tgze3aadrs2etw.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/puqmb5tgze3aadrs2etw.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/jk7fo2yizeajdcun5iij.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/jk7fo2yizeajdcun5iij.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/jhzkqzl4jv88zs6t7ver.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/jhzkqzl4jv88zs6t7ver.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/o5zvqcumonuovehaioxo.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/o5zvqcumonuovehaioxo.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821511/onuryunisli/work/hplyudubl7uahrjwbyil.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hplyudubl7uahrjwbyil.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/jefwv2qbwo6erx06rjvq.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/jefwv2qbwo6erx06rjvq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/mr7om2bldfdezbqywase.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/mr7om2bldfdezbqywase.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/uo1nrkvvsqu0rays0wpm.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/uo1nrkvvsqu0rays0wpm.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/estrf5cyekgdhzuo00ic.png",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/estrf5cyekgdhzuo00ic.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/tewe06fuvj0aayt6d1vi.jpg",
+                "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/tewe06fuvj0aayt6d1vi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3186,7 +3169,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821512/onuryunisli/work/hvbryqp7takocbyjjzvo.png",
+              "src": "/assets/media/work/dinamit-energy-drink-package-design-brand-identity/hvbryqp7takocbyjjzvo.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3197,7 +3180,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/163848123/Dinamit-Energy-Drink-Package-Design-Brand-Identity",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854156/onuryunisli/gbuayvu24bssnorktvn7.png"
+      "logo": "/assets/media/logos/dinamit.webp"
     },
     {
       "slug": "turkish-petroleum-exhibition-stand",
@@ -3214,16 +3197,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198390371?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1745\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
+      "poster": "/assets/media/work/turkish-petroleum-exhibition-stand/uvlr5vuvi0cq9eehmnbv.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/owbyavbpo8omdspo4nbo.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/lwuiysvyentmlinkkjva.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/a5plutyllndnrqo3gziq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/xhaaxqhnbkqtmyjdocrm.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mrnb6mj6cnzdg843m4rx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/sg49lc9k7cvbhvpgo2bq.png"
+        "/assets/media/work/turkish-petroleum-exhibition-stand/uvlr5vuvi0cq9eehmnbv.webp",
+        "/assets/media/work/turkish-petroleum-exhibition-stand/owbyavbpo8omdspo4nbo.webp",
+        "/assets/media/work/turkish-petroleum-exhibition-stand/lwuiysvyentmlinkkjva.webp",
+        "/assets/media/work/turkish-petroleum-exhibition-stand/a5plutyllndnrqo3gziq.webp",
+        "/assets/media/work/turkish-petroleum-exhibition-stand/xhaaxqhnbkqtmyjdocrm.webp",
+        "/assets/media/work/turkish-petroleum-exhibition-stand/mrnb6mj6cnzdg843m4rx.webp",
+        "/assets/media/work/turkish-petroleum-exhibition-stand/sg49lc9k7cvbhvpgo2bq.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -3248,7 +3231,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/uvlr5vuvi0cq9eehmnbv.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/uvlr5vuvi0cq9eehmnbv.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3258,7 +3241,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820533/onuryunisli/work/owbyavbpo8omdspo4nbo.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/owbyavbpo8omdspo4nbo.webp",
               "type": "image",
               "alt": "Image may contain: different, furniture and chair",
               "caption": ""
@@ -3268,7 +3251,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/lwuiysvyentmlinkkjva.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/lwuiysvyentmlinkkjva.webp",
               "type": "image",
               "alt": "Image may contain: indoor and sign",
               "caption": ""
@@ -3278,7 +3261,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/a5plutyllndnrqo3gziq.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/a5plutyllndnrqo3gziq.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3288,7 +3271,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/xhaaxqhnbkqtmyjdocrm.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/xhaaxqhnbkqtmyjdocrm.webp",
               "type": "image",
               "alt": "Image may contain: person",
               "caption": ""
@@ -3298,7 +3281,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mrnb6mj6cnzdg843m4rx.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/mrnb6mj6cnzdg843m4rx.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -3313,7 +3296,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/sg49lc9k7cvbhvpgo2bq.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/sg49lc9k7cvbhvpgo2bq.webp",
               "type": "image",
               "alt": "Image may contain: indoor and red",
               "caption": ""
@@ -3324,13 +3307,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820534/onuryunisli/work/h4uvuj2nylgyo9vxgxrw.png",
+                "src": "/assets/media/work/turkish-petroleum-exhibition-stand/h4uvuj2nylgyo9vxgxrw.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820535/onuryunisli/work/aany2hbydzubhphdlglf.png",
+                "src": "/assets/media/work/turkish-petroleum-exhibition-stand/aany2hbydzubhphdlglf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3343,7 +3326,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820535/onuryunisli/work/cw96a8pjavgor932rk1s.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/cw96a8pjavgor932rk1s.webp",
               "type": "image",
               "alt": "Image may contain: furniture, screenshot and cartoon",
               "caption": ""
@@ -3354,13 +3337,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820536/onuryunisli/work/ixmlmpmisc1rrdjlsptd.png",
+                "src": "/assets/media/work/turkish-petroleum-exhibition-stand/ixmlmpmisc1rrdjlsptd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820536/onuryunisli/work/aylaigtleqrzrphdyeeu.png",
+                "src": "/assets/media/work/turkish-petroleum-exhibition-stand/aylaigtleqrzrphdyeeu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3383,7 +3366,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820537/onuryunisli/work/cc0c4ldchclqx2vnbegv.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/cc0c4ldchclqx2vnbegv.webp",
               "type": "image",
               "alt": "Image may contain: person, human face and clothing",
               "caption": ""
@@ -3393,7 +3376,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820537/onuryunisli/work/zqxcsghborzjxrvhbosm.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/zqxcsghborzjxrvhbosm.webp",
               "type": "image",
               "alt": "Image may contain: person, clothing and man",
               "caption": ""
@@ -3404,13 +3387,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/fbqexqxv8jgdzn7jhbd9.png",
+                "src": "/assets/media/work/turkish-petroleum-exhibition-stand/fbqexqxv8jgdzn7jhbd9.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820538/onuryunisli/work/mt9pbronwxj9bfe16dqy.png",
+                "src": "/assets/media/work/turkish-petroleum-exhibition-stand/mt9pbronwxj9bfe16dqy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3423,7 +3406,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820539/onuryunisli/work/nruwwf2e29wj724qn1vc.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/nruwwf2e29wj724qn1vc.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3433,7 +3416,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820544/onuryunisli/work/t6sjdie4fi3u0ctdsgzr.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/t6sjdie4fi3u0ctdsgzr.webp",
               "type": "image",
               "alt": "Image may contain: person and people",
               "caption": ""
@@ -3448,7 +3431,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820545/onuryunisli/work/b6t7omjckalocsqqicps.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/b6t7omjckalocsqqicps.webp",
               "type": "image",
               "alt": "Image may contain: person",
               "caption": ""
@@ -3458,7 +3441,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820545/onuryunisli/work/hiyeiebpfescfti0kzub.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/hiyeiebpfescfti0kzub.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3468,7 +3451,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820544/onuryunisli/work/dfcxkkkl57kh1wtczhre.png",
+              "src": "/assets/media/work/turkish-petroleum-exhibition-stand/dfcxkkkl57kh1wtczhre.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -3479,7 +3462,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/228233515/Turkish-Petroleum-Exhibition-Stand",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854170/onuryunisli/whkykzrhiuydtaef9ekr.png"
+      "logo": "/assets/media/logos/turkish-petroleum-en.webp"
     },
     {
       "slug": "ankara-metropolitan-municipality-city-branding",
@@ -3495,16 +3478,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1002637856?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/ckuavguorpftfisjb9cn.png",
+      "poster": "/assets/media/work/ankara-metropolitan-municipality-city-branding/ckuavguorpftfisjb9cn.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/ckuavguorpftfisjb9cn.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821632/onuryunisli/work/e9m1vvyp8nvayafozy5w.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821638/onuryunisli/work/n4mtg74eomrvbcdbpyth.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821632/onuryunisli/work/djnoiwfchqgu4vjh3kpl.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821632/onuryunisli/work/rxwp0yizsnrepowryutl.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/mn67exebifufzi8ncvhq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821633/onuryunisli/work/foohxssvprxwhnxkczis.png"
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/ckuavguorpftfisjb9cn.webp",
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/e9m1vvyp8nvayafozy5w.webp",
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/n4mtg74eomrvbcdbpyth.webp",
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/djnoiwfchqgu4vjh3kpl.webp",
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/rxwp0yizsnrepowryutl.webp",
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/mn67exebifufzi8ncvhq.webp",
+        "/assets/media/work/ankara-metropolitan-municipality-city-branding/foohxssvprxwhnxkczis.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -3529,7 +3512,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/ckuavguorpftfisjb9cn.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/ckuavguorpftfisjb9cn.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3539,7 +3522,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821632/onuryunisli/work/e9m1vvyp8nvayafozy5w.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/e9m1vvyp8nvayafozy5w.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3549,7 +3532,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821638/onuryunisli/work/n4mtg74eomrvbcdbpyth.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/n4mtg74eomrvbcdbpyth.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3559,7 +3542,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821632/onuryunisli/work/djnoiwfchqgu4vjh3kpl.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/djnoiwfchqgu4vjh3kpl.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3576,7 +3559,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821632/onuryunisli/work/rxwp0yizsnrepowryutl.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/rxwp0yizsnrepowryutl.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3586,7 +3569,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/mn67exebifufzi8ncvhq.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/mn67exebifufzi8ncvhq.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3596,7 +3579,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821633/onuryunisli/work/foohxssvprxwhnxkczis.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/foohxssvprxwhnxkczis.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3606,7 +3589,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821638/onuryunisli/work/yldqikpvjlxeszv9xjeu.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/yldqikpvjlxeszv9xjeu.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3616,7 +3599,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821633/onuryunisli/work/m54neqav1tedpjhobtvz.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/m54neqav1tedpjhobtvz.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3626,7 +3609,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821634/onuryunisli/work/d44algtyjlfwve8gfefz.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/d44algtyjlfwve8gfefz.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3636,7 +3619,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821639/onuryunisli/work/wi7erlgkuhowrokdeufs.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/wi7erlgkuhowrokdeufs.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3646,7 +3629,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/piubkzmd7qrlzgm2e2jo.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/piubkzmd7qrlzgm2e2jo.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3656,7 +3639,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821635/onuryunisli/work/im6i5tottdqzjbssensl.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/im6i5tottdqzjbssensl.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3666,7 +3649,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821641/onuryunisli/work/nwvwxogc7osofegc6tie.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/nwvwxogc7osofegc6tie.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3676,7 +3659,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821642/onuryunisli/work/zmhpjarim0ytxaqv20zv.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/zmhpjarim0ytxaqv20zv.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3686,7 +3669,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821639/onuryunisli/work/hwiempykjgumfqznaqwa.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/hwiempykjgumfqznaqwa.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3696,7 +3679,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821639/onuryunisli/work/ilhbm82mvcwyemsim12q.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/ilhbm82mvcwyemsim12q.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3713,7 +3696,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821639/onuryunisli/work/fgfooxp80qczvbdl3zl6.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/fgfooxp80qczvbdl3zl6.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3723,7 +3706,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821643/onuryunisli/work/d2zt1hxrja9qjkms3qfq.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/d2zt1hxrja9qjkms3qfq.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3733,7 +3716,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821645/onuryunisli/work/fvn1ae0zvyab8lttszjz.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/fvn1ae0zvyab8lttszjz.webp",
               "type": "image",
               "alt": "ANKARA BÜYÜKŞEHİR BELEDİYESİ",
               "caption": ""
@@ -3743,7 +3726,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821640/onuryunisli/work/eihxc27kn6hofkd6yocq.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/eihxc27kn6hofkd6yocq.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3753,7 +3736,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821643/onuryunisli/work/isvuzkuj0na8p7wg55xw.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/isvuzkuj0na8p7wg55xw.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3763,7 +3746,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821641/onuryunisli/work/jb7bydu7ipqo4v4mswbu.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/jb7bydu7ipqo4v4mswbu.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3773,7 +3756,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821647/onuryunisli/work/hrg7x8pttdbgmy4jrx2s.png",
+              "src": "/assets/media/work/ankara-metropolitan-municipality-city-branding/hrg7x8pttdbgmy4jrx2s.webp",
               "type": "image",
               "alt": "ANKARA CITY BRANDING",
               "caption": ""
@@ -3789,7 +3772,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/206404161/Ankara-Metropolitan-Municipality-City-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854187/onuryunisli/onllpvweqgzihv6sttw1.png"
+      "logo": "/assets/media/logos/ankara-metropolitan-municipality.webp"
     },
     {
       "slug": "shusha-global-media-forum-branding",
@@ -3804,16 +3787,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/927043401?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
+      "poster": "/assets/media/work/shusha-global-media-forum-branding/zryrq5enpwzwykrk6rbd.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/uui7xmxu1umlasio9rqk.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/bfbahxyavfqamofpsozr.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/ruxuw8zbznc4l0dyajmi.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zkwzvbh29ojvhampjuys.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/p2q8my1giqdxj7tgryif.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/m7oaeyu246ochsoe4ulk.jpg"
+        "/assets/media/work/shusha-global-media-forum-branding/zryrq5enpwzwykrk6rbd.webp",
+        "/assets/media/work/shusha-global-media-forum-branding/uui7xmxu1umlasio9rqk.webp",
+        "/assets/media/work/shusha-global-media-forum-branding/bfbahxyavfqamofpsozr.webp",
+        "/assets/media/work/shusha-global-media-forum-branding/ruxuw8zbznc4l0dyajmi.webp",
+        "/assets/media/work/shusha-global-media-forum-branding/zkwzvbh29ojvhampjuys.webp",
+        "/assets/media/work/shusha-global-media-forum-branding/p2q8my1giqdxj7tgryif.webp",
+        "/assets/media/work/shusha-global-media-forum-branding/m7oaeyu246ochsoe4ulk.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -3832,13 +3815,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/kpndnfvz5p8tojldnbed.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/kpndnfvz5p8tojldnbed.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/xdbqt69gdlmlbij7pgwq.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/xdbqt69gdlmlbij7pgwq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3858,7 +3841,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zryrq5enpwzwykrk6rbd.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/zryrq5enpwzwykrk6rbd.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3868,7 +3851,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/uui7xmxu1umlasio9rqk.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/uui7xmxu1umlasio9rqk.webp",
               "type": "image",
               "alt": "Image may contain: print, letter and template",
               "caption": ""
@@ -3878,7 +3861,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/bfbahxyavfqamofpsozr.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/bfbahxyavfqamofpsozr.webp",
               "type": "image",
               "alt": "Image may contain: poster",
               "caption": ""
@@ -3889,13 +3872,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/yvpc3rgwh2droc5jy9oi.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/yvpc3rgwh2droc5jy9oi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/nrvbni8nb9uzsajukekv.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/nrvbni8nb9uzsajukekv.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3908,7 +3891,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/ruxuw8zbznc4l0dyajmi.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/ruxuw8zbznc4l0dyajmi.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and billboard",
               "caption": ""
@@ -3918,7 +3901,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/zkwzvbh29ojvhampjuys.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/zkwzvbh29ojvhampjuys.webp",
               "type": "image",
               "alt": "Image may contain: poster, clothing and person",
               "caption": ""
@@ -3928,7 +3911,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/p2q8my1giqdxj7tgryif.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/p2q8my1giqdxj7tgryif.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -3938,7 +3921,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821664/onuryunisli/work/m7oaeyu246ochsoe4ulk.jpg",
+              "src": "/assets/media/work/shusha-global-media-forum-branding/m7oaeyu246ochsoe4ulk.webp",
               "type": "image",
               "alt": "Image may contain: handbag, luggage and bags and shoulder bag",
               "caption": ""
@@ -3949,7 +3932,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/m1ruyyc4mba3zlxhtwno.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/m1ruyyc4mba3zlxhtwno.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3963,13 +3946,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821665/onuryunisli/work/a5z8njrf0fp0wk0udoq5.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/a5z8njrf0fp0wk0udoq5.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821666/onuryunisli/work/hsaq3evtkktjkqhl4pno.jpg",
+                "src": "/assets/media/work/shusha-global-media-forum-branding/hsaq3evtkktjkqhl4pno.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -3983,7 +3966,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/190370951/Shusha-Global-Media-Forum-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854210/onuryunisli/iijp1pivp0rn4veuhx9w.png"
+      "logo": "/assets/media/logos/shusha-global-media-forum.webp"
     },
     {
       "slug": "brand-identity-istanbul-2027",
@@ -3999,16 +3982,16 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1171815730?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
+      "poster": "/assets/media/work/brand-identity-istanbul-2027/xvupswrui9kjaefp5gk3.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/sxvlfc0kaqi6qrfwv5og.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/ocoeogjssjkvvrlcia8k.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/apoubfpp0rnxhasbfvik.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/gsdacyn5soolvvyfpof8.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/zfw1i2aptgjpu26ngubq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/wksqsykakksi40agszyk.png"
+        "/assets/media/work/brand-identity-istanbul-2027/xvupswrui9kjaefp5gk3.webp",
+        "/assets/media/work/brand-identity-istanbul-2027/sxvlfc0kaqi6qrfwv5og.webp",
+        "/assets/media/work/brand-identity-istanbul-2027/ocoeogjssjkvvrlcia8k.webp",
+        "/assets/media/work/brand-identity-istanbul-2027/apoubfpp0rnxhasbfvik.webp",
+        "/assets/media/work/brand-identity-istanbul-2027/gsdacyn5soolvvyfpof8.webp",
+        "/assets/media/work/brand-identity-istanbul-2027/zfw1i2aptgjpu26ngubq.webp",
+        "/assets/media/work/brand-identity-istanbul-2027/wksqsykakksi40agszyk.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4033,7 +4016,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/xvupswrui9kjaefp5gk3.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/xvupswrui9kjaefp5gk3.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4050,7 +4033,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/sxvlfc0kaqi6qrfwv5og.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/sxvlfc0kaqi6qrfwv5og.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4060,7 +4043,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/ocoeogjssjkvvrlcia8k.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/ocoeogjssjkvvrlcia8k.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4070,7 +4053,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/apoubfpp0rnxhasbfvik.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/apoubfpp0rnxhasbfvik.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4080,7 +4063,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/gsdacyn5soolvvyfpof8.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/gsdacyn5soolvvyfpof8.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4090,7 +4073,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820517/onuryunisli/work/zfw1i2aptgjpu26ngubq.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/zfw1i2aptgjpu26ngubq.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4100,7 +4083,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/wksqsykakksi40agszyk.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/wksqsykakksi40agszyk.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4110,7 +4093,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/hv4hqxuswacgzoujnt4p.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/hv4hqxuswacgzoujnt4p.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4120,7 +4103,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820518/onuryunisli/work/cwtdn4n4og9vb8vjuryt.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/cwtdn4n4og9vb8vjuryt.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4130,7 +4113,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/tddrzlgwiqh5ihxddvai.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/tddrzlgwiqh5ihxddvai.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4145,7 +4128,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/axst8pczuwtpizgaxw6b.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/axst8pczuwtpizgaxw6b.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4155,7 +4138,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820528/onuryunisli/work/hr3lnowlihsh6swvr8dd.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/hr3lnowlihsh6swvr8dd.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4175,7 +4158,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820519/onuryunisli/work/wn0wwk1uggk31zmryyvi.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/wn0wwk1uggk31zmryyvi.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4185,7 +4168,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820526/onuryunisli/work/gpnb59d4ablyxsoiacb8.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/gpnb59d4ablyxsoiacb8.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4195,7 +4178,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/vs9gdjiqs9xlcufurhst.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/vs9gdjiqs9xlcufurhst.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4205,7 +4188,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/roakvccawl6ktxn9xqwi.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/roakvccawl6ktxn9xqwi.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4215,7 +4198,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820528/onuryunisli/work/stkrtyyzvb5ex7fxpyiz.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/stkrtyyzvb5ex7fxpyiz.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4225,7 +4208,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820520/onuryunisli/work/fgtphwpkzkghc2zmswzx.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/fgtphwpkzkghc2zmswzx.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4235,7 +4218,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820521/onuryunisli/work/y7gadurawai2bmrxvvdc.png",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/y7gadurawai2bmrxvvdc.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4245,7 +4228,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820521/onuryunisli/work/htlvgl0fdk69zjjmhpzd.jpg",
+              "src": "/assets/media/work/brand-identity-istanbul-2027/htlvgl0fdk69zjjmhpzd.webp",
               "type": "image",
               "alt": "istanbul2027, istanbul 2027 avrupa oyunları, istanbul 2027 european games",
               "caption": ""
@@ -4256,7 +4239,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/236894015/Brand-Identity-Istanbul-2027",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854226/onuryunisli/ecltetzce689blg0ohmi.png"
+      "logo": "/assets/media/logos/istanbul-2027.webp"
     },
     {
       "slug": "packaging-sirab-sport-water",
@@ -4273,16 +4256,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1006116233?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
+      "poster": "/assets/media/work/packaging-sirab-sport-water/bnix5m3vqjvgu4jgahls.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/htgc5flh4xbgtkrl0z3z.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/as6ujtscjqnd2v1grvnx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/wqmec4latx65knqws968.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/honr4fhym81dgstilpxr.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/yqcutboxkchlbapur0mx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821461/onuryunisli/work/ley463wzrbsgn0tg3jfg.png"
+        "/assets/media/work/packaging-sirab-sport-water/bnix5m3vqjvgu4jgahls.webp",
+        "/assets/media/work/packaging-sirab-sport-water/htgc5flh4xbgtkrl0z3z.webp",
+        "/assets/media/work/packaging-sirab-sport-water/as6ujtscjqnd2v1grvnx.webp",
+        "/assets/media/work/packaging-sirab-sport-water/wqmec4latx65knqws968.webp",
+        "/assets/media/work/packaging-sirab-sport-water/honr4fhym81dgstilpxr.webp",
+        "/assets/media/work/packaging-sirab-sport-water/yqcutboxkchlbapur0mx.webp",
+        "/assets/media/work/packaging-sirab-sport-water/ley463wzrbsgn0tg3jfg.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4295,7 +4278,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821460/onuryunisli/work/bnix5m3vqjvgu4jgahls.jpg",
+              "src": "/assets/media/work/packaging-sirab-sport-water/bnix5m3vqjvgu4jgahls.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and cartoon",
               "caption": ""
@@ -4312,7 +4295,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/htgc5flh4xbgtkrl0z3z.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/htgc5flh4xbgtkrl0z3z.webp",
               "type": "image",
               "alt": "Image may contain: bottle, beverage and drinking water",
               "caption": ""
@@ -4322,7 +4305,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/as6ujtscjqnd2v1grvnx.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/as6ujtscjqnd2v1grvnx.webp",
               "type": "image",
               "alt": "Image may contain: bottle",
               "caption": ""
@@ -4337,7 +4320,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/wqmec4latx65knqws968.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/wqmec4latx65knqws968.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, truck and vehicle",
               "caption": ""
@@ -4347,7 +4330,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/honr4fhym81dgstilpxr.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/honr4fhym81dgstilpxr.webp",
               "type": "image",
               "alt": "Image may contain: bottle, beverage and drinking water",
               "caption": ""
@@ -4357,7 +4340,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821465/onuryunisli/work/yqcutboxkchlbapur0mx.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/yqcutboxkchlbapur0mx.webp",
               "type": "image",
               "alt": "Image may contain: tree and outdoor",
               "caption": ""
@@ -4367,7 +4350,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821461/onuryunisli/work/ley463wzrbsgn0tg3jfg.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/ley463wzrbsgn0tg3jfg.webp",
               "type": "image",
               "alt": "Image may contain: bottle, indoor and plastic bottle",
               "caption": ""
@@ -4377,7 +4360,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821462/onuryunisli/work/jeuvl2v9rcnx6ero6seb.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/jeuvl2v9rcnx6ero6seb.webp",
               "type": "image",
               "alt": "Image may contain: person, footwear and poster",
               "caption": ""
@@ -4387,7 +4370,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821463/onuryunisli/work/rzuhhyvcsvofvsqr9xoh.png",
+              "src": "/assets/media/work/packaging-sirab-sport-water/rzuhhyvcsvofvsqr9xoh.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, bicycle and sports equipment",
               "caption": ""
@@ -4398,7 +4381,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/206425751/Packaging-Sirab-Sport-Water",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854245/onuryunisli/fdibjamkr5xavx2avvc8.png"
+      "logo": "/assets/media/logos/sirab.webp"
     },
     {
       "slug": "be-group-brand-identity",
@@ -4414,16 +4397,16 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1213910370?badge=0&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" style=\"width:1920px;height:1080px;\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
+      "poster": "/assets/media/work/be-group-brand-identity/b8yzdd138eqhv6nhtqao.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/ikgoh1oqpxs3mps6ejkv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/dcsjg08fjtka1kqppjl9.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/oufgolmhcxhjoyumy9qs.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/yy9me00tjuslwkbvvact.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/cyaqzfau5lpftyyejguk.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/cmflhz5lddhgscuj61ce.png"
+        "/assets/media/work/be-group-brand-identity/b8yzdd138eqhv6nhtqao.webp",
+        "/assets/media/work/be-group-brand-identity/ikgoh1oqpxs3mps6ejkv.webp",
+        "/assets/media/work/be-group-brand-identity/dcsjg08fjtka1kqppjl9.webp",
+        "/assets/media/work/be-group-brand-identity/oufgolmhcxhjoyumy9qs.webp",
+        "/assets/media/work/be-group-brand-identity/yy9me00tjuslwkbvvact.webp",
+        "/assets/media/work/be-group-brand-identity/cyaqzfau5lpftyyejguk.webp",
+        "/assets/media/work/be-group-brand-identity/cmflhz5lddhgscuj61ce.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4448,7 +4431,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/b8yzdd138eqhv6nhtqao.png",
+              "src": "/assets/media/work/be-group-brand-identity/b8yzdd138eqhv6nhtqao.webp",
               "type": "image",
               "alt": "Image may contain: publication, book and printing",
               "caption": ""
@@ -4468,7 +4451,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/ikgoh1oqpxs3mps6ejkv.png",
+              "src": "/assets/media/work/be-group-brand-identity/ikgoh1oqpxs3mps6ejkv.webp",
               "type": "image",
               "alt": "Image may contain: businesscard, material property and screenshot",
               "caption": ""
@@ -4479,19 +4462,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/fzwgm2qceenrnyobj5f3.png",
+                "src": "/assets/media/work/be-group-brand-identity/fzwgm2qceenrnyobj5f3.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/smemkc9a8w2hhd3hbxur.png",
+                "src": "/assets/media/work/be-group-brand-identity/smemkc9a8w2hhd3hbxur.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/ttdsbujreo7h1jvcw425.png",
+                "src": "/assets/media/work/be-group-brand-identity/ttdsbujreo7h1jvcw425.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -4504,7 +4487,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821566/onuryunisli/work/dcsjg08fjtka1kqppjl9.png",
+              "src": "/assets/media/work/be-group-brand-identity/dcsjg08fjtka1kqppjl9.webp",
               "type": "image",
               "alt": "Image may contain: factory",
               "caption": ""
@@ -4514,7 +4497,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/oufgolmhcxhjoyumy9qs.png",
+              "src": "/assets/media/work/be-group-brand-identity/oufgolmhcxhjoyumy9qs.webp",
               "type": "image",
               "alt": "Image may contain: businesscard, rectangle and material property",
               "caption": ""
@@ -4529,7 +4512,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/yy9me00tjuslwkbvvact.png",
+              "src": "/assets/media/work/be-group-brand-identity/yy9me00tjuslwkbvvact.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, rectangle and square",
               "caption": ""
@@ -4539,7 +4522,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821567/onuryunisli/work/cyaqzfau5lpftyyejguk.png",
+              "src": "/assets/media/work/be-group-brand-identity/cyaqzfau5lpftyyejguk.webp",
               "type": "image",
               "alt": "Image may contain: box, office supplies and general supply",
               "caption": ""
@@ -4549,7 +4532,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/cmflhz5lddhgscuj61ce.png",
+              "src": "/assets/media/work/be-group-brand-identity/cmflhz5lddhgscuj61ce.webp",
               "type": "image",
               "alt": "Image may contain: wheel, vehicle and freight transport",
               "caption": ""
@@ -4564,7 +4547,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/v7ucle3rmnxudbimdgza.png",
+              "src": "/assets/media/work/be-group-brand-identity/v7ucle3rmnxudbimdgza.webp",
               "type": "image",
               "alt": "Image may contain: clothing, person and engineering",
               "caption": ""
@@ -4574,7 +4557,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821568/onuryunisli/work/isbxf2ynydbrepy46mwj.png",
+              "src": "/assets/media/work/be-group-brand-identity/isbxf2ynydbrepy46mwj.webp",
               "type": "image",
               "alt": "Image may contain: clothing, person and engineering",
               "caption": ""
@@ -4589,7 +4572,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821569/onuryunisli/work/lowtqe3jtgxw5ehxcgmb.png",
+              "src": "/assets/media/work/be-group-brand-identity/lowtqe3jtgxw5ehxcgmb.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and grass",
               "caption": ""
@@ -4600,7 +4583,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/253425137/BE-GROUP-Brand-Identity",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854260/onuryunisli/aiqgwptgmbkpy9bx4v6w.png"
+      "logo": "/assets/media/logos/be-group.webp"
     },
     {
       "slug": "packaging-sirab-soda",
@@ -4616,14 +4599,12 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1228383383?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1080\" height=\"1920\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
+      "poster": "/assets/media/work/packaging-sirab-soda/qpnmdpasfxnx2v52mkc0.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836737/onuryunisli/lw4pb0dqohzmhodqjah6.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836739/onuryunisli/t9vwosbs1perx1zpgajd.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png"
+        "/assets/media/work/packaging-sirab-soda/qpnmdpasfxnx2v52mkc0.webp",
+        "/assets/media/work/packaging-sirab-soda/pdvsve0zhcbgcehnpnj6.webp",
+        "/assets/media/work/packaging-sirab-soda/kajtbmhm4hvfdswynxy4.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4641,7 +4622,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/qpnmdpasfxnx2v52mkc0.png",
+              "src": "/assets/media/work/packaging-sirab-soda/qpnmdpasfxnx2v52mkc0.webp",
               "type": "image",
               "alt": "Image may contain: beverage, bottle and drink",
               "caption": ""
@@ -4658,7 +4639,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pdvsve0zhcbgcehnpnj6.png",
+              "src": "/assets/media/work/packaging-sirab-soda/pdvsve0zhcbgcehnpnj6.webp",
               "type": "image",
               "alt": "Image may contain: drink, bottle and glass bottle",
               "caption": ""
@@ -4669,13 +4650,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/pfqzl0kkcxq1zg9tsxoi.png",
+                "src": "/assets/media/work/packaging-sirab-soda/pfqzl0kkcxq1zg9tsxoi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/l0s0rgwdygkgmlg6hxsn.gif",
+                "src": "/assets/media/work/packaging-sirab-soda/l0s0rgwdygkgmlg6hxsn.mp4",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -4688,7 +4669,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/vbggb3wxml15p9wk1tuk.png",
+              "src": "/assets/media/work/packaging-sirab-soda/vbggb3wxml15p9wk1tuk.webp",
               "type": "image",
               "alt": "Image may contain: lemon, citron and fruit",
               "caption": ""
@@ -4698,7 +4679,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820465/onuryunisli/work/kajtbmhm4hvfdswynxy4.png",
+              "src": "/assets/media/work/packaging-sirab-soda/kajtbmhm4hvfdswynxy4.webp",
               "type": "image",
               "alt": "Image may contain: bottle, liquid and solution",
               "caption": ""
@@ -4709,13 +4690,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/v5xffaf6c5qguczfraqn.gif",
+                "src": "/assets/media/work/packaging-sirab-soda/v5xffaf6c5qguczfraqn.mp4",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/ylk59me9lidkeyoqiykr.png",
+                "src": "/assets/media/work/packaging-sirab-soda/ylk59me9lidkeyoqiykr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -4728,7 +4709,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/nawgfct13dsg5jeiw0x7.png",
+              "src": "/assets/media/work/packaging-sirab-soda/nawgfct13dsg5jeiw0x7.webp",
               "type": "image",
               "alt": "Image may contain: fruit and natural foods",
               "caption": ""
@@ -4738,7 +4719,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/xyhcmknfmoamge0v3bzw.png",
+              "src": "/assets/media/work/packaging-sirab-soda/xyhcmknfmoamge0v3bzw.webp",
               "type": "image",
               "alt": "Image may contain: bottle, liquid and solution",
               "caption": ""
@@ -4748,7 +4729,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/y3i0wqhteyweerochoez.png",
+              "src": "/assets/media/work/packaging-sirab-soda/y3i0wqhteyweerochoez.webp",
               "type": "image",
               "alt": "Image may contain: drink, food and glass bottle",
               "caption": ""
@@ -4758,7 +4739,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/gpsghymxps28coyoksx8.png",
+              "src": "/assets/media/work/packaging-sirab-soda/gpsghymxps28coyoksx8.webp",
               "type": "image",
               "alt": "Image may contain: glass bottle, beverage and bottle",
               "caption": ""
@@ -4768,7 +4749,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820466/onuryunisli/work/crtdi69nra5g6mowzqs8.png",
+              "src": "/assets/media/work/packaging-sirab-soda/crtdi69nra5g6mowzqs8.webp",
               "type": "image",
               "alt": "Image may contain: bottle, glass bottle and drink",
               "caption": ""
@@ -4778,7 +4759,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820467/onuryunisli/work/oazh5trljntqrb27fpvh.png",
+              "src": "/assets/media/work/packaging-sirab-soda/oazh5trljntqrb27fpvh.webp",
               "type": "image",
               "alt": "Image may contain: fruit, food and fruit drink",
               "caption": ""
@@ -4788,7 +4769,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820467/onuryunisli/work/nntjy3pkuj4x1coiwfwb.png",
+              "src": "/assets/media/work/packaging-sirab-soda/nntjy3pkuj4x1coiwfwb.webp",
               "type": "image",
               "alt": "Image may contain: person, outdoor and clothing",
               "caption": ""
@@ -4798,7 +4779,7 @@ window.SITE = {
         ]
       },
       "behanceUrl": "https://www.behance.net/gallery/250792623/Packaging-Sirab-Soda",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789837437/onuryunisli/l2fpnm7ye1jwv10ng2id.png",
+      "logo": "/assets/media/logos/sirab.webp",
       "studio": "Element"
     },
     {
@@ -4817,13 +4798,13 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1099894402?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
+      "poster": "/assets/media/work/alive-coffee-packaging-3d-animation/jqthkf2weako5tuyr1eo.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/nfwkepnji52j7qwhczwd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/axog7yngrqr8llri2z7i.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/svye5cxqafe2sqtujc4w.jpg"
+        "/assets/media/work/alive-coffee-packaging-3d-animation/jqthkf2weako5tuyr1eo.webp",
+        "/assets/media/work/alive-coffee-packaging-3d-animation/nfwkepnji52j7qwhczwd.webp",
+        "/assets/media/work/alive-coffee-packaging-3d-animation/axog7yngrqr8llri2z7i.webp",
+        "/assets/media/work/alive-coffee-packaging-3d-animation/svye5cxqafe2sqtujc4w.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4848,7 +4829,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/jqthkf2weako5tuyr1eo.jpg",
+              "src": "/assets/media/work/alive-coffee-packaging-3d-animation/jqthkf2weako5tuyr1eo.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, skyscraper and indoor",
               "caption": ""
@@ -4868,7 +4849,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/nfwkepnji52j7qwhczwd.jpg",
+              "src": "/assets/media/work/alive-coffee-packaging-3d-animation/nfwkepnji52j7qwhczwd.webp",
               "type": "image",
               "alt": "Image may contain: skyscraper and screenshot",
               "caption": ""
@@ -4878,7 +4859,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/axog7yngrqr8llri2z7i.jpg",
+              "src": "/assets/media/work/alive-coffee-packaging-3d-animation/axog7yngrqr8llri2z7i.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -4893,7 +4874,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820530/onuryunisli/work/svye5cxqafe2sqtujc4w.jpg",
+              "src": "/assets/media/work/alive-coffee-packaging-3d-animation/svye5cxqafe2sqtujc4w.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -4904,13 +4885,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/w3vkkfxj8pyetr8ohhdg.jpg",
+                "src": "/assets/media/work/alive-coffee-packaging-3d-animation/w3vkkfxj8pyetr8ohhdg.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820531/onuryunisli/work/c4us2jvkwr7orux4cyoe.jpg",
+                "src": "/assets/media/work/alive-coffee-packaging-3d-animation/c4us2jvkwr7orux4cyoe.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -4950,7 +4931,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/229946545/Alive-Coffee-Packaging-3D-Animation",
       "studio": "",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854276/onuryunisli/uxpnxinbhrvuoizqyuoe.png"
+      "logo": "/assets/media/logos/alive.webp"
     },
     {
       "slug": "badamli-mineral-water-vintage-packaging",
@@ -4967,14 +4948,12 @@ window.SITE = {
       "featured": true,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198391280?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
+      "poster": "/assets/media/work/badamli-mineral-water-vintage-packaging/wujuqbnmcxm5zrhpiqgj.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836222/onuryunisli/olnvuskh5mehwizrefve.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836217/onuryunisli/z5zhiwt1k3ediikuxi54.png"
+        "/assets/media/work/badamli-mineral-water-vintage-packaging/wujuqbnmcxm5zrhpiqgj.webp",
+        "/assets/media/work/badamli-mineral-water-vintage-packaging/avrpomol9cqyaimhz6ql.webp",
+        "/assets/media/work/badamli-mineral-water-vintage-packaging/ivhbulnmrpjkdevhthtl.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -4999,7 +4978,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/oso5hx4hmkf7x0natixm.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/oso5hx4hmkf7x0natixm.webp",
               "type": "image",
               "alt": "Image may contain: bottle, indoor and soft drink",
               "caption": ""
@@ -5009,7 +4988,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/yhfpuhrcyqnhaicl0w5n.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/yhfpuhrcyqnhaicl0w5n.webp",
               "type": "image",
               "alt": "Image may contain: map",
               "caption": ""
@@ -5024,7 +5003,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/wujuqbnmcxm5zrhpiqgj.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/wujuqbnmcxm5zrhpiqgj.webp",
               "type": "image",
               "alt": "Image may contain: bottle and drink",
               "caption": ""
@@ -5034,7 +5013,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/avrpomol9cqyaimhz6ql.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/avrpomol9cqyaimhz6ql.webp",
               "type": "image",
               "alt": "Image may contain: wall and bottle",
               "caption": ""
@@ -5044,7 +5023,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821446/onuryunisli/work/tx1fe2maizetfs1pxmx7.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/tx1fe2maizetfs1pxmx7.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5054,17 +5033,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789836079/onuryunisli/vdrt14shcwnorgozca39.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/ivhbulnmrpjkdevhthtl.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/ivhbulnmrpjkdevhthtl.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drink and wine",
               "caption": ""
@@ -5074,7 +5043,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/npelbjdi6nv7fpyswdni.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/npelbjdi6nv7fpyswdni.webp",
               "type": "image",
               "alt": "Image may contain: bottle and drink",
               "caption": ""
@@ -5084,7 +5053,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/iampvuajlvsiexrij9ce.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/iampvuajlvsiexrij9ce.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drink and beer",
               "caption": ""
@@ -5094,7 +5063,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/tcgrulflxw81kigapnkg.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/tcgrulflxw81kigapnkg.webp",
               "type": "image",
               "alt": "Image may contain: indoor, bottle and drink",
               "caption": ""
@@ -5104,7 +5073,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821447/onuryunisli/work/grjvpntfnufdwagjjpvj.jpg",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/grjvpntfnufdwagjjpvj.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drink and beer",
               "caption": ""
@@ -5115,13 +5084,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/q6ms9dr8tbi7j9aoqnuz.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/q6ms9dr8tbi7j9aoqnuz.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/jyy4r41ydbehrucoy8a9.jpg",
+                "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/jyy4r41ydbehrucoy8a9.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -5134,7 +5103,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821458/onuryunisli/work/ih8qh4lvbrqt9lv5ml37.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/ih8qh4lvbrqt9lv5ml37.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drink and table",
               "caption": ""
@@ -5151,7 +5120,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/ompbjbjw2ifoyf5qorxp.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/ompbjbjw2ifoyf5qorxp.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5162,13 +5131,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/c09ev4vvcmzwp0p7eiyx.png",
+                "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/c09ev4vvcmzwp0p7eiyx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/echsghb08xofpq2xvqxx.png",
+                "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/echsghb08xofpq2xvqxx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -5181,7 +5150,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821448/onuryunisli/work/hftpa7amxi0gxguig4qm.png",
+              "src": "/assets/media/work/badamli-mineral-water-vintage-packaging/hftpa7amxi0gxguig4qm.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -5209,7 +5178,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/232123155/Badamli-Mineral-Water-Vintage-Packaging",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854288/onuryunisli/ecf1plpyra9l1tpsdlvx.png"
+      "logo": "/assets/media/logos/badamli.webp"
     },
     {
       "slug": "sirab-niy-seviln-su",
@@ -5226,16 +5195,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198390341?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"1700\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
+      "poster": "/assets/media/work/sirab-niy-seviln-su/cakh3okdpjpwmmwkv7kd.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821547/onuryunisli/work/nbbhpo4qmcounlc9d1f1.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/rrsh8wyyl4vmlcc2pfrg.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/adjxzc1c0vtfgnynfbou.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/admiid4jtl4pmlwei0mv.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821550/onuryunisli/work/ahuvvbkwwmpv2zcyunug.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821543/onuryunisli/work/jbnvneeluni6xjk3mbvi.png"
+        "/assets/media/work/sirab-niy-seviln-su/cakh3okdpjpwmmwkv7kd.webp",
+        "/assets/media/work/sirab-niy-seviln-su/nbbhpo4qmcounlc9d1f1.webp",
+        "/assets/media/work/sirab-niy-seviln-su/rrsh8wyyl4vmlcc2pfrg.webp",
+        "/assets/media/work/sirab-niy-seviln-su/adjxzc1c0vtfgnynfbou.webp",
+        "/assets/media/work/sirab-niy-seviln-su/admiid4jtl4pmlwei0mv.webp",
+        "/assets/media/work/sirab-niy-seviln-su/ahuvvbkwwmpv2zcyunug.webp",
+        "/assets/media/work/sirab-niy-seviln-su/jbnvneeluni6xjk3mbvi.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5260,7 +5229,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/cakh3okdpjpwmmwkv7kd.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/cakh3okdpjpwmmwkv7kd.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, sky and building",
               "caption": ""
@@ -5270,7 +5239,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821547/onuryunisli/work/nbbhpo4qmcounlc9d1f1.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/nbbhpo4qmcounlc9d1f1.webp",
               "type": "image",
               "alt": "Image may contain: bottle, soft drink and drink",
               "caption": ""
@@ -5285,7 +5254,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/rrsh8wyyl4vmlcc2pfrg.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/rrsh8wyyl4vmlcc2pfrg.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -5295,7 +5264,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/adjxzc1c0vtfgnynfbou.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/adjxzc1c0vtfgnynfbou.webp",
               "type": "image",
               "alt": "Image may contain: bottle, indoor and beverage",
               "caption": ""
@@ -5310,7 +5279,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821542/onuryunisli/work/admiid4jtl4pmlwei0mv.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/admiid4jtl4pmlwei0mv.webp",
               "type": "image",
               "alt": "Image may contain: bottle, drink and beer",
               "caption": ""
@@ -5325,7 +5294,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821550/onuryunisli/work/ahuvvbkwwmpv2zcyunug.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/ahuvvbkwwmpv2zcyunug.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, tree and ground",
               "caption": ""
@@ -5340,7 +5309,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821543/onuryunisli/work/jbnvneeluni6xjk3mbvi.png",
+              "src": "/assets/media/work/sirab-niy-seviln-su/jbnvneeluni6xjk3mbvi.webp",
               "type": "image",
               "alt": "Image may contain: person, green and clothing",
               "caption": ""
@@ -5376,7 +5345,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/229462795/Sirab-Niy-Seviln-Su",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854298/onuryunisli/dcypyxoohc3llb5fyed5.png"
+      "logo": "/assets/media/logos/sirab.webp"
     },
     {
       "slug": "brand-identity-lamina-dekor",
@@ -5393,16 +5362,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198390839?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
+      "poster": "/assets/media/work/brand-identity-lamina-dekor/g7xmwoscs4dcb4vco8bv.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/sv4xkb0h6zwtbuiypb0j.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/egeq6ppecv3xfthhtm9e.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/l4lq0h1yvuggzwe2fz1t.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/khziltrth1xmdtphwkbd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/ufpovfcg6ttct0ouljfr.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/udkydzntnzwa1wl8rybr.jpg"
+        "/assets/media/work/brand-identity-lamina-dekor/g7xmwoscs4dcb4vco8bv.webp",
+        "/assets/media/work/brand-identity-lamina-dekor/sv4xkb0h6zwtbuiypb0j.webp",
+        "/assets/media/work/brand-identity-lamina-dekor/egeq6ppecv3xfthhtm9e.webp",
+        "/assets/media/work/brand-identity-lamina-dekor/l4lq0h1yvuggzwe2fz1t.webp",
+        "/assets/media/work/brand-identity-lamina-dekor/khziltrth1xmdtphwkbd.webp",
+        "/assets/media/work/brand-identity-lamina-dekor/ufpovfcg6ttct0ouljfr.webp",
+        "/assets/media/work/brand-identity-lamina-dekor/udkydzntnzwa1wl8rybr.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5415,7 +5384,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/g7xmwoscs4dcb4vco8bv.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/g7xmwoscs4dcb4vco8bv.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, piano and furniture",
               "caption": ""
@@ -5432,7 +5401,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/sv4xkb0h6zwtbuiypb0j.png",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/sv4xkb0h6zwtbuiypb0j.webp",
               "type": "image",
               "alt": "Image may contain: musical instrument and piano",
               "caption": ""
@@ -5449,7 +5418,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/egeq6ppecv3xfthhtm9e.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/egeq6ppecv3xfthhtm9e.webp",
               "type": "image",
               "alt": "Image may contain: person and clothing",
               "caption": ""
@@ -5464,7 +5433,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/l4lq0h1yvuggzwe2fz1t.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/l4lq0h1yvuggzwe2fz1t.webp",
               "type": "image",
               "alt": "Image may contain: land vehicle, wheel and vehicle",
               "caption": ""
@@ -5474,7 +5443,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/khziltrth1xmdtphwkbd.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/khziltrth1xmdtphwkbd.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -5494,7 +5463,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821576/onuryunisli/work/ufpovfcg6ttct0ouljfr.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/ufpovfcg6ttct0ouljfr.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -5504,7 +5473,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/udkydzntnzwa1wl8rybr.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/udkydzntnzwa1wl8rybr.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -5519,7 +5488,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/t8kuirstfz0cwtqrexrb.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/t8kuirstfz0cwtqrexrb.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, poster and typography",
               "caption": ""
@@ -5529,7 +5498,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/an7u6z0l5lbhacjsjubq.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/an7u6z0l5lbhacjsjubq.webp",
               "type": "image",
               "alt": "Image may contain: wooden, table and chair",
               "caption": ""
@@ -5549,7 +5518,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/hwi1efakrmjjekimxfnl.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/hwi1efakrmjjekimxfnl.webp",
               "type": "image",
               "alt": "Image may contain: art, music and screenshot",
               "caption": ""
@@ -5559,7 +5528,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/szvgmz7fko8bedjhgybp.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/szvgmz7fko8bedjhgybp.webp",
               "type": "image",
               "alt": "Image may contain: abstract and screenshot",
               "caption": ""
@@ -5569,7 +5538,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/z8u8jbcmoghgsptrfrpm.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/z8u8jbcmoghgsptrfrpm.webp",
               "type": "image",
               "alt": "Image may contain: building, outdoor and city",
               "caption": ""
@@ -5579,7 +5548,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/mioghb1bgfkv8jacixdq.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/mioghb1bgfkv8jacixdq.webp",
               "type": "image",
               "alt": "Image may contain: outdoor",
               "caption": ""
@@ -5589,7 +5558,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/ul2rrudoxigpjrwhlzfh.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/ul2rrudoxigpjrwhlzfh.webp",
               "type": "image",
               "alt": "Image may contain: cartoon",
               "caption": ""
@@ -5599,7 +5568,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/wizpcxb04jjw9krmk0ur.png",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/wizpcxb04jjw9krmk0ur.webp",
               "type": "image",
               "alt": "Image may contain: person, clothing and human face",
               "caption": ""
@@ -5609,7 +5578,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/uivpaadh7xeayfyocnla.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/uivpaadh7xeayfyocnla.webp",
               "type": "image",
               "alt": "Image may contain: vehicle",
               "caption": ""
@@ -5619,7 +5588,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821577/onuryunisli/work/dsyspnew5tjuly4d2nuc.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/dsyspnew5tjuly4d2nuc.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -5629,7 +5598,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/rnyjop0rjj5ockdyat6m.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/rnyjop0rjj5ockdyat6m.webp",
               "type": "image",
               "alt": "Image may contain: letter, book and screenshot",
               "caption": ""
@@ -5639,7 +5608,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821578/onuryunisli/work/vhe2yvz0hbea4umyflkk.jpg",
+              "src": "/assets/media/work/brand-identity-lamina-dekor/vhe2yvz0hbea4umyflkk.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5650,7 +5619,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/223113601/Brand-Identity-Lamina-Dekor",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854319/onuryunisli/dffpt6ycacbyabtpkiwm.png"
+      "logo": "/assets/media/logos/lamina-dekor.webp"
     },
     {
       "slug": "turkic-week-in-geneva",
@@ -5667,16 +5636,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1066953749?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"4392\" height=\"2776\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
+      "poster": "/assets/media/work/turkic-week-in-geneva/mpdqoveqjyprklzij3tu.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/clbcjd0bgyouwazspark.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/kx9mbebua8o2yxo1mrhx.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/ihsvzomalssz5n7uzi1u.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/j0ys4gpzlfdilbkyv4e9.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/ks1qy3fsj81s6xn3sivt.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/gs0fzpbykh4pocdjtjdn.png"
+        "/assets/media/work/turkic-week-in-geneva/mpdqoveqjyprklzij3tu.webp",
+        "/assets/media/work/turkic-week-in-geneva/clbcjd0bgyouwazspark.webp",
+        "/assets/media/work/turkic-week-in-geneva/kx9mbebua8o2yxo1mrhx.webp",
+        "/assets/media/work/turkic-week-in-geneva/ihsvzomalssz5n7uzi1u.webp",
+        "/assets/media/work/turkic-week-in-geneva/j0ys4gpzlfdilbkyv4e9.webp",
+        "/assets/media/work/turkic-week-in-geneva/ks1qy3fsj81s6xn3sivt.webp",
+        "/assets/media/work/turkic-week-in-geneva/gs0fzpbykh4pocdjtjdn.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5701,7 +5670,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/mpdqoveqjyprklzij3tu.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/mpdqoveqjyprklzij3tu.webp",
               "type": "image",
               "alt": "Image may contain: building, outdoor and parking",
               "caption": ""
@@ -5716,7 +5685,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/clbcjd0bgyouwazspark.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/clbcjd0bgyouwazspark.webp",
               "type": "image",
               "alt": "Image may contain: template",
               "caption": ""
@@ -5726,7 +5695,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/kx9mbebua8o2yxo1mrhx.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/kx9mbebua8o2yxo1mrhx.webp",
               "type": "image",
               "alt": "Image may contain: person, floor and clothing",
               "caption": ""
@@ -5737,13 +5706,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821651/onuryunisli/work/cebxkunj2ofmat0pbzft.png",
+                "src": "/assets/media/work/turkic-week-in-geneva/cebxkunj2ofmat0pbzft.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821651/onuryunisli/work/zhlomti6xbfgfrzgnr3p.png",
+                "src": "/assets/media/work/turkic-week-in-geneva/zhlomti6xbfgfrzgnr3p.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -5761,7 +5730,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821649/onuryunisli/work/ihsvzomalssz5n7uzi1u.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/ihsvzomalssz5n7uzi1u.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5776,7 +5745,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/j0ys4gpzlfdilbkyv4e9.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/j0ys4gpzlfdilbkyv4e9.webp",
               "type": "image",
               "alt": "Image may contain: person, standing and clothing",
               "caption": ""
@@ -5786,7 +5755,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/ks1qy3fsj81s6xn3sivt.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/ks1qy3fsj81s6xn3sivt.webp",
               "type": "image",
               "alt": "Image may contain: tree, outdoor and billboard",
               "caption": ""
@@ -5796,7 +5765,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821650/onuryunisli/work/gs0fzpbykh4pocdjtjdn.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/gs0fzpbykh4pocdjtjdn.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -5806,7 +5775,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821657/onuryunisli/work/wfuekqzjv0svdryy31bl.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/wfuekqzjv0svdryy31bl.webp",
               "type": "image",
               "alt": "Image may contain: person, indoor and clothing",
               "caption": ""
@@ -5817,13 +5786,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821654/onuryunisli/work/spy6hlnu3bbh7iwubaod.png",
+                "src": "/assets/media/work/turkic-week-in-geneva/spy6hlnu3bbh7iwubaod.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821655/onuryunisli/work/pwqppsxk3yngmkfalhl5.png",
+                "src": "/assets/media/work/turkic-week-in-geneva/pwqppsxk3yngmkfalhl5.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -5836,7 +5805,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821652/onuryunisli/work/cbpimewrv7oti8jivwqu.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/cbpimewrv7oti8jivwqu.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, print and template",
               "caption": ""
@@ -5846,7 +5815,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821653/onuryunisli/work/fa3l0vxeueli4wxyupok.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/fa3l0vxeueli4wxyupok.webp",
               "type": "image",
               "alt": "Image may contain: illustration",
               "caption": ""
@@ -5856,7 +5825,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821654/onuryunisli/work/tg6qcsokxljmngc6yohq.png",
+              "src": "/assets/media/work/turkic-week-in-geneva/tg6qcsokxljmngc6yohq.webp",
               "type": "image",
               "alt": "Image may contain: accessory",
               "caption": ""
@@ -5867,7 +5836,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/221090663/Turkic-Week-in-Geneva",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854336/onuryunisli/fh4exexuq9mnhvqviumn.png"
+      "logo": "/assets/media/logos/turkic-week-in-geneva.webp"
     },
     {
       "slug": "rebranding-lezzet-qida-senaye",
@@ -5882,16 +5851,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/1023248442?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
+      "poster": "/assets/media/work/rebranding-lezzet-qida-senaye/inz9jpmljlxwzrqmr2ni.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/a4ysc7ckighkk9mbmc7e.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/vdkiaznl4aurmw4isqqr.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/fpfzrlo93w7rudzobubm.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mm0zyfmjce6qb00vgj7m.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/xx26kxuohvmro2kyqjbk.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821683/onuryunisli/work/b9jjypuirskepxkquanl.png"
+        "/assets/media/work/rebranding-lezzet-qida-senaye/inz9jpmljlxwzrqmr2ni.webp",
+        "/assets/media/work/rebranding-lezzet-qida-senaye/a4ysc7ckighkk9mbmc7e.webp",
+        "/assets/media/work/rebranding-lezzet-qida-senaye/vdkiaznl4aurmw4isqqr.webp",
+        "/assets/media/work/rebranding-lezzet-qida-senaye/fpfzrlo93w7rudzobubm.webp",
+        "/assets/media/work/rebranding-lezzet-qida-senaye/mm0zyfmjce6qb00vgj7m.webp",
+        "/assets/media/work/rebranding-lezzet-qida-senaye/xx26kxuohvmro2kyqjbk.webp",
+        "/assets/media/work/rebranding-lezzet-qida-senaye/b9jjypuirskepxkquanl.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -5904,7 +5873,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/inz9jpmljlxwzrqmr2ni.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/inz9jpmljlxwzrqmr2ni.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5921,7 +5890,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/a4ysc7ckighkk9mbmc7e.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/a4ysc7ckighkk9mbmc7e.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -5931,7 +5900,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/vdkiaznl4aurmw4isqqr.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/vdkiaznl4aurmw4isqqr.webp",
               "type": "image",
               "alt": "Image may contain: illustration",
               "caption": ""
@@ -5941,7 +5910,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/fpfzrlo93w7rudzobubm.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/fpfzrlo93w7rudzobubm.webp",
               "type": "image",
               "alt": "Image may contain: person, man and indoor",
               "caption": ""
@@ -5951,7 +5920,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mm0zyfmjce6qb00vgj7m.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mm0zyfmjce6qb00vgj7m.webp",
               "type": "image",
               "alt": "Image may contain: building, outdoor and brick",
               "caption": ""
@@ -5961,7 +5930,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821679/onuryunisli/work/xx26kxuohvmro2kyqjbk.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/xx26kxuohvmro2kyqjbk.webp",
               "type": "image",
               "alt": "Image may contain: sign",
               "caption": ""
@@ -5971,7 +5940,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821683/onuryunisli/work/b9jjypuirskepxkquanl.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/b9jjypuirskepxkquanl.webp",
               "type": "image",
               "alt": "Image may contain: person, woman and human face",
               "caption": ""
@@ -5981,7 +5950,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/lnexds9xqgbe0ybzivjc.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/lnexds9xqgbe0ybzivjc.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -5991,7 +5960,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/kyixdkb0lwhctrj0ud99.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/kyixdkb0lwhctrj0ud99.webp",
               "type": "image",
               "alt": "Image may contain: letter, book and businesscard",
               "caption": ""
@@ -6001,7 +5970,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/ptwysqcybk37kxudy2ft.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ptwysqcybk37kxudy2ft.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, building and truck",
               "caption": ""
@@ -6011,7 +5980,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821681/onuryunisli/work/s4svl8qbmussm8dgz4zd.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/s4svl8qbmussm8dgz4zd.webp",
               "type": "image",
               "alt": "Image may contain: person, man and human face",
               "caption": ""
@@ -6021,7 +5990,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821682/onuryunisli/work/lu34f1evajubpgqtsolq.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/lu34f1evajubpgqtsolq.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, handwriting and letter",
               "caption": ""
@@ -6031,7 +6000,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mq9forvjtgzxo87lcvuj.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mq9forvjtgzxo87lcvuj.webp",
               "type": "image",
               "alt": "Image may contain: human face, baby and smile",
               "caption": ""
@@ -6041,7 +6010,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821685/onuryunisli/work/mhonzxfewqsckiucuki6.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mhonzxfewqsckiucuki6.webp",
               "type": "image",
               "alt": "Image may contain: grass, human face and smile",
               "caption": ""
@@ -6051,7 +6020,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821684/onuryunisli/work/q7fircblkvfrqtly1yp3.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/q7fircblkvfrqtly1yp3.webp",
               "type": "image",
               "alt": "Image may contain: cartoon",
               "caption": ""
@@ -6061,7 +6030,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821689/onuryunisli/work/ykl1abxlhzphuqs6kvav.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ykl1abxlhzphuqs6kvav.webp",
               "type": "image",
               "alt": "Image may contain: sky and sign",
               "caption": ""
@@ -6071,7 +6040,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/ixpoxg5xoqf2qfezj5ic.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ixpoxg5xoqf2qfezj5ic.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, person and man",
               "caption": ""
@@ -6081,7 +6050,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/kygcaffpaogjitqnfti8.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/kygcaffpaogjitqnfti8.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, print and geometry",
               "caption": ""
@@ -6091,7 +6060,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/q27b2ufrugq9hdk58gmd.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/q27b2ufrugq9hdk58gmd.webp",
               "type": "image",
               "alt": "Image may contain: fast food, food and snack",
               "caption": ""
@@ -6101,7 +6070,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821692/onuryunisli/work/ixqgpc0ahbcetsrr3rpp.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ixqgpc0ahbcetsrr3rpp.webp",
               "type": "image",
               "alt": "Image may contain: box, waste container and businesscard",
               "caption": ""
@@ -6111,7 +6080,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821686/onuryunisli/work/ygpwvofp8xdoiu5skn2a.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ygpwvofp8xdoiu5skn2a.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6121,7 +6090,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/roceue1p2um0lz8nl6cz.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/roceue1p2um0lz8nl6cz.webp",
               "type": "image",
               "alt": "Image may contain: businesscard",
               "caption": ""
@@ -6131,7 +6100,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/dqsvp9aovw6o0kmupbeo.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/dqsvp9aovw6o0kmupbeo.webp",
               "type": "image",
               "alt": "Image may contain: stationary and illustration",
               "caption": ""
@@ -6141,7 +6110,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/r9n4ti6u5ocibsitivrv.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/r9n4ti6u5ocibsitivrv.webp",
               "type": "image",
               "alt": "Image may contain: cartoon, human face and person",
               "caption": ""
@@ -6151,7 +6120,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821687/onuryunisli/work/asctiejbglyx1kjojbn2.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/asctiejbglyx1kjojbn2.webp",
               "type": "image",
               "alt": "Image may contain: person, red and clothing",
               "caption": ""
@@ -6161,7 +6130,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821688/onuryunisli/work/mmlycizl8wdmr61krqxj.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/mmlycizl8wdmr61krqxj.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6171,7 +6140,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821692/onuryunisli/work/gpmmkofmljrh9ih3c03r.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/gpmmkofmljrh9ih3c03r.webp",
               "type": "image",
               "alt": "Image may contain: active shirt, sleeve and sports uniform",
               "caption": ""
@@ -6181,7 +6150,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821691/onuryunisli/work/ufeatwxuu50kti4kd75s.png",
+              "src": "/assets/media/work/rebranding-lezzet-qida-senaye/ufeatwxuu50kti4kd75s.webp",
               "type": "image",
               "alt": "Image may contain: billboard and flag",
               "caption": ""
@@ -6197,7 +6166,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/207577561/Rebranding-Lezzet-Qida-Senaye",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854349/onuryunisli/s0mz66hv8151ow0zvyef.png"
+      "logo": "/assets/media/logos/lezzet.webp"
     },
     {
       "slug": "alive-skin-beauty-3d-product-rendering-animation",
@@ -6291,7 +6260,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/212662139/Alive-Skin-Beauty-3D-Product-Rendering-Animation",
       "studio": "",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854356/onuryunisli/yuxcilrnq2ixquopfxzb.png"
+      "logo": "/assets/media/logos/alive.webp"
     },
     {
       "slug": "energy-drink-social-media-motions",
@@ -6357,7 +6326,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/207473567/Energy-Drink-Social-Media-Motions",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854366/onuryunisli/sfvsu1slcvfzflxyuc11.png"
+      "logo": "/assets/media/logos/dinamit.webp"
     },
     {
       "slug": "baku-chess-set-gobustan-edition",
@@ -6372,15 +6341,15 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/966419361?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/kylbkcgzvomsnkmpypb0.png",
+      "poster": "/assets/media/work/baku-chess-set-gobustan-edition/kylbkcgzvomsnkmpypb0.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/kylbkcgzvomsnkmpypb0.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/ox50ruikbck1b0ehtokl.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/c3qa4g7ctbiobpf67aw6.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/en8aag9istkekc9vrcie.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/rsi0tx1l9ttnj8tnzpjr.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/ecoxrhteyzmwskxp2lum.jpg"
+        "/assets/media/work/baku-chess-set-gobustan-edition/kylbkcgzvomsnkmpypb0.webp",
+        "/assets/media/work/baku-chess-set-gobustan-edition/ox50ruikbck1b0ehtokl.webp",
+        "/assets/media/work/baku-chess-set-gobustan-edition/c3qa4g7ctbiobpf67aw6.webp",
+        "/assets/media/work/baku-chess-set-gobustan-edition/en8aag9istkekc9vrcie.webp",
+        "/assets/media/work/baku-chess-set-gobustan-edition/rsi0tx1l9ttnj8tnzpjr.webp",
+        "/assets/media/work/baku-chess-set-gobustan-edition/ecoxrhteyzmwskxp2lum.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -6393,7 +6362,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/aefh6wk3xhg9nsravqvs.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/aefh6wk3xhg9nsravqvs.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and typography",
               "caption": ""
@@ -6403,7 +6372,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/kylbkcgzvomsnkmpypb0.png",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/kylbkcgzvomsnkmpypb0.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and sky",
               "caption": ""
@@ -6413,7 +6382,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/ox50ruikbck1b0ehtokl.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/ox50ruikbck1b0ehtokl.webp",
               "type": "image",
               "alt": "Image may contain: grave and cemetery",
               "caption": ""
@@ -6435,7 +6404,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/c3qa4g7ctbiobpf67aw6.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/c3qa4g7ctbiobpf67aw6.webp",
               "type": "image",
               "alt": "Image may contain: indoor",
               "caption": ""
@@ -6445,7 +6414,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/en8aag9istkekc9vrcie.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/en8aag9istkekc9vrcie.webp",
               "type": "image",
               "alt": "Image may contain: cemetery, grave and sky",
               "caption": ""
@@ -6455,7 +6424,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/rsi0tx1l9ttnj8tnzpjr.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/rsi0tx1l9ttnj8tnzpjr.webp",
               "type": "image",
               "alt": "Image may contain: cemetery and grave",
               "caption": ""
@@ -6465,7 +6434,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821539/onuryunisli/work/ecoxrhteyzmwskxp2lum.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/ecoxrhteyzmwskxp2lum.webp",
               "type": "image",
               "alt": "Image may contain: indoor, cemetery and grave",
               "caption": ""
@@ -6475,7 +6444,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821540/onuryunisli/work/qk0x6nhch7p590lxmad2.jpg",
+              "src": "/assets/media/work/baku-chess-set-gobustan-edition/qk0x6nhch7p590lxmad2.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6486,7 +6455,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/200947255/Baku-Chess-Set-Gobustan-Edition",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854375/onuryunisli/pzuwqccggeatifw8x9xf.png"
+      "logo": "/assets/media/logos/baku-chess-set.webp"
     },
     {
       "slug": "social-media-motion-design",
@@ -6527,19 +6496,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821444/onuryunisli/work/o3fbcbets3hc8fzicsum.jpg",
+                "src": "/assets/media/work/social-media-motion-design/o3fbcbets3hc8fzicsum.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821443/onuryunisli/work/qlyyizgbgjq2zajn6svx.jpg",
+                "src": "/assets/media/work/social-media-motion-design/qlyyizgbgjq2zajn6svx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821444/onuryunisli/work/wjwsfgajeyor9gdcdyej.jpg",
+                "src": "/assets/media/work/social-media-motion-design/wjwsfgajeyor9gdcdyej.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6553,19 +6522,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821444/onuryunisli/work/n0whhpga7zsicsmrzzzl.jpg",
+                "src": "/assets/media/work/social-media-motion-design/n0whhpga7zsicsmrzzzl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821444/onuryunisli/work/yipf4vbmgnjfi5dbwqrf.jpg",
+                "src": "/assets/media/work/social-media-motion-design/yipf4vbmgnjfi5dbwqrf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821444/onuryunisli/work/y9dxattwy8angip7udb2.jpg",
+                "src": "/assets/media/work/social-media-motion-design/y9dxattwy8angip7udb2.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6599,7 +6568,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/200078255/Social-Media-Motion-Design",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854396/onuryunisli/qbqa1t6g4w2spui47j5h.png"
+      "logo": ""
     },
     {
       "slug": "baku-chess-set-azerbaijan-carpet-edition",
@@ -6614,16 +6583,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/ljapkv3tbqxvivhd8glw.jpg",
+      "poster": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ljapkv3tbqxvivhd8glw.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/ljapkv3tbqxvivhd8glw.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/fq1eoymlk5l7i4hylqjj.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/l8zogkseqhkdrgyxnlfk.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/xnfypjxbrztwjf8cqwfb.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/eigoerfnkogcgrptldsn.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/rx1vtryrgccvhfdoziop.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/xnuekj07isacfcpdoi2h.jpg"
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ljapkv3tbqxvivhd8glw.webp",
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/fq1eoymlk5l7i4hylqjj.webp",
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/l8zogkseqhkdrgyxnlfk.webp",
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnfypjxbrztwjf8cqwfb.webp",
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/eigoerfnkogcgrptldsn.webp",
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/rx1vtryrgccvhfdoziop.webp",
+        "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnuekj07isacfcpdoi2h.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -6636,7 +6605,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/ljapkv3tbqxvivhd8glw.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ljapkv3tbqxvivhd8glw.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6646,7 +6615,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/fq1eoymlk5l7i4hylqjj.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/fq1eoymlk5l7i4hylqjj.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6656,7 +6625,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/l8zogkseqhkdrgyxnlfk.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/l8zogkseqhkdrgyxnlfk.webp",
               "type": "image",
               "alt": "Image may contain: table and skyscraper",
               "caption": ""
@@ -6666,7 +6635,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/xnfypjxbrztwjf8cqwfb.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnfypjxbrztwjf8cqwfb.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6676,7 +6645,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/eigoerfnkogcgrptldsn.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/eigoerfnkogcgrptldsn.webp",
               "type": "image",
               "alt": "Image may contain: skyscraper",
               "caption": ""
@@ -6686,7 +6655,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/rx1vtryrgccvhfdoziop.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/rx1vtryrgccvhfdoziop.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6696,7 +6665,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821571/onuryunisli/work/xnuekj07isacfcpdoi2h.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/xnuekj07isacfcpdoi2h.webp",
               "type": "image",
               "alt": "Image may contain: ship",
               "caption": ""
@@ -6707,13 +6676,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821574/onuryunisli/work/im82zxybexfdfwniiokm.png",
+                "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/im82zxybexfdfwniiokm.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821574/onuryunisli/work/bnolzkeal2kk2125f65o.png",
+                "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/bnolzkeal2kk2125f65o.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6726,7 +6695,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821572/onuryunisli/work/ovuyual3yhek9rwbvkxd.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/ovuyual3yhek9rwbvkxd.webp",
               "type": "image",
               "alt": "Image may contain: sky and skyscraper",
               "caption": ""
@@ -6736,7 +6705,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821572/onuryunisli/work/iqxkowi3rbqdpbjn7v8u.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/iqxkowi3rbqdpbjn7v8u.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6747,13 +6716,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821572/onuryunisli/work/apbz5kiqf4jtev38mkjy.png",
+                "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/apbz5kiqf4jtev38mkjy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821573/onuryunisli/work/cwuom4xd3hwyp6dmfwjp.png",
+                "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/cwuom4xd3hwyp6dmfwjp.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6766,7 +6735,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821573/onuryunisli/work/nupzictadensem0wjckx.jpg",
+              "src": "/assets/media/work/baku-chess-set-azerbaijan-carpet-edition/nupzictadensem0wjckx.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6777,7 +6746,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/199936025/Baku-Chess-Set-Azerbaijan-Carpet-Edition",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854421/onuryunisli/rl0cwioxsjdkjeoamw9t.png"
+      "logo": "/assets/media/logos/baku-chess-set.webp"
     },
     {
       "slug": "juiz-branding",
@@ -6793,14 +6762,14 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/930167034?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821516/onuryunisli/work/dzkiwznqmw1celgpabxb.jpg",
+      "poster": "/assets/media/work/juiz-branding/dzkiwznqmw1celgpabxb.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821516/onuryunisli/work/dzkiwznqmw1celgpabxb.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821516/onuryunisli/work/ahtb0dy7cwjsurcd4hcp.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821518/onuryunisli/work/tww56wa74c2zbb7ssfyb.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821518/onuryunisli/work/d70yhh6vncqknpsesja8.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821523/onuryunisli/work/uqojjj0fez5lydkw3gyn.jpg"
+        "/assets/media/work/juiz-branding/dzkiwznqmw1celgpabxb.webp",
+        "/assets/media/work/juiz-branding/ahtb0dy7cwjsurcd4hcp.webp",
+        "/assets/media/work/juiz-branding/tww56wa74c2zbb7ssfyb.webp",
+        "/assets/media/work/juiz-branding/d70yhh6vncqknpsesja8.webp",
+        "/assets/media/work/juiz-branding/uqojjj0fez5lydkw3gyn.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -6830,7 +6799,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821516/onuryunisli/work/dzkiwznqmw1celgpabxb.jpg",
+              "src": "/assets/media/work/juiz-branding/dzkiwznqmw1celgpabxb.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6860,7 +6829,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821516/onuryunisli/work/ahtb0dy7cwjsurcd4hcp.jpg",
+              "src": "/assets/media/work/juiz-branding/ahtb0dy7cwjsurcd4hcp.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6871,13 +6840,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821517/onuryunisli/work/qemugdfxxkf8mwu5vclu.jpg",
+                "src": "/assets/media/work/juiz-branding/qemugdfxxkf8mwu5vclu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821517/onuryunisli/work/tegbcu0c9ui1zckabext.jpg",
+                "src": "/assets/media/work/juiz-branding/tegbcu0c9ui1zckabext.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6891,7 +6860,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821517/onuryunisli/work/zhkrnyjurtkeq0eg4swa.jpg",
+                "src": "/assets/media/work/juiz-branding/zhkrnyjurtkeq0eg4swa.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6905,13 +6874,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821517/onuryunisli/work/r9yi8dls6nkqmdhqvobk.jpg",
+                "src": "/assets/media/work/juiz-branding/r9yi8dls6nkqmdhqvobk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821518/onuryunisli/work/n4gb4wjmsliud3edf4jt.jpg",
+                "src": "/assets/media/work/juiz-branding/n4gb4wjmsliud3edf4jt.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6925,7 +6894,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821518/onuryunisli/work/bzqwcrumt76m1oqhz2oi.jpg",
+                "src": "/assets/media/work/juiz-branding/bzqwcrumt76m1oqhz2oi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6939,13 +6908,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821519/onuryunisli/work/nz9gbrrx92ilcbjuruon.jpg",
+                "src": "/assets/media/work/juiz-branding/nz9gbrrx92ilcbjuruon.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821520/onuryunisli/work/ddhub95ncxyy1vodk3wr.jpg",
+                "src": "/assets/media/work/juiz-branding/ddhub95ncxyy1vodk3wr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -6958,7 +6927,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821518/onuryunisli/work/tww56wa74c2zbb7ssfyb.jpg",
+              "src": "/assets/media/work/juiz-branding/tww56wa74c2zbb7ssfyb.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6968,7 +6937,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821518/onuryunisli/work/d70yhh6vncqknpsesja8.jpg",
+              "src": "/assets/media/work/juiz-branding/d70yhh6vncqknpsesja8.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -6979,13 +6948,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821520/onuryunisli/work/opriclsdh5avevzuqnje.jpg",
+                "src": "/assets/media/work/juiz-branding/opriclsdh5avevzuqnje.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821521/onuryunisli/work/txedsqopy66xvwkb8uzg.jpg",
+                "src": "/assets/media/work/juiz-branding/txedsqopy66xvwkb8uzg.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7004,13 +6973,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821521/onuryunisli/work/cbgpehohr6f3cd3tsgaf.jpg",
+                "src": "/assets/media/work/juiz-branding/cbgpehohr6f3cd3tsgaf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821521/onuryunisli/work/mltydo8iymw2fcmbuea5.jpg",
+                "src": "/assets/media/work/juiz-branding/mltydo8iymw2fcmbuea5.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7023,7 +6992,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821523/onuryunisli/work/uqojjj0fez5lydkw3gyn.jpg",
+              "src": "/assets/media/work/juiz-branding/uqojjj0fez5lydkw3gyn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7034,13 +7003,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821524/onuryunisli/work/fjjt3lgdgfnyildi5brh.png",
+                "src": "/assets/media/work/juiz-branding/fjjt3lgdgfnyildi5brh.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821522/onuryunisli/work/kyjscx19fjinisknb6hs.jpg",
+                "src": "/assets/media/work/juiz-branding/kyjscx19fjinisknb6hs.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7054,7 +7023,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821523/onuryunisli/work/fgpmghfq0ynsvedtmkt1.jpg",
+                "src": "/assets/media/work/juiz-branding/fgpmghfq0ynsvedtmkt1.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7068,7 +7037,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/195404683/JUIZ-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854454/onuryunisli/mtihffthhcq8iyymevi8.png"
+      "logo": "/assets/media/logos/juiz.webp"
     },
     {
       "slug": "goalaz-branding",
@@ -7086,16 +7055,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/905091432?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/ylbvpk2lu95rne2vvwr9.png",
+      "poster": "/assets/media/work/goalaz-branding/ylbvpk2lu95rne2vvwr9.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/ylbvpk2lu95rne2vvwr9.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821668/onuryunisli/work/f13adxbwyeamh0y6tmmr.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/dgy9zr6wf9n3y2l0e9vn.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/ptwwq7djmb1z632tcirq.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821673/onuryunisli/work/tufcx8zocvvztb0nuzo0.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821670/onuryunisli/work/gqzoezf7vbx0qtls5wrn.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821668/onuryunisli/work/ebg0xgwwlsfjwb975h3s.png"
+        "/assets/media/work/goalaz-branding/ylbvpk2lu95rne2vvwr9.webp",
+        "/assets/media/work/goalaz-branding/f13adxbwyeamh0y6tmmr.webp",
+        "/assets/media/work/goalaz-branding/dgy9zr6wf9n3y2l0e9vn.webp",
+        "/assets/media/work/goalaz-branding/ptwwq7djmb1z632tcirq.webp",
+        "/assets/media/work/goalaz-branding/tufcx8zocvvztb0nuzo0.webp",
+        "/assets/media/work/goalaz-branding/gqzoezf7vbx0qtls5wrn.webp",
+        "/assets/media/work/goalaz-branding/ebg0xgwwlsfjwb975h3s.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7113,7 +7082,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/ylbvpk2lu95rne2vvwr9.png",
+              "src": "/assets/media/work/goalaz-branding/ylbvpk2lu95rne2vvwr9.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7135,7 +7104,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821668/onuryunisli/work/f13adxbwyeamh0y6tmmr.png",
+              "src": "/assets/media/work/goalaz-branding/f13adxbwyeamh0y6tmmr.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7145,7 +7114,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/dgy9zr6wf9n3y2l0e9vn.png",
+              "src": "/assets/media/work/goalaz-branding/dgy9zr6wf9n3y2l0e9vn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7155,7 +7124,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821667/onuryunisli/work/ptwwq7djmb1z632tcirq.png",
+              "src": "/assets/media/work/goalaz-branding/ptwwq7djmb1z632tcirq.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7165,7 +7134,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821673/onuryunisli/work/tufcx8zocvvztb0nuzo0.png",
+              "src": "/assets/media/work/goalaz-branding/tufcx8zocvvztb0nuzo0.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7175,7 +7144,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821670/onuryunisli/work/gqzoezf7vbx0qtls5wrn.png",
+              "src": "/assets/media/work/goalaz-branding/gqzoezf7vbx0qtls5wrn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7185,7 +7154,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821668/onuryunisli/work/ebg0xgwwlsfjwb975h3s.png",
+              "src": "/assets/media/work/goalaz-branding/ebg0xgwwlsfjwb975h3s.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7195,7 +7164,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821674/onuryunisli/work/zjznre3uiaoenzoqcq1m.png",
+              "src": "/assets/media/work/goalaz-branding/zjznre3uiaoenzoqcq1m.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7206,13 +7175,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821671/onuryunisli/work/lildns4gbltpoouvhbjx.png",
+                "src": "/assets/media/work/goalaz-branding/lildns4gbltpoouvhbjx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821671/onuryunisli/work/brqug3gtcuh6rc9yarfj.png",
+                "src": "/assets/media/work/goalaz-branding/brqug3gtcuh6rc9yarfj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7225,7 +7194,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821670/onuryunisli/work/bfvnog6qxkns6ghegnwj.png",
+              "src": "/assets/media/work/goalaz-branding/bfvnog6qxkns6ghegnwj.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7236,13 +7205,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821672/onuryunisli/work/c0ogufta0kqnzsnrswkf.png",
+                "src": "/assets/media/work/goalaz-branding/c0ogufta0kqnzsnrswkf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821672/onuryunisli/work/u3dn74kpqptb7rujfuoj.png",
+                "src": "/assets/media/work/goalaz-branding/u3dn74kpqptb7rujfuoj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7255,7 +7224,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821672/onuryunisli/work/tauueatn7odtxrbkkozk.png",
+              "src": "/assets/media/work/goalaz-branding/tauueatn7odtxrbkkozk.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7265,7 +7234,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821675/onuryunisli/work/kza2mwtfjujgdx8mwg8o.png",
+              "src": "/assets/media/work/goalaz-branding/kza2mwtfjujgdx8mwg8o.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7276,13 +7245,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821674/onuryunisli/work/leys3hgldugub0yd3nyp.png",
+                "src": "/assets/media/work/goalaz-branding/leys3hgldugub0yd3nyp.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821676/onuryunisli/work/uze4752nhc7hgizcnduh.png",
+                "src": "/assets/media/work/goalaz-branding/uze4752nhc7hgizcnduh.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7296,7 +7265,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/185453323/Goalaz-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854468/onuryunisli/uez66r6cote6mjxyhx0y.png"
+      "logo": "/assets/media/logos/goalaz.webp"
     },
     {
       "slug": "logo-animation-v2",
@@ -7372,16 +7341,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/888597106?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/u6eet32du5okfpefrchb.png",
+      "poster": "/assets/media/work/lezzet-group-branding/u6eet32du5okfpefrchb.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/u6eet32du5okfpefrchb.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/rzkximizrcttry0hnswf.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/i6ymuk0pahvdjn9k0lud.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/zccpwbtkdnyeltq72og2.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/qrbwadkyesj3tmdqemun.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/bmu81me2dgvwzpngpbv8.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821716/onuryunisli/work/igsc8qjog522gdxmmpgk.png"
+        "/assets/media/work/lezzet-group-branding/u6eet32du5okfpefrchb.webp",
+        "/assets/media/work/lezzet-group-branding/rzkximizrcttry0hnswf.webp",
+        "/assets/media/work/lezzet-group-branding/i6ymuk0pahvdjn9k0lud.webp",
+        "/assets/media/work/lezzet-group-branding/zccpwbtkdnyeltq72og2.webp",
+        "/assets/media/work/lezzet-group-branding/qrbwadkyesj3tmdqemun.webp",
+        "/assets/media/work/lezzet-group-branding/bmu81me2dgvwzpngpbv8.webp",
+        "/assets/media/work/lezzet-group-branding/igsc8qjog522gdxmmpgk.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7399,7 +7368,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/u6eet32du5okfpefrchb.png",
+              "src": "/assets/media/work/lezzet-group-branding/u6eet32du5okfpefrchb.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7416,7 +7385,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/rzkximizrcttry0hnswf.png",
+              "src": "/assets/media/work/lezzet-group-branding/rzkximizrcttry0hnswf.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7427,13 +7396,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821713/onuryunisli/work/tylmttinxlpzhy84zqrd.png",
+                "src": "/assets/media/work/lezzet-group-branding/tylmttinxlpzhy84zqrd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821713/onuryunisli/work/oh76mpgtl0ngjvl744c9.png",
+                "src": "/assets/media/work/lezzet-group-branding/oh76mpgtl0ngjvl744c9.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7446,7 +7415,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/i6ymuk0pahvdjn9k0lud.png",
+              "src": "/assets/media/work/lezzet-group-branding/i6ymuk0pahvdjn9k0lud.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7456,7 +7425,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821712/onuryunisli/work/zccpwbtkdnyeltq72og2.png",
+              "src": "/assets/media/work/lezzet-group-branding/zccpwbtkdnyeltq72og2.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7467,109 +7436,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821714/onuryunisli/work/gy0wvea4nbj3f4ianhzy.png",
+                "src": "/assets/media/work/lezzet-group-branding/gy0wvea4nbj3f4ianhzy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821714/onuryunisli/work/lxb78kdbmafseglsoclf.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821716/onuryunisli/work/its1nzadynh8pw1hnq5m.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/bhhp9urvh3cdayq97td0.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/blnvwwqpsnt9tb3paypc.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/qrbwadkyesj3tmdqemun.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821715/onuryunisli/work/bmu81me2dgvwzpngpbv8.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821717/onuryunisli/work/p9lkhvy37gjpahunhwot.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821719/onuryunisli/work/t7bf1lb4etfxvu79bds8.png",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              }
-            ],
-            "columns": 2,
-            "gap": 0,
-            "padding": 0
-          },
-          {
-            "type": "media",
-            "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821716/onuryunisli/work/igsc8qjog522gdxmmpgk.png",
-              "type": "image",
-              "alt": "",
-              "caption": ""
-            },
-            "padding": 0
-          },
-          {
-            "type": "grid",
-            "assets": [
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821716/onuryunisli/work/rcywgre1fpntnxuuuagw.jpg",
-                "type": "image",
-                "alt": "",
-                "caption": ""
-              },
-              {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821717/onuryunisli/work/vuy4bzq26lz1l5nerzfc.jpg",
+                "src": "/assets/media/work/lezzet-group-branding/lxb78kdbmafseglsoclf.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7583,13 +7456,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821719/onuryunisli/work/faarowiavwlrft8dw77s.png",
+                "src": "/assets/media/work/lezzet-group-branding/its1nzadynh8pw1hnq5m.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821719/onuryunisli/work/krhlzcbei59tjdmj4zcx.png",
+                "src": "/assets/media/work/lezzet-group-branding/bhhp9urvh3cdayq97td0.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "/assets/media/work/lezzet-group-branding/blnvwwqpsnt9tb3paypc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7602,7 +7481,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821717/onuryunisli/work/gyvsntdpjiyimnnzuyoi.png",
+              "src": "/assets/media/work/lezzet-group-branding/qrbwadkyesj3tmdqemun.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7612,7 +7491,97 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821718/onuryunisli/work/luvndgia64dwlmf7r8hm.png",
+              "src": "/assets/media/work/lezzet-group-branding/bmu81me2dgvwzpngpbv8.webp",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "/assets/media/work/lezzet-group-branding/p9lkhvy37gjpahunhwot.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "/assets/media/work/lezzet-group-branding/t7bf1lb4etfxvu79bds8.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/lezzet-group-branding/igsc8qjog522gdxmmpgk.webp",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "/assets/media/work/lezzet-group-branding/rcywgre1fpntnxuuuagw.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "/assets/media/work/lezzet-group-branding/vuy4bzq26lz1l5nerzfc.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "grid",
+            "assets": [
+              {
+                "src": "/assets/media/work/lezzet-group-branding/faarowiavwlrft8dw77s.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              },
+              {
+                "src": "/assets/media/work/lezzet-group-branding/krhlzcbei59tjdmj4zcx.webp",
+                "type": "image",
+                "alt": "",
+                "caption": ""
+              }
+            ],
+            "columns": 2,
+            "gap": 0,
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/lezzet-group-branding/gyvsntdpjiyimnnzuyoi.webp",
+              "type": "image",
+              "alt": "",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/lezzet-group-branding/luvndgia64dwlmf7r8hm.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7623,7 +7592,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/184918463/Lezzet-Group-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854497/onuryunisli/rplaowu7cmoj7na1pi3b.png"
+      "logo": "/assets/media/logos/lezzet-group.webp"
     },
     {
       "slug": "tamstore-teaser-campaign",
@@ -7639,11 +7608,11 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/884684121?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821514/onuryunisli/work/odusq6xmkaxi4g3suohz.jpg",
+      "poster": "/assets/media/work/tamstore-teaser-campaign/odusq6xmkaxi4g3suohz.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821514/onuryunisli/work/odusq6xmkaxi4g3suohz.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821514/onuryunisli/work/od1plmc7wyt90l02aoqc.jpg"
+        "/assets/media/work/tamstore-teaser-campaign/odusq6xmkaxi4g3suohz.webp",
+        "/assets/media/work/tamstore-teaser-campaign/od1plmc7wyt90l02aoqc.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7668,7 +7637,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821514/onuryunisli/work/odusq6xmkaxi4g3suohz.jpg",
+              "src": "/assets/media/work/tamstore-teaser-campaign/odusq6xmkaxi4g3suohz.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7739,7 +7708,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821514/onuryunisli/work/od1plmc7wyt90l02aoqc.jpg",
+              "src": "/assets/media/work/tamstore-teaser-campaign/od1plmc7wyt90l02aoqc.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7764,16 +7733,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/869436064?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/bpgttqsz3i0mdajwphgf.jpg",
+      "poster": "/assets/media/work/1001-home-branding/bpgttqsz3i0mdajwphgf.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/bpgttqsz3i0mdajwphgf.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/p1ofa96nivbl9dkbeagu.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/z6igndvn9n67avir0hnn.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/beghkihvf9hqc0ia3l5w.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/akzze0bqvu7v9ywv2juu.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/p1tfuhssfnkadivndgox.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821695/onuryunisli/work/idseskba3z6uoeubmbsk.jpg"
+        "/assets/media/work/1001-home-branding/bpgttqsz3i0mdajwphgf.webp",
+        "/assets/media/work/1001-home-branding/p1ofa96nivbl9dkbeagu.webp",
+        "/assets/media/work/1001-home-branding/z6igndvn9n67avir0hnn.webp",
+        "/assets/media/work/1001-home-branding/beghkihvf9hqc0ia3l5w.webp",
+        "/assets/media/work/1001-home-branding/akzze0bqvu7v9ywv2juu.webp",
+        "/assets/media/work/1001-home-branding/p1tfuhssfnkadivndgox.webp",
+        "/assets/media/work/1001-home-branding/idseskba3z6uoeubmbsk.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -7803,7 +7772,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/bpgttqsz3i0mdajwphgf.jpg",
+              "src": "/assets/media/work/1001-home-branding/bpgttqsz3i0mdajwphgf.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7818,7 +7787,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/p1ofa96nivbl9dkbeagu.jpg",
+              "src": "/assets/media/work/1001-home-branding/p1ofa96nivbl9dkbeagu.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7828,7 +7797,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/z6igndvn9n67avir0hnn.jpg",
+              "src": "/assets/media/work/1001-home-branding/z6igndvn9n67avir0hnn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7838,7 +7807,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/beghkihvf9hqc0ia3l5w.jpg",
+              "src": "/assets/media/work/1001-home-branding/beghkihvf9hqc0ia3l5w.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, print and card",
               "caption": ""
@@ -7849,13 +7818,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821693/onuryunisli/work/e0vbqfxbwbmcyyngtgdj.jpg",
+                "src": "/assets/media/work/1001-home-branding/e0vbqfxbwbmcyyngtgdj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/y4fhsw7udgzisvht4bne.jpg",
+                "src": "/assets/media/work/1001-home-branding/y4fhsw7udgzisvht4bne.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7868,7 +7837,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/akzze0bqvu7v9ywv2juu.png",
+              "src": "/assets/media/work/1001-home-branding/akzze0bqvu7v9ywv2juu.webp",
               "type": "image",
               "alt": "Image may contain: vehicle and land vehicle",
               "caption": ""
@@ -7879,13 +7848,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/wv6rvyppct4pqa2xc8w6.jpg",
+                "src": "/assets/media/work/1001-home-branding/wv6rvyppct4pqa2xc8w6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/rqni8hza55skx9nz2jid.jpg",
+                "src": "/assets/media/work/1001-home-branding/rqni8hza55skx9nz2jid.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7898,7 +7867,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821694/onuryunisli/work/p1tfuhssfnkadivndgox.png",
+              "src": "/assets/media/work/1001-home-branding/p1tfuhssfnkadivndgox.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7908,7 +7877,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821695/onuryunisli/work/idseskba3z6uoeubmbsk.jpg",
+              "src": "/assets/media/work/1001-home-branding/idseskba3z6uoeubmbsk.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7919,13 +7888,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821695/onuryunisli/work/ohei4adxgqttcttomumu.jpg",
+                "src": "/assets/media/work/1001-home-branding/ohei4adxgqttcttomumu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821696/onuryunisli/work/s0882gv0ts80b83opvrc.jpg",
+                "src": "/assets/media/work/1001-home-branding/s0882gv0ts80b83opvrc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7938,7 +7907,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821695/onuryunisli/work/fhglha8fo2xqpnrjytjd.jpg",
+              "src": "/assets/media/work/1001-home-branding/fhglha8fo2xqpnrjytjd.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7948,7 +7917,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821695/onuryunisli/work/zi2o3vv5bqtti3yg12kf.jpg",
+              "src": "/assets/media/work/1001-home-branding/zi2o3vv5bqtti3yg12kf.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, sky and road",
               "caption": ""
@@ -7958,7 +7927,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821695/onuryunisli/work/i74wxajik5ek4roparxm.jpg",
+              "src": "/assets/media/work/1001-home-branding/i74wxajik5ek4roparxm.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -7969,13 +7938,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821696/onuryunisli/work/i6rlz2yzdporixgceo5z.jpg",
+                "src": "/assets/media/work/1001-home-branding/i6rlz2yzdporixgceo5z.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821696/onuryunisli/work/v3ptfkzxc2alchvxzyqs.jpg",
+                "src": "/assets/media/work/1001-home-branding/v3ptfkzxc2alchvxzyqs.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -7989,7 +7958,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821697/onuryunisli/work/jjc7ngkw9yp5d7wvetlc.jpg",
+                "src": "/assets/media/work/1001-home-branding/jjc7ngkw9yp5d7wvetlc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8003,13 +7972,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821697/onuryunisli/work/k2buknletm1sosu5qfwz.jpg",
+                "src": "/assets/media/work/1001-home-branding/k2buknletm1sosu5qfwz.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821697/onuryunisli/work/swgohfwagetqfrwqt7dy.jpg",
+                "src": "/assets/media/work/1001-home-branding/swgohfwagetqfrwqt7dy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8022,7 +7991,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821697/onuryunisli/work/lgufscexkhczur19elrf.jpg",
+              "src": "/assets/media/work/1001-home-branding/lgufscexkhczur19elrf.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8033,7 +8002,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821698/onuryunisli/work/a29foazzhuuupesjc1rr.jpg",
+                "src": "/assets/media/work/1001-home-branding/a29foazzhuuupesjc1rr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8047,13 +8016,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821697/onuryunisli/work/s5dlk1gfqrewxv6v5tnu.jpg",
+                "src": "/assets/media/work/1001-home-branding/s5dlk1gfqrewxv6v5tnu.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821697/onuryunisli/work/q6blm6uu63520mmmozyr.jpg",
+                "src": "/assets/media/work/1001-home-branding/q6blm6uu63520mmmozyr.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8067,13 +8036,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821698/onuryunisli/work/emyvisypof8qnvq7jdnp.jpg",
+                "src": "/assets/media/work/1001-home-branding/emyvisypof8qnvq7jdnp.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821698/onuryunisli/work/poq0ksy1oigxneuojybk.jpg",
+                "src": "/assets/media/work/1001-home-branding/poq0ksy1oigxneuojybk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8091,7 +8060,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821698/onuryunisli/work/fhvyh9gbclwaykz7sq4p.jpg",
+              "src": "/assets/media/work/1001-home-branding/fhvyh9gbclwaykz7sq4p.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8102,7 +8071,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/181137229/1001-Home-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854530/onuryunisli/q2aulobmtxoy5afs8y0z.png"
+      "logo": "/assets/media/logos/1001-home.webp"
     },
     {
       "slug": "explainer-video-badamli",
@@ -8117,10 +8086,10 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe src=\"https://player.vimeo.com/video/849969153?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820553/onuryunisli/work/a3jx0fqdr2wko9whxkjl.png",
+      "poster": "/assets/media/work/explainer-video-badamli/a3jx0fqdr2wko9whxkjl.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820553/onuryunisli/work/a3jx0fqdr2wko9whxkjl.png"
+        "/assets/media/work/explainer-video-badamli/a3jx0fqdr2wko9whxkjl.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8163,7 +8132,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820553/onuryunisli/work/a3jx0fqdr2wko9whxkjl.png",
+              "src": "/assets/media/work/explainer-video-badamli/a3jx0fqdr2wko9whxkjl.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8174,7 +8143,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/176530537/Explainer-Video-Badamli",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854544/onuryunisli/w7nukyc2nbrkart5hpes.png"
+      "logo": "/assets/media/logos/badamli.webp"
     },
     {
       "slug": "social-media-motion-buva",
@@ -8235,13 +8204,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821478/onuryunisli/work/cgbb7zyqimridmbsqe2c.jpg",
+                "src": "/assets/media/work/social-media-motion-buva/cgbb7zyqimridmbsqe2c.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821478/onuryunisli/work/m3sneitke8yrqhuypnuz.jpg",
+                "src": "/assets/media/work/social-media-motion-buva/m3sneitke8yrqhuypnuz.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8255,13 +8224,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821478/onuryunisli/work/vksv7ptte2pnuidh5yo8.jpg",
+                "src": "/assets/media/work/social-media-motion-buva/vksv7ptte2pnuidh5yo8.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821478/onuryunisli/work/hlijisgcpjkgqunukomq.jpg",
+                "src": "/assets/media/work/social-media-motion-buva/hlijisgcpjkgqunukomq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8275,13 +8244,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821478/onuryunisli/work/yscn677heowd9fxyjohk.jpg",
+                "src": "/assets/media/work/social-media-motion-buva/yscn677heowd9fxyjohk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821477/onuryunisli/work/zowfmuinmwrjnno3mrbs.jpg",
+                "src": "/assets/media/work/social-media-motion-buva/zowfmuinmwrjnno3mrbs.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8295,7 +8264,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/176103719/Social-Media-Motion-Buva",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854551/onuryunisli/mz1ytplhuq2ejbxwds6p.png"
+      "logo": "/assets/media/logos/buva.webp"
     },
     {
       "slug": "bahar-kargo-branding",
@@ -8311,16 +8280,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/vyvm0gxonxoikyfuu447.gif",
+      "poster": "/assets/media/work/bahar-kargo-branding/vyvm0gxonxoikyfuu447.mp4",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/vyvm0gxonxoikyfuu447.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/wrtzbvr97sdjtveeyxok.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/niiso993gdxwnfchwhj2.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/lfwr37wxq3bqv3fx0io5.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/wjabxmvyeleeymvimj8s.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/tiq5z9phkkbiwap7obn7.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/oqmdbrgqkxwujlhjzxnu.jpg"
+        "/assets/media/work/bahar-kargo-branding/vyvm0gxonxoikyfuu447.mp4",
+        "/assets/media/work/bahar-kargo-branding/wrtzbvr97sdjtveeyxok.mp4",
+        "/assets/media/work/bahar-kargo-branding/niiso993gdxwnfchwhj2.webp",
+        "/assets/media/work/bahar-kargo-branding/lfwr37wxq3bqv3fx0io5.mp4",
+        "/assets/media/work/bahar-kargo-branding/wjabxmvyeleeymvimj8s.webp",
+        "/assets/media/work/bahar-kargo-branding/tiq5z9phkkbiwap7obn7.webp",
+        "/assets/media/work/bahar-kargo-branding/oqmdbrgqkxwujlhjzxnu.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8333,7 +8302,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/vyvm0gxonxoikyfuu447.gif",
+              "src": "/assets/media/work/bahar-kargo-branding/vyvm0gxonxoikyfuu447.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8350,7 +8319,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/wrtzbvr97sdjtveeyxok.gif",
+              "src": "/assets/media/work/bahar-kargo-branding/wrtzbvr97sdjtveeyxok.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8360,7 +8329,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/niiso993gdxwnfchwhj2.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/niiso993gdxwnfchwhj2.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8370,7 +8339,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/lfwr37wxq3bqv3fx0io5.gif",
+              "src": "/assets/media/work/bahar-kargo-branding/lfwr37wxq3bqv3fx0io5.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8380,7 +8349,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/wjabxmvyeleeymvimj8s.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/wjabxmvyeleeymvimj8s.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -8390,7 +8359,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/tiq5z9phkkbiwap7obn7.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/tiq5z9phkkbiwap7obn7.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, internet and template",
               "caption": ""
@@ -8400,7 +8369,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/oqmdbrgqkxwujlhjzxnu.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/oqmdbrgqkxwujlhjzxnu.webp",
               "type": "image",
               "alt": "Image may contain: illustration",
               "caption": ""
@@ -8410,7 +8379,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/czpyifdlmqmtccoll9b1.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/czpyifdlmqmtccoll9b1.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and businesscard",
               "caption": ""
@@ -8420,7 +8389,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/kdge5ybjlpz3ev7a5pwx.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/kdge5ybjlpz3ev7a5pwx.webp",
               "type": "image",
               "alt": "Image may contain: book",
               "caption": ""
@@ -8430,7 +8399,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/hmkcc18ajgcfcyhf33s4.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/hmkcc18ajgcfcyhf33s4.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -8440,7 +8409,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821706/onuryunisli/work/cs0ezvsitsqgsexgelf4.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/cs0ezvsitsqgsexgelf4.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -8450,7 +8419,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821707/onuryunisli/work/szclenvyk97fbqk9knio.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/szclenvyk97fbqk9knio.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8460,7 +8429,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821707/onuryunisli/work/iyqw8sbg0omf2pyn5zmw.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/iyqw8sbg0omf2pyn5zmw.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -8470,7 +8439,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/knqx0owk7vzam9wkvabd.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/knqx0owk7vzam9wkvabd.webp",
               "type": "image",
               "alt": "Image may contain: letter",
               "caption": ""
@@ -8480,7 +8449,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821707/onuryunisli/work/medgwlavr3zytdknfftt.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/medgwlavr3zytdknfftt.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -8490,7 +8459,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821707/onuryunisli/work/i0ncuhkpsclm0a3dd7lv.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/i0ncuhkpsclm0a3dd7lv.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8500,7 +8469,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/p5w0kar55lj4meghtykh.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/p5w0kar55lj4meghtykh.webp",
               "type": "image",
               "alt": "Image may contain: screenshot",
               "caption": ""
@@ -8510,7 +8479,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/pibxu0anaovdjr8itgbc.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/pibxu0anaovdjr8itgbc.webp",
               "type": "image",
               "alt": "Image may contain: book, letter and screenshot",
               "caption": ""
@@ -8520,7 +8489,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/vqnlpsrhcfpksipt5pyg.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/vqnlpsrhcfpksipt5pyg.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and helicopter",
               "caption": ""
@@ -8530,7 +8499,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/wsr06ny6gb5cgthvwnum.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/wsr06ny6gb5cgthvwnum.webp",
               "type": "image",
               "alt": "Image may contain: person",
               "caption": ""
@@ -8540,7 +8509,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/tybohqlnwhw0zpnh0eab.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/tybohqlnwhw0zpnh0eab.webp",
               "type": "image",
               "alt": "Image may contain: sky, table and screenshot",
               "caption": ""
@@ -8550,7 +8519,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821708/onuryunisli/work/i0w42ok5hhv5bgkac3pc.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/i0w42ok5hhv5bgkac3pc.webp",
               "type": "image",
               "alt": "Image may contain: sky, outdoor and billboard",
               "caption": ""
@@ -8560,7 +8529,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821709/onuryunisli/work/gzd0iyghxnaowwnq2ikq.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/gzd0iyghxnaowwnq2ikq.webp",
               "type": "image",
               "alt": "Image may contain: active shirt, indoor and sleeve",
               "caption": ""
@@ -8570,7 +8539,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821709/onuryunisli/work/d33rhdbzjp5f8d9whibo.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/d33rhdbzjp5f8d9whibo.webp",
               "type": "image",
               "alt": "Image may contain: sign, screenshot and billboard",
               "caption": ""
@@ -8580,7 +8549,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821709/onuryunisli/work/se7hzngdxydjxz8wdd7n.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/se7hzngdxydjxz8wdd7n.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8590,7 +8559,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821709/onuryunisli/work/avb3ry1wqmhi1xpay2vf.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/avb3ry1wqmhi1xpay2vf.webp",
               "type": "image",
               "alt": "Image may contain: outdoor, person and billboard",
               "caption": ""
@@ -8600,7 +8569,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821709/onuryunisli/work/b2zf7neh5zcvfs9x8don.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/b2zf7neh5zcvfs9x8don.webp",
               "type": "image",
               "alt": "Image may contain: screenshot, billboard and scene",
               "caption": ""
@@ -8610,7 +8579,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821709/onuryunisli/work/qcopxnh74dmyty3wzlck.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/qcopxnh74dmyty3wzlck.webp",
               "type": "image",
               "alt": "Image may contain: land vehicle, vehicle and wheel",
               "caption": ""
@@ -8620,7 +8589,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821710/onuryunisli/work/dw7vfwkkl7zvds2wm3hy.jpg",
+              "src": "/assets/media/work/bahar-kargo-branding/dw7vfwkkl7zvds2wm3hy.webp",
               "type": "image",
               "alt": "Image may contain: cartoon, handwriting and post-it note",
               "caption": ""
@@ -8631,7 +8600,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/173592607/Bahar-kargo-Branding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854567/onuryunisli/gugy2o8gqhvvwoi7q33f.png"
+      "logo": "/assets/media/logos/bahar-kargo.webp"
     },
     {
       "slug": "logo-animation-v1",
@@ -8721,16 +8690,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/hcopxphkiezedcaglkrt.jpg",
+      "poster": "/assets/media/work/100th-anniversary-of-heydar-aliyev/hcopxphkiezedcaglkrt.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/hcopxphkiezedcaglkrt.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/ifdire6qokclwnw4vktq.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/n0wlvvgql8rcvgsohbun.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/putf0mvog1g6tbhib7mk.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/qczp6tpjyudzwam966hs.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/uefmcb5o4ojlw8yjxax6.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821587/onuryunisli/work/a63bdkucpkk4xewbjhgs.jpg"
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/hcopxphkiezedcaglkrt.webp",
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/ifdire6qokclwnw4vktq.webp",
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/n0wlvvgql8rcvgsohbun.webp",
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/putf0mvog1g6tbhib7mk.webp",
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/qczp6tpjyudzwam966hs.webp",
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/uefmcb5o4ojlw8yjxax6.webp",
+        "/assets/media/work/100th-anniversary-of-heydar-aliyev/a63bdkucpkk4xewbjhgs.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8743,7 +8712,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/hcopxphkiezedcaglkrt.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/hcopxphkiezedcaglkrt.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8753,7 +8722,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/ifdire6qokclwnw4vktq.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/ifdire6qokclwnw4vktq.webp",
               "type": "image",
               "alt": "Image may contain: screenshot and illustration",
               "caption": ""
@@ -8763,7 +8732,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/n0wlvvgql8rcvgsohbun.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/n0wlvvgql8rcvgsohbun.webp",
               "type": "image",
               "alt": "Image may contain: handwriting",
               "caption": ""
@@ -8773,7 +8742,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/putf0mvog1g6tbhib7mk.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/putf0mvog1g6tbhib7mk.webp",
               "type": "image",
               "alt": "Image may contain: handwriting and letter",
               "caption": ""
@@ -8783,7 +8752,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/qczp6tpjyudzwam966hs.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/qczp6tpjyudzwam966hs.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8793,7 +8762,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821586/onuryunisli/work/uefmcb5o4ojlw8yjxax6.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/uefmcb5o4ojlw8yjxax6.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8804,25 +8773,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821587/onuryunisli/work/gtshnd9qsctmxmkgxlfo.jpg",
+                "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/gtshnd9qsctmxmkgxlfo.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821588/onuryunisli/work/qx1gesag4qeed6lwdh8x.jpg",
+                "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/qx1gesag4qeed6lwdh8x.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821587/onuryunisli/work/yhikjcriulwzgmo4d3ql.jpg",
+                "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/yhikjcriulwzgmo4d3ql.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821587/onuryunisli/work/iftnmz2g3ylk1nsonyyd.jpg",
+                "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/iftnmz2g3ylk1nsonyyd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8835,7 +8804,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821587/onuryunisli/work/a63bdkucpkk4xewbjhgs.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/a63bdkucpkk4xewbjhgs.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8845,7 +8814,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821587/onuryunisli/work/uushwxqmcuchwayl3m3k.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/uushwxqmcuchwayl3m3k.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8855,7 +8824,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821588/onuryunisli/work/yjrzfrecskhdyxeo87tn.jpg",
+              "src": "/assets/media/work/100th-anniversary-of-heydar-aliyev/yjrzfrecskhdyxeo87tn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8866,7 +8835,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/169911679/100th-anniversary-of-Heydar-Aliyev",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854580/onuryunisli/fyozrt3yojlta4yuvh4f.png"
+      "logo": "/assets/media/logos/heydar-aliyev-100.webp"
     },
     {
       "slug": "araz-nakhchivan-football-team-rebranding",
@@ -8881,16 +8850,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jX2VIJvlBwI\" frameborder=\"0\" allow=\" autoplay; picture-in-picture\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/mjldppyfa1hyensfjamn.jpg",
+      "poster": "/assets/media/work/araz-nakhchivan-football-team-rebranding/mjldppyfa1hyensfjamn.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/mjldppyfa1hyensfjamn.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/lvaljyjwamgxvyagnr3y.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/fszqof0fy5i8b1dtntyt.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821607/onuryunisli/work/k7hy3m58marxyh3ziqqd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821609/onuryunisli/work/dosefcs8qedqibnmjgkd.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/juwzru3u7ur6zp3p8nkf.png",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/pmzboid8nrsf5kjpubbl.jpg"
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/mjldppyfa1hyensfjamn.webp",
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/lvaljyjwamgxvyagnr3y.webp",
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/fszqof0fy5i8b1dtntyt.webp",
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/k7hy3m58marxyh3ziqqd.webp",
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/dosefcs8qedqibnmjgkd.webp",
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/juwzru3u7ur6zp3p8nkf.webp",
+        "/assets/media/work/araz-nakhchivan-football-team-rebranding/pmzboid8nrsf5kjpubbl.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -8903,7 +8872,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/mjldppyfa1hyensfjamn.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/mjldppyfa1hyensfjamn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8920,7 +8889,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/lvaljyjwamgxvyagnr3y.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/lvaljyjwamgxvyagnr3y.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8930,7 +8899,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821606/onuryunisli/work/fszqof0fy5i8b1dtntyt.png",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/fszqof0fy5i8b1dtntyt.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8941,31 +8910,31 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821607/onuryunisli/work/omim9psdvhyigyvjwntq.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/omim9psdvhyigyvjwntq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821607/onuryunisli/work/rvmtxsyoizki4dzmvi1k.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/rvmtxsyoizki4dzmvi1k.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821607/onuryunisli/work/b8py5hn18iunhcqchdt6.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/b8py5hn18iunhcqchdt6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821607/onuryunisli/work/dqab3pgydl4ihi5y9p6l.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/dqab3pgydl4ihi5y9p6l.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821608/onuryunisli/work/s3fmkhmibd30xumnx2no.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/s3fmkhmibd30xumnx2no.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -8983,7 +8952,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821607/onuryunisli/work/k7hy3m58marxyh3ziqqd.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/k7hy3m58marxyh3ziqqd.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -8994,25 +8963,25 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821608/onuryunisli/work/p0qcwufhj2qgy3ax4zlj.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/p0qcwufhj2qgy3ax4zlj.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821608/onuryunisli/work/e31chv8otip8attfhtlc.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/e31chv8otip8attfhtlc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821608/onuryunisli/work/fqkoesbvqadhdszwtmku.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/fqkoesbvqadhdszwtmku.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821608/onuryunisli/work/nupxwkskoshz3jeuqbj7.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/nupxwkskoshz3jeuqbj7.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9026,13 +8995,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821608/onuryunisli/work/uq4zj5y0zyyaopqmfgsx.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/uq4zj5y0zyyaopqmfgsx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821609/onuryunisli/work/qxxw5rmjksoekt9entzg.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/qxxw5rmjksoekt9entzg.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9046,19 +9015,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821610/onuryunisli/work/ks7y7xsyxolsvbvhjetd.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ks7y7xsyxolsvbvhjetd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821611/onuryunisli/work/wvgc4ax5gfem1lfnw5sk.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/wvgc4ax5gfem1lfnw5sk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821610/onuryunisli/work/nd5ss4ck8dioqbwiwn9w.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/nd5ss4ck8dioqbwiwn9w.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9071,7 +9040,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821609/onuryunisli/work/dosefcs8qedqibnmjgkd.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/dosefcs8qedqibnmjgkd.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9082,7 +9051,7 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821610/onuryunisli/work/u2hh68agkfijpwwbsier.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/u2hh68agkfijpwwbsier.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9096,43 +9065,43 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821611/onuryunisli/work/wg4iguvxg1wyt3mqbmjs.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/wg4iguvxg1wyt3mqbmjs.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821611/onuryunisli/work/kwhhe0065virqvv1ua7o.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/kwhhe0065virqvv1ua7o.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821611/onuryunisli/work/cxmxjqzldlkwy1bw7la8.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/cxmxjqzldlkwy1bw7la8.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821611/onuryunisli/work/mh6gth9d6ulrutxmr8vx.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/mh6gth9d6ulrutxmr8vx.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/y7yt49wq9tqvdnc0bezi.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/y7yt49wq9tqvdnc0bezi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/orpjobeh0t4ppozbaads.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/orpjobeh0t4ppozbaads.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/v4d9bqapg7ucmeidndqi.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/v4d9bqapg7ucmeidndqi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9145,7 +9114,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/juwzru3u7ur6zp3p8nkf.png",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/juwzru3u7ur6zp3p8nkf.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9155,7 +9124,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821612/onuryunisli/work/pmzboid8nrsf5kjpubbl.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/pmzboid8nrsf5kjpubbl.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9166,19 +9135,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821613/onuryunisli/work/debina390kns5yzwllyo.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/debina390kns5yzwllyo.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821613/onuryunisli/work/d8gdm2xfkhwcq7iwgt5d.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/d8gdm2xfkhwcq7iwgt5d.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821613/onuryunisli/work/lfhshi9nptrgewpiwdih.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/lfhshi9nptrgewpiwdih.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9191,7 +9160,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821613/onuryunisli/work/hjnztgpp31n1vdnfdcvh.png",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/hjnztgpp31n1vdnfdcvh.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9201,7 +9170,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821613/onuryunisli/work/gc2hqo5fzpkfe77fnfvy.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/gc2hqo5fzpkfe77fnfvy.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9211,7 +9180,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821613/onuryunisli/work/ecxcjzsfbbsxypow8nxc.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ecxcjzsfbbsxypow8nxc.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9221,7 +9190,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821614/onuryunisli/work/dfzgodz31ub7vzwevnve.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/dfzgodz31ub7vzwevnve.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9232,19 +9201,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821614/onuryunisli/work/hwcocwxqp1tcfwfjrfov.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/hwcocwxqp1tcfwfjrfov.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821614/onuryunisli/work/ipvbkjycgmdzojqxmb7u.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ipvbkjycgmdzojqxmb7u.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821614/onuryunisli/work/wswffwia0sfnxqdscbm1.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/wswffwia0sfnxqdscbm1.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9257,7 +9226,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821614/onuryunisli/work/qsh6fqasz5eryefwc2yx.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/qsh6fqasz5eryefwc2yx.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9268,73 +9237,73 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821614/onuryunisli/work/sdlznes9iv8w2ibgjkua.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/sdlznes9iv8w2ibgjkua.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821615/onuryunisli/work/otrysh5kkuvhj9gw6g5c.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/otrysh5kkuvhj9gw6g5c.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821615/onuryunisli/work/jrfpvy644n7egzxhcg2o.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/jrfpvy644n7egzxhcg2o.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821615/onuryunisli/work/trk6be8lpdbil5gcfs3p.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/trk6be8lpdbil5gcfs3p.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821615/onuryunisli/work/ev51gffeorlvu65tmkwi.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ev51gffeorlvu65tmkwi.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821615/onuryunisli/work/cuwt6xplj5feenffol9h.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/cuwt6xplj5feenffol9h.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821616/onuryunisli/work/h5jaox1nmbuycmzco1cq.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/h5jaox1nmbuycmzco1cq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821617/onuryunisli/work/miheers8dushbjdapvy8.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/miheers8dushbjdapvy8.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821617/onuryunisli/work/xqy0ftcuiuqwiajkamvd.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/xqy0ftcuiuqwiajkamvd.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821617/onuryunisli/work/ntbknqbmezmtij7yq4f4.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/ntbknqbmezmtij7yq4f4.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821617/onuryunisli/work/zcnf1xydlxdmvjtpizsm.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/zcnf1xydlxdmvjtpizsm.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821617/onuryunisli/work/lnopxsttbbydimnxsme6.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/lnopxsttbbydimnxsme6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9347,7 +9316,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821616/onuryunisli/work/iih8xif4o5zohbjwlpbd.jpg",
+              "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/iih8xif4o5zohbjwlpbd.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9358,13 +9327,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821618/onuryunisli/work/clfxe9xzgv9uycyp5fjy.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/clfxe9xzgv9uycyp5fjy.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821618/onuryunisli/work/eyxiudpcjsug3jfzvvuc.jpg",
+                "src": "/assets/media/work/araz-nakhchivan-football-team-rebranding/eyxiudpcjsug3jfzvvuc.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9385,7 +9354,7 @@ window.SITE = {
       },
       "behanceUrl": "https://www.behance.net/gallery/169142053/Araz-Nakhchivan-Football-Team-Rebranding",
       "studio": "Element",
-      "logo": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789854595/onuryunisli/krbpubv9defplhycdzm6.png"
+      "logo": "/assets/media/logos/araz-nakhchivan.webp"
     },
     {
       "slug": "sizin-market-brand-identity",
@@ -9400,16 +9369,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/xsgojfsbdluygdduulbb.gif",
+      "poster": "/assets/media/work/sizin-market-brand-identity/xsgojfsbdluygdduulbb.mp4",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/xsgojfsbdluygdduulbb.gif",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/jyxli3pz3svagnkpxuj2.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/vxumuddgoepngszi99fu.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/u4othicxlh8ygdhre3kz.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821626/onuryunisli/work/yx3g1khg9zqolz2hjapy.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/uwsafjdbsvtyka40vssn.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/qyczllfb3vzqkfxw4ovh.jpg"
+        "/assets/media/work/sizin-market-brand-identity/xsgojfsbdluygdduulbb.mp4",
+        "/assets/media/work/sizin-market-brand-identity/jyxli3pz3svagnkpxuj2.webp",
+        "/assets/media/work/sizin-market-brand-identity/vxumuddgoepngszi99fu.webp",
+        "/assets/media/work/sizin-market-brand-identity/u4othicxlh8ygdhre3kz.webp",
+        "/assets/media/work/sizin-market-brand-identity/yx3g1khg9zqolz2hjapy.webp",
+        "/assets/media/work/sizin-market-brand-identity/uwsafjdbsvtyka40vssn.webp",
+        "/assets/media/work/sizin-market-brand-identity/qyczllfb3vzqkfxw4ovh.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9422,7 +9391,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/xsgojfsbdluygdduulbb.gif",
+              "src": "/assets/media/work/sizin-market-brand-identity/xsgojfsbdluygdduulbb.mp4",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9432,7 +9401,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/jyxli3pz3svagnkpxuj2.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/jyxli3pz3svagnkpxuj2.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9449,7 +9418,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/vxumuddgoepngszi99fu.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/vxumuddgoepngszi99fu.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9460,19 +9429,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/ztdqeta20j5ueflkhwcq.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/ztdqeta20j5ueflkhwcq.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/l94qarszntxacnkme4bl.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/l94qarszntxacnkme4bl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/hvsbj4eeskqosgwsgezs.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/hvsbj4eeskqosgwsgezs.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9485,7 +9454,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821625/onuryunisli/work/u4othicxlh8ygdhre3kz.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/u4othicxlh8ygdhre3kz.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9496,19 +9465,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821626/onuryunisli/work/bv06gagw0jzfkozzqau6.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/bv06gagw0jzfkozzqau6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/lsgtzbd1hauzncvgoni4.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/lsgtzbd1hauzncvgoni4.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/diy6fy9nq1gpb0coojwk.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/diy6fy9nq1gpb0coojwk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9521,7 +9490,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821626/onuryunisli/work/yx3g1khg9zqolz2hjapy.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/yx3g1khg9zqolz2hjapy.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9532,19 +9501,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/jkvtg0tugutaxj8ltzc3.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/jkvtg0tugutaxj8ltzc3.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/zrssygajthqfrppqcvkl.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/zrssygajthqfrppqcvkl.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821628/onuryunisli/work/vlnvvlyyltaovt6dnxe6.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/vlnvvlyyltaovt6dnxe6.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9557,7 +9526,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/uwsafjdbsvtyka40vssn.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/uwsafjdbsvtyka40vssn.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9568,13 +9537,13 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821628/onuryunisli/work/apmyw3knqjjkn9oh8uwb.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/apmyw3knqjjkn9oh8uwb.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821628/onuryunisli/work/vcrfykyw3sxcmcppsf5l.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/vcrfykyw3sxcmcppsf5l.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9587,7 +9556,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821627/onuryunisli/work/qyczllfb3vzqkfxw4ovh.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/qyczllfb3vzqkfxw4ovh.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9598,19 +9567,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821629/onuryunisli/work/fc2vummgvebewqsfwqbk.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/fc2vummgvebewqsfwqbk.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821629/onuryunisli/work/sttfcnla90frqgrc2fpg.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/sttfcnla90frqgrc2fpg.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821629/onuryunisli/work/f3j6u1pim1emolwh9rme.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/f3j6u1pim1emolwh9rme.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9623,7 +9592,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821629/onuryunisli/work/s5ct54krisq5ajhjyvtf.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/s5ct54krisq5ajhjyvtf.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9634,19 +9603,19 @@ window.SITE = {
             "type": "grid",
             "assets": [
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821630/onuryunisli/work/qvldekeibh3f27zxdvl1.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/qvldekeibh3f27zxdvl1.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821630/onuryunisli/work/iyctlhl9rmlbcj1nbrvz.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/iyctlhl9rmlbcj1nbrvz.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
               },
               {
-                "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821630/onuryunisli/work/bv8rydkhdy7c7ocadh3v.jpg",
+                "src": "/assets/media/work/sizin-market-brand-identity/bv8rydkhdy7c7ocadh3v.webp",
                 "type": "image",
                 "alt": "",
                 "caption": ""
@@ -9659,7 +9628,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821630/onuryunisli/work/lsdlytkyjjrfvlfbxj5g.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/lsdlytkyjjrfvlfbxj5g.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9669,7 +9638,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821630/onuryunisli/work/uz61qhedwbljr4qsnjru.jpg",
+              "src": "/assets/media/work/sizin-market-brand-identity/uz61qhedwbljr4qsnjru.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9694,10 +9663,10 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821721/onuryunisli/work/dkhpzfaizc2edaivtrnn.gif",
+      "poster": "/assets/media/work/work-proces/dkhpzfaizc2edaivtrnn.mp4",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821721/onuryunisli/work/dkhpzfaizc2edaivtrnn.gif"
+        "/assets/media/work/work-proces/dkhpzfaizc2edaivtrnn.mp4"
       ],
       "detail": {
         "layout": "stream",
@@ -9710,7 +9679,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821721/onuryunisli/work/dkhpzfaizc2edaivtrnn.gif",
+              "src": "/assets/media/work/work-proces/dkhpzfaizc2edaivtrnn.mp4",
               "type": "image",
               "alt": "Image may contain: cartoon and drawing",
               "caption": ""
@@ -9763,10 +9732,10 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821723/onuryunisli/work/kw4icxhu4evulpdey9s9.jpg",
+      "poster": "/assets/media/work/village/kw4icxhu4evulpdey9s9.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821723/onuryunisli/work/kw4icxhu4evulpdey9s9.jpg"
+        "/assets/media/work/village/kw4icxhu4evulpdey9s9.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9779,7 +9748,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821723/onuryunisli/work/kw4icxhu4evulpdey9s9.jpg",
+              "src": "/assets/media/work/village/kw4icxhu4evulpdey9s9.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9804,12 +9773,12 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/m5m77uq9zysfwc1igxsc.jpg",
+      "poster": "/assets/media/work/ray-ban/m5m77uq9zysfwc1igxsc.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/m5m77uq9zysfwc1igxsc.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/fb0gefej5imhiqv6k8r6.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/osbilqsmakrrb9co00mx.jpg"
+        "/assets/media/work/ray-ban/m5m77uq9zysfwc1igxsc.webp",
+        "/assets/media/work/ray-ban/fb0gefej5imhiqv6k8r6.webp",
+        "/assets/media/work/ray-ban/osbilqsmakrrb9co00mx.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9822,7 +9791,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/m5m77uq9zysfwc1igxsc.jpg",
+              "src": "/assets/media/work/ray-ban/m5m77uq9zysfwc1igxsc.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9832,7 +9801,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/fb0gefej5imhiqv6k8r6.jpg",
+              "src": "/assets/media/work/ray-ban/fb0gefej5imhiqv6k8r6.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9842,7 +9811,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821730/onuryunisli/work/osbilqsmakrrb9co00mx.jpg",
+              "src": "/assets/media/work/ray-ban/osbilqsmakrrb9co00mx.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9867,16 +9836,16 @@ window.SITE = {
       "featured": false,
       "status": "published",
       "video": "",
-      "poster": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/xbsh9s6fuxpzomd8jcks.jpg",
+      "poster": "/assets/media/work/iron-man/xbsh9s6fuxpzomd8jcks.webp",
       "shots": [],
       "coverImages": [
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/xbsh9s6fuxpzomd8jcks.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/afbqkprvgd7ncottxsty.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/jvyb0sbsribdnjewsxfq.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/xntyu8xcjbnpxap2meql.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/pbfnlbuul3ujxmirllrv.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/lmwmjdtedb7ncqhznqlo.jpg",
-        "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/dmubbwdhtnr21z931zuh.jpg"
+        "/assets/media/work/iron-man/xbsh9s6fuxpzomd8jcks.webp",
+        "/assets/media/work/iron-man/afbqkprvgd7ncottxsty.webp",
+        "/assets/media/work/iron-man/jvyb0sbsribdnjewsxfq.webp",
+        "/assets/media/work/iron-man/xntyu8xcjbnpxap2meql.webp",
+        "/assets/media/work/iron-man/pbfnlbuul3ujxmirllrv.webp",
+        "/assets/media/work/iron-man/lmwmjdtedb7ncqhznqlo.webp",
+        "/assets/media/work/iron-man/dmubbwdhtnr21z931zuh.webp"
       ],
       "detail": {
         "layout": "stream",
@@ -9889,7 +9858,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/xbsh9s6fuxpzomd8jcks.jpg",
+              "src": "/assets/media/work/iron-man/xbsh9s6fuxpzomd8jcks.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9899,7 +9868,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/afbqkprvgd7ncottxsty.jpg",
+              "src": "/assets/media/work/iron-man/afbqkprvgd7ncottxsty.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9909,7 +9878,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/jvyb0sbsribdnjewsxfq.jpg",
+              "src": "/assets/media/work/iron-man/jvyb0sbsribdnjewsxfq.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9919,7 +9888,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/xntyu8xcjbnpxap2meql.jpg",
+              "src": "/assets/media/work/iron-man/xntyu8xcjbnpxap2meql.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9929,7 +9898,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821731/onuryunisli/work/pbfnlbuul3ujxmirllrv.jpg",
+              "src": "/assets/media/work/iron-man/pbfnlbuul3ujxmirllrv.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9939,7 +9908,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/lmwmjdtedb7ncqhznqlo.jpg",
+              "src": "/assets/media/work/iron-man/lmwmjdtedb7ncqhznqlo.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9949,7 +9918,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/dmubbwdhtnr21z931zuh.jpg",
+              "src": "/assets/media/work/iron-man/dmubbwdhtnr21z931zuh.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9959,7 +9928,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789821732/onuryunisli/work/zg8qnfmtupzzme1rjgl6.jpg",
+              "src": "/assets/media/work/iron-man/zg8qnfmtupzzme1rjgl6.webp",
               "type": "image",
               "alt": "",
               "caption": ""
@@ -9981,7 +9950,7 @@ window.SITE = {
       "isoDate": "2026-09-12",
       "excerpt": "An anniversary mark is not a new logo. On AzerGold's tenth year we kept the equity and changed only what the milestone could honestly own.",
       "url": "",
-      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
+      "image": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
       "video": "<iframe src=\"https://player.vimeo.com/video/1181481142?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
       "status": "published",
@@ -10002,7 +9971,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820378/onuryunisli/work/hrhn1crkwywyhpg3cd9b.png",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/hrhn1crkwywyhpg3cd9b.webp",
               "type": "image",
               "alt": "AzerGold 10th anniversary brand identity",
               "caption": ""
@@ -10031,7 +10000,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820379/onuryunisli/work/nvvpx8jkkuctv0hiwljw.gif",
+              "src": "/assets/media/work/azergold-10th-anniversary-brand-identity/nvvpx8jkkuctv0hiwljw.webp",
               "type": "image",
               "alt": "AzerGold anniversary mark applications",
               "caption": ""
@@ -10056,7 +10025,7 @@ window.SITE = {
       "isoDate": "2026-08-28",
       "excerpt": "Shelf is a distance problem before it is a taste problem. How the SIRAB redesign kept 75 years of recognition and still cleaned the label up.",
       "url": "",
-      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
+      "image": "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
       "video": "<iframe src=\"https://player.vimeo.com/video/1198390347?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3840\" height=\"2160\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
       "status": "published",
@@ -10077,7 +10046,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820489/onuryunisli/work/gh43qte5lftl4j9aqqxj.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/gh43qte5lftl4j9aqqxj.webp",
               "type": "image",
               "alt": "SIRAB mineral water packaging design",
               "caption": ""
@@ -10106,7 +10075,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820495/onuryunisli/work/xvymhphfkiesojcpjoqg.png",
+              "src": "/assets/media/work/sirab-brand-identity-packaging/xvymhphfkiesojcpjoqg.webp",
               "type": "image",
               "alt": "SIRAB bottle renders and label system",
               "caption": ""
@@ -10131,7 +10100,7 @@ window.SITE = {
       "isoDate": "2026-09-05",
       "excerpt": "A hotel brand is met on keys, signage, linen and a bottle in the minibar — not on a screen. Designing the Baku Resort & Spa identity around that.",
       "url": "",
-      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+      "image": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
       "video": "<iframe src=\"https://player.vimeo.com/video/1215131764?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
       "status": "published",
@@ -10152,7 +10121,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820458/onuryunisli/work/ps7vifaz2fwy165gpgz7.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/ps7vifaz2fwy165gpgz7.webp",
               "type": "image",
               "alt": "Baku Resort & Spa hotel brand identity",
               "caption": ""
@@ -10181,7 +10150,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820449/onuryunisli/work/smwmwhbotpei33rbsgkl.png",
+              "src": "/assets/media/work/baku-resort-spa-hotel-brand-identity/smwmwhbotpei33rbsgkl.webp",
               "type": "image",
               "alt": "Baku Resort & Spa identity applications",
               "caption": ""
@@ -10206,7 +10175,7 @@ window.SITE = {
       "isoDate": "2026-09-19",
       "excerpt": "For TPAO at the 31st Caspian Oil & Gas Exhibition — a stand is designed backwards, from the far sightline to the handshake.",
       "url": "",
-      "image": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+      "image": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
       "video": "<iframe src=\"https://player.vimeo.com/video/1208312601?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0byline=0&amp;portrait=0\" width=\"3072\" height=\"1250\n\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
       "poster": "",
       "status": "published",
@@ -10227,7 +10196,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/pv5xysmzvw1tl66n8ghq.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/pv5xysmzvw1tl66n8ghq.webp",
               "type": "image",
               "alt": "Turkish Petroleum exhibition stand design",
               "caption": ""
@@ -10256,7 +10225,7 @@ window.SITE = {
           {
             "type": "media",
             "asset": {
-              "src": "https://res.cloudinary.com/dss5nccfs/image/upload/v1789820485/onuryunisli/work/axgrncsgbiiotsarmm06.png",
+              "src": "/assets/media/work/turkish-petroleum-baku-2026-exhibition-stand/axgrncsgbiiotsarmm06.webp",
               "type": "image",
               "alt": "Turkish Petroleum stand — built",
               "caption": ""

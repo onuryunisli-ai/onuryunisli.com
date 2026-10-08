@@ -74,40 +74,37 @@
     const ar = parsed.ratio > 0 ? ` style="--ar:${(Math.round(parsed.ratio * 10000) / 10000)}"` : '';
     return `<iframe ${source}${ar} title="${esc(options.title || parsed.provider + ' video')}" loading="${parsed.autoplay?'eager':'lazy'}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   }
-  /* Behance'dən gələn şəkillər tam ölçülü PNG olur — bir səhifədə 26 dənəsi
-     telefonun yaddaşını doldurur. Cloudinary URL-inə f_auto,q_auto və en
-     əlavə edirik: heç nə yenidən yüklənmir, sadəcə çatdırılma dəyişir. */
-  const CLOUD_IMG = /^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(v\d+\/.+)$/i;
-  const IMG_WIDTHS = [640, 960, 1280, 1600, 2000];
+  /* Şəkillər repo-dadır. assets/media/…/ad.webp yanında həmişə ad-1200.webp
+     və ad-600.webp də olur — brauzer ekrana uyğun olanı özü seçir. */
+  const LOCAL_IMG = /^(\/assets\/media\/.+?)\.(webp|jpe?g|png)$/i;
   function sized(src) {
-    const raw = String(src || '');
-    const parts = raw.match(CLOUD_IMG);
-    if (!parts || /\.(gif|svg)(?:[?#]|$)/i.test(raw)) return null;
-    const at = w => parts[1] + 'f_auto,q_auto,w_' + w + '/' + parts[2];
-    return {src: at(1600), srcset: IMG_WIDTHS.map(w => at(w) + ' ' + w + 'w').join(', ')};
+    const parts = String(src || '').match(LOCAL_IMG);
+    if (!parts) return null;
+    const stem = parts[1], ext = parts[2];
+    return {src: `${stem}-1200.${ext}`, small: `${stem}-600.${ext}`,
+            srcset: `${stem}-600.${ext} 600w, ${stem}-1200.${ext} 1200w, ${stem}.${ext} 1920w`};
   }
-  function imgTag(src, alt) {
+  function imgTag(src, alt, sizes) {
     const fit = sized(src);
     return fit
-      ? `<img src="${esc(fit.src)}" srcset="${esc(fit.srcset)}" sizes="(max-width:1500px) 100vw, 1400px" alt="${esc(alt || '')}" loading="lazy" decoding="async">`
+      ? `<img src="${esc(fit.src)}" srcset="${esc(fit.srcset)}" sizes="${esc(sizes || '(max-width:1500px) 100vw, 1400px')}" alt="${esc(alt || '')}" loading="lazy" decoding="async">`
       : `<img src="${esc(src)}" alt="${esc(alt || '')}" loading="lazy" decoding="async">`;
   }
-  /* An animated gif on Cloudinary is delivered as a looping muted video:
-     it always loops (some gifs carry no loop flag and stop after one pass)
-     and the file is a fraction of the size. */
-  const CLOUD_GIF = /^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(.+)\.gif(?:[?#].*)?$/i;
+  /* Behance gif-ləri səssiz, təkrar oynayan video kimi saxlanılır:
+     ad.mp4 + ad.webm + ad.jpg (ilk kadr). GIF-dən dəfələrlə yüngüldür. */
+  const LOCAL_CLIP = /^(\/assets\/media\/.+?)\.mp4$/i;
   function gifVideo(src) {
-    const parts = String(src || '').match(CLOUD_GIF);
+    const parts = String(src || '').match(LOCAL_CLIP);
     if (!parts) return null;
-    return {webm: parts[1] + parts[2] + '.webm', mp4: parts[1] + parts[2] + '.mp4'};
+    return {webm: parts[1] + '.webm', mp4: parts[1] + '.mp4', poster: parts[1] + '.jpg'};
   }
   function gifMarkup(src, alt) {
     const clip = gifVideo(src);
     if (!clip) return '';
-    return `<video data-gif="1" autoplay muted loop playsinline preload="auto" aria-label="${esc(alt || '')}">`
+    return `<video data-gif="1" muted loop playsinline preload="none" poster="${esc(clip.poster)}" aria-label="${esc(alt || '')}">`
       + `<source src="${esc(clip.webm)}" type="video/webm">`
       + `<source src="${esc(clip.mp4)}" type="video/mp4">`
-      + `<img src="${esc(src)}" alt="${esc(alt || '')}" loading="lazy"></video>`;
+      + `<img src="${esc(clip.poster)}" alt="${esc(alt || '')}" loading="lazy"></video>`;
   }
   /* A <video> written through innerHTML often ignores its own autoplay
      attribute: the browser checks the muted state before the markup is
@@ -162,7 +159,7 @@
     const clip = gifMarkup(src, asset.alt);
     const visual = !src ? '<div class="pc-empty">Şəkil və ya video əlavə edin</div>' : clip ? clip : embed(src) ? `<div class="pc-film">${iframe(src, {title:asset.alt})}</div>` : video
       ? `<video src="${esc(src)}" ${poster ? `poster="${esc(poster)}"` : ''} controls playsinline preload="metadata"></video>`
-      : imgTag(src, asset.alt);
+      : imgTag(src, asset.alt, options.sizes);
     return `<figure>${visual}${asset.caption ? `<figcaption>${esc(asset.caption)}</figcaption>` : ''}</figure>`;
   }
   function block(b, options = {}) {
@@ -185,7 +182,7 @@
       for (let i = 0; i < assets.length; i += cols) rows.push(assets.slice(i, i + cols));
       body = `<div class="pc-grid" style="--columns:${cols};gap:${gap}px">${
         rows.map(row =>
-          `<div class="pc-row" style="gap:${gap}px">${row.map(a=>figure(a,options)).join('')}</div>`
+          `<div class="pc-row" style="gap:${gap}px">${row.map(a=>figure(a,{...options, sizes: row.length > 1 ? `(max-width:640px) 100vw, ${Math.ceil(100 / row.length)}vw` : options.sizes})).join('')}</div>`
         ).join('') || '<div class="pc-empty">Qalereyaya şəkillər əlavə edin</div>'}</div>`;
     }
     else if (b.type === 'media') body = figure(b.asset, options);
@@ -194,5 +191,5 @@
   function render(detail, options = {}) {
     return `<div class="project-stream" style="--pc-gap:${number(detail.spacing ?? 0,0,120,0)}px;--pc-bg:${color(detail.background, '#ffffff')};--pc-ink:${color(detail.color, '#161616')};--pc-width:${number(detail.width ?? 1400,600,1920,1400)}px">${(detail.blocks || []).map(b=>block(b,options)).join('')}</div>`;
   }
-  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo, startClips, sized};
+  root.ProjectContent = {esc, assetURL, embed, iframe, figure, block, render, gifVideo, startClips, sized, imgTag};
 })(typeof window !== 'undefined' ? window : globalThis);
