@@ -17,3 +17,6 @@ aeonik-font/
 
 # Media artıq repo-dadır: assets/media/ və assets/uploads/ göndərilir.
 # Tək fayl 100 MB-ı keçməsin — GitHub onu qəbul etmir.
+
+# Pinterest üçün seçilmiş şəkillər — lokal iş qovluğu, GitHub-a getmir
+Pinterest/
