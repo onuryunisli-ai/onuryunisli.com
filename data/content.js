@@ -85,11 +85,7 @@ window.SITE = {
       "coverImages": [
         "/assets/media/covers/accessbank-lombard-loan-ai-commercial/1.webp",
         "/assets/media/covers/accessbank-lombard-loan-ai-commercial/2.webp",
-        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/3.webp",
-        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/4.webp",
-        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/5.webp",
-        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/6.webp",
-        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/7.webp"
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/3.webp"
       ],
       "behanceUrl": "https://www.behance.net/gallery/256991469/AccessBank-Lombard-Loan-AI-Commercial",
       "studio": "",
