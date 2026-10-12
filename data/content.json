@@ -66,6 +66,137 @@
   },
   "projects": [
     {
+      "slug": "accessbank-lombard-loan-ai-commercial",
+      "client": "AccessBank",
+      "title": "Lombard Loan — AI Commercial",
+      "initials": "AB",
+      "sector": "Banking",
+      "year": "2026",
+      "services": [
+        "motion",
+        "3d"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1235004892?h=9a1ad7df11&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+      "poster": "/assets/media/work/accessbank-lombard-loan-ai-commercial/cover-tent-bear.webp",
+      "shots": [],
+      "coverImages": [
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/1.webp",
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/2.webp",
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/3.webp",
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/4.webp",
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/5.webp",
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/6.webp",
+        "/assets/media/covers/accessbank-lombard-loan-ai-commercial/7.webp"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/256991469/AccessBank-Lombard-Loan-AI-Commercial",
+      "studio": "",
+      "logo": "",
+      "cardVideo": "",
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "A 55-second AI commercial for AccessBank's Lombard loan: a chain-of-consequence dark comedy made with Nano Banana Pro and Seedance, finished with a 3D packshot.",
+        "seoCase": true,
+        "seoTitle": "AccessBank Lombard Loan — AI Commercial",
+        "blocks": [
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/accessbank-lombard-loan-ai-commercial/key-visual.webp",
+              "type": "image",
+              "alt": "AccessBank Lombard Loan AI commercial — key visual",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "AccessBank | Lombard Loan",
+            "text": "A 55-second AI commercial for AccessBank's Lombard loan, told as a chain-of-consequence dark comedy.\n\nYou don't agree on the price for your gold. So you get angry. So you hurt dangerous people. So you hide, get a face tattoo, can't go home, go hiking — and end up in a tent with a bear outside.\n\nThe message is simple: don't sell your gold. Bring it to AccessBank and take a Lombard loan starting from 1.5%.",
+            "align": "left"
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235004892?h=9a1ad7df11&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Made with AI, finished like a commercial",
+            "text": "I made the whole film with AI tools — characters, locations and every shot were generated with Nano Banana Pro and Seedance. Then I edited and graded it like a filmed spot, with an Azerbaijani voice-over, and closed it with a 3D packshot built in Cinema 4D and rendered in Redshift.\n\nMore on how I work: [AI commercials](/services/ai-commercials/) and the [AI tools](/ai-tools/) I use.",
+            "align": "left"
+          },
+          {
+            "type": "text",
+            "title": "Storyboard",
+            "text": "It started on paper: a 24-panel storyboard that runs the whole chain, from the refused offer to the bear outside the tent and the 1.5% Lombard loan end card.",
+            "align": "left"
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/accessbank-lombard-loan-ai-commercial/storyboard.webp",
+              "type": "image",
+              "alt": "Lombard Loan AI commercial — hand-drawn 24-panel storyboard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Elements",
+            "text": "Before generating a single shot, I built everything the film needed as fixed references: 3 characters (yes, the parrot counts), 4 locations and 3 props. The hero got two versions, before and after the tattoo.\n\nEvery shot prompt called them by their tag, like @character_main or @prop_gold. That's how the same guy, the same office and the same gold show up in every frame.",
+            "align": "left"
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/accessbank-lombard-loan-ai-commercial/elements.webp",
+              "type": "image",
+              "alt": "Lombard Loan AI commercial — character, location and prop reference sheet",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235079542?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"2502\" height=\"1112\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235023695?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235026343?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235026023?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235024987?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1235053592?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
       "slug": "azergold-10th-anniversary-brand-identity",
       "client": "AzerGold",
       "title": "10th Anniversary Brand Identity",
