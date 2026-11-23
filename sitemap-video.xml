@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://onuryunisli.com/work/accessbank-victory-day-ai-film/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427990-6682d216b25b1be2b46f9fa5e53ff14a316eca03ab9013b9a0b02b876b26fbf8-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 1</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145818</video:player_loc>
+      <video:duration>78</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427896-c15b9604d4af53272c61e5b60414afb7475a7086e4f6fdab10d2c65b87764a7d-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 2</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145817</video:player_loc>
+      <video:duration>9</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427932-287970bde3f7ebf3c63dc538ca5d6298036928ec489860681fa54298c5e8f941-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 3</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145819</video:player_loc>
+      <video:duration>13</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427940-af2152b5166b7cd25ba9c4e30ccf288bbe1dd8735e2cb8f20ade419d6a78bd47-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 4</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145816</video:player_loc>
+      <video:duration>14</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427971-be7df3a198fe011d7da2f2c820abfb3a679a3308edb0b51ee0d567b0ef3c4f45-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 5</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145825</video:player_loc>
+      <video:duration>15</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427950-791e04133be1a35468fa3522eaa3e1c721f4f3a5a6a625d2cd38c57a83e325a4-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 6</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145860</video:player_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.vimeocdn.com/video/2229427956-7b6b02fb63e753895ff6f285ed6749ed0a95d6cea7f7b72e5ddff918033b33e5-d_1280?region=us</video:thumbnail_loc>
+      <video:title>AccessBank Victory Day — AI Film — film 7</video:title>
+      <video:description>A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier&#x27;s eyes: the road to Shusha, the people who helped along the way, and…</video:description>
+      <video:player_loc>https://player.vimeo.com/video/1249145862</video:player_loc>
+      <video:duration>16</video:duration>
+      <video:publication_date>2026-11-22</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://onuryunisli.com/work/accessbank-lombard-loan-ai-commercial/</loc>
     <video:video>
       <video:thumbnail_loc>https://i.vimeocdn.com/video/2211146131-cc482845368dcac63ef959aa6b17c740f7ff84d26c8bba67ff294e5e5a8bc55f-d_1280?region=us</video:thumbnail_loc>

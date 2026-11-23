@@ -67,6 +67,132 @@ window.SITE = {
   },
   "projects": [
     {
+      "slug": "accessbank-victory-day-ai-film",
+      "client": "AccessBank",
+      "title": "Victory Day — AI Film",
+      "initials": "AB",
+      "sector": "Banking",
+      "year": "2026",
+      "services": [
+        "motion"
+      ],
+      "featured": true,
+      "status": "published",
+      "video": "<iframe src=\"https://player.vimeo.com/video/1249145818?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+      "poster": "/assets/media/work/accessbank-victory-day-ai-film/cover-soldier.webp",
+      "shots": [],
+      "coverImages": [
+        "/assets/media/covers/accessbank-victory-day-ai-film/1.webp",
+        "/assets/media/covers/accessbank-victory-day-ai-film/2.webp",
+        "/assets/media/covers/accessbank-victory-day-ai-film/3.webp"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/258870257/AccessBank-Victory-Day-AI-Film",
+      "studio": "",
+      "logo": "",
+      "cardVideo": "",
+      "detail": {
+        "layout": "stream",
+        "background": "#ffffff",
+        "color": "#202522",
+        "spacing": 0,
+        "width": 1400,
+        "description": "A 78-second AI-made Victory Day film for AccessBank, seen entirely through one soldier's eyes: the road to Shusha, the people who helped along the way, and the same fortress today.",
+        "seoCase": true,
+        "seoTitle": "AccessBank Victory Day — AI Film",
+        "blocks": [
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/accessbank-victory-day-ai-film/key-visual.webp",
+              "type": "image",
+              "alt": "AccessBank Victory Day AI film — soldier in front of the Shusha fortress with the Azerbaijani flag",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "AccessBank | Victory Day",
+            "text": "A 78-second AI film for 8 November, Victory Day.\n\nA truck in the rain. A villager walking up to the truck with a crate of fruit. A friend's hand at the top of a cliff. And one quiet morning in Shusha.\n\nThe film is told entirely through one soldier's eyes. We never see his face, only the road and the people who were next to him on it.",
+            "align": "left"
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145818?title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Made with AI, finished like a film",
+            "text": "I made the whole film with AI tools — Nano Banana Pro, Seedance 2.5, ElevenLabs and Claude AI: characters, locations, voices and every shot. Then I edited, graded and finished it in After Effects.\n\nMore on how I work: [AI commercials](/services/ai-commercials/) and the [AI tools](/ai-tools/) I use.",
+            "align": "left"
+          },
+          {
+            "type": "text",
+            "title": "Storyboard",
+            "text": "The whole film, shot by shot, before a single frame was generated.",
+            "align": "left"
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/accessbank-victory-day-ai-film/storyboard.webp",
+              "type": "image",
+              "alt": "AccessBank Victory Day AI film — storyboard",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "text",
+            "title": "Elements",
+            "text": "Before generating a single shot, I built everything the film needed as fixed references: 4 characters, 9 locations and sets, one truck and 4 props.\n\nThe hero is the only one without a face. His element is just his hands, sleeves and rifle, because the camera is his eyes.\n\nEvery shot prompt called them by their tag, like @char_comrade or @prop_bracelet. That's how the same friend, the same red bracelet and the same flag show up in every frame.",
+            "align": "left"
+          },
+          {
+            "type": "media",
+            "asset": {
+              "src": "/assets/media/work/accessbank-victory-day-ai-film/elements.webp",
+              "type": "image",
+              "alt": "AccessBank Victory Day AI film — character, location, vehicle and prop reference sheet",
+              "caption": ""
+            },
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145817?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145819?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145816?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145825?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145860?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          },
+          {
+            "type": "embed",
+            "src": "<iframe src=\"https://player.vimeo.com/video/1249145862?autoplay=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+            "padding": 0
+          }
+        ]
+      }
+    },
+    {
       "slug": "accessbank-lombard-loan-ai-commercial",
       "client": "AccessBank",
       "title": "Lombard Loan — AI Commercial",
